@@ -23,7 +23,7 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | keep | 3 |
 | looker-studio | 5 |
 | meet | 7 |
-| notebooklm | 5 |
+| notebooklm | 16 |
 | sheets | 7 |
 | slides | 6 |
 | workspace-developers | 5 |
@@ -32,7 +32,7 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | workspace-studio | 12 |
 | workspace-studio-admin | 5 |
 
-**Total: 284 documents**
+**Total: 295 documents**
 
 ## How to browse
 
