@@ -4,7 +4,7 @@ Flat Markdown archive of 296 Google AI/Workspace help articles. Ready for Notebo
 
 ## Quick start
 
-- **NotebookLM:** Drag any `docs/*.md` file directly into NotebookLM
+- **NotebookLM:** Drag any `docs/*.md` file directly into NotebookLM — no Gemini required, works as regular sources in the free tier
 - **Agent/RAG:** Use `sources/manifest.json` as your index
 - **Browse:** Open `docs/README.md` for a coverage table
 

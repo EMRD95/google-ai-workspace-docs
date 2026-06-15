@@ -6,6 +6,8 @@ Flat Markdown archive of Google AI/Workspace docs. **296 files, one folder.**
 
 Drag any `.md` file from this folder directly into NotebookLM. Each file is a standalone help article.
 
+**No Gemini required** — these work as regular sources in the free tier of NotebookLM. Just drag, drop, and ask questions grounded on Google's own AI documentation. Works with any NotebookLM account, with or without NotebookLM Plus.
+
 ## Coverage
 
 | Area | Docs |
