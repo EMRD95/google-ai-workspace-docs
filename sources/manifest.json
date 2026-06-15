@@ -48,6 +48,12 @@
     "path": "docs/ai-and-machine-learning-c9e2102d.md"
   },
   {
+    "title": "AI Avatars for Business with Google Vids | Google Workspace",
+    "source_url": "https://workspace.google.com/products/vids/ai-avatars/",
+    "product_area": "google-vids",
+    "path": "docs/ai-avatars-for-business-with-google-vids-google-workspace-4dd95520.md"
+  },
+  {
     "title": "AI consulting firm Devoteam rolls out 4,000 Gemini for Workspace licenses across all business units",
     "source_url": "https://workspace.google.com/blog/customer-stories/devoteam-rolls-out-4000-gemini-workspace-licenses?hl=en",
     "product_area": "workspace-site",
@@ -138,6 +144,12 @@
     "path": "docs/ai-powered-video-creation-for-work-d1c1295e.md"
   },
   {
+    "title": "AI Text to Video Generator: Create Videos with Google Vids & Veo 3 | Google Workspace",
+    "source_url": "https://workspace.google.com/resources/text-to-video/",
+    "product_area": "google-vids",
+    "path": "docs/ai-text-to-video-generator-create-videos-with-google-vids-veo-3-google-workspace-c5154d01.md"
+  },
+  {
     "title": "AI tools for a better way to work",
     "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai?hl=en",
     "product_area": "workspace-site",
@@ -196,6 +208,12 @@
     "source_url": "https://knowledge.workspace.google.com/admin/studio/allow-or-block-ws-service-specific-steps",
     "product_area": "workspace-studio-admin",
     "path": "docs/allow-or-block-workspace-service-specific-steps-studio-google-workspace-help-d89aec76.md"
+  },
+  {
+    "title": "APAC Landing Page GWS Prompt Guide 101 | Google Workspace",
+    "source_url": "https://workspace.google.com/learning/resources/apac-gws-prompt-guide-101",
+    "product_area": "workspace-site",
+    "path": "docs/apac-landing-page-gws-prompt-guide-101-google-workspace-56226c97.md"
   },
   {
     "title": "Ask Gemini in Google Meet - Computer - Google Meet Help",
@@ -516,6 +534,18 @@
     "path": "docs/create-calculated-fields-with-gemini-assistance-data-studio-google-cloud-documentation-9374845c.md"
   },
   {
+    "title": "Create Content, Images & Audio Overviews with Gemini in Drive - Computer - Google Drive Help",
+    "source_url": "https://support.google.com/drive/answer/16685527",
+    "product_area": "drive",
+    "path": "docs/create-content-images-audio-overviews-with-gemini-in-drive-computer-google-drive-b574a483.md"
+  },
+  {
+    "title": "Create docs, apps & more with Canvas - Computer - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/16047321",
+    "product_area": "gemini-apps",
+    "path": "docs/create-docs-apps-more-with-canvas-computer-gemini-apps-help-33bcb17d.md"
+  },
+  {
     "title": "Create & manage AI mini-apps or custom workflows as Gems from Google Labs - Gemini Apps Help",
     "source_url": "https://support.google.com/gemini/answer/16802014?hl=en",
     "product_area": "gemini-apps",
@@ -562,6 +592,12 @@
     "source_url": "https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder?hl=en",
     "product_area": "workspace-site",
     "path": "docs/duet-ai-for-google-workspace-enterprise-now-available-for-preorder-ccf7c589.md"
+  },
+  {
+    "title": "Edit videos stored in Google Drive with Google Vids - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/16466593",
+    "product_area": "google-vids",
+    "path": "docs/edit-videos-stored-in-google-drive-with-google-vids-google-docs-editors-help-13ded91d.md"
   },
   {
     "title": "Enable and use the Code Interpreter  |  Data Studio  |  Google Cloud Documentation",
@@ -688,6 +724,12 @@
     "source_url": "https://support.google.com/a/users/answer/14143478?hl=en",
     "product_area": "workspace-learning-center",
     "path": "docs/gemini-for-google-workspace-cheat-sheet-google-workspace-learning-center-f25c1fff.md"
+  },
+  {
+    "title": "Gemini for Google Workspace Customer Resource | Google Workspace",
+    "source_url": "https://workspace.google.com/learning/resources/gemini-for-google-workspace-customer-resources-hub",
+    "product_area": "workspace-site",
+    "path": "docs/gemini-for-google-workspace-customer-resource-google-workspace-b9cf57de.md"
   },
   {
     "title": "Gemini for Google Workspace: Marketing magic with Gen AI",
@@ -858,6 +900,24 @@
     "path": "docs/get-started-with-ask-gemini-in-google-chat-computer-google-chat-help-c3b294c2.md"
   },
   {
+    "title": "Get started with Gemini in Google Drive - Computer - Google Drive Help",
+    "source_url": "https://support.google.com/drive/answer/16686008",
+    "product_area": "drive",
+    "path": "docs/get-started-with-gemini-in-google-drive-computer-google-drive-help-467aa265.md"
+  },
+  {
+    "title": "Get started with Gems in Gemini Apps - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/15236321",
+    "product_area": "gemini-apps",
+    "path": "docs/get-started-with-gems-in-gemini-apps-gemini-apps-help-81de78d9.md"
+  },
+  {
+    "title": "Get started with Google Vids - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15082958",
+    "product_area": "google-vids",
+    "path": "docs/get-started-with-google-vids-google-docs-editors-help-f5a905e5.md"
+  },
+  {
     "title": "Get started with Google Workspace Studio - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16444479?hl=en",
     "product_area": "workspace-studio",
@@ -868,6 +928,12 @@
     "source_url": "https://support.google.com/calendar/answer/13952129",
     "product_area": "calendar",
     "path": "docs/get-started-with-google-workspace-with-gemini-business-enterprise-google-calendar-help-ce22b119.md"
+  },
+  {
+    "title": "Get started with Google Workspace with Gemini - Business / Enterprise - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/13952129",
+    "product_area": "chat",
+    "path": "docs/get-started-with-google-workspace-with-gemini-business-enterprise-google-chat-he-49763417.md"
   },
   {
     "title": "Get started with Google Workspace with Gemini - Business / Enterprise - Google Docs Editors Help",
@@ -970,6 +1036,18 @@
     "source_url": "https://workspace.google.com/studio/",
     "product_area": "workspace-studio",
     "path": "docs/google-workspace-studio-automate-workflows-with-agentic-ai-powered-by-gemini-cca23c76.md"
+  },
+  {
+    "title": "Google Workspace Studio cheat sheet - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/16430708",
+    "product_area": "workspace-studio",
+    "path": "docs/google-workspace-studio-cheat-sheet-google-workspace-learning-center-7575ea9f.md"
+  },
+  {
+    "title": "Google Workspace Studio training and help - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/16275487",
+    "product_area": "workspace-studio",
+    "path": "docs/google-workspace-studio-training-and-help-google-workspace-learning-center-b45e229b.md"
   },
   {
     "title": "Google Workspace with Gemini: 128 ways our customers are transforming how they work with AI",
@@ -1080,6 +1158,12 @@
     "path": "docs/how-pepperdine-university-pennymac-and-adore-me-use-gemini-for-google-workspace-22bf5ae6.md"
   },
   {
+    "title": "How to use Gems - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/15236405",
+    "product_area": "gemini-apps",
+    "path": "docs/how-to-use-gems-gemini-apps-help-9dd6dcf2.md"
+  },
+  {
     "title": "How we're protecting your Google Workspace data in the era of generative AI",
     "source_url": "https://workspace.google.com/blog/identity-and-security/protecting-your-data-era-generative-ai?hl=en",
     "product_area": "workspace-site",
@@ -1090,6 +1174,12 @@
     "source_url": "https://workspace.google.com/blog/customer-stories/hydro-ottawa-lights-future-work-gemini-google-workspace?hl=en",
     "product_area": "workspace-site",
     "path": "docs/hydro-ottawa-lights-up-the-future-of-work-with-gemini-for-google-workspace-f4c247f1.md"
+  },
+  {
+    "title": "Improve & polish your writing - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14512929",
+    "product_area": "workspace-learning-center",
+    "path": "docs/improve-polish-your-writing-google-workspace-learning-center-3d50e397.md"
   },
   {
     "title": "Incubeta drives AI performance with adoption of Gemini for Google Workspace",
@@ -1108,6 +1198,12 @@
     "source_url": "https://workspace.google.com/blog/events/six-sessions-to-attend-gemini-at-work?hl=en",
     "product_area": "workspace-site",
     "path": "docs/join-our-upcoming-digital-event-gemini-at-work-unveiling-the-future-of-ai-powere-4a11103f.md"
+  },
+  {
+    "title": "Learn about availability of Gemini features in Google Vids - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15609411",
+    "product_area": "google-vids",
+    "path": "docs/learn-about-availability-of-gemini-features-in-google-vids-google-docs-editors-h-46e8799c.md"
   },
   {
     "title": "Learn about Gemini features in Gmail - Gmail Help",
@@ -1350,16 +1446,40 @@
     "path": "docs/quick-start-extract-information-from-an-image-using-ai-appsheet-help-7cd05d19.md"
   },
   {
+    "title": "Role-specific prompts & use cases - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14667148",
+    "product_area": "workspace-learning-center",
+    "path": "docs/role-specific-prompts-use-cases-google-workspace-learning-center-3e8a18b8.md"
+  },
+  {
     "title": "Scale AI adoption with AI Boost Bootcamp",
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-with-ai-boost-bootcamp?hl=en",
     "product_area": "workspace-site",
     "path": "docs/scale-ai-adoption-with-ai-boost-bootcamp-04869cbf.md"
   },
   {
+    "title": "Schedule actions in Gemini Apps - Computer - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/16316416",
+    "product_area": "gemini-apps",
+    "path": "docs/schedule-actions-in-gemini-apps-computer-gemini-apps-help-a07f5f83.md"
+  },
+  {
+    "title": "Search & retrieve your files in Drive with Gemini - Computer - Google Drive Help",
+    "source_url": "https://support.google.com/drive/answer/16685111",
+    "product_area": "drive",
+    "path": "docs/search-retrieve-your-files-in-drive-with-gemini-computer-google-drive-help-db5b3384.md"
+  },
+  {
     "title": "Set up activity alerts for Workspace Studio  |  Google Workspace Help",
     "source_url": "https://knowledge.workspace.google.com/admin/studio/set-up-activity-alerts-for-workspace-studio",
     "product_area": "workspace-studio-admin",
     "path": "docs/set-up-activity-alerts-for-workspace-studio-google-workspace-help-ff969952.md"
+  },
+  {
+    "title": "Start with a great prompt - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14590328",
+    "product_area": "workspace-learning-center",
+    "path": "docs/start-with-a-great-prompt-google-workspace-learning-center-5e6c1431.md"
   },
   {
     "title": "Stop a Workspace Studio flow as an admin  |  Google Workspace Help",
@@ -1458,16 +1578,46 @@
     "path": "docs/thoughtworks-boosting-productivity-professionalism-and-collaboration-with-gemini-3f4789ae.md"
   },
   {
+    "title": "Tips for creating custom Gems - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/15235603",
+    "product_area": "gemini-apps",
+    "path": "docs/tips-for-creating-custom-gems-gemini-apps-help-b6706f42.md"
+  },
+  {
+    "title": "Tips for research and development - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/9283136",
+    "product_area": "workspace-learning-center",
+    "path": "docs/tips-for-research-and-development-google-workspace-learning-center-316ecdb9.md"
+  },
+  {
+    "title": "Tips to create flows with AI - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/16430486",
+    "product_area": "workspace-studio",
+    "path": "docs/tips-to-create-flows-with-ai-google-workspace-learning-center-d130bf01.md"
+  },
+  {
     "title": "Tips to create flows with conditional steps - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16431010?hl=en",
     "product_area": "workspace-studio",
     "path": "docs/tips-to-create-flows-with-conditional-steps-workspace-studio-help-b0e24d43.md"
   },
   {
+    "title": "Tips to use AI steps in flows - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/16431105",
+    "product_area": "workspace-studio",
+    "path": "docs/tips-to-use-ai-steps-in-flows-google-workspace-learning-center-03fa0792.md"
+  },
+  {
     "title": "Tips to use AI steps in flows - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16431105?hl=en",
     "product_area": "workspace-studio",
     "path": "docs/tips-to-use-ai-steps-in-flows-workspace-studio-help-c99b5454.md"
+  },
+  {
+    "title": "Tips to write prompts for Gemini - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14200040",
+    "product_area": "workspace-learning-center",
+    "path": "docs/tips-to-write-prompts-for-gemini-google-workspace-learning-center-5f36d3bf.md"
   },
   {
     "title": "Transforming HR workflows with AI",
@@ -1554,10 +1704,40 @@
     "path": "docs/use-enhanced-smart-fill-with-ai-in-google-sheets-workspace-experiments-google-docs-editors-5f4b1b17.md"
   },
   {
+    "title": "Use enhanced Smart Fill with Gemini in Google Sheets - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/14226603",
+    "product_area": "sheets",
+    "path": "docs/use-enhanced-smart-fill-with-gemini-in-google-sheets-google-docs-editors-help-30ac209e.md"
+  },
+  {
     "title": "Use Gemini Apps with a work or school Google Account - Business / Enterprise - Gemini Apps Help",
     "source_url": "https://support.google.com/gemini/answer/14620100?hl=en",
     "product_area": "gemini-apps",
     "path": "docs/use-gemini-apps-with-a-work-or-school-google-account-business-enterprise-gemini--0bbaef42.md"
+  },
+  {
+    "title": "Use Gemini for human resources - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14171678",
+    "product_area": "workspace-learning-center",
+    "path": "docs/use-gemini-for-human-resources-google-workspace-learning-center-5c44da1b.md"
+  },
+  {
+    "title": "Use Gemini for marketing - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14196644",
+    "product_area": "workspace-learning-center",
+    "path": "docs/use-gemini-for-marketing-google-workspace-learning-center-c2ebed5e.md"
+  },
+  {
+    "title": "Use Gemini for nonprofits - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14571258",
+    "product_area": "workspace-learning-center",
+    "path": "docs/use-gemini-for-nonprofits-google-workspace-learning-center-b3568cda.md"
+  },
+  {
+    "title": "Use Gemini for sales - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14190391",
+    "product_area": "workspace-learning-center",
+    "path": "docs/use-gemini-for-sales-google-workspace-learning-center-4511de34.md"
   },
   {
     "title": "Use Gemini in AppSheet - AppSheet Help",
@@ -1674,6 +1854,12 @@
     "path": "docs/use-suggested-replies-in-gmail-workspace-experiments-computer-gmail-help-9a60393a.md"
   },
   {
+    "title": "Use the AI function in Google Sheets - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15877199",
+    "product_area": "sheets",
+    "path": "docs/use-the-ai-function-in-google-sheets-google-docs-editors-help-38e6ef8c.md"
+  },
+  {
     "title": "Use the AI function in Google Sheets (Workspace Experiments) - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/15820999?hl=en",
     "product_area": "sheets",
@@ -1726,6 +1912,18 @@
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/what-chess-can-teach-leaders-about-ai-enablement?hl=en",
     "product_area": "workspace-site",
     "path": "docs/what-chess-can-teach-leaders-about-ai-enablement-52c2a893.md"
+  },
+  {
+    "title": "What you can do with Google Workspace Studio - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/16430812",
+    "product_area": "workspace-studio",
+    "path": "docs/what-you-can-do-with-google-workspace-studio-google-workspace-learning-center-984b5c8d.md"
+  },
+  {
+    "title": "What you'll learn - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14505994",
+    "product_area": "workspace-learning-center",
+    "path": "docs/what-you-ll-learn-google-workspace-learning-center-1be8abae.md"
   },
   {
     "title": "Work is better with Gemini",

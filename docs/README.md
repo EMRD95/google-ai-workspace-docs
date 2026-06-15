@@ -13,26 +13,26 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | admin-console | 17 |
 | appsheet | 9 |
 | calendar | 5 |
-| chat | 4 |
+| chat | 5 |
 | docs-editors | 7 |
-| drive | 5 |
+| drive | 8 |
 | forms | 5 |
-| gemini-apps | 5 |
+| gemini-apps | 10 |
 | gmail | 9 |
-| google-vids | 12 |
+| google-vids | 17 |
 | keep | 3 |
 | looker-studio | 5 |
 | meet | 7 |
 | notebooklm | 16 |
-| sheets | 7 |
+| sheets | 9 |
 | slides | 6 |
 | workspace-developers | 5 |
-| workspace-learning-center | 4 |
-| workspace-site | 147 |
-| workspace-studio | 12 |
+| workspace-learning-center | 14 |
+| workspace-site | 149 |
+| workspace-studio | 17 |
 | workspace-studio-admin | 5 |
 
-**Total: 295 documents**
+**Total: 328 documents**
 
 ## How to browse
 
