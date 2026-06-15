@@ -156,6 +156,24 @@
     "path": "docs/appsheet/use-the-summarize-ai-task-in-an-automation-appsheet-help-d48803a4.md"
   },
   {
+    "title": "Find times to meet in Google Calendar - Computer - Google Calendar Help",
+    "source_url": "https://support.google.com/calendar/answer/6294878",
+    "product_area": "calendar",
+    "path": "docs/calendar/find-times-to-meet-in-google-calendar-computer-google-calendar-help-2d725700.md"
+  },
+  {
+    "title": "Get started with Google Workspace with Gemini - Business / Enterprise - Google Calendar Help",
+    "source_url": "https://support.google.com/calendar/answer/13952129",
+    "product_area": "calendar",
+    "path": "docs/calendar/get-started-with-google-workspace-with-gemini-business-enterprise-google-calendar-help-ce22b119.md"
+  },
+  {
+    "title": "Learn how to schedule events in Gmail - Google Calendar Help",
+    "source_url": "https://support.google.com/calendar/answer/16865706",
+    "product_area": "calendar",
+    "path": "docs/calendar/learn-how-to-schedule-events-in-gmail-google-calendar-help-30d79051.md"
+  },
+  {
     "title": "Let Gemini in Google Calendar find times to meet - Google Calendar Help",
     "source_url": "https://support.google.com/calendar/answer/16690875?hl=en",
     "product_area": "calendar",
@@ -184,6 +202,12 @@
     "source_url": "https://support.google.com/chat/answer/17036303?hl=en",
     "product_area": "chat",
     "path": "docs/chat/get-started-with-ask-gemini-in-google-chat-computer-google-chat-help-c3b294c2.md"
+  },
+  {
+    "title": "Summarize chats in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/12918975",
+    "product_area": "chat",
+    "path": "docs/chat/summarize-chats-in-google-chat-computer-google-chat-help-68d703e3.md"
   },
   {
     "title": "Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help",
@@ -220,6 +244,18 @@
     "source_url": "https://support.google.com/docs/answer/13952129?hl=en",
     "product_area": "docs-editors",
     "path": "docs/docs-editors/get-started-with-google-workspace-with-gemini-business-enterprise-google-docs-ed-ed5a854f.md"
+  },
+  {
+    "title": "Sorry, this page can't be found. - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13951830",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/sorry-this-page-can-t-be-found-google-docs-editors-help-08c4b73c.md"
+  },
+  {
+    "title": "Sorry, this page can't be found. - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13676332",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/sorry-this-page-can-t-be-found-google-docs-editors-help-c213c9f1.md"
   },
   {
     "title": "Write & edit with Gemini in Docs - Google Docs Editors Help",
@@ -324,10 +360,22 @@
     "path": "docs/gmail/collaborate-with-gemini-in-gmail-computer-gmail-help-5e84d21b.md"
   },
   {
+    "title": "Collaborate with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/14199860",
+    "product_area": "gmail",
+    "path": "docs/gmail/collaborate-with-gemini-in-gmail-workspace-experiments-computer-gmail-help-a15fd461.md"
+  },
+  {
     "title": "Draft emails with Gemini in Gmail - Computer - Gmail Help",
     "source_url": "https://support.google.com/mail/answer/13955415?hl=en",
     "product_area": "gmail",
     "path": "docs/gmail/draft-emails-with-gemini-in-gmail-computer-gmail-help-30929ecf.md"
+  },
+  {
+    "title": "Draft emails with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/13384326",
+    "product_area": "gmail",
+    "path": "docs/gmail/draft-emails-with-gemini-in-gmail-workspace-experiments-computer-gmail-help-c479deda.md"
   },
   {
     "title": "Gemini in Gmail",
@@ -352,6 +400,12 @@
     "source_url": "https://support.google.com/mail/answer/16831098?hl=en",
     "product_area": "gmail",
     "path": "docs/gmail/learn-about-gemini-features-in-gmail-gmail-help-a7fe2a47.md"
+  },
+  {
+    "title": "Use Suggested Replies in Gmail (Workspace Experiments) - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/15464222",
+    "product_area": "gmail",
+    "path": "docs/gmail/use-suggested-replies-in-gmail-workspace-experiments-computer-gmail-help-9a60393a.md"
   },
   {
     "title": "AI-powered video creation for work",
@@ -480,6 +534,12 @@
     "path": "docs/meet/ask-gemini-in-google-meet-computer-google-meet-help-4968ce14.md"
   },
   {
+    "title": "Calendar & Meet settings for \\\"take notes for me\\\" - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/16909639",
+    "product_area": "meet",
+    "path": "docs/meet/calendar-meet-settings-for-take-notes-for-me-google-meet-help-9fce6d52.md"
+  },
+  {
     "title": "Create background images with Gemini in Google Meet - Computer - Google Meet Help",
     "source_url": "https://support.google.com/meet/answer/13954947?hl=en",
     "product_area": "meet",
@@ -492,10 +552,22 @@
     "path": "docs/meet/enhance-your-video-audio-with-gemini-in-google-meet-google-meet-help-0fc065ab.md"
   },
   {
+    "title": "Supported languages for Google Workspace with Gemini - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/14925782",
+    "product_area": "meet",
+    "path": "docs/meet/supported-languages-for-google-workspace-with-gemini-google-meet-help-f7a82ab7.md"
+  },
+  {
     "title": "Take notes for me in Google Meet - Computer - Google Meet Help",
     "source_url": "https://support.google.com/meet/answer/14754931?hl=en",
     "product_area": "meet",
     "path": "docs/meet/take-notes-for-me-in-google-meet-computer-google-meet-help-7e499203.md"
+  },
+  {
+    "title": "Use translated captions in Google Meet - Computer - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/10964115",
+    "product_area": "meet",
+    "path": "docs/meet/use-translated-captions-in-google-meet-computer-google-meet-help-b9f42764.md"
   },
   {
     "title": "Add or discover new sources for your notebook - Computer - NotebookLM Help",
@@ -618,10 +690,22 @@
     "path": "docs/sheets/collaborate-with-gemini-in-google-sheets-workspace-experiments-google-docs-edito-127315f5.md"
   },
   {
+    "title": "Learn about prompts for Gemini in Docs, Sheets, Slides, Vids & Forms - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15013615",
+    "product_area": "sheets",
+    "path": "docs/sheets/learn-about-prompts-for-gemini-in-docs-sheets-slides-vids-forms-google-docs-editors-help-f0c8c538.md"
+  },
+  {
     "title": "Tables in Google Sheets with Gemini (Workspace Experiments) - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/16538433?hl=en",
     "product_area": "sheets",
     "path": "docs/sheets/tables-in-google-sheets-with-gemini-workspace-experiments-google-docs-editors-he-8a37d1c0.md"
+  },
+  {
+    "title": "Use enhanced Smart Fill with AI in Google Sheets (Workspace Experiments) - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/14001183",
+    "product_area": "sheets",
+    "path": "docs/sheets/use-enhanced-smart-fill-with-ai-in-google-sheets-workspace-experiments-google-docs-editors-5f4b1b17.md"
   },
   {
     "title": "Use the AI function in Google Sheets (Workspace Experiments) - Google Docs Editors Help",
