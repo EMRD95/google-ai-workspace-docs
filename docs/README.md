@@ -29,10 +29,10 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | workspace-developers | 5 |
 | workspace-learning-center | 14 |
 | workspace-site | 149 |
-| workspace-studio | 17 |
+| workspace-studio | 29 |
 | workspace-studio-admin | 5 |
 
-**Total: 328 documents**
+**Total: 340 documents**
 
 ## How to browse
 

@@ -1,6 +1,6 @@
 # Google AI Workspace Documentation Archive
 
-Flat Markdown archive of 328 Google AI/Workspace help articles. Ready for NotebookLM import.
+Flat Markdown archive of 340 Google AI/Workspace help articles. Ready for NotebookLM import.
 
 ## Quick start
 
@@ -41,10 +41,10 @@ Gemini for Google Workspace across Gmail, Docs, Sheets, Slides, Drive, Calendar,
 | workspace-developers | 5 |
 | workspace-learning-center | 14 |
 | workspace-site | 149 |
-| workspace-studio | 17 |
+| workspace-studio | 29 |
 | workspace-studio-admin | 5 |
 
-**Total: 328 documents**
+**Total: 340 documents**
 
 ## File conventions
 

@@ -24,6 +24,18 @@
     "path": "docs/a-practical-guide-for-using-ai-in-your-everyday-work-210aa8e9.md"
   },
   {
+    "title": "Access to Workspace Studio - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16782648",
+    "product_area": "workspace-studio",
+    "path": "docs/access-to-workspace-studio-workspace-studio-help-6e3b8802.md"
+  },
+  {
+    "title": "Access Workspace Studio from Gmail & Chat - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16765741",
+    "product_area": "workspace-studio",
+    "path": "docs/access-workspace-studio-from-gmail-chat-workspace-studio-help-cef284ef.md"
+  },
+  {
     "title": "Add Data Studio content to your Google Slides presentation using Gemini assistance  |  Google Cloud Documentation",
     "source_url": "https://cloud.google.com/looker/docs/studio/add-looker-studio-slides-gemini",
     "product_area": "looker-studio",
@@ -454,6 +466,12 @@
     "source_url": "https://support.google.com/a/answer/14700766?hl=en",
     "product_area": "admin-console",
     "path": "docs/compare-google-ai-expansion-add-ons-getting-started-google-workspace-help-1fa25b17.md"
+  },
+  {
+    "title": "Connect flows to other services with webhooks - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16521900",
+    "product_area": "workspace-studio",
+    "path": "docs/connect-flows-to-other-services-with-webhooks-workspace-studio-help-8f651c2a.md"
   },
   {
     "title": "Control Gemini App access to Workspace services  |  Google Workspace Help",
@@ -1146,6 +1164,12 @@
     "path": "docs/how-google-workspace-with-gemini-billing-works-generative-ai-google-workspace-help-edb534ea.md"
   },
   {
+    "title": "How Google Workspace with Gemini helps protect users from malicious content and prompt injection - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16204578",
+    "product_area": "workspace-studio",
+    "path": "docs/how-google-workspace-with-gemini-helps-protect-users-from-malicious-content-and-0f4ac70e.md"
+  },
+  {
     "title": "How MEDITECH is integrating Gemini into highly regulated healthcare workflows",
     "source_url": "https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows?hl=en",
     "product_area": "workspace-site",
@@ -1212,6 +1236,12 @@
     "path": "docs/learn-about-gemini-features-in-gmail-gmail-help-a7fe2a47.md"
   },
   {
+    "title": "Learn about Google Workspace Studio limits - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16765942",
+    "product_area": "workspace-studio",
+    "path": "docs/learn-about-google-workspace-studio-limits-workspace-studio-help-1596aa2b.md"
+  },
+  {
     "title": "Learn about NotebookLM - Computer - NotebookLM Help",
     "source_url": "https://support.google.com/notebooklm/answer/16164461?hl=en",
     "product_area": "notebooklm",
@@ -1222,6 +1252,12 @@
     "source_url": "https://support.google.com/docs/answer/15013615",
     "product_area": "sheets",
     "path": "docs/learn-about-prompts-for-gemini-in-docs-sheets-slides-vids-forms-google-docs-editors-help-f0c8c538.md"
+  },
+  {
+    "title": "Learn about smart features & controls for Google Workspace & other Google products - Computer - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/15604322",
+    "product_area": "workspace-studio",
+    "path": "docs/learn-about-smart-features-controls-for-google-workspace-other-google-products-c-4f5f5400.md"
   },
   {
     "title": "Learn how to schedule events in Gmail - Google Calendar Help",
@@ -1270,6 +1306,12 @@
     "source_url": "https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini?hl=en",
     "product_area": "workspace-site",
     "path": "docs/mercer-international-unlocks-3-million-a-year-in-productivity-gains-using-google-928583fe.md"
+  },
+  {
+    "title": "Navigate the Workspace Studio interface - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16447677",
+    "product_area": "workspace-studio",
+    "path": "docs/navigate-the-workspace-studio-interface-workspace-studio-help-fd7775f6.md"
   },
   {
     "title": "New global research: The AI disconnect and how leaders can translate optimism into measurable impact",
@@ -1554,6 +1596,12 @@
     "path": "docs/take-notes-for-me-in-google-meet-computer-google-meet-help-7e499203.md"
   },
   {
+    "title": "Test run a flow before you turn it on - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16663517",
+    "product_area": "workspace-studio",
+    "path": "docs/test-run-a-flow-before-you-turn-it-on-workspace-studio-help-7598870a.md"
+  },
+  {
     "title": "The real impact of AI at work",
     "source_url": "https://workspace.google.com/intl/en_ca/ai/business-transformation?hl=en",
     "product_area": "workspace-site",
@@ -1624,6 +1672,12 @@
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/turing-transforming-hr-workflows-ai?hl=en",
     "product_area": "workspace-site",
     "path": "docs/transforming-hr-workflows-with-ai-f8135b7d.md"
+  },
+  {
+    "title": "Troubleshoot issues with flows - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16430806",
+    "product_area": "workspace-studio",
+    "path": "docs/troubleshoot-issues-with-flows-workspace-studio-help-ec31a778.md"
   },
   {
     "title": "Try Google Vids for business",
@@ -1836,6 +1890,12 @@
     "path": "docs/use-generative-ai-for-sales-a73b0929.md"
   },
   {
+    "title": "Use Google Workspace Studio with a screen reader - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/17119624",
+    "product_area": "workspace-studio",
+    "path": "docs/use-google-workspace-studio-with-a-screen-reader-workspace-studio-help-705189f1.md"
+  },
+  {
     "title": "Use Mind Maps in NotebookLM - NotebookLM Help",
     "source_url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
     "product_area": "notebooklm",
@@ -1894,6 +1954,18 @@
     "source_url": "https://support.google.com/meet/answer/10964115",
     "product_area": "meet",
     "path": "docs/use-translated-captions-in-google-meet-computer-google-meet-help-b9f42764.md"
+  },
+  {
+    "title": "Use variables to pass data in your flow - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16448468",
+    "product_area": "workspace-studio",
+    "path": "docs/use-variables-to-pass-data-in-your-flow-workspace-studio-help-e661eead.md"
+  },
+  {
+    "title": "Watch and manage sheets with flows - Workspace Studio Help",
+    "source_url": "https://support.google.com/workspace-studio/answer/16655443",
+    "product_area": "workspace-studio",
+    "path": "docs/watch-and-manage-sheets-with-flows-workspace-studio-help-784d3314.md"
   },
   {
     "title": "WebFX: Powering collaboration, innovation, and idea generation with Duet AI in Google Workspace",
