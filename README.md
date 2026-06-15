@@ -19,7 +19,7 @@ Excluded: Google Cloud, Vertex AI, Firebase, BigQuery, Ads, Analytics, and other
 | appsheet | 9 |
 | calendar | 5 |
 | chat | 4 |
-| docs-editors | 9 |
+| docs-editors | 7 |
 | drive | 5 |
 | forms | 5 |
 | gemini-apps | 5 |
@@ -38,7 +38,7 @@ Excluded: Google Cloud, Vertex AI, Firebase, BigQuery, Ads, Analytics, and other
 | workspace-studio-admin | 5 |
 
 
-Total documents: 298
+Total documents: 296
 
 ## Important notes
 
