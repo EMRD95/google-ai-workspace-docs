@@ -2,11 +2,9 @@
 
 Flat Markdown archive of Google AI/Workspace docs. **296 files, one folder.**
 
-## NotebookLM & Gemini import
+## NotebookLM import
 
-Drag any `.md` file into **NotebookLM** or **Gemini** (gemini.google.com) as a source. Each file is a standalone help article.
-
-Works with the free tier of both tools — no paid plan required. In NotebookLM, use them as regular sources. In Gemini, upload them via the file picker and ask questions grounded on Google's own AI documentation.
+Drag any `.md` file from this folder directly into NotebookLM. Each file is a standalone help article.
 
 ## Coverage
 
@@ -25,7 +23,7 @@ Works with the free tier of both tools — no paid plan required. In NotebookLM,
 | keep | 3 |
 | looker-studio | 5 |
 | meet | 7 |
-| notebooklm | 17 |
+| notebooklm | 5 |
 | sheets | 7 |
 | slides | 6 |
 | workspace-developers | 5 |
@@ -34,7 +32,7 @@ Works with the free tier of both tools — no paid plan required. In NotebookLM,
 | workspace-studio | 12 |
 | workspace-studio-admin | 5 |
 
-**Total: 296 documents**
+**Total: 284 documents**
 
 ## How to browse
 

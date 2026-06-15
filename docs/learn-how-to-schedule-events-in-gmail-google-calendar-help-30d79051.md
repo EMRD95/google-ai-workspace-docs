@@ -2,7 +2,7 @@
 title: "Learn how to schedule events in Gmail - Google Calendar Help"
 source_url: "https://support.google.com/calendar/answer/16865706"
 product_area: "calendar"
-retrieved_at: "2026-06-15T12:31:48Z"
+retrieved_at: "2026-06-15T16:43:37Z"
 extraction_method: "web_extract"
 ---
 
@@ -31,17 +31,7 @@ Choose a section to give feedback on
 
 true
 
-Search
-
-Clear search
-
-Close search
-
-Main menu
-
-Google apps
-
-18010844790014859411
+15253390634448629091
 
 true
 
@@ -106,3 +96,13 @@ false
 false
 
 false
+
+Search
+
+Clear search
+
+Close search
+
+Main menu
+
+Google apps

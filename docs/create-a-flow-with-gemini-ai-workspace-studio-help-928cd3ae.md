@@ -2,7 +2,7 @@
 title: "Create a flow with Gemini AI - Workspace Studio Help"
 source_url: "https://support.google.com/workspace-studio/answer/16448469?hl=en"
 product_area: "workspace-studio"
-retrieved_at: "2026-06-15T09:29:07Z"
+retrieved_at: "2026-06-15T16:43:04Z"
 extraction_method: "web_extract"
 ---
 
@@ -52,11 +52,7 @@ Choose a section to give feedback on
 
 true
 
-Main menu
-
-Google apps
-
-8077214387172116138
+2169405579537676389
 
 true
 
@@ -115,3 +111,7 @@ false
 false
 
 false
+
+Main menu
+
+Google apps

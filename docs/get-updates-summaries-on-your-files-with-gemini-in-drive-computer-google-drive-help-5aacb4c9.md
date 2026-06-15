@@ -1,12 +1,12 @@
 ---
 title: "Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help"
-source_url: "https://support.google.com/drive/answer/16686465?hl=en"
+source_url: "https://support.google.com/drive/answer/15141241?hl=en"
 product_area: "drive"
-retrieved_at: "2026-06-15T09:24:12Z"
+retrieved_at: "2026-06-15T16:43:16Z"
 extraction_method: "web_extract"
 ---
 
-[Skip to main content](https://support.google.com/drive/answer/16686465?hl=en#search-form)
+[Skip to main content](https://support.google.com/drive/answer/16686465?hl=en&visit_id=639171385901977199-1789269064&rd=1#search-form)
 
 # Get updates & summaries on your files with Gemini in Drive
 
@@ -20,8 +20,8 @@ More
 
 In this article, you’ll learn how to:
 
-- [Get updates with “Catch me up”](https://support.google.com/drive/answer/16686465?hl=en#catchup)
-- [Manage summary cards on PDFs and videos](https://support.google.com/drive/answer/16686465?hl=en#summarycards)
+- [Get updates with “Catch me up”](https://support.google.com/drive/answer/16686465?hl=en&visit_id=639171385901977199-1789269064&rd=1#catchup)
+- [Manage summary cards on PDFs and videos](https://support.google.com/drive/answer/16686465?hl=en&visit_id=639171385901977199-1789269064&rd=1#summarycards)
 
 ## Get updates with “Catch me up”
 
@@ -69,17 +69,7 @@ true
 
 To get the latest tips, tricks, and how-to's, [subscribe to our YouTube Channel](https://www.youtube.com/user/googlehelp?sub_confirmation=1).
 
-Search
-
-Clear search
-
-Close search
-
-Main menu
-
-Google apps
-
-6806806349033152784
+11535261851676471564
 
 true
 
@@ -137,10 +127,20 @@ Cancel
 
 Submit
 
-By continuing, you agree Google uses your answers, [account & system info](https://support.google.com/drive/answer/16686465?hl=en#) to improve services, per our [Privacy](https://myaccount.google.com/privacypolicy?hl=en) & [Terms](https://policies.google.com/terms?hl=en).
+By continuing, you agree Google uses your answers, [account & system info](https://support.google.com/drive/answer/16686465?hl=en&visit_id=639171385901977199-1789269064&rd=1#) to improve services, per our [Privacy](https://myaccount.google.com/privacypolicy?hl=en) & [Terms](https://policies.google.com/terms?hl=en).
 
 false
 
 false
 
 false
+
+Search
+
+Clear search
+
+Close search
+
+Main menu
+
+Google apps

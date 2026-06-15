@@ -1,10 +1,10 @@
 # Google AI Workspace Documentation Archive
 
-Flat Markdown archive of 296 Google AI/Workspace help articles. Ready for NotebookLM import.
+Flat Markdown archive of 284 Google AI/Workspace help articles. Ready for NotebookLM import.
 
 ## Quick start
 
-- **NotebookLM & Gemini:** Drag any `docs/*.md` into NotebookLM or upload it in Gemini as a source — both work with free tiers
+- **NotebookLM:** Drag any `docs/*.md` file directly into NotebookLM
 - **Agent/RAG:** Use `sources/manifest.json` as your index
 - **Browse:** Open `docs/README.md` for a coverage table
 
@@ -35,7 +35,7 @@ Gemini for Google Workspace across Gmail, Docs, Sheets, Slides, Drive, Calendar,
 | keep | 3 |
 | looker-studio | 5 |
 | meet | 7 |
-| notebooklm | 17 |
+| notebooklm | 5 |
 | sheets | 7 |
 | slides | 6 |
 | workspace-developers | 5 |
@@ -44,7 +44,7 @@ Gemini for Google Workspace across Gmail, Docs, Sheets, Slides, Drive, Calendar,
 | workspace-studio | 12 |
 | workspace-studio-admin | 5 |
 
-**Total: 296 documents**
+**Total: 284 documents**
 
 ## File conventions
 

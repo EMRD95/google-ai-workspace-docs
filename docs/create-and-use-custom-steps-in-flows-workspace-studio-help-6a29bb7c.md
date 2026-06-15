@@ -2,7 +2,7 @@
 title: "Create and use custom steps in flows - Workspace Studio Help"
 source_url: "https://support.google.com/workspace-studio/answer/16433731?hl=en"
 product_area: "workspace-studio"
-retrieved_at: "2026-06-15T11:31:01Z"
+retrieved_at: "2026-06-15T16:43:09Z"
 extraction_method: "web_extract"
 ---
 
@@ -74,7 +74,7 @@ Choose a section to give feedback on
 
 true
 
-15006943263800917801
+6252734139128292747
 
 true
 

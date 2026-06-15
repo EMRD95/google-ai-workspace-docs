@@ -2,11 +2,11 @@
 title: "Guide to Starters & Steps in Workspace Studio - Workspace Studio Help"
 source_url: "https://support.google.com/workspace-studio/answer/16765661?hl=en"
 product_area: "workspace-studio"
-retrieved_at: "2026-06-15T09:29:07Z"
+retrieved_at: "2026-06-15T16:43:30Z"
 extraction_method: "web_extract"
 ---
 
-[Skip to main content](https://support.google.com/workspace-studio/troubleshooter/17081293?hl=en&visit_id=639171125046689512-1751812781&rd=1#search-form)
+[Skip to main content](https://support.google.com/workspace-studio/troubleshooter/17081293?hl=en&visit_id=639171386045973912-3939359567&rd=1#search-form)
 
 # Guide to Starters & Steps in Workspace Studio
 
@@ -24,7 +24,7 @@ Choose your account type:Personal accountWork or School account
 
 false
 
-15215561379184798596
+10241387521795281727
 
 true
 

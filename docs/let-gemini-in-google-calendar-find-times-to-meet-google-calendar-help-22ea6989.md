@@ -2,7 +2,7 @@
 title: "Let Gemini in Google Calendar find times to meet - Google Calendar Help"
 source_url: "https://support.google.com/calendar/answer/16690875?hl=en"
 product_area: "calendar"
-retrieved_at: "2026-06-15T09:14:05Z"
+retrieved_at: "2026-06-15T16:43:44Z"
 extraction_method: "web_extract"
 ---
 
@@ -68,7 +68,7 @@ Choose a section to give feedback on
 
 true
 
-12374256051950903675
+11093545980929241032
 
 true
 

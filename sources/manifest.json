@@ -36,12 +36,6 @@
     "path": "docs/add-ons-overview-stay-organized-with-collections-save-and-categorize-content-bas-90e13346.md"
   },
   {
-    "title": "Add or discover new sources for your notebook - Computer - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16215270?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/add-or-discover-new-sources-for-your-notebook-computer-notebooklm-help-cf7271a5.md"
-  },
-  {
     "title": "AI and Machine Learning",
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning?hl=en",
     "product_area": "workspace-site",
@@ -486,12 +480,6 @@
     "path": "docs/create-a-list-with-gemini-in-google-keep-google-keep-help-ca16c7aa.md"
   },
   {
-    "title": "Create a notebook in NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16206563?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/create-a-notebook-in-notebooklm-notebooklm-help-15689b9b.md"
-  },
-  {
     "title": "Create and use custom steps in flows - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16433731?hl=en",
     "product_area": "workspace-studio",
@@ -636,12 +624,6 @@
     "path": "docs/forrester-total-economic-impact-study-of-google-workspace-with-gemini-1337c79d.md"
   },
   {
-    "title": "Frequently asked questions - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16269187?hl=en&ref_topic=16179690",
-    "product_area": "notebooklm",
-    "path": "docs/frequently-asked-questions-notebooklm-help-f3fa8122.md"
-  },
-  {
     "title": "From brainstorming to building teams: FinQuery innovates with Gemini for Google Workspace",
     "source_url": "https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace?hl=en",
     "product_area": "workspace-site",
@@ -780,12 +762,6 @@
     "path": "docs/generate-a-slide-with-gemini-in-google-slides-google-docs-editors-help-280bfe25.md"
   },
   {
-    "title": "Generate Audio Overview in NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16212820?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/generate-audio-overview-in-notebooklm-notebooklm-help-532308e2.md"
-  },
-  {
     "title": "Generate & edit images with Gemini in Google Slides & Vids - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/13951829?hl=en",
     "product_area": "slides",
@@ -802,12 +778,6 @@
     "source_url": "https://support.google.com/docs/answer/16362810?hl=en",
     "product_area": "forms",
     "path": "docs/generate-questions-with-gemini-in-google-forms-workspace-experiments-google-docs-ffa7c876.md"
-  },
-  {
-    "title": "Generate Video Overviews in NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16454555?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/generate-video-overviews-in-notebooklm-notebooklm-help-38229282.md"
   },
   {
     "title": "GenerativeÂ AI for presentations",
@@ -876,12 +846,6 @@
     "path": "docs/get-started-with-google-workspace-with-gemini-business-enterprise-google-docs-ed-ed5a854f.md"
   },
   {
-    "title": "Get started with the NotebookLM mobile app - iPhone & iPad - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16296687?hl=en&co=GENIE.Platform%3DiOS",
-    "product_area": "notebooklm",
-    "path": "docs/get-started-with-the-notebooklm-mobile-app-iphone-ipad-notebooklm-help-0941e631.md"
-  },
-  {
     "title": "Get started: Workspace Studio set up guide for admins  |  Google Workspace Help",
     "source_url": "https://support.google.com/a/answer/16704187?hl=en",
     "product_area": "admin-console",
@@ -909,13 +873,13 @@
     "title": "Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help",
     "source_url": "https://support.google.com/drive/answer/15141241?hl=en",
     "product_area": "drive",
-    "path": "docs/get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-h-5aacb4c9.md"
+    "path": "docs/get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-help-5aacb4c9.md"
   },
   {
     "title": "Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help",
     "source_url": "https://support.google.com/drive/answer/16686465?hl=en",
     "product_area": "drive",
-    "path": "docs/get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-h-a30c824c.md"
+    "path": "docs/get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-help-a30c824c.md"
   },
   {
     "title": "Google Chat & Meet: Team collaboration transformed by Gemini",
@@ -1116,12 +1080,6 @@
     "path": "docs/learn-about-gemini-features-in-gmail-gmail-help-a7fe2a47.md"
   },
   {
-    "title": "Learn about NotebookLM - Computer - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16164461?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/learn-about-notebooklm-computer-notebooklm-help-04ca7bdb.md"
-  },
-  {
     "title": "Learn about prompts for Gemini in Docs, Sheets, Slides, Vids & Forms - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/15013615",
     "product_area": "sheets",
@@ -1204,12 +1162,6 @@
     "source_url": "https://workspace.google.com/intl/en_ca/products/notebooklm?hl=en",
     "product_area": "notebooklm",
     "path": "docs/notebooklm-for-business-93559f7c.md"
-  },
-  {
-    "title": "NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/notebooklm-help-fa3e5042.md"
   },
   {
     "title": "Now Available: Duet AI for Google Workspace",
@@ -1524,18 +1476,6 @@
     "path": "docs/unleashing-the-power-of-notebooklm-your-ai-research-and-learning-companion-4bd4aa99.md"
   },
   {
-    "title": "Upgrade NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16206866?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/upgrade-notebooklm-notebooklm-help-36a88fae.md"
-  },
-  {
-    "title": "Upgrade NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16213268?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/upgrade-notebooklm-notebooklm-help-7aa0698d.md"
-  },
-  {
     "title": "Use AI to generate video clips in Google Vids - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/16143507",
     "product_area": "google-vids",
@@ -1660,18 +1600,6 @@
     "source_url": "https://workspace.google.com/solutions/ai/sales?hl=en",
     "product_area": "workspace-site",
     "path": "docs/use-generative-ai-for-sales-a73b0929.md"
-  },
-  {
-    "title": "Use Mind Maps in NotebookLM - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/use-mind-maps-in-notebooklm-notebooklm-help-db40ad20.md"
-  },
-  {
-    "title": "Use NotebookLM with a work or school Google account - NotebookLM Help",
-    "source_url": "https://support.google.com/notebooklm/answer/16337734?hl=en",
-    "product_area": "notebooklm",
-    "path": "docs/use-notebooklm-with-a-work-or-school-google-account-notebooklm-help-5af9d668.md"
   },
   {
     "title": "Use Suggested Replies in Gmail (Workspace Experiments) - Computer - Gmail Help",
