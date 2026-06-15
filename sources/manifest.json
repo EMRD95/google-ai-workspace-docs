@@ -798,6 +798,12 @@
     "path": "docs/draft-emails-with-gemini-in-gmail-workspace-experiments-computer-gmail-help-c479deda.md"
   },
   {
+    "title": "Generate draw.io flowcharts with Gemini Canvas XML",
+    "source_url": "https://www.drawio.com/docs/reference/diagram-generation/",
+    "product_area": "external_drawio_gemini",
+    "path": "docs/drawio-gemini-canvas-xml-flowcharts-workflow.md"
+  },
+  {
     "title": "Duet AI for Google Workspace Enterprise — now available for preorder",
     "source_url": "https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder?hl=en",
     "product_area": "workspace-site",

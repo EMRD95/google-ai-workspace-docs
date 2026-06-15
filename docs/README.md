@@ -21,6 +21,7 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | chrome-enterprise-ai | 2 |
 | docs-editors | 7 |
 | drive | 8 |
+| external_drawio_gemini | 1 |
 | forms | 5 |
 | gemini-apps | 12 |
 | gmail | 10 |
@@ -41,7 +42,7 @@ Drag any `.md` file from this folder directly into NotebookLM. Each file is a st
 | workspace-studio-admin | 5 |
 | youtube-ai | 10 |
 
-**Total: 437 documents**
+**Total: 438 documents**
 
 ## How to browse
 
