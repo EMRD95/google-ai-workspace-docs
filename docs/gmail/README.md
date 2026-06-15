@@ -1,6 +1,13 @@
-# Gmail
+# Gmail — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**9 documents** covering AI features in Gmail.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/gmail__*.md`
+- **Combined:** `notebooklm-bundle/combined/gmail__combined.md`
+
+## Document index
 
 - [Collaborate with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help](collaborate-with-gemini-in-gmail-workspace-experiments-computer-gmail-help-a15fd461.md) — [source](https://support.google.com/mail/answer/14199860)
 - [Collaborate with Gemini in Gmail - Computer - Gmail Help](collaborate-with-gemini-in-gmail-computer-gmail-help-5e84d21b.md) — [source](https://support.google.com/mail/answer/14355636?hl=en)

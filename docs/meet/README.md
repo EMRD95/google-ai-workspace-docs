@@ -1,6 +1,13 @@
-# Meet
+# Meet — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**7 documents** covering AI features in Meet.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/meet__*.md`
+- **Combined:** `notebooklm-bundle/combined/meet__combined.md`
+
+## Document index
 
 - [Ask Gemini in Google Meet - Computer - Google Meet Help](ask-gemini-in-google-meet-computer-google-meet-help-4968ce14.md) — [source](https://support.google.com/meet/answer/16024610?hl=en)
 - [Calendar & Meet settings for \"take notes for me\" - Google Meet Help](calendar-meet-settings-for-take-notes-for-me-google-meet-help-9fce6d52.md) — [source](https://support.google.com/meet/answer/16909639)

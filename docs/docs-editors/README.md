@@ -1,6 +1,13 @@
-# Docs Editors
+# Docs Editors — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**7 documents** covering AI features in Docs Editors.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/docs-editors__*.md`
+- **Combined:** `notebooklm-bundle/combined/docs-editors__combined.md`
+
+## Document index
 
 - [Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help](collaborate-with-gemini-in-google-docs-computer-google-docs-editors-help-9da4858c.md) — [source](https://support.google.com/docs/answer/14206696?hl=en)
 - [Create personalized documents with Gemini in Google Docs - Google Docs Editors Help](create-personalized-documents-with-gemini-in-google-docs-google-docs-editors-hel-d7209edd.md) — [source](https://support.google.com/docs/answer/15541387?hl=en)

@@ -1,6 +1,13 @@
-# Gemini Apps
+# Gemini Apps — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Gemini Apps.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/gemini-apps__*.md`
+- **Combined:** `notebooklm-bundle/combined/gemini-apps__combined.md`
+
+## Document index
 
 - [Create & manage AI mini-apps or custom workflows as Gems from Google Labs - Gemini Apps Help](create-manage-ai-mini-apps-or-custom-workflows-as-gems-from-google-labs-gemini-apps-help-5db7bd54.md) — [source](https://support.google.com/gemini/answer/16802014?hl=en)
 - [Use apps connected to Gemini with a work or school Google Account - Computer - Gemini Apps Help](use-apps-connected-to-gemini-with-a-work-or-school-google-account-computer-gemini-apps-hel-30bd1957.md) — [source](https://support.google.com/gemini/answer/14959807?hl=en)

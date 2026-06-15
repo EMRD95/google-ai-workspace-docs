@@ -6,6 +6,7 @@ manifest=[]
 front_re=re.compile(r'^---\n(.*?)\n---\n', re.S)
 for p in sorted((ROOT/'docs').rglob('*.md')):
     if p.name=='README.md': continue
+    if 'notebooklm-bundle' in str(p): continue
     txt=p.read_text(encoding='utf-8', errors='ignore')
     m=front_re.match(txt)
     meta={}

@@ -1,6 +1,13 @@
-# Drive
+# Drive — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Drive.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/drive__*.md`
+- **Combined:** `notebooklm-bundle/combined/drive__combined.md`
+
+## Document index
 
 - [Collaborate with Gemini in Google Drive (Workspace Experiments) - Computer - Google Drive Help](collaborate-with-gemini-in-google-drive-workspace-experiments-computer-google-drive-help-fd4ead9b.md) — [source](https://support.google.com/drive/answer/14217860?hl=en)
 - [Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help](get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-h-5aacb4c9.md) — [source](https://support.google.com/drive/answer/15141241?hl=en)

@@ -1,6 +1,13 @@
-# Slides
+# Slides — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**6 documents** covering AI features in Slides.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/slides__*.md`
+- **Combined:** `notebooklm-bundle/combined/slides__combined.md`
+
+## Document index
 
 - [Collaborate with Gemini in Google Slides - Computer - Google Docs Editors Help](collaborate-with-gemini-in-google-slides-computer-google-docs-editors-help-e5ebf5f3.md) — [source](https://support.google.com/docs/answer/14355071?hl=en)
 - [Collaborate with Gemini in Google Slides - Google Docs Editors Help](collaborate-with-gemini-in-google-slides-google-docs-editors-help-b1eea813.md) — [source](https://support.google.com/docs/answer/14207419?hl=en)

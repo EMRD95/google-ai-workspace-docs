@@ -1,6 +1,13 @@
-# Looker Studio
+# Looker Studio — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Looker Studio.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/looker-studio__*.md`
+- **Combined:** `notebooklm-bundle/combined/looker-studio__combined.md`
+
+## Document index
 
 - [Add Data Studio content to your Google Slides presentation using Gemini assistance  |  Google Cloud Documentation](add-data-studio-content-to-your-google-slides-presentation-using-gemini-assistance-google--c1dc5ba4.md) — [source](https://cloud.google.com/looker/docs/studio/add-looker-studio-slides-gemini)
 - [Converse with Data Studio data  |  Google Cloud Documentation](converse-with-data-studio-data-google-cloud-documentation-255c363a.md) — [source](https://cloud.google.com/looker/docs/studio/conversational-analytics-looker-studio)

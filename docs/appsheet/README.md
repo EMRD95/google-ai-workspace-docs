@@ -1,6 +1,13 @@
-# Appsheet
+# Appsheet — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**9 documents** covering AI features in Appsheet.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/appsheet__*.md`
+- **Combined:** `notebooklm-bundle/combined/appsheet__combined.md`
+
+## Document index
 
 - [Best practices for using AI in automations - AppSheet Help](best-practices-for-using-ai-in-automations-appsheet-help-0022b1fa.md) — [source](https://support.google.com/appsheet/answer/16052759?hl=en)
 - [Create apps using Gemini for App Creation - AppSheet Help](create-apps-using-gemini-for-app-creation-appsheet-help-5c13a00d.md) — [source](https://support.google.com/appsheet/answer/14699210?hl=en)

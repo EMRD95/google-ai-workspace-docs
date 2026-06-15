@@ -1,6 +1,13 @@
-# Workspace Learning Center
+# Workspace Learning Center — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**4 documents** covering AI features in Workspace Learning Center.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/workspace-learning-center__*.md`
+- **Combined:** `notebooklm-bundle/combined/workspace-learning-center__combined.md`
+
+## Document index
 
 - [Gemini for Google Workspace cheat sheet - Google Workspace Learning Center](gemini-for-google-workspace-cheat-sheet-google-workspace-learning-center-f25c1fff.md) — [source](https://support.google.com/a/users/answer/14143478?hl=en)
 - [Generative AI training & help - Google Workspace Learning Center](generative-ai-training-help-google-workspace-learning-center-49b30e73.md) — [source](https://support.google.com/a/users/answer/14506784?hl=en)

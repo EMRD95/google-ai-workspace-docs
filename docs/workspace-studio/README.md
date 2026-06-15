@@ -1,6 +1,13 @@
-# Workspace Studio
+# Workspace Studio — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**12 documents** covering AI features in Workspace Studio.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/workspace-studio__*.md`
+- **Combined:** `notebooklm-bundle/combined/workspace-studio__combined.md`
+
+## Document index
 
 - [Create a flow from scratch - Workspace Studio Help](create-a-flow-from-scratch-workspace-studio-help-27b1c3bd.md) — [source](https://support.google.com/workspace-studio/answer/16447954?hl=en)
 - [Create a flow with Gemini AI - Workspace Studio Help](create-a-flow-with-gemini-ai-workspace-studio-help-928cd3ae.md) — [source](https://support.google.com/workspace-studio/answer/16448469?hl=en)

@@ -1,6 +1,13 @@
-# Sheets
+# Sheets — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**7 documents** covering AI features in Sheets.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/sheets__*.md`
+- **Combined:** `notebooklm-bundle/combined/sheets__combined.md`
+
+## Document index
 
 - [Build or edit entire spreadsheets with Gemini in Sheets - Google Docs Editors Help](build-or-edit-entire-spreadsheets-with-gemini-in-sheets-google-docs-editors-help-cada47f2.md) — [source](https://support.google.com/docs/answer/16959434?hl=en-GB)
 - [Collaborate with Gemini in Google Sheets (Workspace Experiments) - Google Docs Editors Help](collaborate-with-gemini-in-google-sheets-workspace-experiments-google-docs-edito-127315f5.md) — [source](https://support.google.com/docs/answer/14218565?hl=en)

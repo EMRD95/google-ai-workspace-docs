@@ -1,6 +1,13 @@
-# Forms
+# Forms — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Forms.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/forms__*.md`
+- **Combined:** `notebooklm-bundle/combined/forms__combined.md`
+
+## Document index
 
 - [Create a form with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help](create-a-form-with-gemini-in-google-forms-workspace-experiments-google-docs-editors-help-d8e549bd.md) — [source](https://support.google.com/docs/answer/15259015)
 - [Create a form with Gemini in Google Forms - Google Docs Editors Help](create-a-form-with-gemini-in-google-forms-google-docs-editors-help-2d76a83e.md) — [source](https://support.google.com/docs/answer/16346789?hl=en)

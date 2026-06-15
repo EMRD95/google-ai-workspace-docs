@@ -1,6 +1,13 @@
-# Calendar
+# Calendar — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Calendar.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/calendar__*.md`
+- **Combined:** `notebooklm-bundle/combined/calendar__combined.md`
+
+## Document index
 
 - [Find times to meet in Google Calendar - Computer - Google Calendar Help](find-times-to-meet-in-google-calendar-computer-google-calendar-help-2d725700.md) — [source](https://support.google.com/calendar/answer/6294878)
 - [Get started with Google Workspace with Gemini - Business / Enterprise - Google Calendar Help](get-started-with-google-workspace-with-gemini-business-enterprise-google-calendar-help-ce22b119.md) — [source](https://support.google.com/calendar/answer/13952129)

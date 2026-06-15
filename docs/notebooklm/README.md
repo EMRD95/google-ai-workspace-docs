@@ -1,6 +1,13 @@
-# Notebooklm
+# Notebooklm — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**17 documents** covering AI features in Notebooklm.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/notebooklm__*.md`
+- **Combined:** `notebooklm-bundle/combined/notebooklm__combined.md`
+
+## Document index
 
 - [Add or discover new sources for your notebook - Computer - NotebookLM Help](add-or-discover-new-sources-for-your-notebook-computer-notebooklm-help-cf7271a5.md) — [source](https://support.google.com/notebooklm/answer/16215270?hl=en)
 - [Create a notebook in NotebookLM - NotebookLM Help](create-a-notebook-in-notebooklm-notebooklm-help-15689b9b.md) — [source](https://support.google.com/notebooklm/answer/16206563?hl=en)
@@ -13,7 +20,7 @@ Machine-readable archive of Google AI documentation for this product area.
 - [NotebookLM for business](notebooklm-for-business-04592377.md) — [source](https://workspace.google.com/products/notebooklm?hl=en)
 - [NotebookLM for business](notebooklm-for-business-3ca9476b.md) — [source](https://workspace.google.com/intl/en_uk/products/notebooklm?hl=en)
 - [NotebookLM for business](notebooklm-for-business-93559f7c.md) — [source](https://workspace.google.com/intl/en_ca/products/notebooklm?hl=en)
-- [notebooklm-help-fa3e5042](notebooklm-help-fa3e5042.md) — [source](https://support.google.com/notebooklm/?hl=en)
+- [NotebookLM Help](notebooklm-help-fa3e5042.md) — [source](https://support.google.com/notebooklm/?hl=en)
 - [Unleashing the power of NotebookLM: Your AI research and learning companion](unleashing-the-power-of-notebooklm-your-ai-research-and-learning-companion-4bd4aa99.md) — [source](https://workspace.google.com/learning/content/google-workspace-notebooklm-ebook?hl=en)
 - [Upgrade NotebookLM - NotebookLM Help](upgrade-notebooklm-notebooklm-help-36a88fae.md) — [source](https://support.google.com/notebooklm/answer/16206866?hl=en)
 - [Upgrade NotebookLM - NotebookLM Help](upgrade-notebooklm-notebooklm-help-7aa0698d.md) — [source](https://support.google.com/notebooklm/answer/16213268?hl=en)

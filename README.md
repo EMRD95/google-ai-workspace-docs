@@ -1,52 +1,63 @@
 # Google AI Workspace Documentation Archive
 
-This repository is a machine-readable Markdown archive of public Google documentation for AI features available outside Google Cloud, focused on Google Workspace Business/Enterprise usage and adjacent end-user tools.
+Machine-readable Markdown archive of public Google documentation for AI features in Google Workspace and adjacent tools — ready for NotebookLM import.
 
-Excluded: Google Cloud, Vertex AI, Firebase, BigQuery, Ads, Analytics, and other developer/cloud products. Included: Gemini for Google Workspace, Gemini Apps for work/school accounts, Gmail, Docs, Sheets, Slides, Drive, Calendar, Meet, Chat, Google Vids, NotebookLM, Workspace Learning Center, Admin Console guidance, Workspace site pages, and selected Workspace developer pages when they describe Workspace integrations rather than Google Cloud.
+**296 documents · 21 product areas · ~4.4 MB · [github.com/EMRD95/google-ai-workspace-docs](https://github.com/EMRD95/google-ai-workspace-docs)**
 
-## How to use
+## Quick start
 
-- Start with `sources/manifest.json` for a structured list of documents.
-- Read product folders under `docs/`.
-- Every Markdown file includes YAML front matter with `title`, `source_url`, `product_area`, and `retrieved_at`.
-- Use this as a retrieval corpus for agents that need to help users solve business problems with Google AI and Workspace tools.
+| Use case | Go to |
+|----------|------|
+| Import into NotebookLM | `docs/notebooklm-bundle/` — flat files + combined per-area |
+| Browse by product | `docs/{product}/README.md` for indexed product directories |
+| Machine/agent consumption | `sources/manifest.json` — full structured index |
 
-## Coverage summary
+## What's included
 
-| Product area | Documents |
-|---|---:|
-| admin-console | 17 |
-| appsheet | 9 |
-| calendar | 5 |
-| chat | 4 |
-| docs-editors | 7 |
-| drive | 5 |
-| forms | 5 |
-| gemini-apps | 5 |
-| gmail | 9 |
-| google-vids | 12 |
-| keep | 3 |
-| looker-studio | 5 |
-| meet | 7 |
-| notebooklm | 17 |
-| sheets | 7 |
-| slides | 6 |
-| workspace-developers | 5 |
-| workspace-learning-center | 4 |
-| workspace-site | 147 |
-| workspace-studio | 12 |
-| workspace-studio-admin | 5 |
+Gemini for Google Workspace across all major apps: Gmail, Docs, Sheets, Slides, Drive, Calendar, Meet, Chat, Forms, Keep, Google Vids, NotebookLM, Gemini Apps, AppSheet, Looker Studio, Workspace Studio, plus Admin Console guidance, Workspace Developers, and Workspace site pages.
 
+## What's excluded
 
-Total documents: 296
+- Google Cloud products (Vertex AI, BigQuery, Firebase, etc.)
+- Ads, Analytics, YouTube, Payments, Maps Platform
+- Community forums and threads
+- Defunct Workspace Labs/Experiments pages (404)
 
-## Important notes
+## Coverage
 
-- This archive preserves source URLs for citation and freshness checks.
-- Some Google Help pages were collected through a Markdown extraction service because direct support.google.com crawling rate-limited this environment; those files contain `extraction_method: web_extract`.
-- Google frequently changes Workspace AI availability, admin controls, and feature names; agents should prefer the source URL when making high-stakes decisions.
-- The crawl intentionally avoids Google Cloud documentation.
+| Area | Docs | Description |
+|------|-----:|-------------|
+| workspace-site | 147 | Workspace product/solution pages (AI landing, customer stories) |
+| admin-console | 17 | Admin controls for Gemini, Workspace Studio, add-ons |
+| notebooklm | 17 | NotebookLM help center (full coverage) |
+| google-vids | 12 | AI video creation, voiceovers, Help me create |
+| workspace-studio | 12 | Flows, steps, integrations, user guide |
+| appsheet | 9 | AI tasks in automations (Categorize, Summarize, Extract) |
+| gmail | 9 | Help me write, summaries, suggested replies, side panel |
+| docs-editors | 7 | Gemini in Docs, prompts guide |
+| sheets | 7 | AI function, Help me organize, Smart Fill, Gemini side panel |
+| meet | 7 | Take notes for me, Ask Gemini, translated captions |
+| slides | 6 | Gemini in Slides, image generation, presentation creation |
+| drive | 5 | Ask Gemini, folder/file summaries |
+| forms | 5 | Gemini in Forms, response summaries, quiz creation |
+| gemini-apps | 5 | Deep Research, Gems, connected apps |
+| looker-studio | 5 | Conversational Analytics, data agents, code interpreter |
+| workspace-developers | 5 | Workspace API AI integrations |
+| calendar | 5 | Help me schedule, find times to meet, Gemini in Calendar |
+| workspace-studio-admin | 5 | Admin controls for Studio steps, AI steps, activity alerts |
+| workspace-learning-center | 4 | End-user AI quickstart guides |
+| chat | 4 | Summarize conversations, Ask Gemini, side panel |
+| keep | 3 | AI lists, supported languages |
+
+## File conventions
+
+- Every doc has YAML frontmatter: `title`, `source_url`, `product_area`, `retrieved_at`
+- Product READMEs link to individual files and the NotebookLM bundle
+- Bundle naming: `{area}__{slug}.md` (double underscore `__` separator)
+- Combined files at `notebooklm-bundle/combined/{area}__combined.md`
 
 ## Regeneration
 
-The generation script used locally is `build_google_ai_workspace_docs.py` in the repository root.
+```bash
+python3 update_indexes.py   # Refresh manifest + READMEs (skips notebooklm-bundle)
+```

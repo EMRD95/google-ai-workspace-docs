@@ -1,6 +1,13 @@
-# Google Vids
+# Google Vids — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**12 documents** covering AI features in Google Vids.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/google-vids__*.md`
+- **Combined:** `notebooklm-bundle/combined/google-vids__combined.md`
+
+## Document index
 
 - [AI-powered video creation for work](ai-powered-video-creation-for-work-0f23c1c2.md) — [source](https://workspace.google.com/products/vids?hl=en)
 - [AI-powered video creation for work](ai-powered-video-creation-for-work-4c1bc809.md) — [source](https://workspace.google.com/intl/en_ca/products/vids?hl=en)

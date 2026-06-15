@@ -1,6 +1,13 @@
-# Workspace Site
+# Workspace Site — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**147 documents** covering AI features in Workspace Site.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/workspace-site__*.md`
+- **Combined:** `notebooklm-bundle/combined/workspace-site__combined.md`
+
+## Document index
 
 - [3 ways Gen AI will impact the way we work this year](3-ways-gen-ai-will-impact-the-way-we-work-this-year-3dd7366a.md) — [source](https://workspace.google.com/blog/ai-and-machine-learning/3-ways-gen-ai-will-impact-way-we-work?hl=en)
 - [5 ways Gemini for Workspace keeps sellers and marketers customer-focused and in sync](5-ways-gemini-for-workspace-keeps-sellers-and-marketers-customer-focused-and-in-566a2f59.md) — [source](https://workspace.google.com/blog/ai-and-machine-learning/5-ways-gemini-workspace-keeps-sellers-and-marketers-customer-focused-and-in-sync?hl=en)

@@ -1,6 +1,13 @@
-# Admin Console
+# Admin Console — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**17 documents** covering AI features in Admin Console.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/admin-console__*.md`
+- **Combined:** `notebooklm-bundle/combined/admin-console__combined.md`
+
+## Document index
 
 - [AI Ultra Access  |  Generative AI  |  Google Workspace Help](ai-ultra-access-generative-ai-google-workspace-help-b481e194.md) — [source](https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/ai-ultra-access)
 - [Compare Google AI expansion add‑ons  |  Getting started  |  Google Workspace Help](compare-google-ai-expansion-add-ons-getting-started-google-workspace-help-1fa25b17.md) — [source](https://support.google.com/a/answer/14700766?hl=en)

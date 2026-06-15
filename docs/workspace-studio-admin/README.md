@@ -1,6 +1,13 @@
-# Workspace Studio Admin
+# Workspace Studio Admin — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Workspace Studio Admin.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/workspace-studio-admin__*.md`
+- **Combined:** `notebooklm-bundle/combined/workspace-studio-admin__combined.md`
+
+## Document index
 
 - [Allow or block Gemini for Google Workspace steps  |  Studio  |  Google Workspace Help](allow-or-block-gemini-for-google-workspace-steps-studio-google-workspace-help-a631417f.md) — [source](https://knowledge.workspace.google.com/admin/studio/allow-or-block-gemini-for-ws-steps)
 - [Allow or block Workspace service–specific steps  |  Studio  |  Google Workspace Help](allow-or-block-workspace-service-specific-steps-studio-google-workspace-help-d89aec76.md) — [source](https://knowledge.workspace.google.com/admin/studio/allow-or-block-ws-service-specific-steps)

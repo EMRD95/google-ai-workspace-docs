@@ -1,6 +1,13 @@
-# Workspace Developers
+# Workspace Developers — Google AI Docs
 
-Machine-readable archive of Google AI documentation for this product area.
+**5 documents** covering AI features in Workspace Developers.
+
+## Quick import into NotebookLM
+
+- **Individual files:** `notebooklm-bundle/workspace-developers__*.md`
+- **Combined:** `notebooklm-bundle/combined/workspace-developers__combined.md`
+
+## Document index
 
 - [Add-ons overview Stay organized with collections Save and categorize content based on your preferences.](add-ons-overview-stay-organized-with-collections-save-and-categorize-content-bas-90e13346.md) — [source](https://developers.google.com/workspace/add-ons/overview?hl=en)
 - [Build with AI for Google Workspace Stay organized with collections Save and categorize content based on your preferences.](build-with-ai-for-google-workspace-stay-organized-with-collections-save-and-cate-e9d228a1.md) — [source](https://developers.google.com/workspace/guides/ai-overview?hl=en)
