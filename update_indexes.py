@@ -1,77 +1,128 @@
 #!/usr/bin/env python3
-import pathlib, re, json, os
+import pathlib, re, json
 from collections import defaultdict
-ROOT=pathlib.Path('/home/ubu/google-ai-workspace-docs')
-manifest=[]
-front_re=re.compile(r'^---\n(.*?)\n---\n', re.S)
-for p in sorted((ROOT/'docs').rglob('*.md')):
-    if p.name=='README.md': continue
-    if 'notebooklm-bundle' in str(p): continue
-    if p.parent.name == 'combined': continue
-    txt=p.read_text(encoding='utf-8', errors='ignore')
-    m=front_re.match(txt)
-    meta={}
+
+ROOT = pathlib.Path('/home/ubu/google-ai-workspace-docs')
+DOCS = ROOT / 'docs'
+DOCS.mkdir(parents=True, exist_ok=True)
+
+manifest = []
+front_re = re.compile(r'^---\n(.*?)\n---\n', re.S)
+
+for p in sorted(DOCS.glob('*.md')):
+    if p.name == 'README.md':
+        continue
+    txt = p.read_text(encoding='utf-8', errors='ignore')
+    m = front_re.match(txt)
+    meta = {}
     if m:
         for line in m.group(1).splitlines():
             if ':' in line:
-                k,v=line.split(':',1); meta[k.strip()]=v.strip().strip('"')
-    title=meta.get('title') or re.search(r'^#\s+(.+)$', txt, re.M).group(1) if re.search(r'^#\s+(.+)$', txt, re.M) else p.stem
-    url=meta.get('source_url','')
-    area=meta.get('product_area') or p.parent.name
-    manifest.append({'title':title,'source_url':url,'product_area':area,'path':str(p.relative_to(ROOT))})
-# dedupe source_url + keep web_extract additions with different filenames if URL absent
-uniq=[]; seen=set()
+                k, v = line.split(':', 1)
+                meta[k.strip()] = v.strip().strip('"')
+    title = meta.get('title') or (re.search(r'^#\s+(.+)$', txt, re.M).group(1) if re.search(r'^#\s+(.+)$', txt, re.M) else p.stem)
+    url = meta.get('source_url', '')
+    area = meta.get('product_area', 'unknown')
+    manifest.append({
+        'title': title,
+        'source_url': url,
+        'product_area': area,
+        'path': str(p.relative_to(ROOT)),
+    })
+
+# Dedupe by source_url
+uniq = []
+seen = set()
 for item in manifest:
-    key=item['source_url'] or item['path']
-    if key in seen: continue
-    seen.add(key); uniq.append(item)
-manifest=uniq
-(ROOT/'sources').mkdir(exist_ok=True)
-(ROOT/'sources'/'manifest.json').write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding='utf-8')
-by=defaultdict(list)
-for m in manifest: by[m['product_area']].append(m)
-for b,items in by.items():
-    d=ROOT/'docs'/b; d.mkdir(parents=True, exist_ok=True)
-    lines=[f'# {b.replace("-"," ").title()}\n','Machine-readable archive of Google AI documentation for this product area.\n']
-    for m in sorted(items,key=lambda x:x['title'].lower()):
-        rel=os.path.relpath(ROOT/m['path'], d)
-        src=f' — [source]({m["source_url"]})' if m['source_url'] else ''
-        lines.append(f'- [{m["title"]}]({rel}){src}')
-    (d/'README.md').write_text('\n'.join(lines)+'\n', encoding='utf-8')
-coverage=sorted((b,len(v)) for b,v in by.items())
-readme='''# Google AI Workspace Documentation Archive
+    key = item['source_url'] or item['path']
+    if key in seen:
+        continue
+    seen.add(key)
+    uniq.append(item)
+manifest = uniq
 
-This repository is a machine-readable Markdown archive of public Google documentation for AI features available outside Google Cloud, focused on Google Workspace Business/Enterprise usage and adjacent end-user tools.
+# Write manifest
+(ROOT / 'sources').mkdir(exist_ok=True)
+(ROOT / 'sources' / 'manifest.json').write_text(
+    json.dumps(manifest, indent=2, ensure_ascii=False), encoding='utf-8'
+)
 
-Excluded: Google Cloud, Vertex AI, Firebase, BigQuery, Ads, Analytics, and other developer/cloud products. Included: Gemini for Google Workspace, Gemini Apps for work/school accounts, Gmail, Docs, Sheets, Slides, Drive, Calendar, Meet, Chat, Google Vids, NotebookLM, Workspace Learning Center, Admin Console guidance, Workspace site pages, and selected Workspace developer pages when they describe Workspace integrations rather than Google Cloud.
+# Coverage
+by_area = defaultdict(list)
+for m in manifest:
+    by_area[m['product_area']].append(m)
 
-## How to use
+# Generate docs/README.md index
+lines = [
+    "# Google AI Workspace Documentation Archive",
+    "",
+    "Flat Markdown archive of Google AI/Workspace docs. **296 files, one folder.**",
+    "",
+    "## NotebookLM import",
+    "",
+    "Drag any `.md` file from this folder directly into NotebookLM. Each file is a standalone help article.",
+    "",
+    "## Coverage",
+    "",
+    "| Area | Docs |",
+    "|------|------|",
+]
+for b, items in sorted(by_area.items()):
+    lines.append(f"| {b} | {len(items)} |")
+lines.append("")
+lines.append(f"**Total: {len(manifest)} documents**")
+lines.append("")
+lines.append("## How to browse")
+lines.append("")
+lines.append("- All files are in this folder: `docs/*.md`")
+lines.append("- `sources/manifest.json` — machine-readable index with `title`, `source_url`, `product_area`, `path`")
+(DOCS / 'README.md').write_text('\n'.join(lines) + '\n', encoding='utf-8')
 
-- Start with `sources/manifest.json` for a structured list of documents.
-- Read product folders under `docs/`.
-- Every Markdown file includes YAML front matter with `title`, `source_url`, `product_area`, and `retrieved_at`.
-- Use this as a retrieval corpus for agents that need to help users solve business problems with Google AI and Workspace tools.
+# Root README
+root_lines = [
+    "# Google AI Workspace Documentation Archive",
+    "",
+    f"Flat Markdown archive of {len(manifest)} Google AI/Workspace help articles. Ready for NotebookLM import.",
+    "",
+    "## Quick start",
+    "",
+    "- **NotebookLM:** Drag any `docs/*.md` file directly into NotebookLM",
+    "- **Agent/RAG:** Use `sources/manifest.json` as your index",
+    "- **Browse:** Open `docs/README.md` for a coverage table",
+    "",
+    "## What's included",
+    "",
+    "Gemini for Google Workspace across Gmail, Docs, Sheets, Slides, Drive, Calendar, Meet, Chat, Forms, Keep, Google Vids, NotebookLM, Gemini Apps, AppSheet, Looker Studio, Workspace Studio, plus Admin Console, Workspace Developers, and Workspace site pages.",
+    "",
+    "## What's excluded",
+    "",
+    "- Google Cloud (Vertex AI, BigQuery, Firebase…)",
+    "- Ads, Analytics, YouTube, Maps",
+    "- Community threads, defunct Labs/Experiments pages",
+    "",
+    "## Coverage",
+    "",
+    "| Area | Docs |",
+    "|------|------|",
+]
+coverage = sorted((b, len(v)) for b, v in by_area.items())
+for b, n in coverage:
+    root_lines.append(f"| {b} | {n} |")
+root_lines.append("")
+root_lines.append(f"**Total: {len(manifest)} documents**")
+root_lines.append("")
+root_lines.append("## File conventions")
+root_lines.append("")
+root_lines.append("- Every `.md` has YAML frontmatter: `title`, `source_url`, `product_area`, `retrieved_at`")
+root_lines.append("- `source_url` preserved for citation and freshness checks")
+root_lines.append("- Prefer the source URL for high-stakes decisions")
+root_lines.append("")
+root_lines.append("## Regeneration")
+root_lines.append("")
+root_lines.append("```bash")
+root_lines.append("python3 update_indexes.py")
+root_lines.append("```")
+(ROOT / 'README.md').write_text('\n'.join(root_lines) + '\n', encoding='utf-8')
 
-## Coverage summary
-
-| Product area | Documents |
-|---|---:|
-'''
-for b,n in coverage: readme += f'| {b} | {n} |\n'
-readme += f'''
-
-Total documents: {len(manifest)}
-
-## Important notes
-
-- This archive preserves source URLs for citation and freshness checks.
-- Some Google Help pages were collected through a Markdown extraction service because direct support.google.com crawling rate-limited this environment; those files contain `extraction_method: web_extract`.
-- Google frequently changes Workspace AI availability, admin controls, and feature names; agents should prefer the source URL when making high-stakes decisions.
-- The crawl intentionally avoids Google Cloud documentation.
-
-## Regeneration
-
-The generation script used locally is `build_google_ai_workspace_docs.py` in the repository root.
-'''
-(ROOT/'README.md').write_text(readme, encoding='utf-8')
-print(json.dumps({'total':len(manifest),'coverage':coverage},indent=2))
+coverage_data = sorted((b, len(v)) for b, v in by_area.items())
+print(json.dumps({'total': len(manifest), 'coverage': coverage_data}, indent=2))
