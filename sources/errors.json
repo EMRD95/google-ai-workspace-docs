@@ -1,0 +1,862 @@
+[
+  {
+    "url": "https://support.google.com/mail/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14130944?hl=en&co=DASHER._Family%3DBusiness-Enterprise",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15756885?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13952129?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14571493?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14571493?hl=en&co=DASHER._Family%3DBusiness-Enterprise",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15730372?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14506784?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/13955415?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/13955415?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/14355636?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/14199860?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/13384326?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/13447104?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/14199860?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13951448?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15123226?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13447609?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14206696?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15541387?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15541879?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13447609?hl=en&ref_topic=13951627",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14356410?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16959434?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15877199?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15820999?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14226603?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14218565?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14628736?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14355071?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/17111393?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14207419?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/16914858?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16488002?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16443280?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16961475?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13951829?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13635180?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13951829?hl=en&ref_topic=13951627",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14514640?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/13952129?hl=en&ref_topic=15113879",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/16963068?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/16963068?hl=en&ref_topic=15113879",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/14356148?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15293691?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/17129842?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/14217860?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/14217860?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13952129?co=DASHER._Family%3DEducation&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/16813283?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/calendar/answer/13952129?hl=en&ref_topic=16691886",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/calendar/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/calendar/answer/16865189?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14959807?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15305236?hl=en&ref_topic=15157994",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15305236?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/13952129?hl=en&ref_topic=15550128",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/16024610?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15071792?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meethardware/answer/10037875?co=DASHER._Family%3DEnterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/14754931?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/14754931?hl=en&ref_topic=14073938",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/14441737?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/10459644?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/13954947?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/15604322?hl=en&co=GENIE.Platform%3DiOS",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14638683?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/10058482?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/17036303?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/15345722?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/17036303?co=GENIE.Platform%3DAndroid&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/15345722?co=GENIE.Platform%3DAndroid&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/16944767?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/chat/answer/15395284?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/12918975?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15609411?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15067819?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15082958?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/15599399?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16334946?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14731773?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16143507?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15609411?hl=en&ref_topic=14951574",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14819770?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/17029052?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/17029052?hl=en&ref_topic=16539553",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16206866?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/16719009?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16213268?hl=en&ref_topic=16175214",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15239506?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15239506?hl=en&ref_topic=15995054",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16337734?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16213268?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16269187?hl=en&ref_topic=16179690",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/14278184?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16352354?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/17003757?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16164461?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?hl=en&co=DASHER._Family%3DBusiness-Enterprise",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/17100048?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/g/answer/16628842?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15229592?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14143478?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?hl=en&ref_topic=14960905",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16796372?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/workspace-studio/answer/16431105?hl=en&ref_topic=16431192",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/workspace-studio/answer/16444479?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/16430812?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/workspace-studio/answer/16765661?hl=en&ref_topic=16431192",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/workspace-studio/answer/16782648?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16704187?hl=en&ref_topic=16443963",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/13954172?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15905903?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16231981?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16363314?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16346789?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16232990?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16362810?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15259015?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13952129?hl=en&co=DASHER._Family%3DEducation",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/keep/answer/13952129?co=DASHER._Family%3DBusiness-Enterprise&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15230597?hl=en&co=GENIE.Platform%3DAndroid",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15230597?hl=en&ref_topic=15157994",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/keep/answer/13952129?co=DASHER._Family%3DEducation&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/keep/answer/14626262?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/keep/answer/13447104?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/keep/answer/14925782?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/17094507?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13952129?hl=en&ref_topic=13951627",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13676332?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14700766?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13447104?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/9389764?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/16106353?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/13998425?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/16045284?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/16052764?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/10100275?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/15969430?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/14699210?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/15983005?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/16402763?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/16468184?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/14797537?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/15985259?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/appsheet/answer/11998993?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14505994?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/15146419?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14506398?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14590328?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14200040?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15698295?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16479199?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14564320?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15706919?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/13864836?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?hl=en&co=DASHER._Family%3DEducation",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?co=DASHER._Family%3DEducation&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/13278668?hl=en&ref_topic=15280100",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16212820?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16215270?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16215270?co=GENIE.Platform%3DiOS&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16215270?hl=en&co=GENIE.Platform%3DAndroid",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16164461?co=GENIE.Platform%3DDesktop&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16269187?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/16357181?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/thread/285509455/announcing-google-vids?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/thread/422187664/google-vids-10-ai-videos-per-day-suddenly-changed-to-50-per-month-without-notice?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/thread/425829569/i-need-to-know-the-video-generation-limits-for-google-vids-each-plan-please-help?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/thread/365566515/google-vids-through-a-paid-plan?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/14355636?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/13951445?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/15626206?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/calendar/answer/16690875?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14620100?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14817658?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/13575153?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/meet/answer/14925782?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14316863?hl=en&co=DASHER._Family%3DEnterprise",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/14276569?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14171678?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14196644?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14190391?hl=en&ref_topic=14143477",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14339894?hl=en&ref_topic=14104519",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14571493?hl=en&ref_topic=15995054",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14817835?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15141054?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15905903?hl=en&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16054396?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/vault/answer/15695746?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/16118940?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/drive/answer/16482799?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15905903?hl=en&ref_topic=15890822",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14903178?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://workspace.google.com/solutions/ai/signup?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15899736?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15146780?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/14184041?hl=en&co=GENIE.Platform%3DDesktop",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/14170809?hl=en&ref_topic=13853688",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/answer/15706919?hl=en&hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/a/users/answer/14667148?hl=en&ref_topic=14660609",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/docs/answer/14355406?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/13275745?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/gemini/answer/15236321?hl=en&ref_topic=15236104",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/mail/answer/14615114?hl=en",
+    "error": "HTTP 429"
+  },
+  {
+    "url": "https://support.google.com/notebooklm?hl=en",
+    "error": "HTTP 429"
+  }
+]

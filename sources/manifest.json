@@ -1,0 +1,1262 @@
+[
+  {
+    "title": "Gemini AI features now included in Google Workspace subscriptions  |  Generative AI  |  Google Workspace Help",
+    "source_url": "https://support.google.com/a/answer/15756885?hl=en",
+    "product_area": "admin-console",
+    "path": "docs/admin-console/gemini-ai-features-now-included-in-google-workspace-subscriptions-generative-ai--76398c81.md"
+  },
+  {
+    "title": "Google Workspace with Gemini FAQ for Business  |  Generative AI  |  Google Workspace Help",
+    "source_url": "https://support.google.com/a/answer/14130944?hl=en",
+    "product_area": "admin-console",
+    "path": "docs/admin-console/google-workspace-with-gemini-faq-for-business-generative-ai-google-workspace-hel-6501e070.md"
+  },
+  {
+    "title": "Create apps using Gemini for App Creation - AppSheet Help",
+    "source_url": "https://support.google.com/appsheet/answer/14699210?hl=en",
+    "product_area": "appsheet",
+    "path": "docs/appsheet/create-apps-using-gemini-for-app-creation-appsheet-help-5c13a00d.md"
+  },
+  {
+    "title": "Gemini for App Creation FAQ - AppSheet Help",
+    "source_url": "https://support.google.com/appsheet/answer/14797537?hl=en",
+    "product_area": "appsheet",
+    "path": "docs/appsheet/gemini-for-app-creation-faq-appsheet-help-28b51a5e.md"
+  },
+  {
+    "title": "Overview of AI in automations - AppSheet Help",
+    "source_url": "https://support.google.com/appsheet/answer/16045284?hl=en",
+    "product_area": "appsheet",
+    "path": "docs/appsheet/overview-of-ai-in-automations-appsheet-help-b0df0b8f.md"
+  },
+  {
+    "title": "Use Gemini in AppSheet - AppSheet Help",
+    "source_url": "https://support.google.com/appsheet/answer/16106353?hl=en",
+    "product_area": "appsheet",
+    "path": "docs/appsheet/use-gemini-in-appsheet-appsheet-help-20c004c5.md"
+  },
+  {
+    "title": "Use the Extract AI task in an automation - AppSheet Help",
+    "source_url": "https://support.google.com/appsheet/answer/15969430?hl=en",
+    "product_area": "appsheet",
+    "path": "docs/appsheet/use-the-extract-ai-task-in-an-automation-appsheet-help-1724e080.md"
+  },
+  {
+    "title": "Let Gemini in Google Calendar find times to meet - Google Calendar Help",
+    "source_url": "https://support.google.com/calendar/answer/16690875?hl=en",
+    "product_area": "calendar",
+    "path": "docs/calendar/let-gemini-in-google-calendar-find-times-to-meet-google-calendar-help-22ea6989.md"
+  },
+  {
+    "title": "Suggest times to meet with Gemini in Gmail - Google Calendar Help",
+    "source_url": "https://support.google.com/calendar/answer/16865189?hl=en",
+    "product_area": "calendar",
+    "path": "docs/calendar/suggest-times-to-meet-with-gemini-in-gmail-google-calendar-help-9d1dc933.md"
+  },
+  {
+    "title": "Answer questions based on Chat conversations with a Gemini AI Chat app Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/chat/tutorial-ai-knowledge-assistant?hl=en",
+    "product_area": "chat",
+    "path": "docs/chat/answer-questions-based-on-chat-conversations-with-a-gemini-ai-chat-app-stay-orga-6566c060.md"
+  },
+  {
+    "title": "Build a Google Chat app with a Gemini Enterprise AI agent Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/add-ons/chat/quickstart-ge-agent?hl=en",
+    "product_area": "chat",
+    "path": "docs/chat/build-a-google-chat-app-with-a-gemini-enterprise-ai-agent-stay-organized-with-co-37a1f379.md"
+  },
+  {
+    "title": "Collaborate with Gemini in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/15345722?hl=en",
+    "product_area": "chat",
+    "path": "docs/chat/collaborate-with-gemini-in-google-chat-computer-google-chat-help-0bffb825.md"
+  },
+  {
+    "title": "Get started with Ask Gemini in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/17036303?hl=en",
+    "product_area": "chat",
+    "path": "docs/chat/get-started-with-ask-gemini-in-google-chat-computer-google-chat-help-c3b294c2.md"
+  },
+  {
+    "title": "Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/14206696?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/collaborate-with-gemini-in-google-docs-computer-google-docs-editors-help-9da4858c.md"
+  },
+  {
+    "title": "Create personalized documents with Gemini in Google Docs - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15541387?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/create-personalized-documents-with-gemini-in-google-docs-google-docs-editors-hel-d7209edd.md"
+  },
+  {
+    "title": "Get more done with Gemini in Docs",
+    "source_url": "https://workspace.google.com/products/docs/ai?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/get-more-done-with-gemini-in-docs-962427a8.md"
+  },
+  {
+    "title": "Get more done with Gemini in Docs",
+    "source_url": "https://workspace.google.com/intl/en_ca/products/docs/ai?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/get-more-done-with-gemini-in-docs-cd704d3d.md"
+  },
+  {
+    "title": "Get more done with Gemini in Docs",
+    "source_url": "https://workspace.google.com/intl/en_uk/products/docs/ai?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/get-more-done-with-gemini-in-docs-cf17749f.md"
+  },
+  {
+    "title": "Get started with Google Workspace with Gemini - Business / Enterprise - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13952129?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/get-started-with-google-workspace-with-gemini-business-enterprise-google-docs-ed-ed5a854f.md"
+  },
+  {
+    "title": "Sorry, this page can't be found. - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13951449?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/sorry-this-page-can-t-be-found-google-docs-editors-help-1453fe9a.md"
+  },
+  {
+    "title": "Sorry, this page can't be found. - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13951445?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/sorry-this-page-can-t-be-found-google-docs-editors-help-27387fca.md"
+  },
+  {
+    "title": "Sorry, this page can't be found. - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/15626206?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/sorry-this-page-can-t-be-found-google-docs-editors-help-b43cedb3.md"
+  },
+  {
+    "title": "Write & edit with Gemini in Docs - Google Docs Editors Help",
+    "source_url": "https://support.google.com/docs/answer/13951448?hl=en",
+    "product_area": "docs-editors",
+    "path": "docs/docs-editors/write-edit-with-gemini-in-docs-google-docs-editors-help-4f45466b.md"
+  },
+  {
+    "title": "Use Gemini Apps with a work or school Google Account - Business / Enterprise - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/14620100?hl=en",
+    "product_area": "gemini-apps",
+    "path": "docs/gemini-apps/use-gemini-apps-with-a-work-or-school-google-account-business-enterprise-gemini--0bbaef42.md"
+  },
+  {
+    "title": "Analyze and label Gmail messages with Gemini and Vertex AI Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/add-ons/samples/gmail-sentiment-analysis-ai?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/analyze-and-label-gmail-messages-with-gemini-and-vertex-ai-stay-organized-with-c-a104e640.md"
+  },
+  {
+    "title": "Collaborate with Gemini in Gmail - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/14355636?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/collaborate-with-gemini-in-gmail-computer-gmail-help-5e84d21b.md"
+  },
+  {
+    "title": "Draft emails with Gemini in Gmail - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/13955415?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/draft-emails-with-gemini-in-gmail-computer-gmail-help-30929ecf.md"
+  },
+  {
+    "title": "Gemini in Gmail",
+    "source_url": "https://workspace.google.com/products/gmail/ai?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/gemini-in-gmail-3a6a32df.md"
+  },
+  {
+    "title": "Gemini in Gmail",
+    "source_url": "https://workspace.google.com/intl/en_ca/products/gmail/ai?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/gemini-in-gmail-62b7ae24.md"
+  },
+  {
+    "title": "GeminiÂ inÂ Gmail",
+    "source_url": "https://workspace.google.com/intl/en_uk/products/gmail/ai?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/gemini-in-gmail-7542f2a8.md"
+  },
+  {
+    "title": "Learn about Gemini features in Gmail - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/16831098?hl=en",
+    "product_area": "gmail",
+    "path": "docs/gmail/learn-about-gemini-features-in-gmail-gmail-help-a7fe2a47.md"
+  },
+  {
+    "title": "AI-powered video creation for work",
+    "source_url": "https://workspace.google.com/products/vids?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/ai-powered-video-creation-for-work-0f23c1c2.md"
+  },
+  {
+    "title": "AI-powered video creation for work",
+    "source_url": "https://workspace.google.com/intl/en_ca/products/vids?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/ai-powered-video-creation-for-work-4c1bc809.md"
+  },
+  {
+    "title": "AI-powered video creation for work",
+    "source_url": "https://workspace.google.com/intl/en_uk/products/vids?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/ai-powered-video-creation-for-work-d1c1295e.md"
+  },
+  {
+    "title": "Google Vids",
+    "source_url": "https://workspace.google.com/blog/google-vids?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/google-vids-c498df1e.md"
+  },
+  {
+    "title": "Try Google Vids for business",
+    "source_url": "https://workspace.google.com/intl/en_uk/products/vids/for-work?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/try-google-vids-for-business-94c32466.md"
+  },
+  {
+    "title": "Try Google Vids for business",
+    "source_url": "https://workspace.google.com/intl/en_ca/products/vids/for-work?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/try-google-vids-for-business-a06e761a.md"
+  },
+  {
+    "title": "Try Google Vids for business",
+    "source_url": "https://workspace.google.com/products/vids/for-work?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/try-google-vids-for-business-fe92aecf.md"
+  },
+  {
+    "title": "Workspace Drop: New easy ways to create and share videos with AI in Google Vids",
+    "source_url": "https://workspace.google.com/blog/product-announcements/workspace-drops-create-and-share-videos-with-ai-in-google-vids?hl=en",
+    "product_area": "google-vids",
+    "path": "docs/google-vids/workspace-drop-new-easy-ways-to-create-and-share-videos-with-ai-in-google-vids-e573ed46.md"
+  },
+  {
+    "title": "Ask Gemini in Google Meet - Computer - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/16024610?hl=en",
+    "product_area": "meet",
+    "path": "docs/meet/ask-gemini-in-google-meet-computer-google-meet-help-4968ce14.md"
+  },
+  {
+    "title": "Create background images with Gemini in Google Meet - Computer - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/13954947?hl=en",
+    "product_area": "meet",
+    "path": "docs/meet/create-background-images-with-gemini-in-google-meet-computer-google-meet-help-1fd66d19.md"
+  },
+  {
+    "title": "Enhance your video & audio with Gemini in Google Meet - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/14441737?hl=en",
+    "product_area": "meet",
+    "path": "docs/meet/enhance-your-video-audio-with-gemini-in-google-meet-google-meet-help-0fc065ab.md"
+  },
+  {
+    "title": "Take notes for me in Google Meet - Computer - Google Meet Help",
+    "source_url": "https://support.google.com/meet/answer/14754931?hl=en",
+    "product_area": "meet",
+    "path": "docs/meet/take-notes-for-me-in-google-meet-computer-google-meet-help-7e499203.md"
+  },
+  {
+    "title": "How Augustana University is building its future with Google Workspace and NotebookLM",
+    "source_url": "https://workspace.google.com/blog/customer-stories/augustana-university-building-future-with-google-workspace-and-notebooklm?hl=en",
+    "product_area": "notebooklm",
+    "path": "docs/notebooklm/how-augustana-university-is-building-its-future-with-google-workspace-and-notebo-ca949b1f.md"
+  },
+  {
+    "title": "NotebookLM for business",
+    "source_url": "https://workspace.google.com/products/notebooklm?hl=en",
+    "product_area": "notebooklm",
+    "path": "docs/notebooklm/notebooklm-for-business-04592377.md"
+  },
+  {
+    "title": "NotebookLM for business",
+    "source_url": "https://workspace.google.com/intl/en_uk/products/notebooklm?hl=en",
+    "product_area": "notebooklm",
+    "path": "docs/notebooklm/notebooklm-for-business-3ca9476b.md"
+  },
+  {
+    "title": "NotebookLM for business",
+    "source_url": "https://workspace.google.com/intl/en_ca/products/notebooklm?hl=en",
+    "product_area": "notebooklm",
+    "path": "docs/notebooklm/notebooklm-for-business-93559f7c.md"
+  },
+  {
+    "title": "Unleashing the power of NotebookLM: Your AI research and learning companion",
+    "source_url": "https://workspace.google.com/learning/content/google-workspace-notebooklm-ebook?hl=en",
+    "product_area": "notebooklm",
+    "path": "docs/notebooklm/unleashing-the-power-of-notebooklm-your-ai-research-and-learning-companion-4bd4aa99.md"
+  },
+  {
+    "title": "Add-ons overview Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/add-ons/overview?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/add-ons-overview-stay-organized-with-collections-save-and-categorize-content-bas-90e13346.md"
+  },
+  {
+    "title": "Answer questions based on Chat conversations with a Gemini AI Chat app Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/add-ons/samples/tutorial-ai-knowledge-assistant?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/answer-questions-based-on-chat-conversations-with-a-gemini-ai-chat-app-stay-orga-1509277e.md"
+  },
+  {
+    "title": "Build with AI for Google Workspace Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/guides/ai-overview?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/build-with-ai-for-google-workspace-stay-organized-with-collections-save-and-cate-e9d228a1.md"
+  },
+  {
+    "title": "Extend the Editors with Google Workspace add-ons Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/add-ons/editors/gsao?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/extend-the-editors-with-google-workspace-add-ons-stay-organized-with-collections-74291372.md"
+  },
+  {
+    "title": "Gemini in Workspace Apps Activity Events Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/admin/reports/v1/appendix/activity/gemini-in-workspace-apps?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/gemini-in-workspace-apps-activity-events-stay-organized-with-collections-save-an-ab6a714b.md"
+  },
+  {
+    "title": "Google",
+    "source_url": "https://developers.google.com/workspace/newsletters/issues/2025-june?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/google-i-o-recap-2a53898b.md"
+  },
+  {
+    "title": "Google Workspace Developer Tools Stay organized with collections Save and categorize content based on your preferences.",
+    "source_url": "https://developers.google.com/workspace/guides/developer-tools?hl=en",
+    "product_area": "workspace-developers",
+    "path": "docs/workspace-developers/google-workspace-developer-tools-stay-organized-with-collections-save-and-catego-76560702.md"
+  },
+  {
+    "title": "Gemini for Google Workspace cheat sheet - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14143478?hl=en",
+    "product_area": "workspace-learning-center",
+    "path": "docs/workspace-learning-center/gemini-for-google-workspace-cheat-sheet-google-workspace-learning-center-f25c1fff.md"
+  },
+  {
+    "title": "Generative AI training & help - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14506784?hl=en",
+    "product_area": "workspace-learning-center",
+    "path": "docs/workspace-learning-center/generative-ai-training-help-google-workspace-learning-center-49b30e73.md"
+  },
+  {
+    "title": "Use generative AI at work - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/14628736?hl=en",
+    "product_area": "workspace-learning-center",
+    "path": "docs/workspace-learning-center/use-generative-ai-at-work-google-workspace-learning-center-1e3ab82a.md"
+  },
+  {
+    "title": "Use the side panel to collaborate with Gemini - Google Workspace Learning Center",
+    "source_url": "https://support.google.com/a/users/answer/15146419?hl=en",
+    "product_area": "workspace-learning-center",
+    "path": "docs/workspace-learning-center/use-the-side-panel-to-collaborate-with-gemini-google-workspace-learning-center-fea25226.md"
+  },
+  {
+    "title": "3 ways Gen AI will impact the way we work this year",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/3-ways-gen-ai-will-impact-way-we-work?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/3-ways-gen-ai-will-impact-the-way-we-work-this-year-3dd7366a.md"
+  },
+  {
+    "title": "5 ways Gemini for Workspace keeps sellers and marketers customer-focused and in sync",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/5-ways-gemini-workspace-keeps-sellers-and-marketers-customer-focused-and-in-sync?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/5-ways-gemini-for-workspace-keeps-sellers-and-marketers-customer-focused-and-in-566a2f59.md"
+  },
+  {
+    "title": "5 ways to unlock a culture of experimentation with gen AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/5-ways-to-unlock-a-culture-of-experimentation-with-gen-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/5-ways-to-unlock-a-culture-of-experimentation-with-gen-ai-f249735a.md"
+  },
+  {
+    "title": "A practical guide for using AI in your everyday work",
+    "source_url": "https://workspace.google.com/learning/content/google-workspace-guide-for-using-ai-at-work?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/a-practical-guide-for-using-ai-in-your-everyday-work-210aa8e9.md"
+  },
+  {
+    "title": "AI and Machine Learning",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-and-machine-learning-c9e2102d.md"
+  },
+  {
+    "title": "AI consulting firm Devoteam rolls out 4,000 Gemini for Workspace licenses across all business units",
+    "source_url": "https://workspace.google.com/blog/customer-stories/devoteam-rolls-out-4000-gemini-workspace-licenses?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-consulting-firm-devoteam-rolls-out-4-000-gemini-for-workspace-licenses-across-144f09dc.md"
+  },
+  {
+    "title": "AI for email marketing",
+    "source_url": "https://workspace.google.com/resources/ai-email-marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-email-marketing-35e28d73.md"
+  },
+  {
+    "title": "AI for email marketing",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai-email-marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-email-marketing-b21fff1b.md"
+  },
+  {
+    "title": "AI for email marketing",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/ai-email-marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-email-marketing-bc3c31c9.md"
+  },
+  {
+    "title": "AI for project management",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/project-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-project-management-7129a60b.md"
+  },
+  {
+    "title": "AI for project management",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/project-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-project-management-86c698a7.md"
+  },
+  {
+    "title": "AI for project management",
+    "source_url": "https://workspace.google.com/solutions/ai/project-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-project-management-fac4444e.md"
+  },
+  {
+    "title": "AI for small business",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai-for-small-business?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-small-business-44c73ea8.md"
+  },
+  {
+    "title": "AI for small business",
+    "source_url": "https://workspace.google.com/resources/ai-for-small-business?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-for-small-business-465c3cfd.md"
+  },
+  {
+    "title": "AI note taking",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/ai-note-taking?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-note-taking-07eb230e.md"
+  },
+  {
+    "title": "AI note-taking",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/ai-note-taking?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-note-taking-17d9f2dc.md"
+  },
+  {
+    "title": "AI note taking",
+    "source_url": "https://workspace.google.com/solutions/ai/ai-note-taking?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-note-taking-fefa6f3a.md"
+  },
+  {
+    "title": "AI tools for a better way to work",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-a-better-way-to-work-03790563.md"
+  },
+  {
+    "title": "AI tools for a better way to work",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-a-better-way-to-work-7eb5c0da.md"
+  },
+  {
+    "title": "AI tools for a better way to work",
+    "source_url": "https://workspace.google.com/solutions/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-a-better-way-to-work-8c57d27e.md"
+  },
+  {
+    "title": "AI tools for writing",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/ai-writing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-writing-701b115c.md"
+  },
+  {
+    "title": "AI tools for writing",
+    "source_url": "https://workspace.google.com/resources/ai-writing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-writing-9e4efe4d.md"
+  },
+  {
+    "title": "AI tools for writing",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai-writing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/ai-tools-for-writing-b69be96a.md"
+  },
+  {
+    "title": "All of our Beyond the prompt series in one place",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/all-our-beyond-prompt-series-in-one-place?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/all-of-our-beyond-the-prompt-series-in-one-place-d72f056f.md"
+  },
+  {
+    "title": "Attache: Transforming the menial into the magical with Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/attache-transforming-menial-magical-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/attache-transforming-the-menial-into-the-magical-with-gemini-for-google-workspac-f532e73a.md"
+  },
+  {
+    "title": "Better meetings, greater impact: How effective teams move work forward with Gemini",
+    "source_url": "https://workspace.google.com/learning/resources/better-meeings-greater-impact-gemini-webinar?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/better-meetings-greater-impact-how-effective-teams-move-work-forward-with-gemini-04686bd0.md"
+  },
+  {
+    "title": "Beyond AI Optimism",
+    "source_url": "https://workspace.google.com/learning/report/content/beyond-ai-optimism?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-ai-optimism-4d77643c.md"
+  },
+  {
+    "title": "Beyond the Prompt: ATB Financial’s 5 tips to drive Workspace with Gemini adoption",
+    "source_url": "https://workspace.google.com/blog/customer-stories/atb-financial-5-tips-to-drive-workspace-gemini-adoption?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-atb-financial-s-5-tips-to-drive-workspace-with-gemini-adoption-00705e17.md"
+  },
+  {
+    "title": "Beyond the prompt: How to create a Google Guides program to drive adoption of Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-google-guides-program-to-drive-adoption-workspace-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-how-to-create-a-google-guides-program-to-drive-adoption-of-wor-5ca46a82.md"
+  },
+  {
+    "title": "Beyond the prompt: How to measure the value Gemini brings to your company",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-measure-value-gemini-brings-your-company?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-how-to-measure-the-value-gemini-brings-to-your-company-472b2fe7.md"
+  },
+  {
+    "title": "Beyond the prompt: How Understood.org uses Gemini to reduce stress and save 10 hours per project",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-understood-uses-gemini-reduce-stress-and-save-10-hours-project?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-how-understood-org-uses-gemini-to-reduce-stress-and-save-10-ho-b6ea7efa.md"
+  },
+  {
+    "title": "Beyond the prompt: Mastering the “deep end” with generative AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-mastering-deep-end-generative-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-mastering-the-deep-end-with-generative-ai-92a946bc.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 11 — How Gemini helps me go from a blank page to being a confident storyteller",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-gemini-helps-me-be-a-confident-storyteller?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-11-how-gemini-helps-me-go-from-a-blank-page-to-being-a-co-5546abfe.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 12 — How five marketers at Google use Gemini to transform the way they work",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-12-how-five-marketers-use-gemini-transform-how-they-work?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-12-how-five-marketers-at-google-use-gemini-to-transform-t-61879410.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 13 — Google customer engineer, Pooja Jain, shares how she uses Gemini to unlock new capabilities",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-13-five-key-principles-to-enhance-prompts?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-13-google-customer-engineer-pooja-jain-shares-how-she-use-e500a0a7.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 14 — How four Googlers in Sales use Gemini to drive results",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-14-how-four-googlers-in-sales-use-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-14-how-four-googlers-in-sales-use-gemini-to-drive-results-5ca2ebc9.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 2 - 4 tips to boost your collaboration with Gemini",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-4-tips-boost-collaboration-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-2-4-tips-to-boost-your-collaboration-with-gemini-e1229c24.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 3 - You don’t have to be an engineer to write great Gen AI prompts",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-3-rethinking-prompt-engineering?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-3-you-don-t-have-to-be-an-engineer-to-write-great-gen-ai-0cc0af5e.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 4 — Using Gemini for Workspace as your sales research assistant",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-4-using-gemini-workspace-your-sales-research-assistant?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-4-using-gemini-for-workspace-as-your-sales-research-assis-d2e46c6f.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 5 — How marketers can conquer the blank page using Gemini for Workspace",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-5-marketers-conquer-blank-page?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-5-how-marketers-can-conquer-the-blank-page-using-gemini-f-a9410f95.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 6 — How to standardize and personalize customer service responses using Gemini for Workspace",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-6-personalize-customer-service-responses?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-6-how-to-standardize-and-personalize-customer-service-res-fc0a0085.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 7 — Googler Serge Lachapelle shares his lightbulb generative AI moments",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-7-googler-serge-lachapelle-shares-his-lightbulb-generative-ai-moments?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-7-googler-serge-lachapelle-shares-his-lightbulb-generativ-68736fcf.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 8 — How entrepreneurs can run competitive analysis with Gemini for Workspace",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-8-how-entrepreneurs-can-run-competitive-analysis-gemini-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-8-how-entrepreneurs-can-run-competitive-analysis-with-gem-2d5fd1fd.md"
+  },
+  {
+    "title": "Beyond the prompt: Part 9 — Googler Tony Majewski shares how he saves 8-10 hours a week and reduces burnout using Gemini for Workspace",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-9-googler-shares-how-he-saves-time-and-reduces-burnout-using-gemini-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-part-9-googler-tony-majewski-shares-how-he-saves-8-10-hours-a-3b0b249c.md"
+  },
+  {
+    "title": "Beyond the prompt: Question your way to better prompting",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-question-your-way-better-prompting?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-question-your-way-to-better-prompting-4a9f34fe.md"
+  },
+  {
+    "title": "Beyond the prompt: Resources to get started with Workspace with Gemini today",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-the-prompt-resources-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-resources-to-get-started-with-workspace-with-gemini-today-458b1776.md"
+  },
+  {
+    "title": "Beyond the prompt round-up: Our series on getting the best out of generative AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-round-our-series-getting-best-out-generative-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/beyond-the-prompt-round-up-our-series-on-getting-the-best-out-of-generative-ai-550ed0f8.md"
+  },
+  {
+    "title": "Block ransomware proliferation and easily restore files with AI in Google Drive",
+    "source_url": "https://workspace.google.com/blog/product-announcements/ai-ransomware-detection-in-google-drive?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/block-ransomware-proliferation-and-easily-restore-files-with-ai-in-google-drive-b706c014.md"
+  },
+  {
+    "title": "Building a foundation for the agentic AI era",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/building-a-foundation-for-the-agentic-ai-era?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/building-a-foundation-for-the-agentic-ai-era-e8f694f1.md"
+  },
+  {
+    "title": "Cloud Next ‘25 recap: Discover how Workspace with Gemini is driving business results with these on-demand sessions",
+    "source_url": "https://workspace.google.com/blog/events/cloud-next-25-recap-workspace-with-gemini-on-demand-sessions?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/cloud-next-25-recap-discover-how-workspace-with-gemini-is-driving-business-resul-ff0c1ada.md"
+  },
+  {
+    "title": "Docusign rapidly scales its AI strategy by enabling its global workforce with Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/docusign-rapidly-scales-its-ai-strategy-by-enabling-its-global-workforce-with-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/docusign-rapidly-scales-its-ai-strategy-by-enabling-its-global-workforce-with-ge-734b9506.md"
+  },
+  {
+    "title": "Duet AI for Google Workspace Enterprise — now available for preorder",
+    "source_url": "https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/duet-ai-for-google-workspace-enterprise-now-available-for-preorder-ccf7c589.md"
+  },
+  {
+    "title": "Enterprise-ready, secure AI",
+    "source_url": "https://workspace.google.com/security/ai-privacy?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/enterprise-ready-secure-ai-86091dca.md"
+  },
+  {
+    "title": "Enterprise-ready, secure AI",
+    "source_url": "https://workspace.google.com/intl/en_uk/security/ai-privacy?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/enterprise-ready-secure-ai-c6d07e75.md"
+  },
+  {
+    "title": "Enterprise-ready, secure AI",
+    "source_url": "https://workspace.google.com/intl/en_ca/security/ai-privacy?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/enterprise-ready-secure-ai-cd846ccb.md"
+  },
+  {
+    "title": "Enterprise security controls for Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/enterprise-security-controls-google-workspace-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/enterprise-security-controls-for-google-workspace-with-gemini-823640a5.md"
+  },
+  {
+    "title": "Equifax embraces secure generative AI with Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/equifax-embraces-secure-generative-ai-with-gemini-5bebec71.md"
+  },
+  {
+    "title": "Expanding Google AI in Workspace with new zero trust and digital sovereignty controls",
+    "source_url": "https://workspace.google.com/blog/identity-and-security/accelerating-zero-trust-and-digital-sovereignty-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/expanding-google-ai-in-workspace-with-new-zero-trust-and-digital-sovereignty-con-6e4eb508.md"
+  },
+  {
+    "title": "Forrester Total Economic Impact study of Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/learning/content/teiworkspacewithgemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/forrester-total-economic-impact-study-of-google-workspace-with-gemini-1337c79d.md"
+  },
+  {
+    "title": "From brainstorming to building teams: FinQuery innovates with Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/from-brainstorming-to-building-teams-finquery-innovates-with-gemini-for-google-w-5eac5036.md"
+  },
+  {
+    "title": "Fullstory writes collaboration into its culture with Google Workspace and Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/fullstory-collaboration-culture-with-google-workspace-and-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/fullstory-writes-collaboration-into-its-culture-with-google-workspace-and-gemini-e5302d96.md"
+  },
+  {
+    "title": "Gemini app: Generative AI for Every Organization",
+    "source_url": "https://workspace.google.com/learning/content/gemini-for-workspace-gemini-app-ebook?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-app-generative-ai-for-every-organization-37ff57d9.md"
+  },
+  {
+    "title": "Gemini for Google Workspace: A new and powerful way of working",
+    "source_url": "https://workspace.google.com/learning/content/gemini-for-workspace-handbook?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-for-google-workspace-a-new-and-powerful-way-of-working-cb280b29.md"
+  },
+  {
+    "title": "Gemini for Google Workspace: Marketing magic with Gen AI",
+    "source_url": "https://workspace.google.com/learning/content/gemini-for-marketing-handbook?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-for-google-workspace-marketing-magic-with-gen-ai-9f3f58a5.md"
+  },
+  {
+    "title": "Gemini for Google Workspace privacy, security, and compliance white paper",
+    "source_url": "https://workspace.google.com/learning/content/gemini-privacy-security-compliance-whitepaper?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-for-google-workspace-privacy-security-and-compliance-white-paper-7efe90bf.md"
+  },
+  {
+    "title": "Gemini for Google Workspace: Sales success with Gen AI",
+    "source_url": "https://workspace.google.com/learning/content/sales-handbook-gemini-for-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-for-google-workspace-sales-success-with-gen-ai-3d6f5675.md"
+  },
+  {
+    "title": "Gemini for Google Workspace: Setting a new standard for customer service",
+    "source_url": "https://workspace.google.com/learning/content/gemini-for-gws-cserv-handbook-24?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-for-google-workspace-setting-a-new-standard-for-customer-service-efb04e17.md"
+  },
+  {
+    "title": "Gemini in Google Meet",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai-for-meetings?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-meet-1782a385.md"
+  },
+  {
+    "title": "Gemini in Google Meet",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/ai-for-meetings?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-meet-f17caafc.md"
+  },
+  {
+    "title": "Gemini in Google Meet",
+    "source_url": "https://workspace.google.com/resources/ai-for-meetings?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-meet-fe680e86.md"
+  },
+  {
+    "title": "Gemini in Google Sheets",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/spreadsheet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-sheets-a8317acc.md"
+  },
+  {
+    "title": "Gemini in Google Sheets",
+    "source_url": "https://workspace.google.com/resources/spreadsheet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-sheets-e474ac28.md"
+  },
+  {
+    "title": "Gemini in Google Sheets",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/spreadsheet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/gemini-in-google-sheets-e842d737.md"
+  },
+  {
+    "title": "GenerativeÂ AI for presentations",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/presentation-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/generative-ai-for-presentations-0b84b1ff.md"
+  },
+  {
+    "title": "Generative AI for presentations",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/presentation-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/generative-ai-for-presentations-875b6967.md"
+  },
+  {
+    "title": "Generative AI for presentations",
+    "source_url": "https://workspace.google.com/resources/presentation-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/generative-ai-for-presentations-f95f4439.md"
+  },
+  {
+    "title": "Google Chat & Meet: Team collaboration transformed by Gemini",
+    "source_url": "https://workspace.google.com/learning/content/team-collaboration-transformed-by-gemini-chat-meet?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-chat-meet-team-collaboration-transformed-by-gemini-f1dfedde.md"
+  },
+  {
+    "title": "Google Workspace: AI-powered collaboration for organizations of all sizes",
+    "source_url": "https://workspace.google.com/learning/content/google-workspace-ai-powered-collaboration-for-organizations-of-all-sizes?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-ai-powered-collaboration-for-organizations-of-all-sizes-2a98048d.md"
+  },
+  {
+    "title": "Google Workspace: AI-powered collaboration for organizations of all sizes",
+    "source_url": "https://workspace.google.com/learning/content/ai-powered-collaboration?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-ai-powered-collaboration-for-organizations-of-all-sizes-cf518d01.md"
+  },
+  {
+    "title": "Google Workspace Blog",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-are-using-ai-for-business?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-blog-26b8bd97.md"
+  },
+  {
+    "title": "Google Workspace enables the future of AI-powered work for every business",
+    "source_url": "https://workspace.google.com/blog/product-announcements/empowering-businesses-with-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-enables-the-future-of-ai-powered-work-for-every-business-64112bf9.md"
+  },
+  {
+    "title": "Google Workspace extends Gemini benefits to millions of customers",
+    "source_url": "https://workspace.google.com/blog/product-announcements/google-workspace-extends-gemini-benefits-to-more-customers?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-extends-gemini-benefits-to-millions-of-customers-e0cb79fa.md"
+  },
+  {
+    "title": "Google Workspace with Gemini: 128 ways our customers are transforming how they work with AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-with-gemini-128-ways-our-customers-are-transforming-how-they-wo-ee069639.md"
+  },
+  {
+    "title": "Google Workspace with Gemini allows MERGE to build a more innovative, effective, and creative team",
+    "source_url": "https://workspace.google.com/blog/customer-stories/google-workspace-gemini-allows-merge-build-innovative-effective-and-creative-team?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/google-workspace-with-gemini-allows-merge-to-build-a-more-innovative-effective-a-b78e6ccb.md"
+  },
+  {
+    "title": "Help, not hype: AI built for how you actually work",
+    "source_url": "https://workspace.google.com/blog/product-announcements/gemini-for-help-not-hype?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/help-not-hype-ai-built-for-how-you-actually-work-14703032.md"
+  },
+  {
+    "title": "How AI is giving small businesses a major advantage",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-giving-small-businesses-a-major-advantage?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-ai-is-giving-small-businesses-a-major-advantage-990e1dbc.md"
+  },
+  {
+    "title": "How AI is helping me have better meetings",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-helping-me-have-better-meetings?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-ai-is-helping-me-have-better-meetings-227b9dcf.md"
+  },
+  {
+    "title": "How Flashpoint is building a productive, happy workforce with Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/how-flashpoint-builds-productive-happy-workforce-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-flashpoint-is-building-a-productive-happy-workforce-with-gemini-for-google-w-358f4684.md"
+  },
+  {
+    "title": "How Google AI is Used for Business | Google Workspace",
+    "source_url": "https://workspace.google.com/ai/customers?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-google-ai-is-used-for-business-google-workspace-00ab8b65.md"
+  },
+  {
+    "title": "How Google AI is Used for Business | Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en_ca/ai/customers?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-google-ai-is-used-for-business-google-workspace-c9b77e35.md"
+  },
+  {
+    "title": "How Google AI is Used for Business | Google Workspace",
+    "source_url": "https://workspace.google.com/intl/en_uk/ai/customers?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-google-ai-is-used-for-business-google-workspace-e121b041.md"
+  },
+  {
+    "title": "How MEDITECH is integrating Gemini into highly regulated healthcare workflows",
+    "source_url": "https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-meditech-is-integrating-gemini-into-highly-regulated-healthcare-workflows-eb7c1da4.md"
+  },
+  {
+    "title": "How Pepperdine University, Pennymac, and Adore Me use Gemini for Google Workspace to focus on what they do best",
+    "source_url": "https://workspace.google.com/blog/customer-stories/how-customers-use-gemini-google-workspace-focus-what-they-do-best?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-pepperdine-university-pennymac-and-adore-me-use-gemini-for-google-workspace-22bf5ae6.md"
+  },
+  {
+    "title": "How we're protecting your Google Workspace data in the era of generative AI",
+    "source_url": "https://workspace.google.com/blog/identity-and-security/protecting-your-data-era-generative-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/how-we-re-protecting-your-google-workspace-data-in-the-era-of-generative-ai-00c87e2c.md"
+  },
+  {
+    "title": "Hydro Ottawa lights up the future of work with Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/hydro-ottawa-lights-future-work-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/hydro-ottawa-lights-up-the-future-of-work-with-gemini-for-google-workspace-f4c247f1.md"
+  },
+  {
+    "title": "Incubeta drives AI performance with adoption of Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/incubeta-drives-ai-performance-with-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/incubeta-drives-ai-performance-with-adoption-of-gemini-for-google-workspace-0977643f.md"
+  },
+  {
+    "title": "Introducing Duet AI for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/product-announcements/duet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/introducing-duet-ai-for-google-workspace-06556546.md"
+  },
+  {
+    "title": "Introducing Gemini Enterprise",
+    "source_url": "https://workspace.google.com/blog/product-announcements/gemini-for-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/introducing-gemini-enterprise-ad524cc2.md"
+  },
+  {
+    "title": "Join our upcoming digital event, Gemini at Work : Unveiling the future of AI-powered productivity",
+    "source_url": "https://workspace.google.com/blog/events/six-sessions-to-attend-gemini-at-work?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/join-our-upcoming-digital-event-gemini-at-work-unveiling-the-future-of-ai-powere-4a11103f.md"
+  },
+  {
+    "title": "MAS gets more out of its creative workflows using Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/mas-gets-more-out-its-creative-workflows-using-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/mas-gets-more-out-of-its-creative-workflows-using-google-workspace-with-gemini-0bfae75c.md"
+  },
+  {
+    "title": "Mercer International unlocks $3 million a year in productivity gains using Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/mercer-international-unlocks-3-million-a-year-in-productivity-gains-using-google-928583fe.md"
+  },
+  {
+    "title": "New global research: The AI disconnect and how leaders can translate optimism into measurable impact",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/research-ai-beyond-time-savings?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/new-global-research-the-ai-disconnect-and-how-leaders-can-translate-optimism-int-9d80d674.md"
+  },
+  {
+    "title": "New in Gemini: Gems with deeper knowledge and business context",
+    "source_url": "https://workspace.google.com/blog/product-announcements/new-gemini-gems-deeper-knowledge-and-business-context?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/new-in-gemini-gems-with-deeper-knowledge-and-business-context-62c8502c.md"
+  },
+  {
+    "title": "Now Available: Duet AI for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/now-available-duet-ai-for-google-workspace-a92a6ec2.md"
+  },
+  {
+    "title": "Prompt like a pro in Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/learning/content/gemini-prompt-guide?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompt-like-a-pro-in-google-workspace-with-gemini-8f934acb.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-startups?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-0677bcb6.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-hr?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-094c543d.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-sales?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-14a1354c.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-executives?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-203fd7df.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-frontline-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-270014b1.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-administrators?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-2a2e4bc6.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-small-business?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-3d9fb4e9.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/writing-effective-prompts?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-52b7be8f.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-communications?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-68e899d6.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-76636ded.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-customer-service?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-8d244131.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-communications?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-baba766b.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-c777161b.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-frontline-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-ce7d5412.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-executives?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-dc570403.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-hr?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-ecfc7c22.md"
+  },
+  {
+    "title": "Prompting guide 101",
+    "source_url": "https://workspace.google.com/resources/ai/prompts-for-project-management?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/prompting-guide-101-ffcc08ce.md"
+  },
+  {
+    "title": "Questrade Financial Group transforms productivity using Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/customer-stories/questrade-financial-group-transforms-productivity-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/questrade-financial-group-transforms-productivity-using-google-workspace-with-ge-e41b00c6.md"
+  },
+  {
+    "title": "Scale AI adoption with AI Boost Bootcamp",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-with-ai-boost-bootcamp?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/scale-ai-adoption-with-ai-boost-bootcamp-04869cbf.md"
+  },
+  {
+    "title": "Supporting our EU customers with their DPIAs: Google's commitment to privacy and security with Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/blog/identity-and-security/dpia-support-for-google-workspace-with-gemini?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/supporting-our-eu-customers-with-their-dpias-google-s-commitment-to-privacy-and-f7faed0d.md"
+  },
+  {
+    "title": "Supporting Your Data Protection Impact Assessment (DPIA) for Google Workspace with Gemini",
+    "source_url": "https://workspace.google.com/learning/content/gemini-dpia-support-guide?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/supporting-your-data-protection-impact-assessment-dpia-for-google-workspace-with-37606474.md"
+  },
+  {
+    "title": "The real impact of AI at work",
+    "source_url": "https://workspace.google.com/intl/en_ca/ai/business-transformation?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/the-real-impact-of-ai-at-work-274aec2a.md"
+  },
+  {
+    "title": "The real impact of AI at work",
+    "source_url": "https://workspace.google.com/intl/en_uk/ai/business-transformation?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/the-real-impact-of-ai-at-work-2a68cd34.md"
+  },
+  {
+    "title": "The real impact of AI at work",
+    "source_url": "https://workspace.google.com/ai/business-transformation?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/the-real-impact-of-ai-at-work-a4ef0fc6.md"
+  },
+  {
+    "title": "Thoughtworks: Boosting productivity, professionalism, and collaboration with Gemini for Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/thoughtworks-gemini-google-workspace?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/thoughtworks-boosting-productivity-professionalism-and-collaboration-with-gemini-3f4789ae.md"
+  },
+  {
+    "title": "Transforming HR workflows with AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/turing-transforming-hr-workflows-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/transforming-hr-workflows-with-ai-f8135b7d.md"
+  },
+  {
+    "title": "Use generative AI for customer service",
+    "source_url": "https://workspace.google.com/solutions/ai/customer-service?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-customer-service-0a5bd485.md"
+  },
+  {
+    "title": "Use generative AI for customer service",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/customer-service?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-customer-service-a5e9bcfe.md"
+  },
+  {
+    "title": "Use generative AI for customer service",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/customer-service?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-customer-service-bb75f758.md"
+  },
+  {
+    "title": "Use generative AI for HR",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/hr?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-hr-5f670ae5.md"
+  },
+  {
+    "title": "Use generative AI for HR",
+    "source_url": "https://workspace.google.com/solutions/ai/hr?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-hr-ae870557.md"
+  },
+  {
+    "title": "Use generative AI for HR",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/hr?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-hr-e17f789c.md"
+  },
+  {
+    "title": "Use generative AI for marketing",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-marketing-8bb54494.md"
+  },
+  {
+    "title": "Use generative AI for marketing",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-marketing-8f82e679.md"
+  },
+  {
+    "title": "Use generative AI for marketing",
+    "source_url": "https://workspace.google.com/solutions/ai/marketing?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-marketing-bce9207a.md"
+  },
+  {
+    "title": "Use generative AI for sales",
+    "source_url": "https://workspace.google.com/intl/en_uk/solutions/ai/sales?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-sales-197ce2c3.md"
+  },
+  {
+    "title": "Use generative AI for sales",
+    "source_url": "https://workspace.google.com/intl/en_ca/solutions/ai/sales?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-sales-371885d4.md"
+  },
+  {
+    "title": "Use generative AI for sales",
+    "source_url": "https://workspace.google.com/solutions/ai/sales?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/use-generative-ai-for-sales-a73b0929.md"
+  },
+  {
+    "title": "WebFX: Powering collaboration, innovation, and idea generation with Duet AI in Google Workspace",
+    "source_url": "https://workspace.google.com/blog/customer-stories/how-webfx-uses-duet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/webfx-powering-collaboration-innovation-and-idea-generation-with-duet-ai-in-goog-77402228.md"
+  },
+  {
+    "title": "Welcome to Beyond the prompt : Our new series on getting the most out of Gemini for Workspace",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/welcome-to-beyond-the-prompt?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/welcome-to-beyond-the-prompt-our-new-series-on-getting-the-most-out-of-gemini-fo-adb5b38b.md"
+  },
+  {
+    "title": "What chess can teach leaders about AI enablement",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/what-chess-can-teach-leaders-about-ai-enablement?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/what-chess-can-teach-leaders-about-ai-enablement-52c2a893.md"
+  },
+  {
+    "title": "Work is better with Gemini",
+    "source_url": "https://workspace.google.com/intl/en_ca/resources/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/work-is-better-with-gemini-4dd9354b.md"
+  },
+  {
+    "title": "Work is better with Gemini",
+    "source_url": "https://workspace.google.com/resources/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/work-is-better-with-gemini-b970b091.md"
+  },
+  {
+    "title": "Work is better with Gemini",
+    "source_url": "https://workspace.google.com/intl/en_uk/resources/ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/work-is-better-with-gemini-bf1cfbc9.md"
+  },
+  {
+    "title": "Working at the speed of fashion trends with Duet AI",
+    "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/working-speed-fashion-trends-duet-ai?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/working-at-the-speed-of-fashion-trends-with-duet-ai-6fc625d1.md"
+  },
+  {
+    "title": "Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency",
+    "source_url": "https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency?hl=en",
+    "product_area": "workspace-site",
+    "path": "docs/workspace-site/zoppas-industries-adopts-google-workspace-with-gemini-to-boost-global-collaborat-acc10e9a.md"
+  }
+]
