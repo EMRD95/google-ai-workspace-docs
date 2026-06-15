@@ -750,6 +750,12 @@
     "path": "docs/create-with-ai-in-the-youtube-create-app-youtube-help-4bebc3b2.md"
   },
   {
+    "title": "Customise LLM backends for diagram generation in draw.io",
+    "source_url": "https://www.drawio.com/doc/faq/configure-ai-options",
+    "product_area": "external_drawio",
+    "path": "docs/customise-llm-backends-for-diagram-generation-in-draw-io-94f9d0dd.md"
+  },
+  {
     "title": "Customize Chrome themes with AI - Google Chrome Help",
     "source_url": "https://support.google.com/chrome/answer/14516713",
     "product_area": "chrome-ai",
@@ -1078,6 +1084,12 @@
     "source_url": "https://support.google.com/docs/answer/16961475?hl=en",
     "product_area": "slides",
     "path": "docs/generate-a-slide-with-gemini-in-google-slides-google-docs-editors-help-280bfe25.md"
+  },
+  {
+    "title": "Generate and validate draw.io diagrams with AI",
+    "source_url": "https://www.drawio.com/docs/reference/diagram-generation/",
+    "product_area": "external_drawio",
+    "path": "docs/generate-and-validate-draw-io-diagrams-with-ai-fcb0e59b.md"
   },
   {
     "title": "Generate Audio Overview in NotebookLM - NotebookLM Help",
@@ -1642,6 +1654,12 @@
     "source_url": "https://support.google.com/chat/answer/13340792",
     "product_area": "chat",
     "path": "docs/manage-space-settings-computer-google-chat-help-16a9a04e.md"
+  },
+  {
+    "title": "Manually edit the XML source of your draw.io diagram",
+    "source_url": "https://www.drawio.com/docs/manual/advanced/diagram-source-edit/",
+    "product_area": "external_drawio",
+    "path": "docs/manually-edit-the-xml-source-of-your-draw-io-diagram-4fc58f94.md"
   },
   {
     "title": "MAS gets more out of its creative workflows using Google Workspace with Gemini",
