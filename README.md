@@ -18,19 +18,26 @@ Excluded: Google Cloud, Vertex AI, Firebase, BigQuery, Ads, Analytics, and other
 | admin-console | 2 |
 | appsheet | 5 |
 | calendar | 2 |
-| chat | 4 |
-| docs-editors | 10 |
+| chat | 3 |
+| docs-editors | 7 |
+| drive | 3 |
+| forms | 3 |
 | gemini-apps | 1 |
-| gmail | 7 |
+| gmail | 6 |
 | google-vids | 8 |
+| keep | 3 |
+| looker-studio | 5 |
 | meet | 4 |
 | notebooklm | 5 |
-| workspace-developers | 7 |
+| sheets | 3 |
+| slides | 5 |
+| workspace-developers | 5 |
 | workspace-learning-center | 4 |
-| workspace-site | 151 |
+| workspace-site | 147 |
+| workspace-studio | 7 |
 
 
-Total documents: 210
+Total documents: 228
 
 ## Important notes
 

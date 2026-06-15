@@ -2,7 +2,6 @@
 
 Machine-readable archive of Google AI documentation for this product area.
 
-- [Answer questions based on Chat conversations with a Gemini AI Chat app Stay organized with collections Save and categorize content based on your preferences.](answer-questions-based-on-chat-conversations-with-a-gemini-ai-chat-app-stay-orga-6566c060.md) — [source](https://developers.google.com/workspace/chat/tutorial-ai-knowledge-assistant?hl=en)
 - [Build a Google Chat app with a Gemini Enterprise AI agent Stay organized with collections Save and categorize content based on your preferences.](build-a-google-chat-app-with-a-gemini-enterprise-ai-agent-stay-organized-with-co-37a1f379.md) — [source](https://developers.google.com/workspace/add-ons/chat/quickstart-ge-agent?hl=en)
 - [Collaborate with Gemini in Google Chat - Computer - Google Chat Help](collaborate-with-gemini-in-google-chat-computer-google-chat-help-0bffb825.md) — [source](https://support.google.com/chat/answer/15345722?hl=en)
 - [Get started with Ask Gemini in Google Chat - Computer - Google Chat Help](get-started-with-ask-gemini-in-google-chat-computer-google-chat-help-c3b294c2.md) — [source](https://support.google.com/chat/answer/17036303?hl=en)
