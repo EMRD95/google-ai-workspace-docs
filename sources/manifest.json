@@ -54,6 +54,24 @@
     "path": "docs/add-or-discover-new-sources-for-your-notebook-computer-notebooklm-help-cf7271a5.md"
   },
   {
+    "title": "AddOns manifest resource  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/manifest/addons",
+    "product_area": "apps-script-ai",
+    "path": "docs/addons-manifest-resource-apps-script-google-for-developers-cba6cab3.md"
+  },
+  {
+    "title": "Advanced Chat Service  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/advanced/chat",
+    "product_area": "apps-script-ai",
+    "path": "docs/advanced-chat-service-apps-script-google-for-developers-549b3688.md"
+  },
+  {
+    "title": "Advanced Google services  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/guides/services/advanced",
+    "product_area": "apps-script-ai",
+    "path": "docs/advanced-google-services-apps-script-google-for-developers-dafeec53.md"
+  },
+  {
     "title": "AI and Machine Learning",
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning?hl=en",
     "product_area": "workspace-site",
@@ -118,6 +136,12 @@
     "source_url": "https://workspace.google.com/resources/ai-for-small-business?hl=en",
     "product_area": "workspace-site",
     "path": "docs/ai-for-small-business-465c3cfd.md"
+  },
+  {
+    "title": "“AI Mode” in Search Labs - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/16296315",
+    "product_area": "search-ai",
+    "path": "docs/ai-mode-in-search-labs-computer-google-search-help-1f9fce94.md"
   },
   {
     "title": "AI note taking",
@@ -222,10 +246,22 @@
     "path": "docs/allow-or-block-workspace-service-specific-steps-studio-google-workspace-help-d89aec76.md"
   },
   {
+    "title": "Answer questions based on Chat conversations with a Gemini AI Chat app  |  Google Workspace add-ons  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/tutorial-ai-knowledge-assistant",
+    "product_area": "chat-developers",
+    "path": "docs/answer-questions-based-on-chat-conversations-with-a-gemini-ai-chat-app-google-worksp-a2ad9b9e.md"
+  },
+  {
     "title": "APAC Landing Page GWS Prompt Guide 101 | Google Workspace",
     "source_url": "https://workspace.google.com/learning/resources/apac-gws-prompt-guide-101",
     "product_area": "workspace-site",
     "path": "docs/apac-landing-page-gws-prompt-guide-101-google-workspace-56226c97.md"
+  },
+  {
+    "title": "Ask Gemini in Chrome to complete tasks for you with auto browse - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16821166",
+    "product_area": "chrome-ai",
+    "path": "docs/ask-gemini-in-chrome-to-complete-tasks-for-you-with-auto-browse-google-chrome-help-72b02cd4.md"
   },
   {
     "title": "Ask Gemini in Google Meet - Computer - Google Meet Help",
@@ -234,10 +270,28 @@
     "path": "docs/ask-gemini-in-google-meet-computer-google-meet-help-4968ce14.md"
   },
   {
+    "title": "Ask questions in Google Maps - Computer - Google Maps Help",
+    "source_url": "https://support.google.com/maps/answer/16842041",
+    "product_area": "maps-ai",
+    "path": "docs/ask-questions-in-google-maps-computer-google-maps-help-fd4b88ae.md"
+  },
+  {
     "title": "Attache: Transforming the menial into the magical with Gemini for Google Workspace",
     "source_url": "https://workspace.google.com/blog/customer-stories/attache-transforming-menial-magical-gemini-google-workspace?hl=en",
     "product_area": "workspace-site",
     "path": "docs/attache-transforming-the-menial-into-the-magical-with-gemini-for-google-workspac-f532e73a.md"
+  },
+  {
+    "title": "Authenticate and authorize Chat apps and Google Chat API requests  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/authenticate-authorize",
+    "product_area": "chat-developers",
+    "path": "docs/authenticate-and-authorize-chat-apps-and-google-chat-api-requests-google-for-develop-698eead9.md"
+  },
+  {
+    "title": "Authenticate as a Google Chat app  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/authenticate-authorize-chat-app",
+    "product_area": "chat-developers",
+    "path": "docs/authenticate-as-a-google-chat-app-google-for-developers-dbf2c861.md"
   },
   {
     "title": "Best practices for using AI in automations - AppSheet Help",
@@ -372,10 +426,52 @@
     "path": "docs/block-ransomware-proliferation-and-easily-restore-files-with-ai-in-google-drive-b706c014.md"
   },
   {
+    "title": "Build a Dialogflow CX Google Chat app that understands and responds with natural language  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/build-dialogflow-chat-app-natural-language",
+    "product_area": "chat-developers",
+    "path": "docs/build-a-dialogflow-cx-google-chat-app-that-understands-and-responds-with-natural-lan-f2b4ca13.md"
+  },
+  {
+    "title": "Build a Google Chat app as a webhook  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/quickstart/webhooks",
+    "product_area": "chat-developers",
+    "path": "docs/build-a-google-chat-app-as-a-webhook-google-for-developers-f2d523bb.md"
+  },
+  {
+    "title": "Build a Google Chat app behind a firewall with Pub/Sub  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/quickstart/pub-sub",
+    "product_area": "chat-developers",
+    "path": "docs/build-a-google-chat-app-behind-a-firewall-with-pub-sub-google-for-developers-81060285.md"
+  },
+  {
     "title": "Build a Google Chat app with a Gemini Enterprise AI agent Stay organized with collections Save and categorize content based on your preferences.",
     "source_url": "https://developers.google.com/workspace/add-ons/chat/quickstart-ge-agent?hl=en",
     "product_area": "chat",
     "path": "docs/build-a-google-chat-app-with-a-gemini-enterprise-ai-agent-stay-organized-with-co-37a1f379.md"
+  },
+  {
+    "title": "Build a Google Chat app with Google Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/quickstart/chat-app",
+    "product_area": "apps-script-ai",
+    "path": "docs/build-a-google-chat-app-with-google-apps-script-google-for-developers-17092387.md"
+  },
+  {
+    "title": "Build a Google Chat app with Google Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/quickstart/apps-script-app",
+    "product_area": "chat-developers",
+    "path": "docs/build-a-google-chat-app-with-google-apps-script-google-for-developers-e461c690.md"
+  },
+  {
+    "title": "Build an HTTP Google Chat app  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/quickstart/gcf-app",
+    "product_area": "chat-developers",
+    "path": "docs/build-an-http-google-chat-app-google-for-developers-7893fd2b.md"
+  },
+  {
+    "title": "Build an interactive Google Chat app  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/interact-users-overview",
+    "product_area": "chat-developers",
+    "path": "docs/build-an-interactive-google-chat-app-google-for-developers-1c4d5256.md"
   },
   {
     "title": "Build or edit entire spreadsheets with Gemini in Sheets - Google Docs Editors Help",
@@ -402,6 +498,42 @@
     "path": "docs/calendar-meet-settings-for-take-notes-for-me-google-meet-help-9fce6d52.md"
   },
   {
+    "title": "Chat apps built by Google - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/9649420",
+    "product_area": "chat",
+    "path": "docs/chat-apps-built-by-google-google-chat-help-38aae835.md"
+  },
+  {
+    "title": "Choose a Google Chat app architecture  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/structure",
+    "product_area": "chat-developers",
+    "path": "docs/choose-a-google-chat-app-architecture-google-for-developers-58021a27.md"
+  },
+  {
+    "title": "Chrome—Generative AI features and policies - Chrome Enterprise and Education Help",
+    "source_url": "https://support.google.com/chrome/a/answer/14443058",
+    "product_area": "chrome-enterprise-ai",
+    "path": "docs/chrome-generative-ai-features-and-policies-chrome-enterprise-and-education-help-111ef72e.md"
+  },
+  {
+    "title": "Class ChatActionResponse  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/reference/card-service/chat-action-response",
+    "product_area": "apps-script-ai",
+    "path": "docs/class-chatactionresponse-apps-script-google-for-developers-f864351f.md"
+  },
+  {
+    "title": "Class ChatResponse  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/reference/card-service/chat-response",
+    "product_area": "apps-script-ai",
+    "path": "docs/class-chatresponse-apps-script-google-for-developers-d78c2723.md"
+  },
+  {
+    "title": "Class ChatSpaceDataSource  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/reference/card-service/chat-space-data-source",
+    "product_area": "apps-script-ai",
+    "path": "docs/class-chatspacedatasource-apps-script-google-for-developers-8f5f9c87.md"
+  },
+  {
     "title": "Collaborate with Gemini in Gmail - Computer - Gmail Help",
     "source_url": "https://support.google.com/mail/answer/14355636?hl=en",
     "product_area": "gmail",
@@ -418,6 +550,12 @@
     "source_url": "https://support.google.com/chat/answer/15345722?hl=en",
     "product_area": "chat",
     "path": "docs/collaborate-with-gemini-in-google-chat-computer-google-chat-help-0bffb825.md"
+  },
+  {
+    "title": "Collaborate with Gemini in Google Chat (Workspace Experiments) - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/15395284",
+    "product_area": "chat",
+    "path": "docs/collaborate-with-gemini-in-google-chat-workspace-experiments-computer-google-chat-he-5dc77b33.md"
   },
   {
     "title": "Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help",
@@ -468,10 +606,22 @@
     "path": "docs/compare-google-ai-expansion-add-ons-getting-started-google-workspace-help-1fa25b17.md"
   },
   {
+    "title": "Configure the Chat MCP server  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/api/guides/configure-mcp-server",
+    "product_area": "chat-developers",
+    "path": "docs/configure-the-chat-mcp-server-google-chat-google-for-developers-8746e948.md"
+  },
+  {
     "title": "Connect flows to other services with webhooks - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16521900",
     "product_area": "workspace-studio",
     "path": "docs/connect-flows-to-other-services-with-webhooks-workspace-studio-help-8f651c2a.md"
+  },
+  {
+    "title": "Connect the Google Workspace app to Gemini Apps - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/15229592",
+    "product_area": "gemini-apps",
+    "path": "docs/connect-the-google-workspace-app-to-gemini-apps-gemini-apps-help-045ae31a.md"
   },
   {
     "title": "Control Gemini App access to Workspace services  |  Google Workspace Help",
@@ -552,6 +702,12 @@
     "path": "docs/create-calculated-fields-with-gemini-assistance-data-studio-google-cloud-documentation-9374845c.md"
   },
   {
+    "title": "Create content for Shorts using AI-generated features - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/15260303",
+    "product_area": "youtube-ai",
+    "path": "docs/create-content-for-shorts-using-ai-generated-features-youtube-help-64727e48.md"
+  },
+  {
     "title": "Create Content, Images & Audio Overviews with Gemini in Drive - Computer - Google Drive Help",
     "source_url": "https://support.google.com/drive/answer/16685527",
     "product_area": "drive",
@@ -576,16 +732,52 @@
     "path": "docs/create-personalized-documents-with-gemini-in-google-docs-google-docs-editors-hel-d7209edd.md"
   },
   {
+    "title": "Create, use & manage your avatar on YouTube - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/16985237",
+    "product_area": "youtube-ai",
+    "path": "docs/create-use-manage-your-avatar-on-youtube-youtube-help-30bd1d5a.md"
+  },
+  {
     "title": "Create voiceovers with AI in Google Vids - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/15070345",
     "product_area": "google-vids",
     "path": "docs/create-voiceovers-with-ai-in-google-vids-google-docs-editors-help-cda0f6e8.md"
   },
   {
+    "title": "Create with AI in the YouTube Create app - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/16631240",
+    "product_area": "youtube-ai",
+    "path": "docs/create-with-ai-in-the-youtube-create-app-youtube-help-4bebc3b2.md"
+  },
+  {
+    "title": "Customize Chrome themes with AI - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/14516713",
+    "product_area": "chrome-ai",
+    "path": "docs/customize-chrome-themes-with-ai-google-chrome-help-ad858bcb.md"
+  },
+  {
+    "title": "Customize your Gemini in Chrome experience - Computer - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16988996",
+    "product_area": "chrome-ai",
+    "path": "docs/customize-your-gemini-in-chrome-experience-computer-google-chrome-help-7fb62b38.md"
+  },
+  {
     "title": "Data agents in Data Studio  |  Google Cloud Documentation",
     "source_url": "https://cloud.google.com/looker/docs/studio/conversational-data-agents?hl=en",
     "product_area": "looker-studio",
     "path": "docs/data-agents-in-data-studio-google-cloud-documentation-ec1946bf.md"
+  },
+  {
+    "title": "Develop with Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/overview",
+    "product_area": "chat-developers",
+    "path": "docs/develop-with-google-chat-google-for-developers-1f260c06.md"
+  },
+  {
+    "title": "Disclosing use of GenAI content - Computer - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/14328491",
+    "product_area": "youtube-ai",
+    "path": "docs/disclosing-use-of-genai-content-computer-youtube-help-b6ac4565.md"
   },
   {
     "title": "Docusign rapidly scales its AI strategy by enabling its global workforce with Gemini",
@@ -618,10 +810,22 @@
     "path": "docs/edit-videos-stored-in-google-drive-with-google-vids-google-docs-editors-help-13ded91d.md"
   },
   {
+    "title": "Edit your photos - Computer - Google Photos Help",
+    "source_url": "https://support.google.com/photos/answer/6128850",
+    "product_area": "photos-ai",
+    "path": "docs/edit-your-photos-computer-google-photos-help-ee3241be.md"
+  },
+  {
     "title": "Enable and use the Code Interpreter  |  Data Studio  |  Google Cloud Documentation",
     "source_url": "https://cloud.google.com/looker/docs/studio/conversational-analytics-code-interpreter?hl=en",
     "product_area": "looker-studio",
     "path": "docs/enable-and-use-the-code-interpreter-data-studio-google-cloud-documentation-031cb36c.md"
+  },
+  {
+    "title": "Enhance learning with Learn About - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/15662709",
+    "product_area": "search-ai",
+    "path": "docs/enhance-learning-with-learn-about-google-search-help-d3db231b.md"
   },
   {
     "title": "Enhance your video & audio with Gemini in Google Meet - Google Meet Help",
@@ -654,6 +858,12 @@
     "path": "docs/enterprise-security-controls-for-google-workspace-with-gemini-823640a5.md"
   },
   {
+    "title": "Enum ResponseType  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/reference/card-service/response-type",
+    "product_area": "apps-script-ai",
+    "path": "docs/enum-responsetype-apps-script-google-for-developers-d28114c8.md"
+  },
+  {
     "title": "Equifax embraces secure generative AI with Gemini",
     "source_url": "https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units?hl=en",
     "product_area": "workspace-site",
@@ -666,6 +876,12 @@
     "path": "docs/expanding-google-ai-in-workspace-with-new-zero-trust-and-digital-sovereignty-con-6e4eb508.md"
   },
   {
+    "title": "Explore Inspiration tab on YouTube - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/15575509",
+    "product_area": "youtube-ai",
+    "path": "docs/explore-inspiration-tab-on-youtube-youtube-help-546161a0.md"
+  },
+  {
     "title": "Extend Google Workspace Studio  |  Google Workspace add-ons  |  Google for Developers",
     "source_url": "https://developers.google.com/workspace/add-ons/studio",
     "product_area": "workspace-studio",
@@ -676,6 +892,24 @@
     "source_url": "https://developers.google.com/workspace/add-ons/editors/gsao?hl=en",
     "product_area": "workspace-developers",
     "path": "docs/extend-the-editors-with-google-workspace-add-ons-stay-organized-with-collections-74291372.md"
+  },
+  {
+    "title": "Fact-check statements with an ADK AI agent and Gemini model  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/samples/custom-functions/fact-check",
+    "product_area": "apps-script-ai",
+    "path": "docs/fact-check-statements-with-an-adk-ai-agent-and-gemini-model-apps-script-google-for-d-37d81ba6.md"
+  },
+  {
+    "title": "Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/14901683",
+    "product_area": "search-ai",
+    "path": "docs/find-information-in-faster-easier-ways-with-ai-overviews-in-google-search-computer-g-927ef31b.md"
+  },
+  {
+    "title": "Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/13572151",
+    "product_area": "search-ai",
+    "path": "docs/find-information-in-faster-easier-ways-with-ai-overviews-in-google-search-computer-g-9283c97b.md"
   },
   {
     "title": "Find times to meet in Google Calendar - Computer - Google Calendar Help",
@@ -724,6 +958,12 @@
     "source_url": "https://workspace.google.com/learning/content/gemini-for-workspace-gemini-app-ebook?hl=en",
     "product_area": "workspace-site",
     "path": "docs/gemini-app-generative-ai-for-every-organization-37ff57d9.md"
+  },
+  {
+    "title": "Gemini features in Photos privacy hub - Google Photos Help",
+    "source_url": "https://support.google.com/photos/answer/15344015",
+    "product_area": "photos-ai",
+    "path": "docs/gemini-features-in-photos-privacy-hub-google-photos-help-dae93081.md"
   },
   {
     "title": "Gemini for App Creation FAQ - AppSheet Help",
@@ -894,6 +1134,24 @@
     "path": "docs/generative-ai-training-help-google-workspace-learning-center-49b30e73.md"
   },
   {
+    "title": "Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/16420827",
+    "product_area": "search-ai",
+    "path": "docs/get-ai-powered-responses-with-ai-mode-in-google-search-computer-google-search-help-048f89de.md"
+  },
+  {
+    "title": "Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/16011537",
+    "product_area": "search-ai",
+    "path": "docs/get-ai-powered-responses-with-ai-mode-in-google-search-computer-google-search-help-4df1d0f0.md"
+  },
+  {
+    "title": "Get an AI Overview in Gmail search - Computer - Gmail Help",
+    "source_url": "https://support.google.com/mail/answer/16789526",
+    "product_area": "gmail",
+    "path": "docs/get-an-ai-overview-in-gmail-search-computer-gmail-help-7d55a97a.md"
+  },
+  {
     "title": "Get more done with Gemini in Docs",
     "source_url": "https://workspace.google.com/products/docs/ai?hl=en",
     "product_area": "docs-editors",
@@ -960,6 +1218,18 @@
     "path": "docs/get-started-with-google-workspace-with-gemini-business-enterprise-google-docs-ed-ed5a854f.md"
   },
   {
+    "title": "Get started with Help me write in Chrome - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/14582048",
+    "product_area": "chrome-ai",
+    "path": "docs/get-started-with-help-me-write-in-chrome-google-chrome-help-7e6a3a8a.md"
+  },
+  {
+    "title": "Get started with the Gemini mobile app - Android - Android Help",
+    "source_url": "https://support.google.com/android/answer/14554984",
+    "product_area": "android-ai",
+    "path": "docs/get-started-with-the-gemini-mobile-app-android-android-help-a9626c23.md"
+  },
+  {
     "title": "Get started with the NotebookLM mobile app - iPhone & iPad - NotebookLM Help",
     "source_url": "https://support.google.com/notebooklm/answer/16296687?hl=en&co=GENIE.Platform%3DiOS",
     "product_area": "notebooklm",
@@ -1000,6 +1270,24 @@
     "source_url": "https://support.google.com/drive/answer/16686465?hl=en",
     "product_area": "drive",
     "path": "docs/get-updates-summaries-on-your-files-with-gemini-in-drive-computer-google-drive-help-a30c824c.md"
+  },
+  {
+    "title": "Go Live with Gemini in Chrome - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16363185",
+    "product_area": "chrome-ai",
+    "path": "docs/go-live-with-gemini-in-chrome-google-chrome-help-6cad8812.md"
+  },
+  {
+    "title": "Google Apps Script quickstart  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/api/guides/quickstart/apps-script",
+    "product_area": "chat-developers",
+    "path": "docs/google-apps-script-quickstart-google-chat-google-for-developers-bba2c4e2.md"
+  },
+  {
+    "title": "Google Chat app samples  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/samples",
+    "product_area": "chat-developers",
+    "path": "docs/google-chat-app-samples-google-for-developers-af5dc587.md"
   },
   {
     "title": "Google Chat & Meet: Team collaboration transformed by Gemini",
@@ -1128,6 +1416,12 @@
     "path": "docs/how-ai-is-helping-me-have-better-meetings-227b9dcf.md"
   },
   {
+    "title": "How AI-powered features use your data in Google Maps - Google Maps Help",
+    "source_url": "https://support.google.com/maps/answer/16833938",
+    "product_area": "maps-ai",
+    "path": "docs/how-ai-powered-features-use-your-data-in-google-maps-google-maps-help-e531099a.md"
+  },
+  {
     "title": "How Augustana University is building its future with Google Workspace and NotebookLM",
     "source_url": "https://workspace.google.com/blog/customer-stories/augustana-university-building-future-with-google-workspace-and-notebooklm?hl=en",
     "product_area": "notebooklm",
@@ -1206,6 +1500,12 @@
     "path": "docs/improve-polish-your-writing-google-workspace-learning-center-3d50e397.md"
   },
   {
+    "title": "Improve your Chat messages with Refine - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/16512046",
+    "product_area": "chat",
+    "path": "docs/improve-your-chat-messages-with-refine-google-chat-help-418bdcd3.md"
+  },
+  {
     "title": "Incubeta drives AI performance with adoption of Gemini for Google Workspace",
     "source_url": "https://workspace.google.com/blog/customer-stories/incubeta-drives-ai-performance-with-gemini-google-workspace?hl=en",
     "product_area": "workspace-site",
@@ -1224,6 +1524,12 @@
     "path": "docs/join-our-upcoming-digital-event-gemini-at-work-unveiling-the-future-of-ai-powere-4a11103f.md"
   },
   {
+    "title": "Learn about Ask Studio in YouTube Studio - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/16291691",
+    "product_area": "youtube-ai",
+    "path": "docs/learn-about-ask-studio-in-youtube-studio-youtube-help-22ed5861.md"
+  },
+  {
     "title": "Learn about availability of Gemini features in Google Vids - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/15609411",
     "product_area": "google-vids",
@@ -1236,10 +1542,22 @@
     "path": "docs/learn-about-gemini-features-in-gmail-gmail-help-a7fe2a47.md"
   },
   {
+    "title": "Learn about generative AI - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/13954172",
+    "product_area": "search-ai",
+    "path": "docs/learn-about-generative-ai-google-search-help-f015f265.md"
+  },
+  {
     "title": "Learn about Google Workspace Studio limits - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16765942",
     "product_area": "workspace-studio",
     "path": "docs/learn-about-google-workspace-studio-limits-workspace-studio-help-1596aa2b.md"
+  },
+  {
+    "title": "Learn about information stored on your photos - Computer - Google Photos Help",
+    "source_url": "https://support.google.com/photos/answer/15532903",
+    "product_area": "photos-ai",
+    "path": "docs/learn-about-information-stored-on-your-photos-computer-google-photos-help-0813047a.md"
   },
   {
     "title": "Learn about NotebookLM - Computer - NotebookLM Help",
@@ -1260,10 +1578,22 @@
     "path": "docs/learn-about-smart-features-controls-for-google-workspace-other-google-products-c-4f5f5400.md"
   },
   {
+    "title": "Learn about spaces - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/7659784",
+    "product_area": "chat",
+    "path": "docs/learn-about-spaces-google-chat-help-0d7280fe.md"
+  },
+  {
     "title": "Learn how to schedule events in Gmail - Google Calendar Help",
     "source_url": "https://support.google.com/calendar/answer/16865706",
     "product_area": "calendar",
     "path": "docs/learn-how-to-schedule-events-in-gmail-google-calendar-help-30d79051.md"
+  },
+  {
+    "title": "Learn more about the conversational AI tool when watching videos - Computer - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/14110396",
+    "product_area": "youtube-ai",
+    "path": "docs/learn-more-about-the-conversational-ai-tool-when-watching-videos-computer-youtube-he-207a2ed8.md"
   },
   {
     "title": "Learn to use Gemini in your Google Drive files (Workspace Experiments) - Google Drive Help",
@@ -1290,10 +1620,28 @@
     "path": "docs/manage-access-to-gemini-features-in-workspace-services-generative-ai-google-workspace-help-e5f22e97.md"
   },
   {
+    "title": "Manage on-device Generative AI models in Chrome - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16961953",
+    "product_area": "chrome-ai",
+    "path": "docs/manage-on-device-generative-ai-models-in-chrome-google-chrome-help-3e1a21cc.md"
+  },
+  {
+    "title": "Manage projects with Google Chat, Vertex AI, and Firestore  |  Google Workspace add-ons  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/tutorial-project-management",
+    "product_area": "chat-developers",
+    "path": "docs/manage-projects-with-google-chat-vertex-ai-and-firestore-google-workspace-add-ons-go-82389d2e.md"
+  },
+  {
     "title": "Manage & share your flows in Google Workspace Studio - Workspace Studio Help",
     "source_url": "https://support.google.com/workspace-studio/answer/16766368?hl=en-GB",
     "product_area": "workspace-studio",
     "path": "docs/manage-share-your-flows-in-google-workspace-studio-workspace-studio-help-1d2de62a.md"
+  },
+  {
+    "title": "Manage space settings - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/13340792",
+    "product_area": "chat",
+    "path": "docs/manage-space-settings-computer-google-chat-help-16a9a04e.md"
   },
   {
     "title": "MAS gets more out of its creative workflows using Google Workspace with Gemini",
@@ -1302,10 +1650,28 @@
     "path": "docs/mas-gets-more-out-of-its-creative-workflows-using-google-workspace-with-gemini-0bfae75c.md"
   },
   {
+    "title": "MCP Reference: chatmcp.googleapis.com  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/api/reference/mcp",
+    "product_area": "chat-developers",
+    "path": "docs/mcp-reference-chatmcp-googleapis-com-google-chat-google-for-developers-31378072.md"
+  },
+  {
+    "title": "Meet app for Google Chat Turndown - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/7655908",
+    "product_area": "chat",
+    "path": "docs/meet-app-for-google-chat-turndown-google-chat-help-99ece205.md"
+  },
+  {
     "title": "Mercer International unlocks $3 million a year in productivity gains using Google Workspace with Gemini",
     "source_url": "https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini?hl=en",
     "product_area": "workspace-site",
     "path": "docs/mercer-international-unlocks-3-million-a-year-in-productivity-gains-using-google-928583fe.md"
+  },
+  {
+    "title": "Method: spaces.messages.create  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces.messages/create",
+    "product_area": "chat-developers",
+    "path": "docs/method-spaces-messages-create-google-chat-google-for-developers-00e948af.md"
   },
   {
     "title": "Navigate the Workspace Studio interface - Workspace Studio Help",
@@ -1488,6 +1854,48 @@
     "path": "docs/quick-start-extract-information-from-an-image-using-ai-appsheet-help-7cd05d19.md"
   },
   {
+    "title": "Quickstart: Generate text using Agent Platform  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/quickstart/vertex-ai",
+    "product_area": "apps-script-ai",
+    "path": "docs/quickstart-generate-text-using-agent-platform-apps-script-google-for-developers-a59a63bb.md"
+  },
+  {
+    "title": "Receive and respond to interaction events  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/interaction-events",
+    "product_area": "chat-developers",
+    "path": "docs/receive-and-respond-to-interaction-events-google-chat-google-for-developers-388b4ea4.md"
+  },
+  {
+    "title": "Receive and respond to interaction events  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/receive-respond-interactions",
+    "product_area": "chat-developers",
+    "path": "docs/receive-and-respond-to-interaction-events-google-chat-google-for-developers-b6ab42ec.md"
+  },
+  {
+    "title": "Respond to Google Chat app commands  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/commands",
+    "product_area": "chat-developers",
+    "path": "docs/respond-to-google-chat-app-commands-google-for-developers-2f843fbf.md"
+  },
+  {
+    "title": "Respond to Google Chat app commands  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/slash-commands",
+    "product_area": "chat-developers",
+    "path": "docs/respond-to-google-chat-app-commands-google-for-developers-592b1c9f.md"
+  },
+  {
+    "title": "Respond to incidents with Google Chat, Vertex AI, and Google Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/tutorial-incident-response-app-auth",
+    "product_area": "chat-developers",
+    "path": "docs/respond-to-incidents-with-google-chat-vertex-ai-and-google-apps-script-google-for-de-0d52e2d9.md"
+  },
+  {
+    "title": "Respond to incidents with Google Chat, Vertex AI, Apps Script, and user authentication  |  Google Workspace add-ons  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/tutorial-incident-response",
+    "product_area": "chat-developers",
+    "path": "docs/respond-to-incidents-with-google-chat-vertex-ai-apps-script-and-user-authentication-de1d1443.md"
+  },
+  {
     "title": "Role-specific prompts & use cases - Google Workspace Learning Center",
     "source_url": "https://support.google.com/a/users/answer/14667148",
     "product_area": "workspace-learning-center",
@@ -1510,6 +1918,30 @@
     "source_url": "https://support.google.com/drive/answer/16685111",
     "product_area": "drive",
     "path": "docs/search-retrieve-your-files-in-drive-with-gemini-computer-google-drive-help-db5b3384.md"
+  },
+  {
+    "title": "Search with Google Lens in Chrome - Computer - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/15086890",
+    "product_area": "chrome-ai",
+    "path": "docs/search-with-google-lens-in-chrome-computer-google-chrome-help-59e3cbdc.md"
+  },
+  {
+    "title": "Search your browsing history in Chrome with AI - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/15305774",
+    "product_area": "chrome-ai",
+    "path": "docs/search-your-browsing-history-in-chrome-with-ai-google-chrome-help-c54a0584.md"
+  },
+  {
+    "title": "Search your Chrome history with Gemini in Chrome - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16716225",
+    "product_area": "chrome-ai",
+    "path": "docs/search-your-chrome-history-with-gemini-in-chrome-google-chrome-help-eb72192a.md"
+  },
+  {
+    "title": "Send a message using the Google Chat API  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/create-messages",
+    "product_area": "chat-developers",
+    "path": "docs/send-a-message-using-the-google-chat-api-google-for-developers-70b8f442.md"
   },
   {
     "title": "Set up activity alerts for Workspace Studio  |  Google Workspace Help",
@@ -1716,6 +2148,12 @@
     "path": "docs/turn-the-gemini-app-on-or-off-google-workspace-help-0b9f06a6.md"
   },
   {
+    "title": "Understanding ‘How this content was made’ disclosures on YouTube - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/15447836",
+    "product_area": "youtube-ai",
+    "path": "docs/understanding-how-this-content-was-made-disclosures-on-youtube-youtube-help-95be95ed.md"
+  },
+  {
     "title": "Unleashing the power of NotebookLM: Your AI research and learning companion",
     "source_url": "https://workspace.google.com/learning/content/google-workspace-notebooklm-ebook?hl=en",
     "product_area": "notebooklm",
@@ -1734,16 +2172,70 @@
     "path": "docs/upgrade-notebooklm-notebooklm-help-7aa0698d.md"
   },
   {
+    "title": "Usage limits  |  Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/limits",
+    "product_area": "chat-developers",
+    "path": "docs/usage-limits-google-chat-google-for-developers-75b4339d.md"
+  },
+  {
+    "title": "Use AI Mode in Chrome - Computer - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16704170",
+    "product_area": "chrome-ai",
+    "path": "docs/use-ai-mode-in-chrome-computer-google-chrome-help-c160ec4a.md"
+  },
+  {
+    "title": "Use AI Mode to check local availability and pricing - Computer - Google Search Help",
+    "source_url": "https://support.google.com/websearch/answer/17104441",
+    "product_area": "search-ai",
+    "path": "docs/use-ai-mode-to-check-local-availability-and-pricing-computer-google-search-help-23f3b3ec.md"
+  },
+  {
+    "title": "Use AI to create with Google Photos - Android - Google Photos Help",
+    "source_url": "https://support.google.com/photos/answer/16763021",
+    "product_area": "photos-ai",
+    "path": "docs/use-ai-to-create-with-google-photos-android-google-photos-help-b800f230.md"
+  },
+  {
     "title": "Use AI to generate video clips in Google Vids - Google Docs Editors Help",
     "source_url": "https://support.google.com/docs/answer/16143507",
     "product_area": "google-vids",
     "path": "docs/use-ai-to-generate-video-clips-in-google-vids-google-docs-editors-help-716b664a.md"
   },
   {
+    "title": "Use AI to search & ask about your tabs - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/17025061",
+    "product_area": "chrome-ai",
+    "path": "docs/use-ai-to-search-ask-about-your-tabs-google-chrome-help-af2b1bfd.md"
+  },
+  {
+    "title": "Use an AI Overview in Google Chat - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/16944767",
+    "product_area": "chat",
+    "path": "docs/use-an-ai-overview-in-google-chat-google-chat-help-fed08585.md"
+  },
+  {
     "title": "Use apps connected to Gemini with a work or school Google Account - Computer - Gemini Apps Help",
     "source_url": "https://support.google.com/gemini/answer/14959807?hl=en",
     "product_area": "gemini-apps",
     "path": "docs/use-apps-connected-to-gemini-with-a-work-or-school-google-account-computer-gemini-apps-hel-30bd1957.md"
+  },
+  {
+    "title": "Use apps in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/7655820",
+    "product_area": "chat",
+    "path": "docs/use-apps-in-google-chat-computer-google-chat-help-81d44226.md"
+  },
+  {
+    "title": "Use Ask Photos for photos, information & assistance - Computer - Google Photos Help",
+    "source_url": "https://support.google.com/photos/answer/15318661",
+    "product_area": "photos-ai",
+    "path": "docs/use-ask-photos-for-photos-information-assistance-computer-google-photos-help-eac24854.md"
+  },
+  {
+    "title": "Use automatic dubbing - Computer - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/15569972",
+    "product_area": "youtube-ai",
+    "path": "docs/use-automatic-dubbing-computer-youtube-help-9b7bed89.md"
   },
   {
     "title": "Use Deep Research in Gemini Apps - Computer - Gemini Apps Help",
@@ -1762,6 +2254,18 @@
     "source_url": "https://support.google.com/docs/answer/14226603",
     "product_area": "sheets",
     "path": "docs/use-enhanced-smart-fill-with-gemini-in-google-sheets-google-docs-editors-help-30ac209e.md"
+  },
+  {
+    "title": "Use Gemini - Android Help",
+    "source_url": "https://support.google.com/android/answer/15729107",
+    "product_area": "android-ai",
+    "path": "docs/use-gemini-android-help-936cc168.md"
+  },
+  {
+    "title": "Use Gemini Apps - Computer - Android Help",
+    "source_url": "https://support.google.com/android/answer/13275745",
+    "product_area": "android-ai",
+    "path": "docs/use-gemini-apps-computer-android-help-f60bbd3e.md"
   },
   {
     "title": "Use Gemini Apps with a work or school Google Account - Business / Enterprise - Gemini Apps Help",
@@ -1800,10 +2304,22 @@
     "path": "docs/use-gemini-in-appsheet-appsheet-help-20c004c5.md"
   },
   {
+    "title": "Use Gemini in Chrome - Computer - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/16283624",
+    "product_area": "chrome-ai",
+    "path": "docs/use-gemini-in-chrome-computer-google-chrome-help-908b6b84.md"
+  },
+  {
     "title": "Use Gemini in Drive for research & analysis - Computer - Google Drive Help",
     "source_url": "https://support.google.com/drive/answer/16963068?co=GENIE.Platform%3DDesktop&hl=en-en-4",
     "product_area": "drive",
     "path": "docs/use-gemini-in-drive-for-research-analysis-computer-google-drive-help-03566b9c.md"
+  },
+  {
+    "title": "Use Gemini while you navigate - Android - Google Maps Help",
+    "source_url": "https://support.google.com/maps/answer/6041199",
+    "product_area": "maps-ai",
+    "path": "docs/use-gemini-while-you-navigate-android-google-maps-help-b6bfcae5.md"
   },
   {
     "title": "Use Gems in Gemini Apps - Computer - Gemini Apps Help",
@@ -1896,6 +2412,12 @@
     "path": "docs/use-google-workspace-studio-with-a-screen-reader-workspace-studio-help-705189f1.md"
   },
   {
+    "title": "Use & manage Connected Apps in Gemini - Computer - Gemini Apps Help",
+    "source_url": "https://support.google.com/gemini/answer/13695044",
+    "product_area": "gemini-apps",
+    "path": "docs/use-manage-connected-apps-in-gemini-computer-gemini-apps-help-7754448b.md"
+  },
+  {
     "title": "Use Mind Maps in NotebookLM - NotebookLM Help",
     "source_url": "https://support.google.com/notebooklm/answer/16212283?hl=en",
     "product_area": "notebooklm",
@@ -1926,6 +2448,12 @@
     "path": "docs/use-the-ai-function-in-google-sheets-workspace-experiments-google-docs-editors-help-ed55e151.md"
   },
   {
+    "title": "Use the Bulk Member Manager app in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/14016224",
+    "product_area": "chat",
+    "path": "docs/use-the-bulk-member-manager-app-in-google-chat-computer-google-chat-help-dfd63d09.md"
+  },
+  {
     "title": "Use the Categorize AI task in an automation - AppSheet Help",
     "source_url": "https://support.google.com/appsheet/answer/15983005?hl=en",
     "product_area": "appsheet",
@@ -1936,6 +2464,30 @@
     "source_url": "https://support.google.com/appsheet/answer/15969430?hl=en",
     "product_area": "appsheet",
     "path": "docs/use-the-extract-ai-task-in-an-automation-appsheet-help-1724e080.md"
+  },
+  {
+    "title": "Use the Gemini web app to get answers in Chrome - Google Chrome Help",
+    "source_url": "https://support.google.com/chrome/answer/14886647",
+    "product_area": "chrome-ai",
+    "path": "docs/use-the-gemini-web-app-to-get-answers-in-chrome-google-chrome-help-b9f88d1b.md"
+  },
+  {
+    "title": "Use the Jenkins app in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/9632691",
+    "product_area": "chat",
+    "path": "docs/use-the-jenkins-app-in-google-chat-computer-google-chat-help-d4cf45fe.md"
+  },
+  {
+    "title": "Use the Jira app in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/9575067",
+    "product_area": "chat",
+    "path": "docs/use-the-jira-app-in-google-chat-computer-google-chat-help-e796071a.md"
+  },
+  {
+    "title": "Use the PagerDuty app in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/12156602",
+    "product_area": "chat",
+    "path": "docs/use-the-pagerduty-app-in-google-chat-computer-google-chat-help-1b4d77dc.md"
   },
   {
     "title": "Use the side panel to collaborate with Gemini - Google Workspace Learning Center",
@@ -1950,6 +2502,12 @@
     "path": "docs/use-the-summarize-ai-task-in-an-automation-appsheet-help-d48803a4.md"
   },
   {
+    "title": "Use the Zapier app in Google Chat - Computer - Google Chat Help",
+    "source_url": "https://support.google.com/chat/answer/9470843",
+    "product_area": "chat",
+    "path": "docs/use-the-zapier-app-in-google-chat-computer-google-chat-help-00a4dd6c.md"
+  },
+  {
     "title": "Use translated captions in Google Meet - Computer - Google Meet Help",
     "source_url": "https://support.google.com/meet/answer/10964115",
     "product_area": "meet",
@@ -1960,6 +2518,18 @@
     "source_url": "https://support.google.com/workspace-studio/answer/16448468",
     "product_area": "workspace-studio",
     "path": "docs/use-variables-to-pass-data-in-your-flow-workspace-studio-help-e661eead.md"
+  },
+  {
+    "title": "Verify requests from Google Chat  |  Google for Developers",
+    "source_url": "https://developers.google.com/workspace/chat/verify-requests-from-chat",
+    "product_area": "chat-developers",
+    "path": "docs/verify-requests-from-google-chat-google-for-developers-e27839ac.md"
+  },
+  {
+    "title": "Vertex AI Service  |  Apps Script  |  Google for Developers",
+    "source_url": "https://developers.google.com/apps-script/advanced/vertex-ai",
+    "product_area": "apps-script-ai",
+    "path": "docs/vertex-ai-service-apps-script-google-for-developers-2d9e69eb.md"
   },
   {
     "title": "Watch and manage sheets with flows - Workspace Studio Help",
@@ -1978,6 +2548,12 @@
     "source_url": "https://workspace.google.com/blog/ai-and-machine-learning/welcome-to-beyond-the-prompt?hl=en",
     "product_area": "workspace-site",
     "path": "docs/welcome-to-beyond-the-prompt-our-new-series-on-getting-the-most-out-of-gemini-fo-adb5b38b.md"
+  },
+  {
+    "title": "Welcome to Gemini in Chrome - Chrome Enterprise and Education Help",
+    "source_url": "https://support.google.com/chrome/a/answer/17031592",
+    "product_area": "chrome-enterprise-ai",
+    "path": "docs/welcome-to-gemini-in-chrome-chrome-enterprise-and-education-help-1264def9.md"
   },
   {
     "title": "What chess can teach leaders about AI enablement",
@@ -2032,6 +2608,12 @@
     "source_url": "https://support.google.com/docs/answer/13951448?hl=en",
     "product_area": "docs-editors",
     "path": "docs/write-edit-with-gemini-in-docs-google-docs-editors-help-4f45466b.md"
+  },
+  {
+    "title": "Your data and using AI features on YouTube - YouTube Help",
+    "source_url": "https://support.google.com/youtube/answer/14772770",
+    "product_area": "youtube-ai",
+    "path": "docs/your-data-and-using-ai-features-on-youtube-youtube-help-5ec65c95.md"
   },
   {
     "title": "Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency",
