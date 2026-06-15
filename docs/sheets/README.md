@@ -2,10 +2,10 @@
 
 **7 documents** covering AI features in Sheets.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/sheets__*.md`
-- **Combined:** `notebooklm-bundle/combined/sheets__combined.md`
+- **All-in-one:** Drag [`../combined/sheets__combined.md`](../combined/sheets__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

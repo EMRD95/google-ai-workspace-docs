@@ -2,10 +2,10 @@
 
 **12 documents** covering AI features in Workspace Studio.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/workspace-studio__*.md`
-- **Combined:** `notebooklm-bundle/combined/workspace-studio__combined.md`
+- **All-in-one:** Drag [`../combined/workspace-studio__combined.md`](../combined/workspace-studio__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

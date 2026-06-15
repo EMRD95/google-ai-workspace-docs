@@ -2,10 +2,10 @@
 
 **3 documents** covering AI features in Keep.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/keep__*.md`
-- **Combined:** `notebooklm-bundle/combined/keep__combined.md`
+- **All-in-one:** Drag [`../combined/keep__combined.md`](../combined/keep__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

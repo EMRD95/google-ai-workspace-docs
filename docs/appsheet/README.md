@@ -2,10 +2,10 @@
 
 **9 documents** covering AI features in Appsheet.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/appsheet__*.md`
-- **Combined:** `notebooklm-bundle/combined/appsheet__combined.md`
+- **All-in-one:** Drag [`../combined/appsheet__combined.md`](../combined/appsheet__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

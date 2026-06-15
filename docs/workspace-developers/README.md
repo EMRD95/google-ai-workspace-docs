@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Workspace Developers.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/workspace-developers__*.md`
-- **Combined:** `notebooklm-bundle/combined/workspace-developers__combined.md`
+- **All-in-one:** Drag [`../combined/workspace-developers__combined.md`](../combined/workspace-developers__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

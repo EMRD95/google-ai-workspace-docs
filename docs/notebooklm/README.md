@@ -2,10 +2,10 @@
 
 **17 documents** covering AI features in Notebooklm.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/notebooklm__*.md`
-- **Combined:** `notebooklm-bundle/combined/notebooklm__combined.md`
+- **All-in-one:** Drag [`../combined/notebooklm__combined.md`](../combined/notebooklm__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

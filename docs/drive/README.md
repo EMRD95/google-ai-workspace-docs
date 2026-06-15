@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Drive.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/drive__*.md`
-- **Combined:** `notebooklm-bundle/combined/drive__combined.md`
+- **All-in-one:** Drag [`../combined/drive__combined.md`](../combined/drive__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

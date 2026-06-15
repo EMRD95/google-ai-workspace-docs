@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Looker Studio.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/looker-studio__*.md`
-- **Combined:** `notebooklm-bundle/combined/looker-studio__combined.md`
+- **All-in-one:** Drag [`../combined/looker-studio__combined.md`](../combined/looker-studio__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

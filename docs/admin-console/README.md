@@ -2,10 +2,10 @@
 
 **17 documents** covering AI features in Admin Console.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/admin-console__*.md`
-- **Combined:** `notebooklm-bundle/combined/admin-console__combined.md`
+- **All-in-one:** Drag [`../combined/admin-console__combined.md`](../combined/admin-console__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

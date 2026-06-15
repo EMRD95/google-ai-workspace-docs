@@ -2,10 +2,10 @@
 
 **4 documents** covering AI features in Chat.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/chat__*.md`
-- **Combined:** `notebooklm-bundle/combined/chat__combined.md`
+- **All-in-one:** Drag [`../combined/chat__combined.md`](../combined/chat__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

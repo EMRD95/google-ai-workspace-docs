@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Forms.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/forms__*.md`
-- **Combined:** `notebooklm-bundle/combined/forms__combined.md`
+- **All-in-one:** Drag [`../combined/forms__combined.md`](../combined/forms__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

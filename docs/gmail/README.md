@@ -2,10 +2,10 @@
 
 **9 documents** covering AI features in Gmail.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/gmail__*.md`
-- **Combined:** `notebooklm-bundle/combined/gmail__combined.md`
+- **All-in-one:** Drag [`../combined/gmail__combined.md`](../combined/gmail__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

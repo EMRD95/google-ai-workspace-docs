@@ -2,10 +2,10 @@
 
 **6 documents** covering AI features in Slides.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/slides__*.md`
-- **Combined:** `notebooklm-bundle/combined/slides__combined.md`
+- **All-in-one:** Drag [`../combined/slides__combined.md`](../combined/slides__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

@@ -2,10 +2,10 @@
 
 **7 documents** covering AI features in Docs Editors.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/docs-editors__*.md`
-- **Combined:** `notebooklm-bundle/combined/docs-editors__combined.md`
+- **All-in-one:** Drag [`../combined/docs-editors__combined.md`](../combined/docs-editors__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

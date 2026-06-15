@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Gemini Apps.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/gemini-apps__*.md`
-- **Combined:** `notebooklm-bundle/combined/gemini-apps__combined.md`
+- **All-in-one:** Drag [`../combined/gemini-apps__combined.md`](../combined/gemini-apps__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

@@ -1,16 +1,16 @@
 # Google AI Workspace Documentation Archive
 
-Machine-readable Markdown archive of public Google documentation for AI features in Google Workspace and adjacent tools — ready for NotebookLM import.
+Machine-readable Markdown archive of public Google documentation for AI features in Google Workspace and adjacent tools.
 
-**296 documents · 21 product areas · ~4.4 MB · [github.com/EMRD95/google-ai-workspace-docs](https://github.com/EMRD95/google-ai-workspace-docs)**
+**296 documents · 21 product areas · [github.com/EMRD95/google-ai-workspace-docs](https://github.com/EMRD95/google-ai-workspace-docs)**
 
 ## Quick start
 
 | Use case | Go to |
 |----------|------|
-| Import into NotebookLM | `docs/notebooklm-bundle/` — flat files + combined per-area |
-| Browse by product | `docs/{product}/README.md` for indexed product directories |
-| Machine/agent consumption | `sources/manifest.json` — full structured index |
+| Import all docs from one product into NotebookLM | `docs/combined/{area}__combined.md` — drag & drop |
+| Browse by product | `docs/{product}/README.md` |
+| Machine/agent consumption | `sources/manifest.json` |
 
 ## What's included
 
@@ -49,15 +49,29 @@ Gemini for Google Workspace across all major apps: Gmail, Docs, Sheets, Slides, 
 | chat | 4 | Summarize conversations, Ask Gemini, side panel |
 | keep | 3 | AI lists, supported languages |
 
+## Structure
+
+```
+docs/
+├── combined/                     ← 21 files, un par produit, pour NotebookLM
+│   ├── README.md
+│   ├── gmail__combined.md
+│   ├── meet__combined.md
+│   └── ...
+├── admin-console/                ← 21 dossiers produit, chacun avec ses .md
+├── appsheet/
+├── ...
+└── workspace-studio/
+```
+
 ## File conventions
 
 - Every doc has YAML frontmatter: `title`, `source_url`, `product_area`, `retrieved_at`
-- Product READMEs link to individual files and the NotebookLM bundle
-- Bundle naming: `{area}__{slug}.md` (double underscore `__` separator)
-- Combined files at `notebooklm-bundle/combined/{area}__combined.md`
+- Product READMEs index all docs in their folder + link to the combined file
+- Combined files at `docs/combined/{area}__combined.md`
 
 ## Regeneration
 
 ```bash
-python3 update_indexes.py   # Refresh manifest + READMEs (skips notebooklm-bundle)
+python3 update_indexes.py   # Refresh manifest + READMEs (skips combined/)
 ```

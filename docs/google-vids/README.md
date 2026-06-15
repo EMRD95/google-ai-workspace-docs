@@ -2,10 +2,10 @@
 
 **12 documents** covering AI features in Google Vids.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/google-vids__*.md`
-- **Combined:** `notebooklm-bundle/combined/google-vids__combined.md`
+- **All-in-one:** Drag [`../combined/google-vids__combined.md`](../combined/google-vids__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

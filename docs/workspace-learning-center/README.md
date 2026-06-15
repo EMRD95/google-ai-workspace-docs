@@ -2,10 +2,10 @@
 
 **4 documents** covering AI features in Workspace Learning Center.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/workspace-learning-center__*.md`
-- **Combined:** `notebooklm-bundle/combined/workspace-learning-center__combined.md`
+- **All-in-one:** Drag [`../combined/workspace-learning-center__combined.md`](../combined/workspace-learning-center__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

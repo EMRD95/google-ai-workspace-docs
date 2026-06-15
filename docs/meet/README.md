@@ -2,10 +2,10 @@
 
 **7 documents** covering AI features in Meet.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/meet__*.md`
-- **Combined:** `notebooklm-bundle/combined/meet__combined.md`
+- **All-in-one:** Drag [`../combined/meet__combined.md`](../combined/meet__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 

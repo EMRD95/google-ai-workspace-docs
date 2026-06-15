@@ -2,10 +2,10 @@
 
 **5 documents** covering AI features in Calendar.
 
-## Quick import into NotebookLM
+## NotebookLM import
 
-- **Individual files:** `notebooklm-bundle/calendar__*.md`
-- **Combined:** `notebooklm-bundle/combined/calendar__combined.md`
+- **All-in-one:** Drag [`../combined/calendar__combined.md`](../combined/calendar__combined.md) into NotebookLM
+- **Individual:** Drag any `.md` file from this folder
 
 ## Document index
 
