@@ -1,0 +1,23 @@
+# Google AI Workspace Documentation Archive
+
+This repository is reduced to two LLM ingestion files:
+
+- `llms.txt` — this short index file.
+- `llms-full.txt` — the full single-file corpus containing all extracted official source documentation.
+
+## Corpus
+
+`llms-full.txt` contains the complete merged archive:
+
+- 440 official source documents
+- 31 coverage areas
+- all source URLs preserved
+- product area preserved per document
+- original source titles preserved
+- no agent-authored documentation sections
+
+Use `llms-full.txt` when you need the full context.
+
+## Source policy
+
+Only official, traceable source pages are included. Google official sources are primary; relevant official non-Google sources such as draw.io are allowed when they document AI/product integrations. Unofficial articles, community threads, generated guides, and synthetic workflow notes are excluded.
