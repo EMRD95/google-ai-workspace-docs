@@ -125,6 +125,46 @@ for area, items in sorted(by_area.items()):
     json.dumps(combined_manifest, indent=2, ensure_ascii=False), encoding='utf-8'
 )
 
+# Generate llms-full.txt: one single-file corpus for LLM ingestion.
+# This concatenates the raw official extracts, preserving title/source/area metadata.
+llms_lines = [
+    '# Google AI Workspace Documentation Archive — llms-full.txt',
+    '',
+    f'Generated at: {now}',
+    f'Total raw official source documents: {len(manifest)}',
+    f'Total coverage areas: {len(by_area)}',
+    '',
+    'This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.',
+    'No synthetic documentation is added. Each section preserves source URL, product area, and original file path.',
+    '',
+    '## Coverage index',
+    '',
+]
+for area, count in coverage:
+    llms_lines.append(f'- {area}: {count} document(s)')
+llms_lines.extend(['', '## Source index', ''])
+for i, item in enumerate(manifest, 1):
+    llms_lines.append(f'{i}. [{item["product_area"]}] {item["title"]} — {item["source_url"]}')
+llms_lines.extend(['', '---', ''])
+
+for i, item in enumerate(manifest, 1):
+    src_path = ROOT / item['path']
+    txt = src_path.read_text(encoding='utf-8', errors='ignore')
+    body = strip_frontmatter(txt)
+    llms_lines.extend([
+        f'# Document {i}: {item["title"]}',
+        '',
+        f'Source URL: {item["source_url"]}',
+        f'Product area: {item["product_area"]}',
+        f'Original file: {item["path"]}',
+        '',
+        body,
+        '',
+        '---',
+        '',
+    ])
+(ROOT / 'llms-full.txt').write_text('\n'.join(llms_lines), encoding='utf-8')
+
 # Generate notebooklm/README.md
 nb_lines = [
     '# NotebookLM merged sources',
@@ -156,6 +196,8 @@ lines = [
     '',
     'Raw one-page-per-source files remain in `docs/*.md` for traceability and RAG indexing.',
     '',
+    'For single-file LLM ingestion, use root `llms-full.txt`.',
+    '',
     '## Coverage',
     '',
     '| Area | Docs | NotebookLM source |',
@@ -184,6 +226,7 @@ root_lines = [
     '## Quick start',
     '',
     f'- **NotebookLM:** import `notebooklm/*.md` (**{len(combined_manifest)} sources**, under the 300-source limit)',
+    '- **Single-file LLM ingestion:** use `llms-full.txt`',
     '- **Traceability:** raw extracted pages are preserved in `docs/*.md`',
     '- **Agent/RAG:** use `sources/manifest.json` for raw docs or `sources/manifest_notebooklm_combined.json` for merged sources',
     '- **Browse:** open `docs/README.md` or `notebooklm/README.md` for coverage tables',

@@ -8,6 +8,8 @@ Use `notebooklm/*.md`: **31 merged sources**, one per coverage area, under the 3
 
 Raw one-page-per-source files remain in `docs/*.md` for traceability and RAG indexing.
 
+For single-file LLM ingestion, use root `llms-full.txt`.
+
 ## Coverage
 
 | Area | Docs | NotebookLM source |

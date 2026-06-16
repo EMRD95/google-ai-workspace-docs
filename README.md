@@ -5,6 +5,7 @@ Archive of 440 official AI/Workspace-related docs, plus 31 merged NotebookLM sou
 ## Quick start
 
 - **NotebookLM:** import `notebooklm/*.md` (**31 sources**, under the 300-source limit)
+- **Single-file LLM ingestion:** use `llms-full.txt`
 - **Traceability:** raw extracted pages are preserved in `docs/*.md`
 - **Agent/RAG:** use `sources/manifest.json` for raw docs or `sources/manifest_notebooklm_combined.json` for merged sources
 - **Browse:** open `docs/README.md` or `notebooklm/README.md` for coverage tables
