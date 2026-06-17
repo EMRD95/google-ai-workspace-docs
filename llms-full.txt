@@ -78705,3 +78705,169 @@ Customer Stories
 By Alex DiNunzio • 3-minute read](https://workspace.google.com/blog/customer-stories/google-workspace-is-the-new-default-for-the-carbon-group)
 
 ---
+
+
+# Document 441: Simplify your move to Google Workspace: New Migration & Interoperability Features
+
+Source URL: https://workspace.google.com/blog/productivity-collaboration/simplify-the-move-to-google-workspace-with-new-migration-and-interoperability-features
+Product area: workspace-site
+Original file: docs/google-workspace-blog-simplify-move-migration-interoperability-june-2026.md
+
+# Simplify Your Move to Google Workspace: New Migration & Interoperability Features
+
+**Source:** Google Workspace Blog, June 10, 2026
+**Authors:** Ashish Gupta (Sr. PM) and Luke Camery (Director of PM, Google Workspace)
+**Announced at:** Google Cloud Next '26
+
+---
+
+## Key Highlights
+
+Google Workspace introduced powerful new features that make data migration faster and less expensive, while also supporting smoother cross-platform collaboration for productivity apps including Microsoft Teams and Office.
+
+---
+
+## 1. Data Migration
+
+### Data Import (New Service)
+- Cloud-native, no installation or cloud infrastructure setup needed.
+- Built into the Workspace admin console.
+- No cloud hosting fees.
+- Migrates entire org from Microsoft 365 up to 5x faster.
+- Supports Teams migrations, encrypted files and emails, all metadata (Outlook rules, calendar settings, sensitivity labels).
+
+### Migration Planner
+- Client-side utility runs locally, no data visible to Google until migration proceeds.
+- Provides clear migration timelines before closing the deal.
+- Enables quick, privacy-safe environment scans during pre-deal phase.
+- Generates one-click migration plan when ready.
+
+---
+
+## 2. Microsoft 365 Interoperability
+
+### Office Editing Mode in Gmail
+- Available in beta in June '26.
+- Edit Office files directly within Gmail without leaving inbox.
+
+### Advanced Word Compatibility
+- Beta in June '26.
+- New supported native features: captions, cross-references, small caps.
+- Benefits legal and engineering workflows.
+- Ongoing 2026 improvements: character spacing, fixing missing content.
+
+### Redlining in Docs
+- Q4 '26 release.
+- Refined comment/suggestion workflows for contract redlining.
+
+### Google Sheets Enhancements
+- Performance improvements (GA): Open 1M+ cell sheets 30% faster; filter 60% faster; conditional formatting 60% faster.
+- Doubled cell limits: from 10M to 20 million cells (beta).
+- Expanded charts and pivot tables (Q4 '26).
+- Solve optimization problems with Gemini (GA).
+- Sheets canvas (Alpha): create dashboards, heat maps, Kanban boards from data.
+- Macro converter (Alpha Q2 '26): Gemini converts legacy VBA scripts to Apps Script.
+
+### Google Slides Enhancements
+- Embedded audio and video (Beta June '26). Import and play directly in Slides.
+- Slides performance (Q3 '26): import/export slides up to 5x the size with high-resolution media.
+
+### Workflow and Automation
+- Workflow approvals (GA): lightweight approval tools and API for cross-app processes.
+- Workspace Studio (GA): replace Microsoft Power Automate; automate across Workspace suite.
+
+### Meetings and External Collaboration
+- Google Meet hardware interoperability (GA): one-touch join for Teams, Zoom, etc.
+- Guest accounts (GA): invite external users with full Workspace functionality, governed like internal users.
+
+---
+
+## Summary of Key Dates (2026)
+
+| When | What |
+|------|------|
+| June '26 | Office editing in Gmail (beta), Advanced Word compatibility (beta), Embedded audio/video in Slides (beta) |
+| Q2 '26 | Macro converter (alpha) |
+| Q3 '26 | Slides performance improvements |
+| Q4 '26 | Redlining in Docs, expanded charts/pivot tables in Sheets |
+| Now (GA) | Data import, Sheets performance, optimization with Gemini, workflow approvals, Workspace Studio |
+
+---
+
+# Document 442: New ways to create and get stuff done in Google Workspace
+
+Source URL: https://blog.google/products-and-platforms/products/workspace/workspace-updates/
+Product area: workspace-site
+Original file: docs/google-blog-workspace-updates-may-2026.md
+
+# New Ways to Create and Get Things Done in Google Workspace
+
+**Source:** Google Blog - May 19, 2026
+**Author:** Yulie Kwon Kim, VP Product, Google Workspace
+**Audience:** Google AI subscribers (Pro, Ultra, Plus) and Google Workspace business customers
+
+More than 4 billion users rely on Google Workspace apps. This announcement covers four major updates.
+
+**Four major announcements:**
+- Voice capabilities (Gmail Live, Docs Live, Talk to Keep)
+- Google Pics - new image creation/editing tool
+- AI Inbox - expanded to Google AI Plus and Pro subscribers
+- Gemini Spark - 24/7 personal AI agent
+
+---
+
+## Voice Capabilities
+
+### Gmail Live
+- Voice-activated inbox search: ask about flights, school events, etc. - gets synthesized answers instantly.
+
+### Docs Live
+- Thought partner and co-writer: dictate stream-of-consciousness, structure outlines, refine tone hands-free.
+- Pulls relevant details from Gmail, Drive, Chat and the web (with permission).
+
+### Talk to Keep
+- Record a brain dump - Keep automatically turns rambles into organized notes and lists.
+
+Rolling out to Google AI Pro and Ultra subscribers and in preview to Google Workspace business customers this summer.
+
+---
+
+## Google Pics
+
+- Built on the latest Nano Banana model.
+- Object segmentation: select and edit specific elements without affecting the rest of the image.
+- Text editing and translation: modify text directly inside a photo or translate it while preserving original design.
+- Workspace integrations: edit images right in Slides and Drive.
+- Collaboration: shareable canvases for real-time co-editing.
+
+**Availability:** Launching to limited Trusted Testers, then globally this summer to Google AI Pro and Ultra subscribers and in preview to Google Workspace business customers.
+
+---
+
+## AI Inbox
+
+New capabilities:
+- Personalized draft replies - AI generates contextual drafts.
+- Instant file access - relevant Google Doc/Sheet/Slide links surfaced next to to-do items.
+- Streamlined task management - mark tasks as done, dismiss suggestions, or mark all emails in a topic as read with one click.
+
+**Availability:** Now rolling out to all Google AI Plus and Pro subscribers in the U.S.
+
+---
+
+## Gemini Spark
+
+- 24/7 personal AI agent that takes action on your behalf, under your direction.
+- Shift from answering questions to performing actions (e.g. sending emails, adding calendar events) with user consent.
+- High-stakes actions require "ask you first" confirmation.
+- Integrates with Workspace apps.
+
+**Availability:** Soon in preview for business customers in the Gemini app.
+
+---
+
+## Summary
+
+From brainstorming out loud with conversational voice features, to bringing ideas to life visually with Google Pics, to streamlining email management with AI Inbox, to navigating digital life with Gemini Spark - these updates help users save time so they can focus on the work that matters most.
+
+---
