@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
 Generated at: 2026-06-16T08:47:02Z
-Total raw official source documents: 440
+Total raw official source documents: 442
 Total coverage areas: 31
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -483,6 +483,8 @@ No synthetic documentation is added. Each section preserves source URL, product 
 438. [docs-editors] Write & edit with Gemini in Docs - Google Docs Editors Help — https://support.google.com/docs/answer/13951448?hl=en
 439. [youtube-ai] Your data and using AI features on YouTube - YouTube Help — https://support.google.com/youtube/answer/14772770
 440. [workspace-site] Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency — https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency?hl=en
+441. [workspace-site] Simplify your move to Google Workspace: New Migration & Interoperability Features — https://workspace.google.com/blog/productivity-collaboration/simplify-the-move-to-google-workspace-with-new-migration-and-interoperability-features
+442. [workspace-site] New ways to create and get stuff done in Google Workspace — https://blog.google/products-and-platforms/products/workspace/workspace-updates/
 
 ---
 
