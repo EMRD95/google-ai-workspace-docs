@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 442 official source documents
-- 442 preserved source URLs
+- 443 official source documents
+- 443 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -41,7 +41,7 @@ The corpus currently includes pages from these source bases:
 
 | Source base URL | Pages |
 |---|---:|
-| `https://workspace.google.com/blog` | 68 |
+| `https://workspace.google.com/blog` | 70 |
 | `https://workspace.google.com/intl` | 48 |
 | `https://developers.google.com/workspace` | 33 |
 | `https://support.google.com/docs` | 31 |
@@ -72,6 +72,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/maps` | 3 |
 | `https://workspace.google.com/ai` | 2 |
 | `https://www.drawio.com/docs` | 2 |
+| `https://blog.google` | 1 |
 | `https://workspace.google.com/security` | 1 |
 | `https://workspace.google.com/studio` | 1 |
 | `https://www.drawio.com/doc` | 1 |
@@ -85,7 +86,7 @@ The corpus currently includes pages from these source bases:
 | `chat-developers` | 26 |
 | `chat` | 18 |
 | `admin-console` | 17 |
-| `google-vids` | 17 |
+| `google-vids` | 18 |
 | `notebooklm` | 16 |
 | `workspace-learning-center` | 14 |
 | `chrome-ai` | 13 |
@@ -125,7 +126,7 @@ Regular maintenance should:
 - update `llms-full.txt` and this README together
 
 Last corpus update: 2026-06-17.
-Last maintenance check: 2026-06-18.
+Last maintenance check: 2026-06-19.
 
 ## Usage
 

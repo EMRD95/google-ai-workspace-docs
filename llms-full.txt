@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
 Generated at: 2026-06-16T08:47:02Z
-Total raw official source documents: 442
+Total raw official source documents: 443
 Total coverage areas: 31
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -78871,5 +78871,65 @@ New capabilities:
 ## Summary
 
 From brainstorming out loud with conversational voice features, to bringing ideas to life visually with Google Pics, to streamlining email management with AI Inbox, to navigating digital life with Gemini Spark - these updates help users save time so they can focus on the work that matters most.
+
+---
+
+# Document 443: How to create professional work videos with AI avatars in Google Vids
+
+Source URL: https://workspace.google.com/blog/ai-and-machine-learning/how-to-create-professional-work-videos-with-ai-avatars-in-google-vids
+Product area: google-vids
+Original file: docs/google-vids-ai-avatars-june-2026.md
+
+# Google Vids: Create Professional Videos with AI Avatars
+
+**Source:** Google Workspace Blog
+**Author:** David Nachum, Product Manager, Google Vids
+**Date:** June 17, 2026
+
+---
+
+## Overview
+
+Google Vids has launched major enhancements to AI avatars, voiceovers, and video generation. Anyone with a Google account in the US can now try AI avatars in Google Vids at no cost, with rollout to other regions in coming months.
+
+---
+
+## 1. Turn Static Presentations into Engaging Videos
+
+- **Google Slides integration:** Convert presentations into scalable videos with a few clicks.
+- Vids automatically creates a storyboard and generates a script for an AI avatar.
+- Avatars act as digital presenters; can be re-scripted anytime.
+- When an avatar is not needed, select an AI voiceover instead.
+- **Soon:** AI voiceovers will narrate Slides in 8 languages (Japanese, Korean, Spanish, French, and more).
+
+---
+
+## 2. Craft Winning Pitches That Scale Across Languages
+
+- Create custom avatars with company logo and custom background.
+- **Late June 2026:** Steer the emotion of avatars to fine-tune delivery and match intent.
+- **Global scaling:** AI avatars and voiceovers from scripts written in 24 languages (Arabic, Hindi, Dutch, Vietnamese, and more).
+
+---
+
+## 3. Demo Your Product Without a Video Shoot
+
+- Direct custom avatars to walk, talk, and interact with objects by adding them as ingredients and typing a prompt.
+- **Now available:** High-fidelity video clips without duration limits — build complete demonstrations from start to finish.
+
+---
+
+## Availability
+
+- Free AI avatar trial for US Google account holders (more regions soon).
+- Over 7 million monthly active users on Google Vids.
+- Get started at vids.new.
+
+---
+
+## Key Customer Quote
+
+> *"I was blown away by how Vids turns our sales decks into short video walkthroughs for customers. It's completely changed how we personalize our outreach. Sales thinks it's magic!"*
+> — Forest Donovan, Sr. Director of Strategic Alliances, Fullstory
 
 ---
