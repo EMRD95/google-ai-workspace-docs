@@ -78933,3 +78933,308 @@ Google Vids has launched major enhancements to AI avatars, voiceovers, and video
 > — Forest Donovan, Sr. Director of Strategic Alliances, Fullstory
 
 ---
+
+# Document 444: Use Gemini Spark to manage your tasks & workflows in Gemini Apps - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17094507
+Product area: gemini-apps
+Original file: docs/gemini-spark-tasks-workflows.md
+
+# Use Gemini Spark to Manage Tasks & Workflows – Summary
+
+**Source:** Google Gemini Apps Help — "Use Gemini Spark to manage your tasks & workflows in Gemini Apps"
+**URL:** https://support.google.com/gemini/answer/17094507
+
+---
+
+## Overview
+
+Gemini Spark is a personal AI agent that can automate complex workflows and manage schedules for ongoing tasks in Gemini Apps. Gemini can help handle tasks, using info from sources like Connected Apps, skills, chats, websites you're signed into, Personal Intelligence, location, and more. Just tell Gemini your specific goals and when you want tasks completed.
+
+### Example Uses
+- **Declutter inbox** – summarize/archive newsletters, unsubscribe
+- **Custom news digest** – follow topics over time
+- **Deep dive on topics** – research with cited sources
+
+Tip: Schedules in Gemini Spark are different from scheduled actions in Gemini chats.
+
+---
+
+## Requirements
+
+| Requirement | Detail |
+|-------------|--------|
+| **Age** | 18 or over |
+| **Account** | Personal Google Account with a Google AI Ultra subscription |
+| **Activity setting** | Keep Activity must be ON |
+| **Availability** | Not available in: Australia, Canada, EEA, Hong Kong, India, Japan, Korea, Nigeria, Switzerland, UK |
+| **Language** | English only |
+| **Platforms** | Gemini mobile app & web app at gemini.google.com |
+
+---
+
+## What Gemini Spark Can Use
+
+- Some Connected Apps (like Google Workspace)
+- Remote browser with automatically saved info
+- Remote computer with code execution data
+- Personal Intelligence
+- Skills
+- Schedules
+
+**Important:** When using Spark, Gemini accesses info from these sources and from websites it interacts with (including logged-in sites). Do NOT enter sign-in info, payment details, or sensitive data directly into the task thread. Instead, take control of Gemini's browser and enter info on the webpage.
+
+---
+
+## Creating a Task
+
+1. Go to gemini.google.com (computer).
+2. Click **Change mode** → **Switch to Spark** → **Tasks**.
+3. Describe the task in the text box. You can:
+   - Specify when to run (time or event-based)
+   - Use `/` or `@` to select an existing skill
+4. To add files: click **Add** → choose **Upload files**, **Add from Drive**, or **Add Notebook**.
+5. Click **Submit**.
+6. Monitor the task thread for inputs Gemini needs (e.g., taking over the browser).
+
+---
+
+## Monitoring & Managing Tasks
+
+1. Go to gemini.google.com, switch to Spark → Tasks, click the desired thread.
+2. To show the work panel, click **Close tasks panel** (left edge of thread panel).
+3. The work panel shows:
+   - **Progress:** completed (✅), current (▶), and planned (○) steps.
+   - **Files:** review which files Gemini read/updated; click to open.
+   - **Schedules:** hover → **More** → **Pause** or **Resume**.
+   - **Monitor & take over:** Open work panel → Remote browser → Take over task.
+
+---
+
+## Gemini Spark Safety & Limits
+
+- **Limits:** Gemini Apps have compute-based usage limits. Max 15 tasks running at once.
+- **Risks:** Gemini can make mistakes and do unexpected things. Prompt injection from external data could cause unintended actions.
+- **Data:** Remote browser data (cookies, auth info) can be deleted from Settings → Gemini Spark → Delete remote browser data.
+- **Turning off:** Deletes remote browser and code execution data, pauses schedules, but does not delete tasks, threads, or files.
+
+---
+
+## What Workspace Actions Can Gemini Spark Perform?
+
+Gemini Spark can take actions in Google Workspace such as:
+- **Manage Your Schedule:** Check your calendar, RSVP to invitations, schedule new events.
+- **Reschedule & Clean up:** Update meeting times, change locations, or cancel events.
+- **Smart Scheduling:** Check your calendar and suggest open slots that fit everyone's availability.
+
+---
+
+# Document 445: Get Started with Gemini Go - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17079170
+Product area: gemini-apps
+Original file: docs/gemini-go-get-started.md
+
+# Get Started with Gemini Go – Summary
+
+**Source:** Google Gemini Apps Help — "Get Started with Gemini Go"
+**URL:** https://support.google.com/gemini/answer/17079170
+
+---
+
+## Overview
+
+Gemini Go is a streamlined version of Gemini designed for Android Go devices. It's efficient even on devices with lower storage. Gemini Go replaces Assistant Go, providing a new conversational experience.
+
+### Eligibility and Device Requirements
+
+- **Devices:** Android Go devices with 2GB of RAM or more
+- **Account:** Signed in to a personal Google Account or work/school account with Gemini Apps access
+- **Languages & regions:** Available in all languages and countries where Gemini is available
+
+> **Important:** Gemini Go is rolling out gradually, so it may not be available to you yet.
+
+---
+
+## Getting Started
+
+On Android Go devices, Gemini is available as part of the Google Search app. To check if you have the latest version:
+
+1. Open the Google Play app on your Android Go device.
+2. Search for "Google" or "Google Search."
+3. If an "Update" button is available, tap it to install the latest version.
+4. If the button says "Open," you already have the latest version.
+
+### Start a Conversation
+
+- Touch and hold the **Home** button.
+- Press and hold the **Power** button, on supported devices.
+
+---
+
+## What You Can Ask Gemini Go
+
+- **Stay connected:** Ask Gemini to call or send text messages to your contacts.
+- **Find local info:** Check drive time to work, or ask complex questions like "Help me find a ramen restaurant open for lunch on Tuesday with an EV charger nearby."
+- **Plan your day:** Set an alarm or create a calendar event.
+- **Upload files:** Upload docs, photos, and other files to add more context to your chats.
+- **Play media:** Ask Gemini to play music by mood or activity.
+
+---
+
+# Document 446: Create & manage skills for Gemini Apps - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17094296
+Product area: gemini-apps
+Original file: docs/gemini-skills-create-manage.md
+
+# Create & Manage Skills for Gemini Apps – Summary
+
+**Source:** Google Gemini Apps Help — "Create & manage skills for Gemini Apps"
+**URL:** https://support.google.com/gemini/answer/17094296
+
+---
+
+## Overview
+
+Skills are reusable custom instructions (plus optional files) that teach Gemini how to perform specific tasks or workflows. Instead of re-typing preferences or re-uploading files each time, you build a skill once and use it across tasks.
+
+### Key Benefits
+- **Save time & effort** – build once, reuse in any Gemini Spark task
+- **Automate workflow** – Gemini automatically detects when a skill is relevant and applies it
+- **Mix & match** – combine multiple skills for complex, multi-step tasks
+
+> **Important:** Skills are currently available **only in Gemini Spark** (not in standard Gemini chat).
+
+---
+
+## Requirements
+
+| Requirement | Detail |
+|-------------|--------|
+| **Age** | 18 or over |
+| **Account** | Personal Google Account with Google AI Ultra subscription |
+| **Activity setting** | Keep Activity must be ON |
+| **Availability** | Not available in: Australia, Canada, EEA, Hong Kong, India, Japan, Korea, Nigeria, Switzerland, UK |
+| **Language** | English only |
+| **Platform** | Gemini mobile app + web app at gemini.google.com (Spark mode) |
+
+---
+
+## Creating a Skill
+
+Access the **Skills page** from the sidebar in Gemini Spark mode at gemini.google.com.
+
+### Methods
+
+1. **Create with Gemini (Conversational):** Click **Create with Gemini** and follow the guided thread.
+2. **Edit a Prefilled Template:** Under "Recommended," click **Add skill** on a template → edit → **Save**.
+3. **Use a Blank Template:** Click **Create manually** → enter name, description, instructions → **Save**.
+4. **Upload a Skill File:** Click **Upload** → select a `SKILL.md` file (or `.zip` containing one) → review → **Save**.
+
+### Upload Requirements
+
+**Supported file types** (plain-text only):
+- Text & Docs: `.txt` `.md` `.rst` `.rtf` `.tex` `.log`
+- Code: `.py` `.sh`
+- Data & Config: `.json` `.yaml` `.csv` `.toml` `.xml` `.env` `.sql`
+- Web & Build: `.html` `.css` `.svg` `Makefile` `Dockerfile`
+
+**Not supported:** PDF, DOCX, DOC, XLSX, JPG, PNG, or any binary/rich-media formats.
+
+**Naming:** Skill name inside `SKILL.md` must be all lowercase, words hyphen-separated (e.g., `my-new-skill`).
+**Size limit:** Total upload must not exceed 100 MB.
+**Security:** No scripts that perform external web actions.
+
+### Ask Gemini in a Spark Task
+
+In any Spark task thread, type: `Create a skill based on these instructions: <your instructions>` → Gemini creates the skill and saves it to your Skills page.
+
+---
+
+## Using Skills for a Task
+
+- **Manual invocation:** In the task thread, type `/` or `@` and select the skill.
+- **Automatic use:** Gemini automatically applies any active skill when relevant to your prompt.
+- **Combine skills:** Include multiple skills in one task for complex workflows.
+
+---
+
+## Managing Your Skills
+
+All management is done from the **Skills page** in Gemini Spark.
+
+- **Activate / Deactivate:** Click the skill → **More** → **Deactivate**. If off and manually called, Gemini asks to turn it back on.
+- **Edit:** Click the skill → edit fields directly, or **More** → **Edit with Gemini** for conversational editing, or **More** → **Replace skill** to upload a new file.
+- **Delete:** Hover → **More** → **Delete** (permanent, cannot be undone).
+- **Download:** Hover → **More** → **Download** (saved as `.zip`).
+
+---
+
+## Common Questions
+
+### Task vs. Schedule vs. Skill
+
+| Concept | Role | Example |
+|---------|------|---------|
+| **Task** | *What* you want to accomplish | "Plan my business trip to London" |
+| **Schedule** | *When* it runs (time- or event-based) | "Every day at 8 AM, give me AI news" |
+| **Skill** | *How* to do a specific sub-task | "Travel Booking" skill + "Gmail Writing" skill |
+
+### What happens when I downgrade or cancel Google AI Ultra?
+- In-progress Spark tasks finish, not deleted.
+- Schedules are paused, not deleted.
+- Skills are turned off, not deleted.
+- To resume, you must upgrade or resubscribe.
+
+---
+
+# Document 447: Google Workspace standardized model for agent tools and APIs
+
+Source URL: https://developers.google.com/workspace/tools-safety
+Product area: workspace-developers
+Original file: docs/workspace-standardized-model-agent-tools-apis.md
+
+# Google Workspace Standardized Model for Agent Tools and APIs – Summary
+
+**Source:** Google for Developers — "Google Workspace standardized model for agent tools and APIs"
+**URL:** https://developers.google.com/workspace/tools-safety
+**Last updated:** 2026-05-01 UTC
+
+---
+
+## Overview
+
+Following the launch of new agent tools like the Google Workspace MCP server, Google is introducing a standardized tiering model for Google Workspace APIs (including MCP) to safeguard the ecosystem while fostering innovation. The model provides a predictable path to scale for high-impact applications and protects against risks such as API abuse and unintended large-scale data egress. Less than 1% of active developers are expected to need to move beyond the standard usage tier.
+
+---
+
+## Key Dates & Changes (starting May 1, 2026)
+
+**Affected APIs:** Gmail API, Google Calendar API, Google Drive API.
+
+Quota adjustments align with typical usage patterns to support safety and privacy.
+
+| Existing projects (with API usage Nov 2025–Apr 2026) | New projects (created from May 1, 2026) |
+| --- | --- |
+| Existing quotas remain unchanged for at least 60 days. | New quotas documented for Gmail, Calendar, Drive roll out over several weeks. |
+| Quota increase requests can be submitted for approval. | Same process – requests subject to approval. |
+
+**Later in 2026 (after 90 days notice):**
+- Quota increase requests will require Google Cloud billing to be enabled.
+- API usage over standard daily thresholds will generate charges on your Google Cloud bill.
+- New standard API quotas will apply unless an increased quota has already been approved and billing is enabled.
+
+---
+
+## Coming: Paid Option for Scaled Access
+
+A billable usage quota increase option will be introduced for developers needing faster, scaled access. Developers can increase project quotas by paying for API usage above the standard daily limit. Additional details expected in the coming months with 90 days notice.
+
+---
+
+## Developer Policy
+
+All usage remains subject to the [Google Workspace API developer policy](https://developers.google.com/workspace/workspace-api-user-data-developer-policy) and the [Google APIs Terms of Service](https://developers.google.com/terms). Google may require verification/audit of adherence to user data policies.
+
+---

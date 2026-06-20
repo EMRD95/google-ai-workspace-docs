@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 443 official source documents
-- 443 preserved source URLs
+- 447 official source documents
+- 447 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -43,7 +43,7 @@ The corpus currently includes pages from these source bases:
 |---|---:|
 | `https://workspace.google.com/blog` | 70 |
 | `https://workspace.google.com/intl` | 48 |
-| `https://developers.google.com/workspace` | 33 |
+| `https://developers.google.com/workspace` | 34 |
 | `https://support.google.com/docs` | 31 |
 | `https://support.google.com/a` | 26 |
 | `https://support.google.com/workspace-studio` | 21 |
@@ -51,7 +51,7 @@ The corpus currently includes pages from these source bases:
 | `https://workspace.google.com/learning` | 18 |
 | `https://support.google.com/chat` | 17 |
 | `https://support.google.com/chrome` | 15 |
-| `https://support.google.com/gemini` | 12 |
+| `https://support.google.com/gemini` | 15 |
 | `https://developers.google.com/apps-script` | 11 |
 | `https://support.google.com/notebooklm` | 11 |
 | `https://knowledge.workspace.google.com/admin/generative-ai` | 10 |
@@ -90,7 +90,7 @@ The corpus currently includes pages from these source bases:
 | `notebooklm` | 16 |
 | `workspace-learning-center` | 14 |
 | `chrome-ai` | 13 |
-| `gemini-apps` | 12 |
+| `gemini-apps` | 15 |
 | `apps-script-ai` | 11 |
 | `gmail` | 10 |
 | `youtube-ai` | 10 |
@@ -105,7 +105,7 @@ The corpus currently includes pages from these source bases:
 | `forms` | 5 |
 | `looker-studio` | 5 |
 | `photos-ai` | 5 |
-| `workspace-developers` | 5 |
+| `workspace-developers` | 6 |
 | `workspace-studio-admin` | 5 |
 | `android-ai` | 3 |
 | `external_drawio` | 3 |
@@ -125,8 +125,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-06-17.
-Last maintenance check: 2026-06-19.
+Last corpus update: 2026-06-20.
+Last maintenance check: 2026-06-20.
 
 ## Usage
 
