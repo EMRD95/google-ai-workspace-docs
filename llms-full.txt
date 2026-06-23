@@ -79238,3 +79238,372 @@ A billable usage quota increase option will be introduced for developers needing
 All usage remains subject to the [Google Workspace API developer policy](https://developers.google.com/workspace/workspace-api-user-data-developer-policy) and the [Google APIs Terms of Service](https://developers.google.com/terms). Google may require verification/audit of adherence to user data policies.
 
 ---
+
+# Document 448: Write effective skills for Gemini Apps - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17102773?hl=en
+Product area: gemini-apps
+Original file: docs/write-effective-skills-gemini.md
+
+# Write Effective Skills for Gemini Apps — Summary
+
+**Important:** Skills are currently only available in **Gemini Spark**. [Learn more about Gemini Spark](https://support.google.com/gemini/answer/17094507).
+
+## What is a Skill?
+
+A skill is a set of instructions and preferences that teaches Gemini how to handle a specific type of task the way you would. Think of it as a cheat sheet that captures your expertise—your process, your preferences, and the details only you would know—so Gemini can do a recurring task correctly every time, without you explaining it again.
+
+- Built for a **single job**; can be combined with other skills for larger workflows.
+- Includes steps, formatting rules, templates, and common problems to avoid.
+
+## How Skills Work
+
+1. **Check relevance** – Gemini only checks the skill's **name and description** to decide if it's relevant.
+2. **Read & follow instructions** – If relevant, Gemini reads the full instructions.
+3. **Use other files as needed** – Only opens attached files (template, style guide, spreadsheet) when the step requires them.
+
+## When to Create a Skill
+
+Frequently do any of these? → Create a skill:
+
+- **Repeat prompts** – Same complex instructions over and over.
+- **Fix formats** – Repeatedly adjust layout or style.
+- **Work across Connected Apps** – Manually combine steps in Gmail, Docs, Calendar.
+
+### When to Skip
+
+- **One-off job** – Not repeated.
+- **Already handled well** – Gemini delivers expected results without guidance.
+- **Constantly changing** – Steps or requirements change too often.
+
+## Writing an Effective Skill — Best Practices
+
+### 1. Name & Description (Critical for Relevance)
+
+#### Skill Name
+- Start with an **action verb** (focus on *what it does*, not what it is).
+- Avoid vague words like `helper`, `tools`, `data`.
+- Use **lowercase with hyphens** – e.g., `plan-meal-from-recipe`.
+
+#### Skill Description (1–2 sentences, ≤1024 characters)
+- **List specific usage examples** – Start with `Use when…`
+- **Third-person capability statement** – e.g., "Categorizes recipes, scales ingredient portions, and generates grocery lists..."
+- **Never use first or second person** – no "I can help you" or "You can use this to".
+
+### 2. Optimize Instructions
+
+#### Focus on the *type* of task, not a specific one
+- ❌ *Don't:* Instructions for "Spaghetti on Tuesday"
+- ✅ *Do:* Instructions for building any meal plan based on your preferences
+
+#### Decide How Much Freedom to Give
+- **Creative tasks** – General directions (e.g., "brainstorm blog post ideas").
+- **Strict/critical tasks** – Clear, step-by-step instructions (e.g., "copy financial data in exact layout", "summarize meeting notes using only bullet points").
+
+### 3. Use Formats & Output Templates
+
+Include structural templates or clear examples in instructions.
+
+### 4. Add a "Common Mistakes" Section
+
+Warn Gemini about pitfalls. E.g., "Remove personal info: Make sure the report does not include any personal info (like names, emails, or phone numbers) unless the task specifically asks for it."
+
+### 5. Use Workflows & Checklists
+
+For long/complex tasks, provide a checklist to track progress.
+
+### 6. Tell Gemini How to Handle Missing Information
+
+Be explicit – prevents Gemini from guessing or skipping. E.g., "If an email doesn't have a date for the event, ask me for the date instead of guessing or leaving it out."
+
+---
+
+## Related Resources
+
+- [Use Gemini Spark to manage your tasks & workflows in Gemini Apps](https://support.google.com/gemini/answer/17094507)
+- [Create & manage skills for your workflows in Gemini Apps](https://support.google.com/gemini/answer/17094296)
+
+---
+
+# Document 449: Generate a Slide Deck in NotebookLM - NotebookLM Help
+
+Source URL: https://support.google.com/notebooklm/answer/16757456?hl=en
+Product area: notebooklm
+Original file: docs/notebooklm-slide-deck.md
+
+# Generate a Slide Deck in NotebookLM — Summary
+
+**Important:** Feature only available to users over 18. Slide Decks are available in the mobile app but may have differences.
+
+Transform your sources into a polished presentation by generating a Slide Deck, perfect for sharing or reviewing key concepts. Present your deck instantly in NotebookLM or share it as a PDF.
+
+## How to Generate a Slide Deck
+
+1. Open an existing notebook or create a new one and upload sources.
+   - To generate or delete a Slide Deck, you need **edit access** to a notebook.
+2. In the **"Studio" panel**, select **"Slide Deck"** to start, or use the **pencil icon** to customize before generating. The presentation is generated in the background – you can continue working.
+3. (Optional) In the customization panel, you can express preferences:
+
+### Customization Options
+
+- **Format**
+  - **Detailed Deck** – comprehensive deck with full text and details, perfect for emailing or reading on its own.
+  - **Presenter Slides** – clean, visual slide decks with key talking points to support you while you speak.
+- **Output language** – select your language.
+- **Length** – choose between short, default, or long.
+- **Prompt** – describe the slide deck you want. Example: "Create a deck for beginners using a bold and playful style with a focus on step-by-step instructions."
+
+**Important:**
+- Slide Decks are AI-generated and may contain visual or factual inaccuracies.
+- Generation may take multiple minutes; you can continue working in the meantime.
+
+## Manage Your Slide Deck
+
+- Use the **three dots menu** next to your generated Slide Deck to: Rename, Download as PDF, Share, or Delete.
+- To view the prompt used, select **"View custom prompt"** from the three dots menu.
+- To present in full-screen slideshow mode, select **"Start slideshow."**
+
+## Revise Your Slide Deck
+
+1. Open an existing notebook.
+2. In **Studio** panel, navigate to the **"Slide Deck"** section.
+3. Select the title of the Slide Deck you wish to load.
+4. Choose **"Revise"** (pencil icon).
+5. On each slide, input your revision instructions. You can change more than one slide; instructions are grouped under **"Pending Changes"**.
+   - Adding/removing slides is **not yet supported**.
+   - **Note:** Sources are **not taken into account** during revisions.
+6. Select **"Generate revised deck"** to regenerate with revised slides.
+
+**Tip:** Batch your slide revisions. Every revision creates an entirely new slide deck. No limit on individual slides per revision, but there are quota limits on total slide deck revisions.
+
+## Share a Slide Deck
+
+### Option 1: Share a Link
+1. Generate a Slide Deck.
+2. In the Slide Deck viewer, select **Share**.
+3. Confirm the notebook is shared with the recipient or made public (**"Anyone with a link"**) and viewers have access to the **"full notebook."**
+4. Copy link and share.
+
+**Important:**
+- Public notebook sharing is only enabled for consumer accounts. Disabled for Workspace Enterprise or Education accounts.
+- Only notebook owners and editors can make a generated Slide Deck publicly available.
+- Once a Slide Deck is deleted, any previously generated share link will no longer work.
+
+### Option 2: Share the Entire Notebook
+Share the notebook – other users can access the Slide Deck in the **"Studio" panel.**
+
+### Option 3: Download & Share the Slide Deck
+From the three dots menu, select **"Download PDF Document (.pdf)"** or **"Download PowerPoint (.pptx)."** Share the downloaded file.
+
+---
+
+## Related Resources
+
+- [Create a notebook in NotebookLM](https://support.google.com/notebooklm/answer/16206563)
+- [Add or discover new sources for your Notebook](https://support.google.com/notebooklm/answer/16215270)
+- [Use chat in NotebookLM](https://support.google.com/notebooklm/answer/16179559)
+
+---
+
+# Document 450: Use public notebooks and featured notebooks in NotebookLM - NotebookLM Help
+
+Source URL: https://support.google.com/notebooklm/answer/16322204?hl=en
+Product area: notebooklm
+Original file: docs/notebooklm-public-notebooks.md
+
+# Use Public Notebooks and Featured Notebooks in NotebookLM — Summary
+
+**Important:** Public sharing is only enabled for consumer accounts. It's currently disabled for Workspace Enterprise or Education accounts.
+
+## Public Notebooks
+
+- **Any Google account holder** can view a public notebook via a share link.
+- **Owners and editors** can manage public access; viewers cannot.
+
+### How to Share a Public Notebook
+1. Open or create a notebook.
+2. Click **Share** (top-right).
+3. Set access to **"Anyone with a link"**.
+4. Copy the link (or use **"Copy link to chat view"** for a focused chat-only experience).
+
+> **Note:** Chat View hides sources and artifacts visually but does not completely revoke underlying access; viewers may still navigate to hidden materials.
+
+- Owners with **paid subscriptions** can view usage analytics in the Analytics tab.
+- Changes made by owners/editors appear **without regenerating the link**.
+- **Deleting or making a notebook private** breaks all previously shared links.
+- A globe icon next to the Share button confirms the notebook is public.
+
+### How to Visit a Public Notebook
+- Open the URL → notebook appears on your homepage.
+- You can ask questions, view Audio Overviews, FAQs, briefing documents, etc.
+- To remove from homepage: use the **three-dots menu → Remove notebook**.
+
+### How to Disable Public Sharing
+1. Owner or editor opens the notebook.
+2. Click **Share**.
+3. Set access back to **Restricted**.
+Effect: New visitors get blocked; previous visitors lose access from their shared notebooks page.
+
+## Featured Notebooks
+
+- **Enabled only for consumer accounts.** Workspace Enterprise/Education accounts can only access via direct URLs.
+- Pre-loaded with **curated, high-quality sources** from authors, researchers, nonprofits, etc.
+
+### Browsing a Featured Notebook
+- Access via the **"Featured notebooks"** tab.
+- As a viewer you can: Read original sources, Ask questions in chat, Consume pre-generated artifacts (Audio Overviews, Study Guides).
+- **You cannot generate your own artifacts** or add sources.
+- You can **select/deselect sources** in the left source panel.
+- NotebookLM answers use only those materials + your current chat history.
+
+## Accepted Use & Policies
+
+- **Copyright:** Do not share copyrighted content without rights. Google responds to infringement notices; repeat infringers face account termination.
+- **Ownership:** Google does not claim ownership over content you generate.
+- **AI-generated content:** Do not rely on NotebookLM for medical, legal, financial, or professional advice. It is informational only.
+- **Report violations** in public/featured notebooks via abuse report form.
+
+---
+
+# Document 451: Gemini Apps limits & upgrades for Google AI subscribers - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/16275805?hl=en
+Product area: gemini-apps
+Original file: docs/gemini-apps-limits-upgrades.md
+
+# Gemini Apps Limits & Upgrades for Google AI Subscribers — Summary
+
+**Notification:** Starting **May 17, 2026** changes to usage limits apply.
+
+## Age Requirements
+
+- **Most countries:** Must be 13+ (or applicable age in your country).
+- **EEA, Switzerland, UK:** Must be 18+.
+
+## Usage Limits
+
+| Plan | Limit |
+|---|---|
+| Without AI plan | Standard limits |
+| AI Plus | 2x higher than standard |
+| AI Pro | 4x higher than standard |
+| AI Ultra | 5x or 20x higher than AI Pro (depends on subscription) |
+
+- Limits refresh every **5 hours** until weekly limit is reached.
+
+## Gemini 3 Models
+
+| Model | Description |
+|---|---|
+| **Gemini Flash-Lite** | Efficient workhorse – fast, ideal for everyday tasks (summarization, brainstorming). |
+| **Gemini Flash** | Balances speed & reasoning – solves a large variety of problems. |
+| **Gemini Pro** | Most advanced – excels at complex math & coding, deeper understanding across text, files, images, videos. Slower response time. |
+
+## Thinking Levels
+
+| Level | Available Plans | Best For |
+|---|---|---|
+| **Standard thinking** | All (default) | Most questions – faster responses |
+| **Extended thinking** | All | Complex problem solving – model reasons longer |
+| **Deep think** | AI Ultra only | Maximum parallel reasoning – requires Pro model, takes a few minutes |
+
+## Context Windows
+
+| Plan | Context Window |
+|---|---|
+| Without AI plan | 32k tokens |
+| AI Plus | 128k tokens |
+| AI Pro & AI Ultra | 1 million tokens |
+
+With 1M tokens, Gemini can understand up to 1,500 pages of text or 30,000 lines of code.
+
+## Feature Availability by Plan
+
+| Feature | No Plan | AI Plus | AI Pro | AI Ultra |
+|---|---|---|---|---|
+| Canvas | ✅ | ✅ | ✅ | ✅ |
+| Gems | ✅ | ✅ | ✅ | ✅ |
+| Connected Apps | ✅ | ✅ | ✅ | ✅ |
+| Deep Research | ✅ | ✅ | ✅ | ✅ |
+| Daily brief | ❌ | ✅ | ✅ | ✅ |
+| Gemini Spark | ❌ | ❌ | ❌ | ✅ |
+| Image generation | ✅ | ✅ | ✅ | ✅ |
+| Video generation | ❌ | ✅ | ✅ | ✅ |
+| Music generation | ✅ | ✅ | ✅ | ✅ |
+| Scheduled actions | ❌ | ✅ | ✅ | ✅ |
+
+## More Info About Limits
+
+- **With subscription when reaching limit:** Continue conversation using Flash-Lite.
+- **Without subscription or after weekly limit:** Upgrade to higher plan or wait until limit refreshes.
+- Limits may change without notice due to capacity constraints.
+- During high activity, features (e.g., Deep Research) may be restricted for non-paying users before paid users are affected.
+
+### How to check limits
+1. Go to gemini.google.com.
+2. At bottom left, select **Settings** → **Usage Limits**.
+
+---
+
+# Document 452: June Workspace Drop: Create with Veo 3 in Google Vids and connect the Gemini app with Google Workspace
+
+Source URL: https://workspace.google.com/blog/product-announcements/june-workspace-drop-create-veo-3-google-vids-and-connect-gemini-app
+Product area: workspace-site
+Original file: docs/june-workspace-drop-veo3-vids.md
+
+# June 2025 Google Workspace Feature Drop Summary
+
+**Source:** Google Workspace Blog
+
+## Key Highlights
+
+- **Veo 3 video generation** now available in Google Vids and Slides
+- **Gemini app connects to Workspace** (Gmail, Drive, Calendar, Keep, Tasks)
+- **Live** (real-time voice conversations) coming to Workspace business/enterprise
+- **Deep Research** now supports uploaded Google Drive files
+- **Vids expands** to Business Starter & Enterprise Starter customers
+
+## Slides & Vids: AI-Powered Visual Creation
+
+### Google Vids + Veo 3
+"Using Google's most capable video generation model, Veo 3, you can now generate high-quality video clips with realistic sound simply by typing a prompt."
+
+- Generate custom video clips (e.g., a worker in specific attire, spokesperson in a location)
+- **One-click update** for AI voiceovers after script edits – scenes auto-extend to match
+
+### Google Slides Updates
+- New **professionally designed templates** for project proposals, team meetings, creative portfolios
+
+### Vids Availability
+- Previously limited – **now available to Workspace Business Starter and Enterprise Starter** customers
+
+## Gemini App: Connected with Workspace
+
+"Google Workspace apps can now connect with the Gemini app, so it can provide answers when you're chatting with it at work based on your information in Gmail, Drive, Calendar, Keep, and Tasks."
+
+- Ask Gemini to find a document, summarize unread emails, look up meeting notes – all within the Gemini app
+- **Privacy:** "Your Google Workspace data is not used to train the Gemini model, and you are always in control of your privacy settings."
+
+### New Features in Gemini App
+
+- **Live** – Real-time, natural two-way conversations (interruptible, dynamic)
+- **Deep Research with file upload** – Upload Drive files (e.g., market research, financial docs) → Gemini combines public info + file details → generates research reports with key insights, summaries, data points
+
+## Rollout
+
+- **Audience:** All Google Workspace customers
+- Updates are rolling out now.
+
+## Summary Table
+
+| Feature | Details |
+|---|---|
+| **Vids + Veo 3** | Text-to-video with realistic sound; one-click voiceover updates |
+| **Slides templates** | New professionally designed templates |
+| **Vids availability** | Now for Business Starter & Enterprise Starter |
+| **Gemini app integration** | Connects to Gmail, Drive, Calendar, Keep, Tasks |
+| **Live** | Real-time voice conversations (business/enterprise) |
+| **Deep Research** | Upload Drive files for combined public + private analysis |
+| **Privacy** | Workspace data not used to train Gemini |
+
+---

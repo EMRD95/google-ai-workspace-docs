@@ -9,7 +9,7 @@ This repository is reduced to two LLM ingestion files:
 
 `llms-full.txt` contains the complete merged archive:
 
-- 440 official source documents
+- 452 official source documents
 - 31 coverage areas
 - all source URLs preserved
 - product area preserved per document
