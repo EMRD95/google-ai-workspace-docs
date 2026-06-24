@@ -79607,3 +79607,196 @@ Original file: docs/june-workspace-drop-veo3-vids.md
 | **Privacy** | Workspace data not used to train Gemini |
 
 ---
+
+# Document 453: Introducing Workspace Intelligence
+
+Source URL: https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
+Product area: workspace-site
+
+# Introducing Workspace Intelligence
+
+**Date:** April 22, 2026
+**Author:** Yulie Kwon Kim, VP Product, Google Workspace
+
+Workspace Intelligence delivers unified, real-time understanding to power agentic work. It is a secure, dynamic system that inherently understands complex semantic relationships within your Workspace apps (Docs, Slides, Gmail) content, your active projects, your collaborators, and your organization's domain knowledge.
+
+## Three Core Capabilities
+
+### 1. Information Gathering
+- Breaks down context walls between apps
+- Automates bridging between apps and projects
+- Pulls the right information automatically
+
+### 2. Situational Awareness
+- Uses advanced Gemini reasoning
+- Identifies what's most important right now
+- Surfaces action items automatically
+
+### 3. True Personalization
+- Learns your work style, voice, and formatting preferences
+- Adapts to individual communication patterns
+- Makes outputs sound authentically like you
+
+## Key Features by App
+
+### Google Chat - A New Command Line for Work
+- **Ask Gemini in Chat** - Unified command line accessible from Chat
+- **Daily briefing** - Surfaces important tasks, unread threads, urgent action items
+- **Skills in Workspace** - Generate Docs/Slides, schedule meetings, find files
+- **Third-party connectors** (new) - Asana, Jira, Salesforce
+
+### Sheets, Docs, and Slides
+- **Sheets** - Build/edit entire spreadsheets using natural language; synthesizes data across files, emails, chats, and the web; state-of-the-art benchmark
+- **Docs** - Generate infographics grounded in business data; edit multiple images; triage/respond to comments; edit based on feedback
+- **Slides** - (Coming soon) Create full, editable slide decks in one shot, adhering to company templates
+
+### Gmail - Break Through Information Overload
+- **AI Inbox** - Streamlined view of what's most important
+- **AI Overviews in Gmail search** - Synthesizes information from multiple email threads
+
+### Google Drive - From Storage to Active Knowledge Base
+- **AI Overviews** (GA) - Find information fast across files
+- **Ask Gemini** (GA) - Detailed insights about all your files
+- **Drive Projects** - Centrally organize files and emails for full context
+
+## Security and Governance
+
+Your data is your data. It is not reviewed by humans, used for ads, or used to train AI models outside of Workspace without your permission.
+
+- Built on the same secure, compliant infrastructure as Workspace
+- **Admin controls** - Manage Workspace Intelligence usage
+- **Data processing regions** - Lock to US or EU (Germany and India coming soon)
+- **Client-side encryption** - Ultimate shield; deny access from any agent or entity
+
+## Availability
+
+- Rolling out to Google Workspace customers
+- Part of Gemini for Google Workspace add-on
+
+---
+
+# Document 454: AI Boost Bootcamp 201 for Marketing Teams
+
+Source URL: https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-by-role-introducing-ai-boost-bootcamp-201-for-marketing
+Product area: workspace-site
+
+# AI Boost Bootcamp 201 for Marketing Teams
+
+**Date:** June 22, 2026
+**Author:** Deanne Chen, Google Workspace with Gemini Product Marketing Manager
+
+AI Boost Bootcamp 201 is a new intermediate-level course series for learning to use AI at work, by role. The first course is designed for marketing teams.
+
+## Why Role-Specific Training
+
+More than half of companies today are focused on AI fluency, when the bigger opportunity is AI application, or the discovery of new workflows and implementation of AI in specific roles. - Deloitte
+
+## Course Details
+
+- **Prerequisite:** AI Boost Bootcamp 101 (foundational)
+- **Format:** Self-paced, under 45 minutes
+- **Platform:** Google Skills
+- **Completion:** Earn an official badge (shareable on social media)
+- **Based on:** Google's internal L&D training, adapted for customers
+
+## Quick Tips: Using Gemini in Marketing
+
+### Strengthen Marketing Research
+- **NotebookLM** - Synthesize customer feedback
+- **Gemini Deep Research** - Cast a wide net for competitive analysis
+
+### Accelerate Campaign Execution
+- **Gemini Canvas** - Turn dense info into visuals or apps
+- **Workspace Studio** - Automate campaign workflows
+
+### Scale Content Creation
+- **Gemini in Google Slides** - Instantly redesign editable slides
+- **Google Vids** - Turn slides into product overview videos
+
+### Simplify Data Analysis
+- **=AI() in Google Sheets** - Scale customer sentiment analysis
+- **Gemini Canvas** - Animate data charts quickly
+
+### Build Custom AI Agents (Marketing)
+- **Gemini Enterprise** - No-code AI agents for enforcing brand guidelines or analyzing social media trends
+
+---
+
+# Document 455: May 2026 Workspace Drops
+
+Source URL: https://workspace.google.com/blog/product-announcements/may-workspace-drops
+Product area: workspace-site
+
+# May 2026 Workspace Drops: AI Voiceovers, Data Analysis, Flexible Meetings, and Secure Chat
+
+**Date:** May 28, 2026
+**Author:** The Google Workspace Team
+
+## Previously Announced Features Now GA
+
+- **Gemini in Slides:** Generate editable slides
+- **Vids:** Create custom branded avatars
+- **Gemini in Sheets:** Build/edit spreadsheets, solve advanced optimization, automate data entry with Fill with Gemini
+- **Gmail:** Help me write with personalization; AI Overviews in search
+- **Gemini in Docs:** Help me create, Help me write, Match writing style
+- **AI Security:** AI Control Center for managing AI/agent access to Workspace data
+
+## New Enhancements (All GA)
+
+### 1. Vids: AI Voiceovers and Screen Recording
+
+**AI Voiceovers** (powered by Gemini 3.1 Flash TTS):
+- 30 new conversational options for greater realism
+- Emotional prompts: "Read this like you're excited"
+- Pacing adjustments: [pause]
+- Sound effects: [laugh]
+- 24 total languages (adds Arabic, Hindi, Dutch, Vietnamese)
+
+**Screen Recording** (Chrome extension):
+- Google Vids Screen Recorder Chrome extension
+- Single-click capture of screen and camera
+- Up to 30 minutes per video
+- Share via link
+
+### 2. Sheets: Convert to Table and Anomaly Detection
+
+**Convert to Table** (Gemini-powered):
+- Paste freeform text, bulleted lists, or JSON
+- Click "Convert to table" button
+- Gemini structures content into organized tables
+
+**Anomaly Detection in Connected Sheets:**
+- Powered by BigQueryML and TimesFM
+- No manual model training or SQL required
+- Identify supply chain bottlenecks, billing irregularities
+
+### 3. Meet: Customizable Notes, Connect Room, Mobile Translation
+
+**Customizable AI Meeting Notes:**
+- Toggle sections: Summary, Decisions, Next Steps, Details
+- Decisions captures: Aligned, Needs Further Discussion, Disagreed, Shelved
+
+**Connect Room:**
+- Detects nearby Google Meet hardware
+- Instant connection without meeting code
+
+**Speech Translation on Mobile:**
+- Real-time translation on iOS and Android
+
+### 4. Chat: Secure Guest Accounts
+- Secure messaging/document sharing with external non-Workspace users
+- Extends security policies to external users
+- Provisioned instantly via DM or space in Chat
+
+### 5. Gemini Omni in the Gemini App
+- Combines reasoning and creation
+- Input: images, audio, video, text
+- Output: high-quality videos grounded in real-world knowledge
+- Edit videos through conversation
+
+## Availability
+
+- Rolling out now to Google Workspace customers
+- All enhancements GA as of May 2026
+
+---
