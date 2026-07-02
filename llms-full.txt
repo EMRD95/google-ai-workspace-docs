@@ -79800,3 +79800,84 @@ Product area: workspace-site
 - All enhancements GA as of May 2026
 
 ---
+
+# Document 456: June 2026 Workspace Drops: AI updates for Drive, Sheets, and Gmail
+
+Source URL: https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
+Product area: workspace-site
+
+# June Workspace Drops: AI-Powered Organization, Analysis and Writing (June 25, 2026)
+
+**Date:** June 25, 2026
+**Author:** The Google Workspace Team
+
+## Drive – Organize My Files
+
+- The AI intelligently suggests existing folders for loose files or creates new ones to group related items.
+- Full user control: review suggestions file-by-file or approve in bulk.
+- Official announcement: https://workspaceupdates.googleblog.com/2026/06/organize-my-files-in-drive-now-generally-available.html
+
+## Sheets – Troubleshoot Formula Errors with Gemini
+
+- When an error occurs, click the fix button — Gemini analyzes surrounding data structure, identifies syntax/logic fault.
+- Explains the issue and fixes the formula inline where possible, reducing troubleshooting time.
+- Official announcement: http://workspaceupdates.googleblog.com/2026/06/troubleshoot-formula-errors-in-sheets.html
+
+## Gmail – Improved Help Me Write
+
+- First draft via prompt as usual; now you can use the prompt bar to make specific edits.
+- Gmail instantly updates the draft based on the instruction.
+- Help Center: https://support.google.com/mail/answer/13384326?hl=en
+
+## Expanded Availability
+
+- AI Inbox now available for most Google AI Ultra, Pro, and Plus subscribers.
+- Google Workspace Enterprise Plus customers on Gemini Alpha.
+- Sheets: Build and edit spreadsheets in 28 additional languages.
+
+## Availability
+
+Updates rolling out now to Google Workspace customers.
+
+---
+
+# Document 457: Use Large Language Models (LLMs) to develop on Google Workspace
+
+Source URL: https://developers.google.com/workspace/guides/build-with-llms
+Product area: workspace-developers
+
+# Use Large Language Models (LLMs) to Develop on Google Workspace
+
+**Last updated:** 2026-06-25 UTC
+
+## Overview
+
+Best practices and recommended tools for working with Large Language Models (LLMs) to develop solutions for Google Workspace.
+
+### Key Capabilities
+
+- Generate or troubleshoot code for calling Google Workspace APIs.
+- Build a solution based on the latest Google Workspace developer documentation.
+- Access Google Workspace resources from the command line or your IDE.
+
+## Recommended AI Code Assist Tools
+
+- Google AI Studio: Generate code for your Google Workspace solutions, including Apps Script projects.
+- Gemini Code Assist: AI-powered assistance in your IDE from the Gemini 2.5 model.
+
+## Google Workspace MCP Server
+
+An MCP server provides tools for LLMs to access Google Workspace developer documentation.
+Supports retrieving up-to-date API information and fetching official documentation.
+
+For Gemini Code Assist, add to settings.json:
+  mcpServers: { workspace-developer: { httpUrl: https://workspace-developer.goog/mcp, trust: true } }
+
+For Gemini CLI: gemini extensions install https://github.com/googleworkspace/developer-tools
+
+## Related Topics
+- Build with AI for Google Workspace
+- Extend the Google Workspace UI
+- Gemini for Google Cloud overview
+
+---
