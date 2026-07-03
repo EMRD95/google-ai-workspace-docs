@@ -79880,4 +79880,182 @@ For Gemini CLI: gemini extensions install https://github.com/googleworkspace/dev
 - Extend the Google Workspace UI
 - Gemini for Google Cloud overview
 
+
+# Document 458: Generate videos with Gemini Apps - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/16126339
+Product area: gemini-apps
+
+# Generate Videos with Gemini Apps
+
+**Source:** Google Gemini Help — Generate videos with Gemini Apps
+
+## Overview
+Create and edit videos in minutes using Gemini Omni, Google's latest AI video generation model. Blend text, images, and video in a conversational interface.
+
+## Requirements
+- **Personal account:** Must have a Google AI plan.
+- **Work/school account:** Must have a qualifying Workspace license.
+- **Age:** Not available for users under 18.
+- Must be signed in to Gemini Apps.
+
+You must comply with Google's Terms of Service and Prohibited Use Policy. Only upload content you have rights to.
+
+## About Gemini Omni
+
+- **Video to Video Edit:** Upload a video and apply edits (not available in EEA, Switzerland, UK, and some US states)
+- **Multi-turn editing:** Continually edit a video in one conversation; each turn can include image/video references
+- **Aspect Ratio Control:** Choose aspect ratio before creation. Default: landscape (text prompts) or matches uploaded content
+- **Templates:** Pre-made curated styles for instant inspiration
+
+## How to Generate a Video
+
+1. Go to gemini.google.com on your computer.
+2. Click Add Files → Create video.
+3. (Optional) Select a template.
+4. Enter a text prompt describing the video.
+   - To use images/videos: click Add image (up to 5) or Add video (max 1).
+   - To include your avatar: type @[your Google username] in the prompt.
+5. Click Submit.
+
+Brainstorm and refine prompts in the main chat before generating. Video generation may take a few minutes; you cannot interact with the same chat during generation. You can also ask Gemini to generate audio along with the video.
+
+## Editing a Generated Video
+
+After generation, edit with a simple prompt such as:
+- Remove/replace objects or characters
+- Change camera angles
+- Modify the scene
+
+## Exporting or Downloading a Video
+
+Under the video, click Share → Share on YouTube or Download video.
+
+## Why Videos Might Be Removed
+
+Gemini Apps may remove videos if systems detect a possible violation of Google's Terms of Service or Prohibited Use Policy.
+
+## Voice Edits & Avatar
+
+You can create AI content with your own voice and likeness using an avatar.
+
+
+# Document 459: Google AI announcements from June 2026
+
+Source URL: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+Product area: google-ai
+
+# Google AI Announcements – June 2026
+
+**Source:** Google Blog | Published: Jul 01, 2026
+
+"This month was about creating a more unified environment where AI delivers help naturally throughout your day."
+
+## Developer & Platform Updates
+
+- **Gemma 4 12B (open model):** Runs locally on laptop with just 16GB memory. Combines unified architecture, vision, and native voice processing. Enables private, advanced reasoning on everyday hardware.
+- **Computer use in Gemini 3.5 Flash:** Custom agents that see, reason, and take action across desktop, mobile, and browser. Improved for long-horizon and enterprise automation (e.g., continuous software testing).
+- **Nano Banana 2 Lite:** Fastest and most cost-efficient Gemini image model – now available.
+- **Gemini Omni Flash (public preview via API):** Natively multimodal model for enterprises – enables dynamic video workflows.
+
+## Everyday Life & Devices
+
+- **Android 17:** Floating app windows, Screen Reactions (picture-in-picture recording), foldable gaming layout, biometric remote lock for lost phone. Rolling out first to Pixel, then other Android devices in 2026.
+- **June Pixel Drop:** Screen recording reactions, AI video/music creation, floating app bubbles, expanded real-time voice translation, custom voicemail greetings, automated emergency notifications.
+- **Google Finance (out of beta):** Track personal portfolio, market intel, new Android app with AI research tool and "key moments" explaining stock moves.
+- **Gemini 3.5 Live Translate:** Audio model for live speech-to-speech translation – auto-detects 70+ languages, preserves natural intonation, eliminates pauses. Rolling out in Gemini Live API, Google AI Studio, and Google Translate app.
+- **New Google Home Speaker (built for Gemini):** Natural conversation without rigid commands; handles multiple requests, complex questions, remembers context.
+
+## Learning & Education
+
+- **NotebookLM upgrades:** Advanced reasoning, secure cloud code execution, chart/spreadsheet/slide deck generation. Organizes loose ideas from web sources into structured research repo. Available globally for Google AI Ultra subscribers and specific Workspace accounts.
+- **Study notebooks in Gemini app:** Set goal → upload notes → baseline quiz → personalized lessons → progress dashboard.
+- **Connected AI tools for classrooms:** Teachers use real class context securely to streamline tasks. Students get adaptive study notebooks, free standardized test prep.
+- **Sierra Leone study & resources:** AI as pedagogical partner where teacher shortage is acute. Free teacher training guide and research playbook released.
+
+## Culture & Art
+
+- **Colonial Williamsburg digital collection** (for US 250th birthday): Explore 18th-century streets/artifacts; custom NotebookLM with 150+ primary sources.
+- **Dataland:** World's first AI arts museum (with Refik Anadol). Powered by Google Cloud + Gemini. Uses neural networks to turn billions of data points into omni-sensory landscapes.
+
+## Research & Societal Impact
+
+- **Co-Scientist:** Structured hypothesis generation for life sciences. Used for infectious diseases, cellular aging, ALS.
+- **UK planning prototype:** Gemini-powered council tool automates manual data extraction and policy cross-referencing. Aims to cut household planning applications by 50%.
+- **Combating AI scams:** Civil lawsuit filed against "Outsider Enterprise" (China-based, coordinated via Telegram) for phishing kits mimicking Google. Advocating for 7 bipartisan bills.
+- **Extreme weather:** 10 years of AI research: river floods predicted 7 days in advance, wildfire boundaries via satellite, cyclone paths with high confidence. Alerts on Search & Maps.
+- **UK AI adoption study:** Workplace AI adoption doubled to 73% (from 34% in 2025). Top 15% of users see faster career progression, better reviews, promotions, pay rises.
+
+
+# Document 460: Gemini can handle note-taking during Google Meet calls
+
+Source URL: https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
+Product area: workspace-meet
+
+# Gemini Can Now Take Notes in Google Meet
+
+**Source:** Google Blog | Published: Jun 29, 2026
+
+Google AI Pro and Ultra subscribers can use the "Take notes for me" feature in Google Meet on web and mobile devices in select languages. The tool handles note-taking during calls with your permission, allowing you to stay focused on the discussion.
+
+## How It Works
+
+- **Real-time capturing:** Gemini transcribes the conversation and creates a meeting summary with key action items.
+- **Seamless saving:** Your notes are automatically saved to a Google Doc in your Google Drive.
+- **Instant recaps:** After the meeting, you'll get an email with the summary and action items.
+
+## Availability
+
+Available for Google AI Pro or Ultra subscribers — or eligible Workspace business customers — for meetings you host.
+
+## How to Use
+
+- **During a call:** Click the pencil icon at the top of your Meet window to start note-taking.
+- **For all calls:** Enable the feature under Meeting records in your Google Meet settings.
+
+All meeting participants will be notified when the feature is enabled.
+
+
+# Document 461: Google AI Studio at I/O 2026
+
+Source URL: https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
+Product area: ai-studio
+
+# Google AI Studio at I/O 2026
+
+**Source:** Google Blog | Published: May 19, 2026 | 4 min read
+
+"For millions of builders, Google AI Studio has become the fastest path from prompt to a production app."
+
+## 1. Build Across the Google Ecosystem
+
+- **Google Workspace integration:** Build dashboards on Sheets, organize Drive files, or create apps that work with existing documents/data – all without leaving AI Studio.
+- **Export to Google Antigravity:** Local development with full context (conversation history, project files, secrets) for faster iteration and team scaling.
+
+## 2. Design Your App's Look and Feel
+
+- **Custom asset generation:** The Build agent automatically generates images using Nano Banana (no external placeholders needed).
+- **Edit tool in preview:** Annotate directly on the preview window; tweak components and generate new visuals on the fly.
+
+## 3. Google AI Studio Mobile App
+
+- Full build-mode experience on your phone.
+- Features: iterate on code, preview builds, remix apps from the gallery, share live deployments for feedback.
+- Pre-register at ai.studio/mobile.
+
+## 4. Build Native Android Apps in AI Studio
+
+Select "Build an Android app" in the build tab – no software install, no SDKs, no local environment needed.
+
+- **Production-quality native code:** Generate Kotlin code using latest Jetpack Compose patterns.
+- **In-browser emulator & ADB support:** Preview via browser emulator or install on a real Android device via ADB.
+- **Direct-to-Play Store testing:** Connect your Google Play Developer account and publish to the Internal Test Track with one click.
+
+## 5. Deploy at No Cost
+
+- First two apps to Google Cloud at no cost, no credit card required.
+- Existing billing users default to the Cloud Run Free Tier.
+
 ---
+
+

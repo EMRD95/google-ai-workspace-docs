@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 457 official source documents
-- 457 preserved source URLs
+- 461 official source documents
+- 461 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -51,7 +51,7 @@ The corpus currently includes pages from these source bases:
 | `https://workspace.google.com/learning` | 18 |
 | `https://support.google.com/chat` | 17 |
 | `https://support.google.com/chrome` | 15 |
-| `https://support.google.com/gemini` | 15 |
+| `https://support.google.com/gemini` | 16 |
 | `https://developers.google.com/apps-script` | 11 |
 | `https://support.google.com/notebooklm` | 11 |
 | `https://knowledge.workspace.google.com/admin/generative-ai` | 10 |
@@ -72,7 +72,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/maps` | 3 |
 | `https://workspace.google.com/ai` | 2 |
 | `https://www.drawio.com/docs` | 2 |
-| `https://blog.google` | 1 |
+| `https://blog.google` | 4 |
 | `https://workspace.google.com/security` | 1 |
 | `https://workspace.google.com/studio` | 1 |
 | `https://www.drawio.com/doc` | 1 |
@@ -90,7 +90,7 @@ The corpus currently includes pages from these source bases:
 | `notebooklm` | 16 |
 | `workspace-learning-center` | 14 |
 | `chrome-ai` | 13 |
-| `gemini-apps` | 15 |
+| `gemini-apps` | 16 |
 | `apps-script-ai` | 11 |
 | `gmail` | 10 |
 | `youtube-ai` | 10 |
@@ -99,7 +99,7 @@ The corpus currently includes pages from these source bases:
 | `drive` | 8 |
 | `search-ai` | 8 |
 | `docs-editors` | 7 |
-| `meet` | 7 |
+| `meet` | 8 |
 | `slides` | 6 |
 | `calendar` | 5 |
 | `forms` | 5 |
@@ -112,6 +112,8 @@ The corpus currently includes pages from these source bases:
 | `keep` | 3 |
 | `maps-ai` | 3 |
 | `chrome-enterprise-ai` | 2 |
+| `google-ai` | 1 |
+| `ai-studio` | 1 |
 
 ## Updates
 
@@ -125,8 +127,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-07-02.
-Last maintenance check: 2026-07-02.
+Last corpus update: 2026-07-03.
+Last maintenance check: 2026-07-03.
 
 ## Usage
 
