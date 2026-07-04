@@ -40,8 +40,8 @@ Excluded:
 The corpus currently includes pages from these source bases:
 
 | Source base URL | Pages |
-|---|---:|
-| `https://workspace.google.com/blog` | 74 |
+|---|--:|
+| `https://workspace.google.com/blog` | 75 |
 | `https://workspace.google.com/intl` | 48 |
 | `https://developers.google.com/workspace` | 35 |
 | `https://support.google.com/docs` | 31 |
@@ -49,11 +49,11 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/workspace-studio` | 21 |
 | `https://workspace.google.com/resources` | 20 |
 | `https://workspace.google.com/learning` | 18 |
+| `https://support.google.com/gemini` | 18 |
 | `https://support.google.com/chat` | 17 |
 | `https://support.google.com/chrome` | 15 |
-| `https://support.google.com/gemini` | 16 |
+| `https://support.google.com/notebooklm` | 13 |
 | `https://developers.google.com/apps-script` | 11 |
-| `https://support.google.com/notebooklm` | 11 |
 | `https://knowledge.workspace.google.com/admin/generative-ai` | 10 |
 | `https://support.google.com/youtube` | 10 |
 | `https://support.google.com/appsheet` | 9 |
@@ -67,12 +67,12 @@ The corpus currently includes pages from these source bases:
 | `https://cloud.google.com` | 5 |
 | `https://support.google.com/calendar` | 5 |
 | `https://support.google.com/photos` | 5 |
+| `https://blog.google` | 4 |
 | `https://support.google.com/android` | 3 |
 | `https://support.google.com/keep` | 3 |
 | `https://support.google.com/maps` | 3 |
 | `https://workspace.google.com/ai` | 2 |
 | `https://www.drawio.com/docs` | 2 |
-| `https://blog.google` | 4 |
 | `https://workspace.google.com/security` | 1 |
 | `https://workspace.google.com/studio` | 1 |
 | `https://www.drawio.com/doc` | 1 |
@@ -80,17 +80,17 @@ The corpus currently includes pages from these source bases:
 ## Coverage by theme
 
 | Theme | Pages |
-|---|---:|
-| `workspace-site` | 153 |
+|---|--:|
+| `workspace-site` | 156 |
 | `workspace-studio` | 29 |
 | `chat-developers` | 26 |
 | `chat` | 18 |
-| `admin-console` | 17 |
+| `gemini-apps` | 18 |
 | `google-vids` | 18 |
-| `notebooklm` | 16 |
+| `notebooklm` | 18 |
+| `admin-console` | 17 |
 | `workspace-learning-center` | 14 |
 | `chrome-ai` | 13 |
-| `gemini-apps` | 16 |
 | `apps-script-ai` | 11 |
 | `gmail` | 10 |
 | `youtube-ai` | 10 |
@@ -99,21 +99,22 @@ The corpus currently includes pages from these source bases:
 | `drive` | 8 |
 | `search-ai` | 8 |
 | `docs-editors` | 7 |
-| `meet` | 8 |
+| `meet` | 7 |
+| `workspace-developers` | 7 |
 | `slides` | 6 |
 | `calendar` | 5 |
 | `forms` | 5 |
 | `looker-studio` | 5 |
 | `photos-ai` | 5 |
-| `workspace-developers` | 7 |
 | `workspace-studio-admin` | 5 |
 | `android-ai` | 3 |
 | `external_drawio` | 3 |
 | `keep` | 3 |
 | `maps-ai` | 3 |
 | `chrome-enterprise-ai` | 2 |
-| `google-ai` | 1 |
 | `ai-studio` | 1 |
+| `google-ai` | 1 |
+| `workspace-meet` | 1 |
 
 ## Updates
 
@@ -128,7 +129,7 @@ Regular maintenance should:
 - update `llms-full.txt` and this README together
 
 Last corpus update: 2026-07-03.
-Last maintenance check: 2026-07-03.
+Last maintenance check: 2026-07-04.
 
 ## Usage
 

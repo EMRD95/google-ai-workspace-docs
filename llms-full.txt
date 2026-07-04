@@ -1,45 +1,49 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-06-16T08:47:02Z
-Total raw official source documents: 443
-Total coverage areas: 31
+Generated at: 2026-07-04T15:40:20Z
+Total raw official source documents: 461
+Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
 No synthetic documentation is added. Each section preserves source URL, product area, and original file path.
 
+
 ## Coverage index
 
-- admin-console: 17 document(s)
-- android-ai: 3 document(s)
-- apps-script-ai: 11 document(s)
-- appsheet: 9 document(s)
-- calendar: 5 document(s)
-- chat: 18 document(s)
-- chat-developers: 26 document(s)
-- chrome-ai: 13 document(s)
-- chrome-enterprise-ai: 2 document(s)
-- docs-editors: 7 document(s)
-- drive: 8 document(s)
-- external_drawio: 3 document(s)
-- forms: 5 document(s)
-- gemini-apps: 12 document(s)
-- gmail: 10 document(s)
-- google-vids: 17 document(s)
-- keep: 3 document(s)
-- looker-studio: 5 document(s)
-- maps-ai: 3 document(s)
-- meet: 7 document(s)
-- notebooklm: 16 document(s)
-- photos-ai: 5 document(s)
-- search-ai: 8 document(s)
-- sheets: 9 document(s)
-- slides: 6 document(s)
-- workspace-developers: 5 document(s)
-- workspace-learning-center: 14 document(s)
-- workspace-site: 149 document(s)
+- workspace-site: 156 document(s)
 - workspace-studio: 29 document(s)
-- workspace-studio-admin: 5 document(s)
+- chat-developers: 26 document(s)
+- chat: 18 document(s)
+- gemini-apps: 18 document(s)
+- google-vids: 18 document(s)
+- notebooklm: 18 document(s)
+- admin-console: 17 document(s)
+- workspace-learning-center: 14 document(s)
+- chrome-ai: 13 document(s)
+- apps-script-ai: 11 document(s)
+- gmail: 10 document(s)
 - youtube-ai: 10 document(s)
+- appsheet: 9 document(s)
+- sheets: 9 document(s)
+- drive: 8 document(s)
+- search-ai: 8 document(s)
+- docs-editors: 7 document(s)
+- meet: 7 document(s)
+- workspace-developers: 7 document(s)
+- slides: 6 document(s)
+- calendar: 5 document(s)
+- forms: 5 document(s)
+- looker-studio: 5 document(s)
+- photos-ai: 5 document(s)
+- workspace-studio-admin: 5 document(s)
+- android-ai: 3 document(s)
+- external_drawio: 3 document(s)
+- keep: 3 document(s)
+- maps-ai: 3 document(s)
+- chrome-enterprise-ai: 2 document(s)
+- ai-studio: 1 document(s)
+- google-ai: 1 document(s)
+- workspace-meet: 1 document(s)
 
 ## Source index
 
@@ -485,9 +489,28 @@ No synthetic documentation is added. Each section preserves source URL, product 
 440. [workspace-site] Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency — https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency?hl=en
 441. [workspace-site] Simplify your move to Google Workspace: New Migration & Interoperability Features — https://workspace.google.com/blog/productivity-collaboration/simplify-the-move-to-google-workspace-with-new-migration-and-interoperability-features
 442. [workspace-site] New ways to create and get stuff done in Google Workspace — https://blog.google/products-and-platforms/products/workspace/workspace-updates/
+443. [google-vids] How to create professional work videos with AI avatars in Google Vids — https://workspace.google.com/blog/ai-and-machine-learning/how-to-create-professional-work-videos-with-ai-avatars-in-google-vids
+444. [gemini-apps] Use Gemini Spark to manage your tasks & workflows in Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094507
+445. [gemini-apps] Get Started with Gemini Go - Gemini Apps Help — https://support.google.com/gemini/answer/17079170
+446. [gemini-apps] Create & manage skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094296
+447. [workspace-developers] Google Workspace standardized model for agent tools and APIs — https://developers.google.com/workspace/tools-safety
+448. [gemini-apps] Write effective skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17102773?hl=en
+449. [notebooklm] Generate a Slide Deck in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16757456?hl=en
+450. [notebooklm] Use public notebooks and featured notebooks in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16322204?hl=en
+451. [gemini-apps] Gemini Apps limits & upgrades for Google AI subscribers - Gemini Apps Help — https://support.google.com/gemini/answer/16275805?hl=en
+452. [workspace-site] June Workspace Drop: Create with Veo 3 in Google Vids and connect the Gemini app with Google Workspace — https://workspace.google.com/blog/product-announcements/june-workspace-drop-create-veo-3-google-vids-and-connect-gemini-app
+453. [workspace-site] Introducing Workspace Intelligence — https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
+454. [workspace-site] AI Boost Bootcamp 201 for Marketing Teams — https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-by-role-introducing-ai-boost-bootcamp-201-for-marketing
+455. [workspace-site] May 2026 Workspace Drops — https://workspace.google.com/blog/product-announcements/may-workspace-drops
+456. [workspace-site] June 2026 Workspace Drops: AI updates for Drive, Sheets, and Gmail — https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
+457. [workspace-developers] Use Large Language Models (LLMs) to develop on Google Workspace — https://developers.google.com/workspace/guides/build-with-llms
+458. [gemini-apps] Generate videos with Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/16126339
+459. [google-ai] Google AI announcements from June 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+460. [workspace-meet] Gemini can handle note-taking during Google Meet calls — https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
+461. [ai-studio] Google AI Studio at I/O 2026 — https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
+
 
 ---
-
 # Document 1: 3 ways Gen AI will impact the way we work this year
 
 Source URL: https://workspace.google.com/blog/ai-and-machine-learning/3-ways-gen-ai-will-impact-way-we-work?hl=en
