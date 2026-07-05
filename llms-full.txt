@@ -80082,3 +80082,78 @@ Select "Build an Android app" in the build tab – no software install, no SDKs,
 ---
 
 
+
+# Document 462: Use chat in NotebookLM - NotebookLM Help
+
+Source URL: https://support.google.com/notebooklm/answer/16179559?hl=en
+Product area: notebooklm
+Original file: docs/use-chat-in-notebooklm-notebooklm-help-a1b2c3d4.md
+
+## Chat Overview
+
+- After uploading sources, you can ask questions about source material and give instructions to perform actions.
+- Responses include direct citations (quotes, text, images) from your sources. Hover to see full quoted text; select to navigate to original context.
+- Use checkboxes on sources to include/exclude which sources the model uses.
+
+Important: Chat responses in NotebookLM only use data from your sources. If you explicitly ask the model to do something more creative, like "rewrite the end of my short story," you may receive "NotebookLM can't answer this question." Try to rephrase or ask a different question.
+
+Mobile app may have limitations.
+
+## Chat Settings
+
+1. In the Chat panel, navigate to Configure Chat (gear icon).
+2. Select a conversational style:
+   - Default — general research and brainstorming
+   - Learning Guide — educational content, grasping new concepts
+   - Custom — specific style (e.g., "Respond like a PhD student") or role (e.g., "Pretend to be a role-playing game host")
+3. Select a response length: Default, Longer, Shorter.
+4. Click Save.
+
+### Tips
+- Pin responses to noteboard: select Save to note (preserves original format, including tables and clickable citations).
+- Chat history is retained and private. Clear it via the three-dot menu → Delete Chat History.
+- In chat, generate a note with Add a note, or access Audio Overview and Mind Maps.
+
+## Additional Features for Google AI Ultra Subscribers
+
+Important: Only available to Google AI Ultra subscribers on desktop. Experimental — requires supervision. NotebookLM can make mistakes and do unexpected things. Please double check it.
+
+You get agentic capabilities and advanced reasoning in chat, enabling actions like:
+- Searching the web
+- Running code
+- Creating downloadable files, charts, and images
+
+Use this chat experience with or without sources.
+
+### New Outputs You Can Generate
+
+| Category | Formats |
+|----------|---------|
+| Data visualizations and charts | png, svg |
+| Documents | PDF, Microsoft Word, Markdown, text files |
+| Images | png, jpg, gif |
+| Structured data | CSV, JSON |
+| Spreadsheets | Microsoft Excel (xlsx) |
+| Presentations | Microsoft PowerPoint (pptx) |
+
+### Other Capabilities
+- Make changes to uploaded charts
+- Modify artifacts as versions
+- Expand "thinking steps" to see what NotebookLM is doing
+- Complete research from within chat — select and import research report and sources into your notebook
+
+## Changing Your Chat Request (All Users)
+
+While NotebookLM is processing:
+1. Click Stop in the prompt box.
+2. Choose an option:
+   - Stop — to revise your prompt
+   - Keep generating — to continue with the existing prompt
+
+---
+
+## Related Resources
+
+- [Generate Audio Overview in NotebookLM](https://support.google.com/notebooklm/answer/16212820)
+- [Create and add notes in NotebookLM](https://support.google.com/notebooklm/answer/16262519)
+- [Use Mind Maps in NotebookLM](https://support.google.com/notebooklm/answer/16212283)

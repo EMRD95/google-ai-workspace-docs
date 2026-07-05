@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 461 official source documents
-- 461 preserved source URLs
+- 462 official source documents
+- 462 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -128,8 +128,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-07-03.
-Last maintenance check: 2026-07-04.
+Last corpus update: 2026-07-05.
+Last maintenance check: 2026-07-05.
 
 ## Usage
 
