@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
 Generated at: 2026-07-04T15:40:20Z
-Total raw official source documents: 461
+Total raw official source documents: 464
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -80157,3 +80157,114 @@ While NotebookLM is processing:
 - [Generate Audio Overview in NotebookLM](https://support.google.com/notebooklm/answer/16212820)
 - [Create and add notes in NotebookLM](https://support.google.com/notebooklm/answer/16262519)
 - [Use Mind Maps in NotebookLM](https://support.google.com/notebooklm/answer/16212283)
+
+
+# Document 463: July Workspace Drop: New AI features, Veo 3, and more
+
+Source URL: https://workspace.google.com/blog/product-announcements/july-workspace-feature-drop-veo-3-drive-video-summaries
+Product area: workspace-site
+
+## What's New
+
+- **Google AI Ultra for Business** – a new Workspace add-on plan for creatives, developers, and researchers.
+- **Veo 3** – video generation in the Gemini app and Google Vids.
+- **Drive upgrades** – "catch me up", video summaries & Q&A, PDF summary cards.
+- **Developer tools** – GitHub integrations in Gemini app and Google Chat, upgraded Gemini Canvas.
+
+## 1. Google AI Ultra for Business
+
+A new Workspace add-on that's ideal for creatives, developers, and researchers who demand more from AI.
+
+**Includes:**
+- **Flow** – the AI filmmaking tool showcased at Google I/O.
+- **Whisk** – AI image and video generation tool.
+- **Higher usage limits of Veo 3** in the Gemini app.
+- **Elevated limits for Gemini 2.5 Pro** and **Deep Think** (coming soon) – enhanced reasoning for complex math and coding.
+- **Deep Research** – explores complex topics and produces comprehensive research reports in minutes.
+
+## 2. Veo 3 in the Gemini App & Google Vids
+
+Veo 3 creates high-quality video clips with realistic sound, just by typing a prompt.
+
+**Gemini App:** Click "Video" in the prompt window, describe your scene (visual style, background music, etc.) to generate a clip with sound.
+
+**Google Vids:** Workspace's AI-powered video creation app for employee training, product demos, and more. New getting started page at vids.new with options to:
+- Record yourself
+- Use professionally designed templates
+- Generate clips with Veo 3
+
+## 3. Gemini in Google Drive
+
+**"Catch me up" Feature:** Identifies and summarizes changes made to files since you last viewed them – no need to comb through edits and comments individually.
+
+**Video Summaries & Q&A:** Ask "summarize this video" or "list action items from this meeting recording" directly in Drive. A 60-minute meeting recording yields important details with action items in under a minute.
+
+**PDF Summary Cards:** When opening a PDF, Gemini summarizes contents and suggests relevant actions (e.g., "draft a sample proposal", "list interview questions").
+
+## 4. Developer Enhancements
+
+**GitHub Integration in Gemini App:** Connect to GitHub to manage repositories, issues, and pull requests without switching contexts. Gemini gains context of your codebase to help understand, improve, write, and debug code.
+
+**GitHub Chat App in Google Chat:** Notifications and actions delivered directly into Chat conversations.
+
+**Upgraded Gemini Canvas:** Now supports designing web pages and generating infographics.
+
+## Availability
+
+All updates are rolling out to Google Workspace customers now.
+
+
+# Document 464: Everything new in our Google AI subscriptions, fresh from I/O 2026
+
+Source URL: https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
+Product area: workspace-site
+
+## New $100 AI Ultra Plan
+
+Specifically tailored for developers, technical leads, knowledge workers and advanced creators.
+- 5x higher usage limit in Gemini app & Google Antigravity vs. Pro plan
+- Gemini 3.5 Flash integration for fast testing/debugging/iteration
+- Priority access to Google Antigravity (agent-first development platform)
+- 20 TB cloud storage
+- YouTube Premium individual plan included
+
+## Price Reduction: $200 AI Ultra Plan
+
+Reduced from $250 to $200/month – same capabilities at lower cost.
+
+**Key benefits (both $100 & $200 tiers):**
+- **Gemini Spark** ($100 & $200; U.S. only) – 24/7 AI agent that navigates digital life, takes action on your behalf. Rolls out to trusted testers this week, Beta for U.S. Ultra subscribers next week.
+- **Project Genie** ($200 only; global) – experimental research prototype to create/explore worlds. New Street View-powered capability.
+
+## Access to Latest Models
+
+| Model | Tiers | Description |
+|-------|-------|-------------|
+| **Gemini Omni** | AI Plus, Pro, Ultra | Creates anything from any input (starting with video). Available in Gemini app (text, images, video inputs) and Google Flow. |
+| **Gemini 3.5 Flash** | AI Plus, Pro, Ultra | Frontier performance for agents and coding, excels at complex long-horizon tasks. |
+
+## Productivity Tools
+
+**AI Inbox in Gmail:** Surfaces critical to-dos, personalized draft replies, marks tasks done, links to relevant Docs/Sheets/Slides. Rolling out to AI Plus & Pro subscribers (U.S. only).
+
+**Daily Brief in Gemini App:** Personalized morning digest from Gmail, Calendar, Gemini chats. Flags top priorities, suggests next steps. (AI Plus, Pro, Ultra; U.S. only)
+
+**Coming this summer (AI Pro & Ultra):**
+- **Google Pics** – image creation and editing tool
+- **Additional voice capabilities** in Gmail, Docs, Keep
+
+## Premium Benefits
+
+- **YouTube Premium Lite** – coming to paid AI Pro subscribers (select countries) at no extra charge
+- **YouTube Premium** already included in AI Ultra
+- **Health Premium** and **Home Premium** included in AI Pro & Ultra
+
+## Usage Limits: Compute-Based Model
+
+Moving from daily prompt limits to a "compute-used" model. Compute factors: prompt complexity, features used, chat length. Limits refresh every 5 hours until weekly cap reached. If cap reached on biggest models, shifted to lightning-fast smaller models. AI Pro & Ultra can buy pay-as-you-go top-up AI credits for Google Antigravity, Google Flow, and coming soon Gemini app.
+
+## Rollout Timeline
+
+- Starting today: Many updates begin rolling out
+- Next week: Gemini Spark Beta for U.S. Ultra subscribers
+- This summer: Google Pics & additional voice capabilities for AI Pro & Ultra
