@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 464 official source documents
-- 464 preserved source URLs
+- 465 official source documents
+- 465 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -69,6 +69,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/photos` | 5 |
 | `https://blog.google` | 5 |
 | `https://support.google.com/android` | 3 |
+| `https://support.google.com/g` | 1 |
 | `https://support.google.com/keep` | 3 |
 | `https://support.google.com/maps` | 3 |
 | `https://workspace.google.com/ai` | 2 |
@@ -113,6 +114,7 @@ The corpus currently includes pages from these source bases:
 | `maps-ai` | 3 |
 | `chrome-enterprise-ai` | 2 |
 | `ai-studio` | 1 |
+| `gemini-enterprise` | 1 |
 | `google-ai` | 1 |
 | `workspace-meet` | 1 |
 
@@ -128,8 +130,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-07-06.
-Last maintenance check: 2026-07-06.
+Last corpus update: 2026-07-07.
+Last maintenance check: 2026-07-07.
 
 ## Usage
 

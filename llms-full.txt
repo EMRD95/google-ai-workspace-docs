@@ -80268,3 +80268,156 @@ Moving from daily prompt limits to a "compute-used" model. Compute factors: prom
 - Starting today: Many updates begin rolling out
 - Next week: Gemini Spark Beta for U.S. Ultra subscribers
 - This summer: Google Pics & additional voice capabilities for AI Pro & Ultra
+
+# Document 465: Gemini Enterprise – Business edition release notes
+
+Source URL: https://support.google.com/g/answer/16719009?hl=en
+Product area: gemini-enterprise
+
+## June 18, 2026
+
+Data connectors for Granted, Kiwi, Mermaid Chart, and PandaDoc (Public preview) — Connect these data stores to Gemini Enterprise – Business edition.
+
+## June 5, 2026
+
+Data connector for Slack — Connect a Slack data store to Gemini Enterprise – Business edition.
+
+## June 2, 2026
+
+Generate images using Nano Banana 2 GA model — Nano Banana 2 (Gemini 3.1 Flash Image) is now generally available (GA) in Gemini Enterprise – Business edition. It is our efficient, high-quality image generation model optimized for most creative projects.
+
+## May 22, 2026
+
+Data connectors for Apollo Graph OS, Clinical Trials, Crypto, Excalidraw, Godaddy, Hugging Face, Microsoft Learn, and Trivago (Public preview).
+
+## May 21, 2026
+
+Create and edit slides in Canvas (Public preview) — Use Canvas in Gemini Enterprise – Business edition to create and edit slides side-by-side with your chat. After your slides are ready, ask Gemini to make edits for you using the chat box, or export your work to another application.
+
+## May 19, 2026
+
+Gemini 3.5 Flash is now available — Choose Gemini 3.5 Flash in the Model selector. Gemini 3.5 Flash replaces the Gemini 2.5 Flash option.
+
+Create slide decks and infographics with NotebookLM Enterprise.
+
+## April 20, 2026
+
+NotebookLM Enterprise is now generally available (GA) for all Gemini Enterprise – Business edition users.
+
+## April 15, 2026
+
+Upfront billing cycle — For monthly and annual subscriptions, charges now occur on the first day of each month for the preceding month's service (unless a spending threshold is reached).
+
+New actions for Zendesk: Create ticket, update ticket, create category, update post, update article, merge tickets.
+
+## March 27, 2026
+
+New actions for GitHub: Add comment to pending review/issue, create branch, update/merge pull request, create/update file, fork repository, update issues, push file.
+
+## March 26, 2026
+
+New actions for Google Drive: Copy a file or folder from Google Drive.
+
+## March 13, 2026
+
+Search generated images and videos — Use natural language to search your generated images and videos directly in the Library.
+
+## March 11, 2026
+
+New actions (Public preview): Google Mail — Create labels. Notion — Create/update database, create/update pages. Microsoft SharePoint — Add pages, check in/out documents, move/rename attachments or documents.
+
+## March 4, 2026
+
+Chat with files in Microsoft Outlook and Box connectors — Gemini Enterprise can analyze content and generate answers from email attachments in the Microsoft Outlook connector and from CSV, PDF, PPTX, and XLSX files in the Box connector, removing the need to manually upload these files.
+
+New action for Monday (Public preview) — Create a workspace.
+
+## March 3, 2026
+
+Use Veo 3.1 for video generation — Veo 3.1 replaces Veo 3.0 for video generation in the Gemini Enterprise web app.
+
+## February 26, 2026
+
+Data connectors for HubSpot and Monday (Public preview).
+
+## February 25, 2026
+
+Upgraded Support Experience — Integrated with Cloud Support Platform: AI-powered chatbot with specialized agents for billing, seamless human agent handoff, chat support during checkout.
+
+## February 19, 2026
+
+Interactively edit documents in Canvas (Public preview) — Create and interactively edit documents in Canvas. Edit and adjust formatting in the editor panel, or request changes using the prompt box. Export to Google Docs.
+
+New action for Notion (Public preview) — Add a comment on a Notion page or block.
+
+Chat with files in Microsoft SharePoint connector — Analyze XLSX and CSV files without manual upload.
+
+## February 17, 2026
+
+Gemini 3.1 Pro is now available in preview — Choose Gemini 3.1 Pro (preview) in the Model selector. Replaces the Gemini 3.0 (preview) option.
+
+## February 11, 2026
+
+Agent sharing is generally available (GA) — Share agents with your entire organization or with specific users for granular access control.
+
+## February 9, 2026
+
+Data connector for Notion (Public preview).
+
+## February 6, 2026
+
+Data connector for Linear (Public preview).
+
+## January 27, 2026
+
+Autocomplete turned off in the chat box. Users can still use the mentions feature by typing @ followed by an agent, person, or file name.
+
+## January 26, 2026
+
+Visual flow builder for existing agents — Available for all agents created before January 12, 2026. Manage and share agents from Agent Gallery, edit logic using enhanced visual flow builder.
+
+## January 23, 2026
+
+New connector actions: Box (upload/download files), Confluence Cloud (download attachments), Dropbox (upload/download files), Jira Cloud (upload attachments), Microsoft OneDrive (upload/download files), Microsoft Outlook (download attachments), Microsoft SharePoint (upload/download documents).
+
+## December 19, 2025
+
+Schedule agent executions for custom agents in Agent Designer (Preview) — Configure custom agents to execute predefined instructions on a set schedule. Scheduled executions run automatically for personal tasks; actions involving other people are paused for review and approval.
+
+New connector actions: Box (copy file), Confluence Cloud (create page), Jira Cloud (create/update issue, change status, create/update comment).
+
+## December 17, 2025
+
+Gemini 3 Flash is now available in preview — Our most intelligent model built for speed. Choose Gemini 3 Flash (preview) in the Model selector.
+
+## December 9, 2025
+
+New connector actions: Gmail (add label to message), Dropbox (create folder, copy file/folder), Microsoft Outlook (create/update contacts), Microsoft SharePoint (add list, create folder).
+
+## December 8, 2025
+
+Share custom agents with your team (Preview) — Share custom agents with everyone in your organization from the Agent Gallery or Agent Designer canvas.
+
+## November 21, 2025
+
+Generate images using Nano Banana Pro in Preview — Nano Banana Pro (Gemini 3 Pro Image) is our state-of-the-art image generation and editing model.
+
+## November 19, 2025
+
+Box Enterprise, Dropbox Enterprise, and Microsoft Teams connectors are now supported as data sources.
+
+## November 18, 2025
+
+Gemini 3 Pro is now available in preview — Our most intelligent model. Choose Gemini 3 Pro (preview) in the Model selector.
+
+Generate images using Nano Banana — Nano Banana (Gemini 2.5 Flash Image) is GA for image generation and editing.
+
+View your generated images and videos in the Library.
+
+Microsoft OneDrive @mentions — Use @ to reference files stored in connected Microsoft OneDrive data sources.
+
+Sources from model — In the Sources panel of an answer, Gemini Enterprise now shows other sources used in Gemini models.
+
+## October 9, 2025
+
+Launch of Gemini Enterprise – Business edition — Advanced agentic platform bringing Google AI to every employee. Tailored for small businesses, start-ups, and teams.
