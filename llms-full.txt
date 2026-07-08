@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
 Generated at: 2026-07-04T15:40:20Z
-Total raw official source documents: 464
+Total raw official source documents: 468
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -80421,3 +80421,208 @@ Sources from model — In the Sources panel of an answer, Gemini Enterprise now 
 ## October 9, 2025
 
 Launch of Gemini Enterprise – Business edition — Advanced agentic platform bringing Google AI to every employee. Tailored for small businesses, start-ups, and teams.
+
+# Document 466: June Workspace Drops: AI updates for Drive, Sheets, and Gmail
+
+Source URL: https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
+Product area: workspace-site
+
+## Overview
+
+June 2026 Workspace Drop introduces three major AI-driven features plus expanded availability of existing tools:
+
+- Drive: Organize my files — intelligently suggests or creates folders for loose files.
+- Sheets: Gemini-powered troubleshooting of formula errors with a "fix" button.
+- Gmail: Improved Help me write — now allows inline editing via the prompt bar after the first draft.
+
+Additional expansions: AI Inbox now available to more subscribers, and Gemini in Sheets supports 28 more languages.
+
+## New Features
+
+### 1. Tidy up your Drive faster with Organize my files
+
+Instead of manually dragging files into folders, let Drive do the work for you. The new Organize my files feature intelligently suggests the best folders for your loose files, or creates new ones to group related items.
+
+Key details:
+- You can review suggestions file-by-file or approve in bulk.
+- Full control over what to accept.
+- Now generally available.
+
+### 2. Accelerate data analysis by resolving formula errors with Gemini in Sheets
+
+Gemini in Google Sheets can now remove the frustration out of troubleshooting formula errors. When you encounter a formula error, click on the fix button, and Gemini will automatically analyze your spreadsheet's surrounding data structure to identify the logical or syntax fault.
+
+Key details:
+- Gemini explains the issue and fixes the formula inline where possible.
+- Reduces troubleshooting time so users can focus on analysis and insights.
+- Works for syntax typos, incorrect references, and logical faults.
+
+### 3. Perfect your email drafts with an improved Help me write in Gmail
+
+Just prompt Help me write as you normally would for your first draft. If the result is not perfect, you can now use the prompt bar to make specific edits. Simply type the instruction and Gmail will instantly update the draft for you.
+
+Key details:
+- First draft generated as usual.
+- Prompt bar allows iterative edits (e.g., add a missing detail, include a deadline).
+- Updates are instant, no need to rewrite the whole draft.
+- Available on desktop.
+
+## Additional Features with Expanded Availability
+
+- AI Inbox — now available for most Google AI Ultra, Pro, and Plus subscribers, as well as Google Workspace Enterprise Plus customers on Gemini Alpha.
+- Build and edit spreadsheets (Gemini in Sheets) — now supports 28 additional languages, including Spanish, Japanese, Portuguese, French, German, Italian, Korean, and more.
+
+## Get Started Today
+
+These updates are rolling out to Google Workspace customers now.
+
+# Document 467: 10 more announcements for Workspace at Google Cloud Next 2026
+
+Source URL: https://workspace.google.com/blog/product-announcements/10-more-announcements-workspace-at-next-2026
+Product area: workspace-site
+
+## Key Announcements
+
+### 1. Interact with Your Data in Sheets
+- Third-party data import from apps like Hubspot and Salesforce directly into Sheets.
+- New Sheets canvas lets you create and share custom, interactive visualizations: dashboards, heat maps, kanban boards, etc. These are fully interactive mini-apps, not static dashboards.
+- Gemini in Sheets already handles advanced optimization problems that typically require complex formulas or third-party tools.
+
+### 2. Streamline Work with Skills in Workspace
+- Skills = agentic automation that can be orchestrated and deployed across teams and workflows.
+- Example: automate invoice review by comparing new invoices against latest ones in your inbox — identifies discrepancies and reduces billing errors.
+- Skills are built in Workspace Studio and can be shared like a Doc.
+- Can be invoked anywhere you use Gemini in Workspace.
+
+### 3. Scale Your Message with Avatars in Vids
+- Avatars in Google Vids — most realistic yet, preferred 5:1 over other platforms (announced Dec 2025 with Veo 3.1).
+- New capabilities: add branding elements (company logo on shirt, branded backdrop) to custom avatars. Soon: add avatars when converting a presentation into a video.
+- 24 languages supported for avatars.
+- Direct custom avatars — consistent appearance and voice across generations.
+- Over 7 million monthly active users on Vids.
+
+### 4. Help from Gemini in Every Meeting
+- Take Notes for Me in Google Meet: Over 110 million attendees used it in the last month. 8.5x growth year-over-year.
+- Now works for in-person meetings or meetings on other platforms (Zoom, Teams) — simply tap Take Notes for me on the Meet home screen (mobile or desktop). Gemini captures summary and action items in a Google Doc.
+
+### 5. Access Workspace Capabilities in the Gemini Enterprise App
+- Gemini Enterprise already integrates with Workspace data.
+- Coming to private preview: schedule Google Calendar meetings, and create/view/edit Docs and Slides directly from canvas mode in the Gemini Enterprise app — no tab switching.
+
+### 6. Auto Browse with Gemini in Chrome (Enterprise-Grade Protection)
+- Available now for US Workspace customers.
+- Auto browse in Chrome Enterprise handles multi-step tasks across the web and your apps, with checkpoints for user control.
+- Existing Workspace enterprise-grade protections (security, data confidentiality) remain in place.
+
+### 7. Bring Workspace to Other AI Apps with the New MCP Server
+- Workspace MCP Server (preview) — standardized, open framework for developers to bring Workspace capabilities into AI applications and agents.
+- Capabilities include: synthesizing Drive documents, drafting Gmail responses, managing Calendar and Chat logic.
+- Official Workspace CLI coming soon for direct management and interaction from agents.
+
+### 8. Maintain Control with Simplified Agent Governance
+- New controls: AI control center, agent management, and Workspace Studio controls.
+- Helps monitor, control, and audit agent access to Workspace data, reducing risks of indirect prompt injection, oversharing, and data loss.
+
+### 9. New Sovereign Controls and Client-Side Encryption
+- Lock data processing and storage to the US and EU — more countries (e.g., Germany, India) in future.
+- Client-side encryption for most sensitive data — provides authoritative denial of access to Google.
+
+### 10. Choose a Subscription That Fits Your Business
+- AI Pro: $20/user/month — includes Gemini in Workspace apps, AI Inbox, and Gemini Enterprise features.
+- AI Ultra: $40/user/month — includes all Pro features plus agentic capabilities, Studio Pro, Vids, NotebookLM Enterprise, and auto browse.
+
+# Document 468: Use Gemini Spark to manage your tasks and workflows in Gemini Apps
+
+Source URL: https://support.google.com/gemini/answer/17094507
+Product area: gemini-apps
+
+## Overview
+
+Gemini Spark is your personal AI agent that can automate complex workflows and manage schedules for ongoing tasks in Gemini Apps. Gemini can help handle tasks, using info from sources like Connected Apps, skills, chats, websites you are signed into, Personal Intelligence, location, and more. Just tell Gemini your specific goals and when you want tasks completed.
+
+## Requirements and Availability
+
+- Age: 18 or over
+- Account: Personal Google Account with a Google AI Ultra subscription
+- Activity Control: Keep Activity must be ON
+- Availability: Everywhere Gemini Apps are supported except Australia, Canada, EEA, Hong Kong, India, Japan, Nigeria, South Korea, Switzerland, UK
+- Language: English only
+- Platforms: Gemini mobile app and web app (gemini.google.com)
+
+## Important Safety and Privacy Notes
+
+- Do not enter sign-in info, payment details, or sensitive data directly into the task thread. Instead, take control of Gemini browser and enter them on the webpage.
+- Avoid scheduling sensitive tasks — Gemini can make mistakes. If you are offline when a schedule runs, you may not be able to stop unintended actions.
+- Prompt injection risk: Malicious instructions in websites, emails, or documents could mislead the agent to leak data or perform harmful actions.
+
+How Spark helps keep you safe:
+- Prompts for user confirmation before sending communications, modifying data, making purchases, or submitting forms.
+- Prohibited task recognition (blocks harmful requests per Generative AI Prohibited Use Policy).
+- Take control mode — pauses to let you enter passwords or payment details.
+- Shows planned progress, skills, connected apps, and files used.
+
+## Creating a Task
+
+On the Web (gemini.google.com):
+1. Click Switch to Spark on the sidebar.
+2. Describe the task — include when to run it (time or event).
+3. Optionally specify a skill (slash to select) or a custom connected app.
+4. Upload files, add from Drive, or attach a Notebook.
+5. Click Submit.
+6. Monitor the task for any input needed (e.g., take over the browser).
+
+On Mac (Gemini app):
+1. Open Gemini, click Spark then Tasks on the sidebar.
+2. Same description and file attachment options.
+3. Submit and monitor.
+
+## Monitoring and Managing Tasks
+
+Open the Work Panel: Click the task thread, then open its work panel (left edge or progress chip).
+
+Work Panel Features:
+- Checkmark: Completed step
+- Refresh/Spinner: Current step
+- Empty square: Planned step
+
+Files: Review files Gemini read or updated.
+Schedules: Hover over a schedule to pause/resume.
+Remote browser: Click to view Gemini browser; take over by hovering and clicking Take over task. Return control with Go back to Gemini.
+
+Delete Remote Data:
+- Delete remote browser data (cookies, sign-in info) — Settings then Gemini Spark Settings then Delete.
+- Delete remote code execution data — same path.
+
+## Explore Recommended Tasks and Skills
+
+- Web/Sidebar: Switch to Spark — see Trending tasks; click Skills for recommended skills.
+- Mac: Open Gemini then Spark — same sections.
+
+## Turning Off Gemini Spark
+
+Effects:
+- Remote browser and code execution data is deleted.
+- Schedules stop running.
+- Tasks, threads, schedules, and files are not deleted.
+
+Steps (Web): Settings and help then Gemini Spark Settings then Turn off.
+Steps (Mac): Gemini menu then Settings then Gemini Spark Settings then Turn off.
+
+To turn back on: click Switch to Spark (web) or Spark (Mac) then Use Gemini Spark. Schedules and tasks are automatically resumed.
+
+## Limits
+
+- Compute-based usage limits — based on number and complexity of requests.
+- Maximum 15 tasks running at once. You must wait for a task to finish before starting another. Schedules will not run if 15 tasks are already active.
+
+## Common Questions
+
+Task vs. Schedule vs. Skill:
+- Task: Your high-level goal (e.g., Plan my business trip to London).
+- Schedule: When to run the task (time or event-based, e.g., Every day at 8AM).
+- Skill: Reusable instructions plus tools (e.g., Travel Booking skill).
+
+What if I cancel my Google AI Ultra subscription?
+- Tasks finish but are not deleted.
+- Schedules paused (not deleted).
+- Skills turned off (not deleted).
