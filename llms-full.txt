@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-04T15:40:20Z
-Total raw official source documents: 468
+Generated at: 2026-07-09T06:00:00Z
+Total raw official source documents: 469
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -10,7 +10,7 @@ No synthetic documentation is added. Each section preserves source URL, product 
 
 ## Coverage index
 
-- workspace-site: 156 document(s)
+- workspace-site: 157 document(s)
 - workspace-studio: 29 document(s)
 - chat-developers: 26 document(s)
 - chat: 18 document(s)
@@ -508,6 +508,7 @@ No synthetic documentation is added. Each section preserves source URL, product 
 459. [google-ai] Google AI announcements from June 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
 460. [workspace-meet] Gemini can handle note-taking during Google Meet calls — https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
 461. [ai-studio] Google AI Studio at I/O 2026 — https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
+462. [workspace-site] Google Voice AI Note-Taking and New Standalone Plans — https://workspace.google.com/blog/product-announcements/google-voice-offers-ai-note-taking-and-new-subscriptions-to-help-scale-your-business
 
 
 ---
@@ -80626,3 +80627,37 @@ What if I cancel my Google AI Ultra subscription?
 - Tasks finish but are not deleted.
 - Schedules paused (not deleted).
 - Skills turned off (not deleted).
+
+
+# Document 469: Google Voice AI Note-Taking and New Standalone Plans
+
+Source URL: https://workspace.google.com/blog/product-announcements/google-voice-offers-ai-note-taking-and-new-subscriptions-to-help-scale-your-business
+Product area: workspace-site
+
+## AI Note-Taking ("Take notes for me") in Google Voice
+
+Google Voice introduces AI-powered note-taking during phone calls, bringing the same functionality from Google Meet to voice calls.
+
+**How it works:**
+- During an active call, tap "Notes" to start AI capture, audio recording, and transcription.
+- Participants hear an audio disclosure: "This call is being recorded and captured by AI."
+- After the call, Gemini delivers an organized summary with key points, action items, full transcript, and audio recording inside the Voice app.
+- A link to the notes is also sent via email.
+- Available in English for Voice Standard or Premier subscribers.
+
+**Privacy:** Notes, recording, and transcripts are visible only to the user who activated the feature. Multiple participants can each get their own copy.
+
+## New Standalone Plans (No Workspace Required)
+
+For solopreneurs and small businesses (US only at launch, more countries coming):
+
+- **Voice Starter** — Unlimited calls and text, professional features for individuals.
+- **Voice Standard** — $20/user/month (regular), includes all Starter features plus AI note-taking.
+
+**Limited-time promotion:** 50% off Voice Standard standalone plan for the first 6 months ($10/user/month), including unlimited access to "Take notes for me" and all advanced features. Sign up at the Voice homepage.
+
+## Availability
+
+- "Take notes for me" in Voice is available now for eligible Voice Standard/Premier subscribers.
+- Standalone plans available to anyone with a Gmail account.
+- Published July 7, 2026 by Mark Ewing, Director of Product Management, Google Voice and Google Meet hardware.
