@@ -80661,3 +80661,56 @@ For solopreneurs and small businesses (US only at launch, more countries coming)
 - "Take notes for me" in Voice is available now for eligible Voice Standard/Premier subscribers.
 - Standalone plans available to anyone with a Gmail account.
 - Published July 7, 2026 by Mark Ewing, Director of Product Management, Google Voice and Google Meet hardware.
+
+# Document 470: Gemini Spark updates: macOS launch, connected apps and more
+
+Source URL: https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
+Product area: gemini-apps
+
+## Overview
+
+Published June 30, 2026. Updates to Gemini Spark bringing desktop automation to macOS, expanded connected app integrations, and real-time topic tracking.
+
+## macOS Launch (Beta)
+
+- Gemini Spark is now available on the Gemini macOS app, moving beyond chat to automate desktop tasks.
+- Capabilities:
+  - Sort PDFs in Downloads into specific folders.
+  - Connect desktop files with Google Workspace (e.g., create a budget spreadsheet from latest invoices, schedule regular updates).
+  - Security: Only accesses files you give it permission to use.
+- Remote task execution (coming soon): Assign multi-step tasks from your phone (e.g., find a sales report, pull revenue, email it) while your Mac runs them.
+- Availability: Beta for Google AI Ultra subscribers aged 18+, starting in US only.
+- Download: gemini.google/mac
+
+## Connected Apps (Expanded)
+
+- New integrations rolling out over the next week on web & mobile (macOS coming in weeks):
+  - Google Tasks & Google Keep — Scan Keep brain-dumps, create action items in Tasks.
+  - Canva, Dropbox, Instacart, OpenTable, Zillow Rentals — Design flyers, access/share files, reserve tables, order groceries, book apartment tours.
+- Custom Model Context Protocol (MCP) support — Connect your own apps directly into Spark for a tailored assistant.
+
+## Real-Time Topic Tracking
+
+- Intelligent tracking of topics with real-time reactions:
+  - Get highlights/analysis after a sports match ends.
+  - Receive a detailed financial report if a stock hits a threshold.
+- Monitored sources: Blogs, news sites, social media, finance, shopping, weather, sports plus email.
+- Goal: Eliminate constant manual refreshing.
+
+
+# Document 471: Gemini in Google Sheets just achieved state-of-the-art performance
+
+Source URL: https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/
+Product area: workspace-site
+
+## Overview
+
+Published March 10, 2026 by Eric Birnbaum, Group Product Manager, Google Sheets.
+
+## Key Announcement
+
+Gemini in Google Sheets has reached state-of-the-art proficiency in autonomously manipulating complex, real-world spreadsheets on the full SpreadsheetBench dataset, a public benchmark evaluating models on their ability to edit spreadsheets in real-world scenarios.
+
+- Achieved a 70.48% success rate on SpreadsheetBench
+- Exceeds competitors and nears human expert ability
+- Builds on new beta features for Gemini in Sheets to help users create, organize, and edit entire sheets by describing what they need
