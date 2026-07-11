@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-09T06:00:00Z
-Total raw official source documents: 469
+Generated at: 2026-07-11T06:00:00Z
+Total raw official source documents: 473
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -10,13 +10,13 @@ No synthetic documentation is added. Each section preserves source URL, product 
 
 ## Coverage index
 
-- workspace-site: 157 document(s)
+- workspace-site: 163 document(s)
 - workspace-studio: 29 document(s)
 - chat-developers: 26 document(s)
 - chat: 18 document(s)
-- gemini-apps: 18 document(s)
+- gemini-apps: 21 document(s)
 - google-vids: 18 document(s)
-- notebooklm: 18 document(s)
+- notebooklm: 19 document(s)
 - admin-console: 17 document(s)
 - workspace-learning-center: 14 document(s)
 - chrome-ai: 13 document(s)
@@ -509,6 +509,8 @@ No synthetic documentation is added. Each section preserves source URL, product 
 460. [workspace-meet] Gemini can handle note-taking during Google Meet calls — https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
 461. [ai-studio] Google AI Studio at I/O 2026 — https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
 462. [workspace-site] Google Voice AI Note-Taking and New Standalone Plans — https://workspace.google.com/blog/product-announcements/google-voice-offers-ai-note-taking-and-new-subscriptions-to-help-scale-your-business
+463. [workspace-site] Google Gemini Workspace Updates – March 2026 — https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/
+464. [gemini-apps] The Gemini app becomes more agentic, delivering proactive, 24/7 help — https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
 
 
 ---
@@ -80714,3 +80716,65 @@ Gemini in Google Sheets has reached state-of-the-art proficiency in autonomously
 - Achieved a 70.48% success rate on SpreadsheetBench
 - Exceeds competitors and nears human expert ability
 - Builds on new beta features for Gemini in Sheets to help users create, organize, and edit entire sheets by describing what they need
+
+# Document 472: Google Gemini Workspace Updates – March 2026
+
+Source URL: https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/
+Product area: workspace-site
+
+Author: Yulie Kwon Kim, VP Product, Google Workspace
+Published: March 10, 2026
+Availability: Beta for Google AI Ultra and Pro subscribers (English globally for Docs, Sheets, Slides; US for Drive).
+
+## Gemini in Docs - Blank Doc to Final Draft
+- First draft from scratch: Describe what you want in the side panel or bottom bar. Gemini draws from relevant files.
+- Polish and perfect: Refine sections with prompts.
+- Match voice and format: "Match writing style" unifies voice/style.
+
+## Gemini in Sheets - Spreadsheets That Build Themselves
+- Create entire sheets from a prompt.
+- Fill with Gemini: Instantly generate custom text, categorize data, summarize.
+- Complex data analysis: Add tables, dashboards, and more.
+
+## Gemini in Slides - Concept to Presentation-Ready
+- Create editable slides that match the deck theme.
+- Edit collaboratively with simple prompts.
+- Generate entire decks coming soon from a single prompt.
+
+## Gemini in Drive - Instant Answers Across Files
+- AI Overview in search: Natural language queries get summaries with citations.
+- "Ask Gemini in Drive": Complex questions across documents, emails, calendar, and web.
+
+# Document 473: The Gemini app becomes more agentic, delivering proactive, 24/7 help
+
+Source URL: https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
+Product area: gemini-apps
+
+Author: Josh Woodward, VP, Google Labs, Gemini app and AI Studio
+Published: May 19, 2026 (Google I/O 2026)
+
+## Key Statistics
+- Over 900 million users across 230 countries and more than 70 languages.
+
+## Gemini 3.5 Flash
+Next-generation model combining frontier intelligence with fast action. Powers Gemini Spark.
+
+## Neural Expressive - New Design Language
+Full redesign with fluid animations, vibrant colors, new typography, haptic feedback. Gemini Live integrated into the main app. Regional dialects coming for voice selection. Rolling out globally on web, Android, and iOS.
+
+## Gemini Omni - Cinematic Video from Ideas
+Model that combines text, images, and video inputs to generate high-quality video outputs. Video editing via natural conversation. AI Avatar available. Rolling out to Google AI Plus, Pro, and Ultra subscribers worldwide.
+
+## Daily Brief - Personalized Morning Digest
+Agent that gives a personalized morning digest from connected apps (Gmail, Calendar). Gathers urgent updates, tracks events, compiles skimmable briefing. Rolling out to Google AI Plus, Pro, Ultra subscribers starting in U.S.
+
+## Gemini Spark - 24/7 Personal AI Agent
+Runs on Gemini 3.5 with Antigravity harness. Deeply integrated with Workspace (Gmail, Docs, Slides). Cloud-based - works in background even when device is locked.
+Capabilities:
+- Set recurring tasks or triggers (e.g., auto-parse credit card statements)
+- Teach it new skills (e.g., monitor school emails, extract deadlines, send digest)
+- Create complete workflows (synthesize notes, create Docs, draft emails)
+- MCP connections: Canva, OpenTable, Instacart
+
+## Gemini App for macOS
+Desktop app with local file support. Gemini Spark and voice features coming later summer 2026.
