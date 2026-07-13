@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-11T06:00:00Z
-Total raw official source documents: 473
+Generated at: 2026-07-13T06:00:00Z
+Total raw official source documents: 475
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -80778,3 +80778,65 @@ Capabilities:
 
 ## Gemini App for macOS
 Desktop app with local file support. Gemini Spark and voice features coming later summer 2026.
+
+# Document 474: What's new for Gemini Spark - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17171264?hl=en
+Product area: gemini-apps
+
+Stay up to date with the latest improvements, feature releases, and fixes for Gemini Spark.
+
+## July 1, 2026
+- Third-party Connected Apps: We have started to roll out support for Canva, Instacart, and OpenTable Connected Apps to work with Gemini Spark.
+
+## June 30, 2026
+- Topic monitoring: Gemini Spark schedules are now better at monitoring topics across news, finance, sports, local events, and much more.
+- Gemini app for Mac: Gemini Spark is now available with Schedules and Skills in the Gemini app for Mac.
+
+## June 29, 2026
+- Google Tasks and Google Keep: Gemini Spark can now connect to your content in Google Keep and Google Tasks.
+- Comments in Google Docs files: Gemini Spark can now read comments in your Google Docs files.
+- Custom Connected Apps: Connect your personal or third-party apps to Gemini Spark with their MCP server URLs.
+
+## June 17, 2026
+- Expanded availability: Gemini Spark starts rolling out everywhere Gemini Apps are supported, except in Australia, Canada, the EEA, Hong Kong, India, Japan, Nigeria, South Korea, Switzerland, and the UK.
+
+## May 19, 2026
+- Initial launch: Gemini Spark starts rolling out with Schedules and Skills in the United States.
+
+# Document 475: Create and manage schedules for tasks in Gemini Spark - Gemini Apps Help
+
+Source URL: https://support.google.com/gemini/answer/17094710?hl=en
+Product area: gemini-apps
+
+You can put your workflows on autopilot by adding schedules to your tasks. A schedule acts as the automated trigger for a task, telling Gemini Spark exactly when to step in and execute your instructions.
+
+## What you need
+- Be 18 or over.
+- Sign in with a personal Google Account with a Google AI Ultra subscription.
+- Have Keep Activity on.
+- Gemini Spark is available wherever Gemini Apps are supported (except Australia, Canada, EEA, Hong Kong, India, Japan, Nigeria, South Korea, Switzerland, UK), currently English only, on mobile and gemini.google.com.
+
+## Types of schedules
+- Time-based: Run once, hourly, daily, weekly, monthly, or yearly.
+- Gmail monitors: Triggered when an email satisfies a Gmail filter.
+- Topic monitors: Monitor news, finance, sports, local events, and more.
+
+## Create a schedule
+Create conversationally in a Spark task thread by describing the task and schedule.
+Create manually from the Schedules page using a blank template (time-based only).
+
+## Manage schedules
+- Find schedules in the task thread work panel or on the Schedules page.
+- Edit with Gemini conversationally or directly from the Schedules page.
+- Pause, resume, or delete schedules as needed.
+
+## Limits and troubleshooting
+- Active schedules limit: 50
+- Concurrent task limit: 15
+- Schedule run times are approximate; may be delayed during high traffic.
+
+## Related resources
+- Use Gemini Spark to manage your tasks and workflows in Gemini Apps
+- Find, manage and share your Gemini Spark tasks
+- Create and manage skills for your workflows in Gemini Apps
