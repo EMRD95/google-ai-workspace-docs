@@ -80786,6 +80786,17 @@ Product area: gemini-apps
 
 Stay up to date with the latest improvements, feature releases, and fixes for Gemini Spark.
 
+## July 14, 2026
+- **Expanded country and language support:** Rolling out Gemini Spark in all Gemini Apps languages to Google AI Ultra subscribers wherever Gemini Apps are supported, except in the European Economic Area, Nigeria, Switzerland, and the United Kingdom.
+- **More Google Workspace actions:** Gemini Spark can now edit private spreadsheets and presentations; read comments on spreadsheets and presentations; edit shared documents, spreadsheets, and presentations; add images to documents and presentations; and edit and refine documents (including shared ones) using the Canvas panel.
+
+## July 13, 2026
+- **Smarter notifications:** Enhanced notifications with more details whenever input is needed; skips sending mobile notifications if you are actively present in that task's thread in the Gemini web app.
+- **Smarter sourcing:** For complex tasks involving multiple sources, Spark can now retrieve and review sources in parallel for faster processing.
+
+## July 7, 2026
+- **Third-party Connected Apps:** Rolled out support for Dropbox and Zillow Connected Apps in Gemini Spark.
+
 ## July 1, 2026
 - Third-party Connected Apps: We have started to roll out support for Canva, Instacart, and OpenTable Connected Apps to work with Gemini Spark.
 
