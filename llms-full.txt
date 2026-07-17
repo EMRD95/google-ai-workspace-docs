@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-13T06:00:00Z
-Total raw official source documents: 475
+Generated at: 2026-07-17T06:00:00Z
+Total raw official source documents: 476
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -10,12 +10,12 @@ No synthetic documentation is added. Each section preserves source URL, product 
 
 ## Coverage index
 
-- workspace-site: 163 document(s)
+- workspace-site: 164 document(s)
 - workspace-studio: 29 document(s)
 - chat-developers: 26 document(s)
 - chat: 18 document(s)
 - gemini-apps: 21 document(s)
-- google-vids: 18 document(s)
+- google-vids: 19 document(s)
 - notebooklm: 19 document(s)
 - admin-console: 17 document(s)
 - workspace-learning-center: 14 document(s)
@@ -80851,3 +80851,32 @@ Create manually from the Schedules page using a blank template (time-based only)
 - Use Gemini Spark to manage your tasks and workflows in Gemini Apps
 - Find, manage and share your Gemini Spark tasks
 - Create and manage skills for your workflows in Gemini Apps
+
+# Document 476: Introducing Gemini Omni Flash in Google Vids — Google Workspace Blog
+
+Source URL: https://workspace.google.com/blog/product-announcements/introducing-gemini-omni-flash-in-google-vids
+Product area: workspace-site
+Tag: google-vids
+
+Introducing Gemini Omni Flash in Google Vids. July 16, 2026. By Justin Luk, Product Manager, Google Vids.
+
+Google is launching Gemini Omni Flash in Google Vids — Google's latest media generation model integrated into the video creation app. This enables users to edit videos using simple text prompts and generate new video clips with personal avatars that look and sound like the user.
+
+Video editing through natural conversation:
+- Rescue less-than-perfect footage by updating poor lighting or erasing messy background clutter.
+- Refresh ad creative by swapping out backgrounds, updating product colors, or changing a character's appearance.
+- Test different creative concepts by changing camera angles or visual style.
+- Keep explainer videos and demos fresh by updating outdated visuals and revising voiceovers and on-screen text.
+
+Personal avatars:
+- Using Gemini Omni's world understanding and multimodality, users can generate a personal avatar that looks and sounds like them in videos.
+- To get started, record face and voice in a secure capture process connected to the Google account.
+- Avatars can produce videos for websites, social media clips, or welcome messages for customers.
+- For marketers and creatives, this enables rapid video storyboarding — testing commercials and pitches with realistic avatars before scheduling a live shoot.
+
+Safety:
+- Personal avatar access is limited to users 18+ with English as their primary language preference.
+- Every video generated with Gemini Omni includes an imperceptible SynthID digital watermark identifying AI-generated content.
+- Workspace admins can manage access via the Help Center.
+
+More than 7 million users use Google Vids monthly. Available to paid Workspace accounts at vids.new.
