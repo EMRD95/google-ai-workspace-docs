@@ -80880,3 +80880,47 @@ Safety:
 - Workspace admins can manage access via the Help Center.
 
 More than 7 million users use Google Vids monthly. Available to paid Workspace accounts at vids.new.
+
+# Document 477: Notebooks in Gemini Apps — Gemini Notebook Help
+Source URL: https://support.google.com/notebooklm/answer/17003757
+Product area: notebooklm
+
+Notebooks in Gemini Apps makes it easy to chat with your notebooks across Google products. This integration gives users more ways to interact with their personal knowledge base.
+
+Your notebooks appear in Gemini: Notebooks created in Gemini Notebook automatically appear in Gemini's navigation. Users can view, edit, and chat with notebooks from either Gemini Notebook or Gemini.
+
+Changes sync across apps: When renaming a notebook, adding sources, or updating custom instructions in one app, those changes sync to the other app. If updates don't appear right away, refreshing helps.
+
+Gemini chats can appear as context: Users can opt in to include chats with a notebook in Gemini as shared context across notebooks in both Gemini and Gemini Notebook, helping build the notebook's knowledge base over time.
+
+Sharing behavior: Shared notebooks created in Gemini Notebook, even those the user owns, are not visible in Gemini. They remain accessible in Gemini Notebook as usual. Additionally, notebooks containing Gemini chats are private and cannot be shared.
+
+### Gemini Chats in Gemini Notebook
+
+When chatting with a notebook in Gemini, those conversations appear as context in the Gemini Notebook sources panel. These Gemini chat threads are read-only in Gemini Notebook (they can't be edited, renamed, or removed directly from Gemini Notebook; they must be managed in Gemini Apps). They contribute to the notebook's knowledge base, allowing Gemini Notebook to reference past Gemini conversations when answering questions. They are visible to collaborators if the notebook is shared.
+
+Tip: Turning off Keep Activity or deleting Gemini Apps activity in Gemini Apps does not delete data in Gemini Notebook.
+
+### Custom instructions
+
+The notebook uses a single set of custom instructions across both Gemini Notebook and Gemini. Any changes made to the notebook's instructions in one app apply in the other app as well.
+
+### Key differences between apps
+
+Source grounding: Even though notebooks are available in both apps, chat responses are grounded differently depending on the app used. In Gemini Notebook, responses are grounded exclusively in notebook sources. In Gemini, responses are grounded in notebook sources but may also include web search and other tools.
+
+Artifacts: Gemini cannot generate items from the Gemini Notebook Studio panel. This includes Audio Overviews, Video Overviews, Infographics, Slide Decks, etc. — these features are only available in Gemini Notebook.
+
+### Deleting Notebooks and Gemini chats
+
+Deleting a notebook in Gemini Notebook removes the notebook and its sources, but Gemini conversations return to the main Gemini chat list.
+
+### Availability
+
+The Notebooks in Gemini integration is available to Gemini and Gemini Notebook users in supported regions. Some features may not be available in all regions.
+
+### Data use and retention
+
+Files added to notebooks and chats in Gemini Notebook are not used directly to train foundational generative AI models, unless feedback is provided.
+
+Chats with notebooks in Gemini Apps are saved according to Keep Activity settings and used as described in the Gemini Apps Privacy Hub.
