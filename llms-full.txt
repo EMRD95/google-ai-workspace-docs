@@ -80924,3 +80924,17 @@ The Notebooks in Gemini integration is available to Gemini and Gemini Notebook u
 Files added to notebooks and chats in Gemini Notebook are not used directly to train foundational generative AI models, unless feedback is provided.
 
 Chats with notebooks in Gemini Apps are saved according to Keep Activity settings and used as described in the Gemini Apps Privacy Hub.
+
+# Document 478: Google Pics: AI Image Generator and Editor — Google Workspace
+Source URL: https://workspace.google.com/products/pics/
+Product area: workspace-site
+
+Google Pics is Google's AI image creation and editing tool, built on the Nano Banana model. It offers precise creative controls for building exactly what you imagine, whether designing from a blank canvas or editing an existing photo.
+
+Features include:
+- Object segmentation: Select and edit specific elements with precision. Move, resize, or transform objects — like changing a sweater's color or turning a dog into a cat — without affecting the rest of the image.
+- Text editing and translation: Modify text directly inside a photo or translate it into different languages while maintaining the original design and font style.
+- Integrations with Workspace: Pics is integrated into Workspace apps, starting with Slides and Drive, so users can edit images right where they are.
+- Collaboration: Shareable canvases allow multiple people to edit the same image at the same time.
+
+Access and availability: Pics is being tested with a small number of users and will expand to more people soon. Users can sign up for Workspace Experiments to be among the first to know when Pics is available. Pics will become generally available in the coming months for Workspace customers with Business Standard and higher plans, as well as Google AI Pro and Ultra subscribers. Users can stay up to date via the Workspace Discord community, the Workspace Experiments newsletter, or by enabling Gemini Alpha features for their organization.
