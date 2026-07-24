@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 478 official source documents
-- 478 preserved source URLs
+- 479 official source documents
+- 479 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -41,7 +41,7 @@ The corpus currently includes pages from these source bases:
 
 | Source base URL | Pages |
 |---|--:|
-| `https://workspace.google.com/blog` | 80 |
+| `https://workspace.google.com/blog` | 81 |
 | `https://workspace.google.com/intl` | 48 |
 | `https://developers.google.com/workspace` | 35 |
 | `https://support.google.com/docs` | 31 |
@@ -83,7 +83,7 @@ The corpus currently includes pages from these source bases:
 
 | Theme | Pages |
 |---|--:|
-| `workspace-site` | 165 |
+| `workspace-site` | 166 |
 | `workspace-studio` | 29 |
 | `chat-developers` | 26 |
 | `chat` | 18 |
@@ -103,7 +103,7 @@ The corpus currently includes pages from these source bases:
 | `docs-editors` | 7 |
 | `meet` | 7 |
 | `workspace-developers` | 7 |
-| `slides` | 6 |
+| `slides` | 7 |
 | `calendar` | 5 |
 | `forms` | 5 |
 | `looker-studio` | 5 |
@@ -131,8 +131,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-07-21.
-Last maintenance check: 2026-07-23.
+Last corpus update: 2026-07-24.
+Last maintenance check: 2026-07-24.
 
 ## Usage
 
