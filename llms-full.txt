@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-17T06:00:00Z
-Total raw official source documents: 476
+Generated at: 2026-07-28T00:00:00Z
+Total raw official source documents: 479
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
@@ -10,13 +10,13 @@ No synthetic documentation is added. Each section preserves source URL, product 
 
 ## Coverage index
 
-- workspace-site: 164 document(s)
+- workspace-site: 166 document(s)
 - workspace-studio: 29 document(s)
 - chat-developers: 26 document(s)
 - chat: 18 document(s)
-- gemini-apps: 21 document(s)
-- google-vids: 19 document(s)
-- notebooklm: 19 document(s)
+- gemini-apps: 23 document(s)
+- google-vids: 18 document(s)
+- notebooklm: 20 document(s)
 - admin-console: 17 document(s)
 - workspace-learning-center: 14 document(s)
 - chrome-ai: 13 document(s)
@@ -42,6 +42,7 @@ No synthetic documentation is added. Each section preserves source URL, product 
 - maps-ai: 3 document(s)
 - chrome-enterprise-ai: 2 document(s)
 - ai-studio: 1 document(s)
+- gemini-enterprise: 1 document(s)
 - google-ai: 1 document(s)
 - workspace-meet: 1 document(s)
 

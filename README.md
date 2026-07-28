@@ -88,7 +88,7 @@ The corpus currently includes pages from these source bases:
 | `chat-developers` | 26 |
 | `chat` | 18 |
 | `gemini-apps` | 23 |
-| `google-vids` | 19 |
+| `google-vids` | 18 |
 | `notebooklm` | 20 |
 | `admin-console` | 17 |
 | `workspace-learning-center` | 14 |
@@ -103,7 +103,7 @@ The corpus currently includes pages from these source bases:
 | `docs-editors` | 7 |
 | `meet` | 7 |
 | `workspace-developers` | 7 |
-| `slides` | 7 |
+| `slides` | 6 |
 | `calendar` | 5 |
 | `forms` | 5 |
 | `looker-studio` | 5 |
@@ -132,7 +132,7 @@ Regular maintenance should:
 - update `llms-full.txt` and this README together
 
 Last corpus update: 2026-07-24.
-Last maintenance check: 2026-07-27.
+Last maintenance check: 2026-07-28.
 
 ## Usage
 
