@@ -1,7 +1,7 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
-Generated at: 2026-07-28T00:00:00Z
-Total raw official source documents: 479
+Generated at: 2026-07-31T00:00:00Z
+Total raw official source documents: 480
 Total coverage areas: 34
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
