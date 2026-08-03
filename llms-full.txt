@@ -81207,3 +81207,61 @@ Industry Watch is one example. The same shape fits any task that needs live data
 Get started with the Agents CLI and build your first agent from a single prompt. The ADK docs cover tools, sessions, and evaluation when you want to go deeper. Your coding agent isn't just where you write agent code. It's the control plane for the whole lifecycle.
 
 Posted in Developers & Practitioners, AI & Machine Learning
+
+# Document 483: Do better research with NotebookLM
+Source URL: https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/
+Product area: notebooklm
+
+Google upgraded NotebookLM with more advanced reasoning, a secure cloud computer for running code, and the ability to generate diverse file formats. You can now start projects with loose ideas, as the tool helps you find and organize relevant web sources to build your research repository.
+
+Three years ago Google launched NotebookLM as an experimental AI product from Google Labs to help you understand anything. Millions of people and organizations turn to NotebookLM as a collaborative knowledge and research partner because it helps them organize their thinking, identify deeper connections across their documents and spark new ideas. In June 2026, Google introduced across the board upgrades to NotebookLM that deliver new agentic capabilities in chat and more advanced reasoning to tackle the most complex research projects.
+
+## An upgraded, more thoughtful chat experience
+
+NotebookLM is upgraded to run on Gemini 3.5 and Antigravity, providing even more accurate and reliable information along with better visibility into the thinking process.
+
+Each notebook is now equipped with a secure cloud computer, enabling NotebookLM to write and run code useful for helping you perform deeper research and more complex analysis. The system includes more than 100 curated software skills, unlocking a wide range of new capabilities to help you more deeply understand the sources in your notebook.
+
+In side-by-side evaluations against the prior system, the upgraded NotebookLM achieved an average win rate of over 65% (a 15% point margin above parity) across the top five core evaluation dimensions. The system demonstrated substantial improvements in large document analysis, securing a 69.9% win rate and achieved exceptional performance in advanced web research and source discovery reaching a 78.2% win rate against the prior baseline.
+
+## More output formats, with improved customization
+
+You can now ask NotebookLM to create outputs in even more formats and provide detailed instructions to guide the outputs. NotebookLM will assemble the context from your sources to produce useful and high quality formats like PDF reports with charts and tables, detailed budget spreadsheets, and bespoke student worksheets — all ready to download directly from the studio panel. You can even make edits after your outputs are generated. New output formats include:
+
+- Data visualizations and charts (png, svg)
+- Documents (PDFs, docx, markdown, text files)
+- Images with Nano Banana (png, jpg, gif)
+- Structured data (csv, json)
+- Microsoft Excel (xlsx)
+- Microsoft PowerPoint (pptx)
+
+Google plans to add additional formats in the future.
+
+## More effortless research
+
+Previously, NotebookLM was most helpful when you came with your own sources and a good handle on your project. You can now start with loose ideas and questions. NotebookLM can guide you through building your source repository directly in your chat, making it even easier to get started on any project. You can find primary sources in other languages to better understand new perspectives, or seek related works by an author you recently discovered. It can even use Google Search to find relevant, high quality sources from the web and add them to your notebook.
+
+You're still in control of the sources that you add to your notebook so that your work stays grounded in the information you trust and all sources continue to be clearly attributed.
+
+## Example workflows
+
+- Researchers: A data analyst can combine data from various countries with conflicting formatting. The analyst can ask NotebookLM to conduct web research to find additional context, write code to perform accurate data analysis, and create charts and a PDF report to showcase the results.
+- Technical Professionals: A program manager can decipher complex specifications for customer integration, instantly transforming the technical documentation into a polished, simplified guide, slide deck and a step-by-step roadmap for the team.
+- Small Business Owners: A gym owner can run a media campaign and analyze raw sales data against ad spend. By calculating the campaign's financial impact using NotebookLM, the business owner is better equipped to decide whether to expand to other cities.
+
+These updates are rolling out globally on the web starting today to all users with Google AI Ultra and all Workspace business customers with AI Expanded Access, and Google plans to expand to others over time.
+
+# Document 484: Gemini Drops: New updates to the Gemini app, July 2026
+Source URL: https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/
+Product area: gemini-apps
+
+Welcome to the July edition of Gemini Drops. What's new in the latest Drop:
+
+- Speak to Gemini on macOS. Create, edit, and summarize by speaking into any active window: Dictate clean text, transform highlighted content, or generate visuals right where your cursor is.
+- Gemini Spark is going global. Get things done 24/7, even after closing your laptop, now available worldwide. (Not available in European Economic Area, United Kingdom, Switzerland, and Nigeria.)
+- Gemini 3.6 Flash and Gemini 3.5 Flash-Lite. The latest Flash models are available now with better reasoning and greater speed.
+- Add yourself to any image. Create content that looks like you by adding your avatar — no need to upload your image every time.
+- Help that works across your apps: Dropbox, Zillow Rentals, and Viator. Link your favorite apps to Gemini and get more done with a single prompt.
+- Generate images tailored to you. Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the US.
+
+Find out even more on the Gemini Drops Hub.
