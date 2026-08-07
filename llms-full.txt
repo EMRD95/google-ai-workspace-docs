@@ -81265,3 +81265,129 @@ Welcome to the July edition of Gemini Drops. What's new in the latest Drop:
 - Generate images tailored to you. Use Gemini to create deeply personalized images based on your unique interests and preferences. Now available to all users in the US.
 
 Find out even more on the Gemini Drops Hub.
+
+# Document 485: Google AI announcements from July 2026
+Source URL: https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
+Product area: google-ai
+
+Here's a recap of some of the biggest AI updates from July 2026, including three new Gemini models for building AI agents at scale and Gemini Robotics ER 2 to help robots reason, collaborate, and solve real-world tasks.
+
+July brought a wave of AI advances to support developers, simplify everyday life, and protect local communities. Google gave developers faster, more efficient Gemini models for scaling production agents and advancing robotics. The creative suite was expanded with next-generation music and video tools, and Search and Gemini Spark became even more connected to daily apps. Plus, a new skilled trades alliance and new satellites for early wildfire detection were announced — and Google DeepMind Co-Founder and CEO Demis Hassabis shared his vision for this critical moment in history. Together, the July updates showed how AI can be more practical, creative, and helpful than ever before.
+
+## Three new Gemini models
+
+Developers and customers building production AI agents need higher token efficiency, lower latency, and more reliable performance. Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber are built to meet the sweet spot of efficiency and quality to enable scaling agentic workflows.
+
+## Gemini Robotics ER 2
+
+Gemini Robotics ER 2 is Google's most capable "embodied reasoning" model yet. Built for developers crafting genuinely helpful machines, ER 2 bridges the gap between digital smarts and the physical world. It lets systems chat naturally with people, make sense of their surroundings, and work through complex, multi-step tasks.
+
+## Gemini Intelligence on Galaxy Unpacked 2026 devices
+
+With the launch of the Samsung Galaxy Z Fold8 Ultra, Fold8, and Flip8, Google is making it easier than ever to get started on Android while also rolling out the first capabilities of Gemini Intelligence.
+
+## Switch to Android with easier data migration
+
+With the launch of Samsung's new Z Series at Galaxy Unpacked, Google introduced a new native migration experience built directly into Android 17 that lets users transfer even more data types from an iPhone wirelessly — without downloading a separate app.
+
+## Gemini Notebook
+
+Gemini Notebook is the same standalone product as the hugely popular NotebookLM, only now it's doing more across the Google ecosystem — including inside the Gemini app and Google Search — and it's updated with a secure cloud computer.
+
+## AI & Economy ATLAS
+
+Google's ATLAS is an expansive look at how people are using AI at work and in day-to-day life. This ongoing, large-scale, de-identified study is designed to offer an early view of a quickly moving landscape: AI's capabilities are advancing, its use is evolving, and tools for observing its impact on the economy are still a work-in-progress.
+
+## Alliance for America's Skilled Trades
+
+To help meet the growing demand for skilled trades workers, Google is joining forces with BlackRock, Carhartt, and Ford to launch the Alliance for America's Skilled Trades. Together, they'll build a stronger pipeline for the skilled trades, scale evidence-based training approaches, and expand opportunities nationwide through cross-industry partnerships.
+
+## AlphaEvolve on Google Cloud
+
+AlphaEvolve, Google's Gemini-powered AI code-optimization agent, is generally available to all Google Cloud customers on Gemini Enterprise Agent Platform. AlphaEvolve acts as an evolutionary collaborator: you provide a baseline algorithm and your goals, and it automatically searches for better solutions, returning human-readable, optimized code.
+
+## Connected apps in Search
+
+Users can now securely link and interact with their go-to apps like YouTube Music directly in AI Mode. With Personal Intelligence and connected apps, Search can give even more tailored responses.
+
+## Gemini Spark handles complex web errands
+
+Gemini Spark was expanded to more users around the world, and a new feature was added to help handle complex web errands. With permission, Spark can use logged-in accounts and saved passwords to handle tedious web errands, like scheduling viewings for apartments or researching flight options and starting the booking process.
+
+## Google Vids updates: Gemini Omni and personal avatars
+
+Two new features — Gemini Omni and personal avatars — make video creation easier than ever. Users can generate and edit high-quality clips using everyday language, and create a custom digital avatar to star in videos.
+
+## 25 years of visual search innovation
+
+Google celebrated 25 years of Google Images with a new browseable home for Google Images and image generation through AI Overviews in Search.
+
+## Lyria 3.5 music generation model
+
+Google Flow Music helps users create songs with total creative control. Powered by the latest Lyria 3.5 model, it delivers significant advancements in musicality, lyrics, and vocal quality.
+
+## NOAA and Google Cloud advance weather forecasting
+
+NOAA is modernizing its operational supercomputing system by using Google Cloud's high-performance H4D virtual machines to run its atmospheric models. As one of the first organizations to bring numerical weather prediction directly to the public cloud, NOAA provides meteorologists with the scale, speed, and AI capabilities needed to run massive simulations and deliver faster, life-saving early warnings.
+
+## AI breakthroughs for natural hazard preparedness
+
+With the release of the UN report "Leveraging AI to enhance multi-hazard early warning systems," Google shared how teams at Google support crisis resilience efforts with advanced AI-based breakthroughs, detection, and forecasting — while working with partners to make timely information available to billions of people.
+
+## FireSat satellites for wildfire detection
+
+Three new FireSat satellites successfully launched from Vandenberg Space Force Base in California, expanding a global initiative led by the Earth Fire Alliance (EFA) with Google Research to help detect wildfires before they spread.
+
+## Bioresilience program
+
+Google DeepMind and Isomorphic Labs shared a joint approach to bioresilience. The goal is twofold: to prevent threat actors from misusing models, and to ensure that governments, scientists, biosecurity experts and the teams can harness these technologies to build a more resilient world.
+
+# Document 486: Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber
+Source URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+Product area: gemini-models
+
+Google introduced new Gemini models: Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, delivering efficiency, latency, and reliability to build AI agents at scale.
+
+Developers and customers building production AI agents need higher token efficiency, lower latency, and more reliable performance. The Flash series of models is built to meet the sweet spot of efficiency and quality to enable scaling agentic workflows. Building on Gemini 3.5 Flash:
+
+- 3.6 Flash: The workhorse model that delivers better coding, knowledge work, and multimodal performance. According to the Artificial Analysis Index, it reduces output token usage by 17% compared to 3.5 Flash, and in some benchmarks like DeepSWE by Datacurve, improvements up to 65% are observed, all at a lower cost per output token.
+- 3.5 Flash-Lite: The fastest, most cost-effective 3.5-class model, delivering 350 output tokens per second according to the Artificial Analysis Index, also significantly outperforming prior Flash-Lite generations in agentic workflows.
+- 3.5 Flash Cyber in CodeMender: A combination of a new, highly efficient, specialized cyber-focused model paired with the CodeMender code security agent that delivers competitive performance at the frontier for cybersecurity applications.
+
+Beyond these releases, Gemini 3.5 Pro is currently testing with partners and planned for broad availability soon. In parallel, Google has started the most ambitious pre-training run yet, for Gemini 4.
+
+## Gemini 3.6 Flash
+
+Gemini 3.6 Flash builds directly on developer and customer feedback from 3.5 Flash. It delivers a step up in coding and knowledge work while meaningfully improving token efficiency. On the Artificial Analysis Index, 3.6 Flash consumes 17% fewer output tokens than 3.5 Flash. It also takes fewer reasoning steps and tool calls to accomplish multi-step workflows.
+
+This enhanced efficiency is combined with a lower price than 3.5 Flash. At $1.50/1M input tokens and $7.50/1M output tokens, 3.6 Flash reduces the overall cost per agentic task, making agents more cost-effective to build and run.
+
+Performance gains compared to 3.5 Flash:
+- Higher precision with fewer unwanted code edits and reduced execution loops, as seen in DeepSWE (49% vs. 37%), and significant improvement in ML Research, as seen in MLE Bench (63.9% vs. 49.7%).
+- Improved computer use capabilities as seen in OSWorld-Verified (83.0% vs. 78.4%). Computer use is now a built-in client side tool via the Gemini API and Gemini Enterprise.
+- Outperforms 3.5 Flash in knowledge work, as shown by benchmarks like GDPval-AA v2 (1421 vs. 1349). Customers like Hebbia and Harvey have found it particularly capable at multimodal tasks like document parsing, chart and data analysis, and report drafting.
+
+3.6 Flash ships with enhanced Frontier Safety safeguards in the domains of Chemical, Biological, Radiological, and Nuclear (CBRN) and cyber offense misuses. These safeguards make the model substantially more resistant to jailbreaks while minimizing refusals for beneficial uses.
+
+## Gemini 3.5 Flash-Lite
+
+3.5 Flash-Lite is designed for both low-latency tasks and tasks where high throughput is critical for developer workflows, like agentic search and document processing. It is the fastest model in the 3.5 series, running at 350 output tokens/s as measured by Artificial Analysis. Priced at $0.3/1M input tokens and $2.5/1M output tokens and with significantly better quality than 3.1 Flash-Lite, it offers a strong price-to-performance ratio.
+
+3.5 Flash-Lite enables efficient scaling for agentic systems. Across thinking levels, the model significantly outperforms 3.1 Flash-Lite. Developers can configure the model to prioritize low-latency, low-cost execution for high-volume tasks with the minimal and low thinking levels, or engage higher thinking levels to process multi-step subagent workloads. The model now also has computer use as a built-in tool.
+
+It is a significant step up in coding and agentic tasks as seen in Terminal-Bench 2.1 (54% vs 31%), long context as seen in GDM-MRCR v2 (72.2% vs. 60.1%), and real-world task execution as seen in GDPval-AA v2 (1140 vs. 642). On many agentic and coding evals, 3.5 Flash-Lite even outperforms 3 Flash, including on SWE-Bench Pro (54.2% vs. 49.6%) and OSWorld-Verified (74.0% vs. 65.1%).
+
+## Gemini 3.5 Flash Cyber in CodeMender
+
+AI models have become capable of finding security vulnerabilities faster than current systems can fix them. Flash's performance and efficiency makes it an ideal foundation to detect, validate, and patch code security issues at scale. Gemini 3.5 Flash Cyber is built on top of 3.5 Flash, and fine-tuned for finding and fixing cybersecurity vulnerabilities at a lower price per token than larger models.
+
+Within CodeMender, which uses multiple 3.5 Flash Cyber agents working together to produce a single combined report, 3.5 Flash Cyber reaches competitive performance at the frontier on the popular benchmark CyberGym.
+
+Given the dual-use nature of this technology, the model is exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot program. This gives frontline defenders a head start in finding and fixing critical vulnerabilities before they can be exploited, while mitigating against broader misuse.
+
+## Availability
+
+3.6 Flash and 3.5 Flash-Lite are available:
+- For developers in the Gemini API via Google AI Studio and Android Studio. 3.6 Flash is also available in Google Antigravity.
+- For enterprises in Gemini Enterprise Agent Platform. 3.6 Flash is also available in the Gemini Enterprise app.
+- For everyone via the Gemini app. 3.5 Flash-Lite is also rolling out in Google Search.
