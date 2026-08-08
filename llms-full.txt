@@ -81391,3 +81391,105 @@ Given the dual-use nature of this technology, the model is exclusively available
 - For developers in the Gemini API via Google AI Studio and Android Studio. 3.6 Flash is also available in Google Antigravity.
 - For enterprises in Gemini Enterprise Agent Platform. 3.6 Flash is also available in the Gemini Enterprise app.
 - For everyone via the Gemini app. 3.5 Flash-Lite is also rolling out in Google Search.
+
+# Document 487: Ask Gemini in Chrome to complete tasks for you with auto browse
+Source URL: https://support.google.com/gemini/answer/16821166
+Product area: chrome-ai
+
+With auto browse, you can ask Gemini in Chrome to complete multi-step tasks for you on the web. Your preferences, instructions, and previously shared details are reviewed to help you receive personalized, useful results. For example, you can ask it to:
+
+- Compare products, search for deals, and add items to your cart
+- Help you find and book travel accommodations based on specific criteria
+- Make restaurant reservations and schedule appointments
+
+## What you need
+
+To use auto browse on your computer, you need to:
+
+- Be 18 or over and in the US.
+- Be eligible and opt in to Gemini in Chrome.
+- Update to the latest version of Chrome.
+- Set your device's language to English.
+- Have Google AI Ultra or Google AI Pro on your personal account.
+- Sign in to Chrome with a personal Google Account.
+  - This feature isn't available in Incognito mode. It's also not available if you sign in to Chrome with a school Google Account.
+- If you use Gemini in Chrome with a work or school Google Account, access must be enabled by your administrator.
+- In Chrome, set "Safe Browsing" to Enhanced or Standard protection.
+
+Important: We're gradually releasing auto browse in Gemini in Chrome, so it might not be available to you just yet. For now, this feature is not available in Live chats or Gemini in Chrome on iPhone or iPad.
+
+## Ask Gemini in Chrome to complete tasks for you
+
+Gemini in Chrome can use a broad range of sites on the web to complete tasks for you. This is true even if you haven't connected the related apps to Gemini Apps.
+
+1. On your computer, open Chrome.
+2. At the top of your browser, click Ask Gemini.
+3. In the text box, describe the task you want it to complete.
+4. Click Submit.
+5. Review the plan Gemini in Chrome will use to complete the task. Check that it understood your prompt, the page context, and your personal info correctly. Note: Gemini will choose which sites to use to complete the task, and it may share your personal info with those sites.
+6. If the plan is correct, click Start Task.
+7. If needed to complete a task: Review and confirm any sensitive steps, take over a task for steps you need to complete personally, or give Gemini in Chrome permission to sign in to a site for you.
+
+## How Spark works with Chrome auto browse
+
+With Chrome auto browse, you can ask Gemini Spark to complete tasks that involve browsing the web, like shopping, booking travel, or making dinner reservations. To work on your tasks, Spark uses your info from sources like Connected Apps, skills, chats, tasks, websites you're logged into, Personal Intelligence, and location.
+
+Gemini Spark can browse the web in multiple ways, one of which is by connecting to your own device (your local Chrome browser). Currently, only Gemini Spark in desktop Chrome can use auto browse. It might also use a remote browser (a separate, new browser instance, not your local browser in the cloud).
+
+If you use your local browser: Gemini Spark has access to all the same sites that you do, including sites you're signed into. When acting on your behalf, Gemini Spark will share necessary info with third parties. This could include your name, contact information, files, preferences, and info you might find sensitive. With your permission, it can also use login info you saved in Password Manager to sign into loyalty programs and online accounts. To use Spark via your local browser, you'll need to keep your device and Google Chrome awake and running. If you later close or turn off your device before the task is finished, or the device isn't available, Spark might use a remote browser to complete the task.
+
+If you use the remote browser: Your task can continue even if you close your device. Note that at some stages, like when a website asks you to sign in, the task will stop until you take over and do it yourself.
+
+## Examples of tasks
+
+You can ask Gemini in Chrome to:
+- Find and book travel accommodations based on specific criteria
+- Manage dining reservations and food delivery
+- Search for tickets for events and group entertainment
+- Find and compare products for online shopping
+- Draft communications and organize calendar schedules
+- Research job markets and professional networking opportunities
+- Assist with online finance chores like fetching receipts
+- Perform other administrative web tasks
+
+## About Gemini in Chrome's limits
+
+In Gemini in Chrome, there are limits for the number of:
+- Multi-step tasks that you can request each day: up to 20 requests per day (Google AI Pro plan) or up to 200 requests per day (Google AI Ultra plan)
+- Multi-step tasks that Gemini in Chrome can perform at the same time
+
+When you reach your limit, Gemini in Chrome lets you know.
+
+## How Gemini in Chrome works with you to keep you and your info safe
+
+Gemini in Chrome working as an agent is an experimental feature. As we continuously work to improve its safeguards, use auto browse in Gemini in Chrome carefully and safely to prevent unintended and potentially harmful results. You're responsible for Gemini's actions during a task, including mistakes and unexpected results like purchases.
+
+About possible risks of using AI agents: AI agents, like auto browse in Gemini in Chrome, are helpful and powerful tools, but it's important to be aware of possible risks. Remember that Gemini in Chrome can make mistakes and do unexpected things.
+
+Prompt injection: Prompt injection is an attempt to elicit an unintended or harmful response from generative AI tools like Gemini in Chrome. This happens when content, like a website, an email, a document, or multimedia, has malicious instructions that might be hidden from you but visible to the AI agent. If an AI agent reads these instructions while doing a task, it might be tricked into doing unintended things, such as taking your private info from your emails or documents and posting it on a public website, sending your emails in Gmail to an external service without you knowing, or exposing insights about you based on your data in connected apps.
+
+Gemini in Chrome can share your info with websites: Auto-browse works across your open tabs to complete actions and get things done on your behalf. Gemini can choose sites to visit to fulfill your request. Gemini may use your personal information (such as data from Connected Apps like Google Workspace) to complete these tasks more accurately. When completing an auto browse task on a website, Gemini may share your information with that site.
+
+Gemini has access to your local browsing state: Auto browse has access to the same sites that you do, including sites you're signed into.
+
+Gemini in Chrome can make mistakes: Gemini in Chrome might misunderstand what you want it to do or the website it's browsing. This could lead to unintended actions, like following instructions incorrectly or clicking the wrong link or button, completing a purchase or ordering something without your permission, adding the wrong quantity of an item to your cart or forgetting to add an item, confirming a task is done when it's not or could have done more, or asking you to take over when it can normally do the step.
+
+## Chrome's safeguards for auto browse
+
+Chrome has safeguards for auto browse that aim to reduce possible risks of AI agents, including unintended or potentially harmful actions. These safeguards include:
+- "Take over task": Gemini in Chrome may ask you to take over the task to complete specific actions, like finalizing financial transactions, accepting terms of service, or creating an account.
+- Requests for user confirmation: Gemini in Chrome aims to ask for your review and confirmation before certain actions, like starting a task, sending communications, modifying your data, submitting web forms, scheduling events, or accessing sites with highly sensitive financial or health data.
+- Requests for permission: Gemini in Chrome asks for your permission before it gets help from Google Password Manager to sign in to sites for you. Google Password Manager does not share your passwords with Gemini in Chrome. You can remove this permission at any time.
+- Prohibited task recognition: Gemini in Chrome has safeguards designed to help it recognize and not act on certain types of requests that could be harmful or are outside of its intended purpose, including tasks that may violate the Generative AI Prohibited Use Policy.
+- Site and action restrictions: Gemini in Chrome restricts its activity to the websites and actions relevant to your task. This helps protect your data on other unrelated sites and helps prevent actions that don't align with your task.
+
+## Monitoring your tasks
+
+Monitoring your tasks is the most important way to protect against risk while using auto browse. Review confirmation requests and clarifying questions closely. Use auto browse carefully and safely, and only give Gemini in Chrome tasks you're comfortable with. Be extra watchful when Gemini in Chrome handles an important task, is signed in to websites with sensitive info (like financial, legal, and medical info), does anything where a mistake could be a problem, or uses Connected apps like Google Workspace in the same chat.
+
+You're in control: If Gemini in Chrome is doing something you don't like, you can stop it by clicking Stop in Gemini in Chrome or Take over task on the tab that Gemini in Chrome is using. Gemini in Chrome's safeguards aren't intended to replace your monitoring.
+
+## About your data and Gemini in Chrome
+
+You can review your chats with Gemini in Chrome in Gemini Apps Activity. You can review the sites Gemini in Chrome visits in your Chrome history; these sites have a Gemini action icon next to them. Learn more about what happens to your data when you use Gemini in Chrome.
+

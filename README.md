@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 486 official source documents
-- 486 preserved source URLs
+- 487 official source documents
+- 487 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -49,7 +49,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/workspace-studio` | 21 |
 | `https://workspace.google.com/resources` | 20 |
 | `https://workspace.google.com/learning` | 18 |
-| `https://support.google.com/gemini` | 21 |
+| `https://support.google.com/gemini` | 22 |
 | `https://support.google.com/chat` | 17 |
 | `https://support.google.com/chrome` | 15 |
 | `https://support.google.com/notebooklm` | 14 |
@@ -92,7 +92,7 @@ The corpus currently includes pages from these source bases:
 | `notebooklm` | 21 |
 | `admin-console` | 17 |
 | `workspace-learning-center` | 14 |
-| `chrome-ai` | 13 |
+| `chrome-ai` | 14 |
 | `apps-script-ai` | 11 |
 | `gmail` | 10 |
 | `youtube-ai` | 10 |
@@ -132,8 +132,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-08-07.
-Last maintenance check: 2026-08-07.
+Last corpus update: 2026-08-08.
+Last maintenance check: 2026-08-08.
 
 ## Usage
 
