@@ -81493,3 +81493,109 @@ You're in control: If Gemini in Chrome is doing something you don't like, you ca
 
 You can review your chats with Gemini in Chrome in Gemini Apps Activity. You can review the sites Gemini in Chrome visits in your Chrome history; these sites have a Gemini action icon next to them. Learn more about what happens to your data when you use Gemini in Chrome.
 
+# Document 488: How 5 builders are using Gemini Omni
+Source URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/
+Product area: gemini-models
+
+Gemini Omni makes creating videos as easy as having a conversation. Here are some of the coolest things people and companies are building with it.
+
+At this year's I/O, we introduced Gemini Omni Flash, our first model in the new Omni family. Omni makes creating and editing videos as easy as having a conversation. You can generate high-quality videos from text, image, video, or audio references, and even edit your own videos. And since Omni combines an intuitive understanding of physics with Gemini's real-world knowledge, it creates more realistic outputs.
+
+We recently gave developers access to Omni, and builders have already used it for a range of projects. Here are some of the demos that caught our eye.
+
+## Switch angles and perspectives.
+
+Omni makes editing videos incredibly easy. You can change camera angles, switch environments, and apply cinematic zooms — all without losing the thread of your original scene.
+
+Builder Leon Lin (@LexnLin on X) took full advantage of this capability, capturing a woman standing in the middle of a city from about 20 different perspectives. You see her from every angle imaginable: up close and far away, head on and in profile, from above, and from below. Some shots zoom in, while others hold still. And the background shifts: She stands on sidewalks, crosswalks, and city streets, surrounded by pedestrians, cars, trams, and a range of different buildings.
+
+## Transform the world around you.
+
+Omni lets you change what's happening in a video and create something you never could have filmed yourself. You can edit the action or swap in different objects, and Omni will still maintain a coherent, cohesive scene.
+
+Take this video from builder Carlos Santana (@DotCSV on X), for example. He changes an outdoor scene using only his voice, switching the lighting from day to night, adding cloudy skies and rainy sounds, turning the leaves orange, and covering the ground in snow.
+
+## Animate everyday objects.
+
+With Omni in Google Flow, you can turn sketches into realistic videos, using doodles to guide how individual elements move. And you can decide whether these hand-drawn elements become part of your final product.
+
+Builder Pan (@sebatheepan on X), for instance, uses doodles to playfully transform everyday objects. A lemon becomes a submarine bobbing in the ocean. A cup of espresso is now a hot air balloon transporting someone through the sky. A pair of hot peppers form a sleeping dragon that breathes fire when startled. A match is recast as a rocket ship. And scissors turn into a scary shark looking for a snack.
+
+## Play with different styles or visual effects.
+
+Curious what your video would look like with a completely different aesthetic? With Omni, you can change styles and apply effects to create something that matches your vision. Define the look you want by inputting references, or just describe what you're looking for in natural language. Omni blends that together to create a cohesive clip.
+
+Builder Jerrod Lew (@jerrod_lew on X) put this to the test with Omni in Google Flow, rendering a video of a woman walking down the street in four different animation styles. The original clip fluidly shifts from live-action to anime to claymation and more, never interrupting the woman's natural forward progression.
+
+## Bring ideas to life.
+
+The team at Hyperagent (@hyperagentapp on X) used Omni to visualize three different concepts with video. They layered landscaping into a video of an empty park to create a before-and-after design proposal. They personified data with an animated professor who explains business dashboards. And they gamified a to-do list with a video showing a character clearing tasks.
+
+Omni blends knowledge with creativity, letting you create scenes that follow real-world logic. Try it in the Gemini app, Google Flow, Google AI Studio, the Gemini API, or the Gemini Enterprise Agent Platform.
+
+# Document 489: AMIE: Advancing medical AI for video consultations
+Source URL: https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
+Product area: google-ai
+
+When you visit a doctor, a consultation extends far beyond words — a physician notices a cough, observes gait, or registers visible signs of discomfort. Today, Google Research and Google DeepMind are advancing AMIE, our research medical AI system, toward real-time clinical video consultations, with a first-of-its-kind demonstration of expert-level AI capabilities in this setting. Built on Gemini and Project Astra using a multi-agent architecture, AMIE now interprets visual and auditory cues, guides virtual physical exams, and reasons diagnostically in real time.
+
+In a randomized study using simulated consultations with patient actors and a group of primary care physicians, clinical evaluators assessed AMIE favorably across core clinical competencies, including history-taking thoroughness, diagnostic accuracy, management appropriateness and communication quality. Patient actors also preferred the video experience over text chat.
+
+AMIE remains a research system and more research is needed before responsible real-world clinical deployment, but it offers an exciting glimpse into the future of health AI.
+
+# Document 490: Learn Vibe Coding with the Google AI Certificate
+Source URL: https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/
+Product area: google-ai
+
+Since launching in February, the Google AI Professional Certificate has become the most popular generative AI certificate of all time on Coursera. Now, we're expanding the curriculum with a new course dedicated to vibe coding.
+
+Whether you are taking your very first step into AI or looking to build custom tools for your team, our goal with the Google AI Professional Certificate has stayed the same: helping you learn how to make AI work for you. Since launching in February, it has become the most popular generative AI certificate of all time on Coursera. Millions of people have learned to put AI to work with our AI curriculum, while leading employers like Deloitte, Verizon, Lyft, and Walmart are using the course to train their teams.
+
+But AI moves fast, and we are committed to keeping our curriculum just as dynamic. Lately, our learners have been asking for deeper lessons on vibe coding: describing what you want in everyday language while AI handles the technical code to build and deploy your app. This interest reflects a broader trend, with U.S. search for vibe coding up by 140% on average versus last year.
+
+Our newest vibe coding course launches today. This course helps everyone become a builder, creating robust, shareable apps. We teach you how to plan, test and debug, and deploy your app, turning your best ideas into practical tools. Whether it's building a custom team dashboard, automating a workflow, or building a customer intake tool, no coding experience is required.
+
+We love seeing what people are building. Take former Walmart truck driver turned Logistics Load Manager Leo Garcia in Bentonville, Arkansas. Using what he learned in the Google AI Professional Certificate, Leo used an internal tool to design four custom applications to optimize operations across several states. One of his apps, "Get My Driver Home," condensed daily reporting meetings into 15-minute huddles. His app now coordinates shifts for drivers, and Walmart continues to review associate created apps like Leo's, showing what is possible when you give people the tools and confidence to solve their own challenges.
+
+We are also seeing companies put this training to work in other practical, everyday ways. Verizon is offering the Google AI Professional Certificate to help its workforce build AI fluency. Recent graduates are applying their skills to daily work projects, moving from basic email drafting to building highly customized tools like virtual quoting assistants in Gemini Notebook. By equipping employees with tools and skills, Verizon is empowering its workforce to solve everyday challenges directly within their roles.
+
+"Empowering our workforce and our communities with AI fluency has been a core priority for Verizon. We have been thrilled to offer the Google AI Professional Certificate to our Verizon Small Business customers, Verizon Small Business Digital Ready program users, current management Verizon employees, as well as former employees of Verizon through our Reskilling and Career Transition Fund," said Donna Epps, Chief Responsible Business Officer of Verizon. "This training has played a key role in helping us deliver more dynamic experiences for the communities we serve and adding these new vibe coding resources will only enhance our impact."
+
+By expanding our curriculum to include practical skills like vibe coding, we're continuing our commitment to make AI accessible, relevant, and useful for everyone. Whether you're streamlining logistics at a multinational company or designing a custom app for your team, the Google AI Professional Certificate is built to help you make AI work for you.
+
+Enroll today to get started: grow.google/AICert
+
+# Document 491: Google Maps' Ask Maps gets more helpful with food ordering
+Source URL: https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/
+Product area: maps-ai
+
+From agentic food ordering to real time transit information, the latest Ask Maps improvements make it easier than ever to get more done.
+
+Ask Maps is Google Maps' biggest transformation in over a decade. By bringing Gemini model capabilities together with the world's freshest map, we've made it easier than ever to get answers to real-world questions.
+
+We've been thrilled to see how Ask Maps is helping people use Maps in entirely new ways — from finding a restaurant with great vibes that's still quiet enough for conversation to mapping out a scenic three-hour motorcycle ride. Building on this, we're now making Ask Maps even more helpful with new agentic capabilities, real-time transit information, Personal Intelligence, and conversational contributions so you can get more done. It's also rolling out in Australia, Brazil, Canada, Indonesia, Japan, and Mexico, along with over 150 countries and territories in English.
+
+## Order food, find the perfect hotel, and discover events.
+
+Ask Maps can now handle complex, multi-step tasks for you using new agentic capabilities. If you want to order takeout before leaving the office, just ask Maps to "order spicy pad kee mao with seafood for me to pick up on my way home." It'll find open restaurants along your route that serve what you're craving and can even consider things like your saved places or specific dietary needs. Once you select a restaurant, Ask Maps can automatically add the dish you're looking for directly to your cart so you can easily review and complete your order. Food ordering is rolling out now with partners like Square and Toast, with Uber Eats coming soon. We'll continue to evolve these experiences as we co-develop the Universal Commerce Protocol for Food with partners.
+
+With Ask Maps, you can also quickly discover the latest information about hotels and local events. Ask for what you need: "For next week's conference in downtown Miami, find me a decently priced, top-rated hotel with an artsy vibe, within walking distance from a gym and restaurants." Ask Maps compares real-time prices and checks availability for you so you can find the right spot. And if you need ideas for what to do nearby, Ask Maps will show you everything from concerts to comedy shows, complete with links for tickets.
+
+## Get personalized answers and resume past conversations.
+
+With Personal Intelligence, you can choose to securely connect Ask Maps to Gmail, and soon other apps like Calendar. Ask Maps automatically factors in your upcoming flight or dinner reservations, giving you relevant suggestions without you having to explain your existing plans. For example, if you're traveling, try asking: "Give me ideas on how to spend a few hours near the hotel before my flight tomorrow." You'll see nearby recommendations based on your hotel reservation in Gmail — along with tips for getting to the airport afterwards, like what time to leave.
+
+With Personal Intelligence in Ask Maps, you're in control — connecting to your Gmail is off by default and you decide if you want to connect. Personal Intelligence is built with privacy in mind.
+
+If your history settings are turned on, Ask Maps also remembers past conversations so you can pick up where you left off. Simply ask, "Remind me, what activities did you suggest for my trip to Seattle?" Maps will instantly pull up your previous ideas so you don't have to start planning from scratch.
+
+## Get trusted, real-time transit information instantly.
+
+Ask Maps already gives you helpful, real-time information — like what traffic to expect on your morning commute or if there's construction or an accident along the way. You can even check how busy a shop or restaurant is before you head out so you can avoid waiting in long lines. Now, we're bringing these live updates to transit. A new transit widget right in Ask Maps keeps you informed about up-to-the-minute delays for your bus, train, subway, or ferry ride. So if you ask, "Is there a ferry to get to Taronga Zoo with views of the Opera House?" you'll see all of your options at a glance on a virtual departure board. If a ferry is running late, the wait adjusts in real-time — updating minute by minute — so you know exactly when to head to the dock.
+
+## Tell Maps about updates and share tips conversationally
+
+Insights from over 500 million contributors play a big role in keeping Maps fresh and helpful, and now we're making it simpler to share updates. You can suggest edits conversationally, right from Ask Maps and the Contribute tab. You can even upload a photo of a storefront sign — Maps will detect the new hours from the image, and ask you to confirm before submitting the suggestion for you. As always, Maps' built-in protection systems review suggested edits for accuracy, and won't post suggestions that violate our policies. It's also easy to tell Maps about an insider tip — just say something like "more parking is available behind the building," and Ask Maps will surface this helpful information to others in the community.
+
+The live transit widget, more personalized responses, and remembering past conversations in Ask Maps are rolling out now everywhere Ask Maps is available. Food ordering, discovering hotels and events, and conversational contributions are rolling out now in the U.S., with more countries to come over time. With these updates, we hope Ask Maps makes navigating your day just a little easier.
+
