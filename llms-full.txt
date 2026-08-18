@@ -81731,3 +81731,29 @@ For more information, see the 3.7 Flash model card.
 - Developers: Explore agent-first workflows in Google Antigravity or start building today in the Gemini API via Google AI Studio and Android Studio.
 - Enterprises: Access 3.7 Flash in Gemini Enterprise Agent Platform and the Gemini Enterprise app.
 - Individuals: Available via Spark, your 24/7 personal agent in the Gemini app for Google AI Pro and Ultra subscribers in supported countries.
+
+# Document 496: Use Gemini to help manage Google Workspace for your organization
+Source URL: https://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html
+Product area: admin-console
+
+We are introducing Admin Assist, bringing two new Gemini-powered capabilities to the Google Admin Console: the Sidepanel and Search Overviews. Designed to simplify complex administrative workflows and troubleshooting, this launch makes managing Google Workspace easier and faster. Admin Assist is available for customers with Google Workspace Business editions only.
+
+Previously, administrators often had to toggle back and forth between different browser tabs, troubleshooting documentation, and the console to manage domain policies. With this update, we are integrating conversational AI assistance directly into your Google Workspace management surface to provide instant, contextual support.
+
+- **Gemini-powered Sidepanel:** Conveniently accessible via the One Google Bar (OGB) on most of the pages of the Admin Console. Super admins can use the sidepanel to get help with complex tasks, learn about administrative best practices, and receive interactive, step-by-step guidance.
+- **Gemini-powered Search Overviews:** A proactive search feature that triggers when you ask a question in the main Admin Console search bar. Admin Assist will automatically synthesize Google Workspace Help Center articles into conversational summaries, presenting you with the exact answers you need alongside direct, actionable next steps.
+
+Whether you are looking to audit application usage or investigate configuration drifts, Admin Assist acts as your personal technical co-worker—allowing you to manage your domain securely and efficiently.
+
+## Getting started
+
+- **Super Admins:** This feature will be ON by default for Super Admins with eligible Business SKU editions (see 'Availability' below). It is not available to Delegated Admins.
+- **End users:** There is no end-user setting or impact for this feature, as these capabilities are restricted exclusively to Super Admins at the Google Admin Console.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Available now
+
+## Availability
+
+- **Business:** Business Starter, Standard, and Plus
