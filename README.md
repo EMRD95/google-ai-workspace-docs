@@ -134,7 +134,7 @@ Regular maintenance should:
 - update `llms-full.txt` and this README together
 
 Last corpus update: 2026-08-18.
-Last maintenance check: 2026-08-18.
+Last maintenance check: 2026-08-19.
 
 ## Usage
 
