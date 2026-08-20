@@ -81757,3 +81757,47 @@ Whether you are looking to audit application usage or investigate configuration 
 ## Availability
 
 - **Business:** Business Starter, Standard, and Plus
+
+# Document 497: Introducing Ask Gemini in Chat: your new partner in productivity
+Source URL: https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html
+Product area: chat
+
+Google Chat is the central hub for real-time collaboration in Workspace, and starting August 26, 2026, it becomes the place where you can bring the power of Gemini into your flow of teamwork. We’re introducing Ask Gemini in Google Chat, a unified command line for your work, powered by Workspace Intelligence.
+Ask Gemini in Chat helps you navigate your day, stay on top of the flow of collaboration, find what you’re looking for, and help you take action.
+- Find answers quickly: Search across your Workspace data (like Gmail, Drive, or Calendar) to gather information.
+- Create content: Generate images or draft critical updates without leaving the conversation.
+- Stay on top of discussions: Catch up on all your conversations in one place.
+- Manage tasks and events: Schedule your meetings and manage tasks without breaking your flow.
+- Organize your work: Structure your conversations with individual sessions to revisit and continue work on specific topics over time.
+Ask Gemini helps you reduce time spent searching for information and toggling between tabs, to ensure you have everything you need to take action and keep up with the busy pace of modern teamwork.
+Ask Gemini is available in the Shortcuts menu in Chat
+
+## Important changes to Gemini side panel in Chat
+
+- Ask Gemini in Chat provides many of the functions previously available in the Gemini side panel in Chat, including finding files, capturing action items and summarizing conversations. With this launch, you’ll no longer see the side panel in Chat.
+- In addition, you’ll no longer be able to access Gems via Gemini side panel in Chat. However, Gems will remain available in the Gemini side panel of other Workspace apps.
+- Your conversation history from the Gemini side panel in Chat will not migrate to the new Ask Gemini surface in Chat. However, admins will be able to export Gemini conversation history, including conversation history from the Chat side panel, and if permitted by their organization, end users will be able to download their conversation history as well. Note that in the Data Export tool and Google Takeout, this data is stored under “Gemini in Workspace,” not “Google Chat.”
+
+## Language availability
+
+This change will only affect users who have English as their Google account language. Users with other language preferences will be able to continue using the side panel as this update will not apply to them. Support for more languages will be added in the future.
+
+## Getting started
+
+- Admins: This feature is available by default if Gemini in Workspace in Chat and Workspace Intelligence for all apps are enabled.
+- End users: To use Ask Gemini features, you must be enrolled in Workspace Smart Features. Once enabled, Ask Gemini will be available on the left under "Shortcuts" in Google Chat. You can also quickly access it using the keyboard shortcut (Ctrl + g on ChromeOS/Windows or Command + g on macOS). Visit the Help Center to learn more about Ask Gemini in Chat.
+Through October 1, 2026, Workspace customers will get promotional access to higher limits for Ask Gemini in Chat, allowing users to experiment with this feature. Usage limits will apply after that date; we’ll provide more information in the Help Center in advance of updated usage limits going into effect.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on August 26, 2026
+
+## Availability
+
+- Business: Business Standard and Plus
+- Enterprise: Enterprise Standard and Plus
+- Education Add-ons: Google AI Pro for Education
+
+## Resources
+
+- Google Chat Help: Get started with Ask Gemini in Google Chat

@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 496 official source documents
-- 496 preserved source URLs
+- 497 official source documents
+- 497 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -52,7 +52,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/gemini` | 23 |
 | `https://support.google.com/chat` | 17 |
 | `https://support.google.com/chrome` | 15 |
-| `https://support.google.com/notebooklm` | 14 |
+| `https://support.google.com/notebooklm` | 15 |
 | `https://developers.google.com/apps-script` | 11 |
 | `https://knowledge.workspace.google.com/admin/generative-ai` | 10 |
 | `https://support.google.com/youtube` | 10 |
@@ -64,11 +64,11 @@ The corpus currently includes pages from these source bases:
 | `https://workspace.google.com/solutions` | 7 |
 | `https://knowledge.workspace.google.com/admin/studio` | 6 |
 | `https://workspace.google.com/products` | 6 |
-| `https://cloud.google.com` | 5 |
+| `https://cloud.google.com` | 7 |
 | `https://support.google.com/calendar` | 5 |
 | `https://support.google.com/photos` | 5 |
 | `https://blog.google` | 20 |
-| `https://workspaceupdates.googleblog.com` | 1 |
+| `https://workspaceupdates.googleblog.com` | 2 |
 | `https://support.google.com/android` | 3 |
 | `https://support.google.com/g` | 1 |
 | `https://support.google.com/keep` | 3 |
@@ -87,7 +87,7 @@ The corpus currently includes pages from these source bases:
 | `workspace-site` | 167 |
 | `workspace-studio` | 29 |
 | `chat-developers` | 26 |
-| `chat` | 18 |
+| `chat` | 19 |
 | `gemini-apps` | 25 |
 | `google-vids` | 18 |
 | `notebooklm` | 21 |
@@ -133,8 +133,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-08-18.
-Last maintenance check: 2026-08-19.
+Last corpus update: 2026-08-20.
+Last maintenance check: 2026-08-20.
 
 ## Usage
 
