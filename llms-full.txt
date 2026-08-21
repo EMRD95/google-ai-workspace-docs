@@ -81801,3 +81801,87 @@ Through October 1, 2026, Workspace customers will get promotional access to high
 ## Resources
 
 - Google Chat Help: Get started with Ask Gemini in Google Chat
+
+# Document 498: Granular space creation restrictions now available in Google Chat
+Source URL: https://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html
+Product area: chat
+
+We are introducing a new admin setting in Google Chat that allows administrators to restrict specific users or groups from creating spaces, while continuing to permit them to create 1:1 direct messages (DMs) and group direct messages (gDMs).
+Previously, Chat restriction settings functioned as a single all-or-nothing toggle, which disabled all conversation creation. With this update, administrators gain more flexible policy enforcement with the following restriction levels:
+- No restrictions: All chat creation (1:1 DMs, group direct messages, and spaces) is permitted.
+- Restrict space creation: Users can create 1:1 DMs and group direct messages, but are restricted from creating new Chat spaces.
+- Restrict all creation: Users are restricted from creating 1:1 DMs, group direct messages, and Chat spaces.
+This enhancement is particularly useful for organizations—such as educational institutions, frontline environments, and external vendor/contractor teams—that want to ensure space creation is managed through designated approval workflows or admin creation, without disrupting day-to-day direct communication.
+## Getting started
+- Admins: This feature is available at the domain, Organizational Unit (OU), and group level. To configure space creation restrictions, open the Admin console and navigate to Apps > Google Workspace > Google Chat > Chat and space restrictions. Visit the Help Center to learn more about setting up Chat restrictions.
+- End users: There is no end-user setting for this feature. Restricted users will notice that the option to create a space in Google Chat is disabled, but they will maintain the ability to create 1:1 DMs and group direct messages.
+## Rollout pace
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) started on August 14, 2026
+## Availability
+- Business: Business Standard and Plus
+- Enterprise: Enterprise Starter, Standard and Plus
+- Education: Education Fundamentals, Standard, and Plus
+- Other Editions: Frontline Starter, Standard and Plus
+## Resources
+- Google Workspace Admin Help: Set up Chat restrictions
+
+# Document 499: Allowlisted Domains API now generally available
+Source URL: https://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html
+Product area: admin-console
+
+The Google Workspace Allowlisted Domains API is now generally available. Previously, administrators had to manage their allowlisted domains list manually through the Google Workspace Admin console. With this release, hosted under the Cloud Identity API suite as a top-level resource, organizations can securely automate and programmatically manage their list of allowlisted domains.
+By programmatically managing trusted external sharing boundaries, Workspace administrators can easily automate domain lists. This allows organizations to restrict external collaboration to verified, trusted partners, thereby mitigating data exfiltration risks and strengthening overall security posture without manual administrative overhead.
+This launch includes a robust set of core capabilities to support your domain management workflows:
+- Core CRUD operations: Programmatic Create, Delete, List, and Get capabilities to manage your list of allowlisted domains
+- Exact-match filtering: Easily check and verify the presence of specific domains using exact-match filtering within the List API
+Note: Reseller-managed workflows are not currently supported.
+## Getting started
+- Admins: To configure these rules via the API, administrators must have either domain management or domain allowlist management privileges for Google Workspace. See our documentation to learn more.
+- End users: There is no end-user setting or action required for this feature.
+## Rollout pace
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) started on August 19, 2026
+## Availability
+- Available to all Google Workspace customers
+## Resources
+- Google Cloud Documentation: Allowlisted domains API overview
+
+# Document 500: Record presentations in Google Slides with Google Vids
+Source URL: https://workspaceupdates.googleblog.com/2026/08/record-presentations-in-google-slides-with-Google-Vids.html
+Product area: google-vids
+
+We are introducing a seamless way to record presentations in Google Slides using Google Vids directly from the Slides interface. Moving forward, you will see a new Record option in the right-hand menu of Slides. Selecting this option guides you through a streamlined recording workflow and outputs an immediately shareable link.
+This new integration provides advanced creation capabilities—including transcript-based editing and voiceover generation—helping you turn simple slide decks into polished, professional video assets in seconds.
+Note: For organizations currently using the existing Slides recording experience, here is what you need to know about the transition:
+- Users with access to the existing Slides recording experience will have access to both the legacy experience and the new Vids recording experience.
+- The legacy Slides recording option will move to the View menu (View > Slides Recording).
+## Getting started
+- Admins: There is no admin control for this feature.
+- End users: There is no end user setting for this feature. Use the Help Center to learn more about recording a presentation in Google Slides.
+## Rollout pace
+- Rapid Release domains: Gradual rollout (up to 15 days for feature visibility) started on August 20, 2026
+- Scheduled Release domains: Full rollout (1–3 days for feature visibility) starting on September 7, 2026
+## Availability
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts
+## Resources
+- Google Help: Record a presentation in Google Slides  with Google Vids
+
+# Document 501: View Google Chat usage metrics in Gemini reports dashboard
+Source URL: https://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html
+Product area: admin-console
+
+Admins can now access Google Chat usage metrics in the Gemini reports dashboard across both organization- and user-level reports.
+At the organization level, this allows admins to track active Gemini users in Google Chat, analyze usage trends, and identify who benefits most from Gemini-powered summarization and generation features.
+At the user level, admins can now view the level of Gemini adoption for specific users who actively engage with the app.
+This launch also updates a few Gemini summarization interactions in Chat to “Active” as they are initiated by the user. Given this, you may see updated metrics reported for active users and overall usage of Chat.
+## Getting started
+- Admins: Visit the Help Center to learn more about Gemini reports.
+- End users: There is no end user impact or action required.
+## Rollout pace
+- Rapid Release and Scheduled Release domains: Available now
+## Availability
+- Business: Business Starter, Standard, and Plus
+- Enterprise: Enterprise Starter, Standard, and Plus
+- Education Add-ons: Google AI Pro for Education
+## Resources
+- Google Workspace Admin Help: Gemini Reports Dashboard Help
+- Google Developer Documentation: Gemini in Workspace Apps Activity Events
