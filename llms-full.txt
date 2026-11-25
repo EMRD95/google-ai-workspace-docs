@@ -81885,3 +81885,572 @@ This launch also updates a few Gemini summarization interactions in Chat to “A
 ## Resources
 - Google Workspace Admin Help: Gemini Reports Dashboard Help
 - Google Developer Documentation: Gemini in Workspace Apps Activity Events
+
+# Document 502: Get actionable insights with Gemini in Google Forms
+Source URL: https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html
+Product area: forms
+
+Making sense of form responses and figuring out what to do next can take time, especially when you're working through many responses across multiple questions. Today, we're introducing actionable insights in Google Forms, which uses Gemini to analyze your form responses, uncover key trends, and recommend next steps so you can act on your results faster.
+
+With this launch, you can generate insights directly from the Responses tab of your form. Gemini analyzes your responses by writing and running Python code, so findings like counts, percentages, and comparisons are grounded in your actual response data. Gemini spots patterns and cross-question correlations to reveal how different answers connect. Finally, Gemini summarizes the most important takeaways and suggests recommended next steps.
+
+Actionable insights can help with a wide range of forms, such as:
+
+- Event and product feedback: Understand what respondents valued most and where there's room for improvement.
+- Research surveys: Quickly spot trends and patterns across responses.
+- Registration and application: Get a clear picture of who is signing up or applying.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5oZq_dQ6m7aenaZI7dMVEJjQddhuKTMFH4Rsk3ExgKyCKgZkwM2T4WuwiKHaFA2B_NoK5D7hAGWZLY4C3v8PW2_xKE65-0aR59FqLSCrb8wHg7ip3eSpIqUAR6mkVLsWbZd4iwiYACId6wxB66BTtxcTVH8QSUziFMiS8DARWNdN7asHus8ZGy4s_sGU/s1600/Get%20actionable%20insights%20with%20Gemini%20in%20Google%20Forms%20-%206786.gif)
+
+Gemini uncovers insights from a feedback form for a business networking event and recommends next steps
+
+## Getting started
+
+- Admins: To access Gemini in the side panel of Workspace apps, users need to have smart features and personalization turned on. Admins can turn on default personalization setting for their users in the Admin console. Visit the Help Center to learn more.
+- End users: Visit the Help Center to learn more about actionable insights in Google Forms.
+
+## Rollout pace
+
+- Rapid Release domains: Gradual rollout (up to 15 days for feature visibility) started on November 2, 2026
+- Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on November 19, 2026
+
+## Availability
+
+- Business: Business Standard, and Plus
+- Enterprise: Enterprise Standard, and Plus
+- Education: Education Plus
+- Consumer: Google AI, Pro, and Ultra
+- Education Add-ons: Google AI Pro for Education; Teaching and Learning
+
+## Resources
+
+- Google Help: Summarize & analyze responses with Gemini in Google Forms
+
+# Document 503: Gemini Omni 1.2 Flash now in Vids with 15-second generations and improved quality
+Source URL: https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html
+Product area: google-vids
+
+Users now have access to Gemini Omni 1.2 Flash directly within Google Vids. Omni 1.2 provides longer duration videos up to 15 seconds and improved quality resulting in higher character consistency and vocal realism.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0LYUc8DHQJDiWEHCjZDn4LCFqKCj-fG_Dw-t1_ng3xcR0vIg-aoQWzyaUpt5hSe3g49MvkDC2MbCbMtpbQw8rRBc70J4OuPMfTlNa1oUVkQr8oMrwP1dUDcqgZk8IQEonpybh2LXd4uqxfDfrVRU9TVvo2ZuLNrRyKFfw_CnONeSXDGv4eHxfJipNBQU/s1600/Gemini%20Omni%201.2%20Flash%20now%20in%20Vids%20with%2015-second%20generations%20and%20improved%20quality%20-%207287.png)
+
+Omni in Vids user experience
+
+- Choose a length up to 15s: Customize a clip’s duration by sliding from 3-15s to improve video pacing.
+- Improved reference consistency: Generations now offer better consistency when using references ensuring characters or products look the same across generations.
+- Greater speaker variety: Outputs offer improved speaker variety with wider dynamic ranges improving realism.
+
+## Getting started
+
+- Admins: This feature does not have an admin control.
+- End users: Visit the Help Center to learn more about using Omni in Vids.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Full rollout (1–3 days for feature visibility) starting on November 5, 2026
+
+## Availability
+
+- Business: Business Starter, Standard, and Plus
+- Enterprise: Enterprise Starter, Standard, and Plus
+- Education: Education Plus
+- Consumer: Users with personal Google accounts; Google AI Pro and Ultra
+- Other Editions: Enterprise Essentials and Enterprise Essentials Plus; Nonprofits; Individual
+- Education Add-ons: Google AI Pro for Education; Teaching and Learning
+- Other Add-ons: AI Expanded Access*
+
+*Users with AI Expanded Access add-on licenses have higher limits on usage of Omni in Vids.
+
+## Resources
+
+- Google Vids AI Limits: Learn about availability of AI features
+- Google Vids Editors Help: Use AI to generate video clips
+
+# Document 504: Scale customized AI across your team with skills in Google Workspace and Workspace Studio
+Source URL: https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html
+Product area: workspace-studio
+
+Following our initial announcement and recent rollout update, skills in Google Workspace — reusable, custom instructions that guide Gemini to apply your team’s rules, templates, and reference files — are now rolling out across Google Workspace Studio and Workspace apps. Here’s how to get started:
+
+- Create, test, and share skills in Google Workspace Studio and Google Docs: Build skills from scratch, start from new turnkey templates, or edit Markdown-native (SKILL.md) files directly in Google Workspace Studio, and test how they generate email drafts, documents, or presentations before turning them on. You can also draft and collaborate on skills in Google Docs, and share copies of your skills from Workspace Studio so teammates can customize and enable them for their own workflows.
+- Create and edit skills in context across Workspace apps: You can prompt Gemini directly in Gmail, Google Docs, Google Slides, Google Drive, and Google Chat to create, refine, and test skills without leaving the app you’re working in.
+- Use skills automatically or with an @, and connect them to Studio flows: Once you turn on a skill, Gemini in Gmail, Google Docs, Google Slides, Google Drive, and Google Chat can automatically recognize when that skill is relevant and apply it to your prompt, or you can invoke one or more skills explicitly at any time with an @mention (including combining multiple skills in a single request). Skills can also trigger Workspace Studio flows configured with a “Start manually” or “On a schedule” starter step.
+
+These capabilities unlock powerful ways to standardize everyday work across your team. For example:
+
+- A marketing or sales team can maintain approved brand voice, tone, and structure across email drafts in Gmail, proposals in Docs, and pitch decks in Slides.
+- A finance or legal specialist can standardize recurring contract, proposal, or invoice reviews against reference guidelines stored in Google Drive.
+- A project lead can generate recurring status updates grounded in living meeting notes, Chat conversations, and Drive files without re-typing formatting instructions each week.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPl0GgtFg_SLbQbkDAqj4S7N0j9wJbDgJf02cI59AyWF2Odzb3mFdqB1ghJxS7GSiFiu5WKVBKMqdbhEbVmwBmSJ0UFAMz4qdqSRgQQMCJQwI4G2mgkVKGvuyD_Gcc3jjVrE4TxJmbpPqyy3LKvQXSNSr7UEKtrMliTj2iWRD1gmQXw3GMSdo3ou8tA-Q/s1600/Scale%20customized%20AI%20across%20your%20team%20with%20skills%20in%20Google%20Workspace%20and%20Workspace%20Studio%20-%201.gif)
+
+Create, test, and invoke skills across Google Workspace Studio and Workspace apps
+
+A few things to know for end users:
+
+- Supported surfaces, mobile access, and language: Creating, editing, testing, and sharing skills are available on the web. Invoking skills is supported on the web in Workspace Studio, Gmail, Google Docs, Google Slides, Google Drive, and Google Chat, as well as in the Google Chat mobile app on Android and iOS. Skills in Workspace are not yet available in Google Sheets or Google Meet, and currently support English prompts and instructions only.
+- How skill sharing and Drive file permissions work in Workspace Studio: Sharing a skill from Workspace Studio gives recipients an independent copy that they can review, customize, and turn on in their own skills library (subsequent edits you make to your skill won’t overwrite copies others have already saved). If your skill references Google Drive files, you’ll also need to share access to those files with recipients.
+- Skills in Workspace are separate from skills and Gems in the Gemini app: Skills created in Workspace do not sync automatically with skills or Gems in the Gemini app, and the upcoming automated migration of remaining Gems in 2027 will convert Gems to draft skills exclusively in the Gemini app — not in Workspace Studio or Workspace apps. Because both environments use the open SKILL.md format, you can manually copy instructions between the Gemini app and Workspace if you want to use a skill in both places.
+- Impact on automated Workspace Studio flows and transitioning off “Ask a Gem”: As previously announced, you can no longer add new Ask a Gem steps to flows in Workspace Studio. Visit the Help Center to learn more about replacing Gems with skills in Workspace Studio flows.
+
+## Getting started
+
+- Admins:
+
+- Skills in Workspace Studio and Gemini in Workspace are ON by default for eligible Google Workspace editions and can be disabled at the domain, organizational unit (OU), or group level in the Admin console. Visit the Help Center to learn more about allowing people to use skills in Studio and Gemini in Workspace.
+- External sharing of skills from Workspace Studio follows your organization’s Studio sharing controls in the Admin console. Visit the Help Center to learn more about allowing people to share skills externally.
+- New with general availability, admins can monitor and audit skill activity in the Admin console using Workspace Studio log events.
+- Review the Help Center guide on preparing your organization for the transition from Gems to skills.
+
+- End users:
+
+- Skills in Workspace are available by default (unless disabled by your admin). Create and manage skills in Google Workspace Studio, using Skill Builder in Google Docs, or by prompting Gemini directly in Gmail, Google Docs, Google Slides, Google Drive, and Google Chat.
+- Visit the Help Center to learn more about how skills work in Google Workspace Studio, using skills in Gmail, Docs, Slides, Drive, and Chat, and how the transition from Gems to skills impacts Workspace Studio flows.
+
+## Rollout pace
+
+- Rapid Release domains: Gradual rollout (up to 15 days for feature visibility) starting on November 9, 2026
+- Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on November 30, 2026
+
+## Availability
+
+- Business: Business Starter, Standard, and Plus
+- Enterprise: Enterprise Starter, Standard, and Plus
+- Education Add-ons: Google AI Pro for Education
+- Other Add-ons: AI Expanded Access
+
+Note that skills in Google Workspace are available only to users age 18 and older.
+
+## Resources
+
+- Google Workspace Admin Help: Allow people to use skills in Studio and Gemini in Workspace
+- Google Workspace Admin Help: Allow people to share skills externally
+- Google Workspace Admin Help: Workspace Studio log events
+- Google Workspace Admin Help: About the transition from Gems to skills
+- Google Workspace Admin Help: Prepare for the transition to skills
+- Workspace Studio Help: Learn how skills work in Google Workspace Studio
+- Workspace Studio Help: How the Gems transition to skills impacts Workspace Studio flows
+- Google Help: Using skills in Gmail, Google Docs, Google Slides, Google Drive, and Google Chat
+- Google Workspace Updates Blog: Introducing skills in the Gemini app and Workspace, plus what’s next for Gems
+- Google Workspace Updates Blog: An update on the launch of skills in the Gemini app and Workspace
+- Google Workspace Blog: Teach Gemini your team’s know-hows with skills in Google Workspace
+- AI skills 101: Customizing AI from Google for your role
+- Education Guide: Gemini Gems and Skills Transition
+
+# Document 505: Schedule meetings in a single click from conversations in Google Chat
+Source URL: https://workspaceupdates.googleblog.com/2026/11/schedule-meetings-in-single-click-from-conversations-in-Google-Chat.html
+Product area: chat
+
+With help from Gemini, we’re making it easier than ever to schedule meetings directly from conversations in Google Chat.
+
+When someone in a Chat conversation with up to five members suggests finding a time to meet, using a phrase such as “Are you free tomorrow afternoon to go over the proposal?” or “Let’s grab 15 minutes to discuss this in person”, Gemini automatically detects the intent to schedule a meeting, and underlines the relevant text. Hovering over the underlined text reveals a scheduling card that includes:
+
+- Suggested times: Up to three meeting times based on Google Calendar availability, with any conflicts clearly flagged.
+- Attendees: Guests are filled in from the conversation, including people mentioned by name.
+- Suggested meeting title: A suggested title based on the context of the conversation, which you can edit directly in the card.
+
+Simply select a time and and click Schedule to create the meeting in a single click. A confirmation appears in the conversation, so everyone knows the meeting is booked. If you need to configure additional details, click Open in Calendar to finish scheduling the meeting.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwO4M3_jwqxvBxFe45TSOlPtlkIun6MhabNAbgc0oGLLerIOMqcRSH41ehrUTwPdACcFNvLpql2m1-nw5gFUawbagW0kzx79XwcW4fjgcmKEpWHUx-GFJBJUxf4LXjYsV4AQLXrDt7weGwFHiuNTIhw9SxlcNQMRqh0TFWiaoag-d0cug7ip2P6gnNLs/s1600/Schedule%20meetings%20in%20a%20single%20click%20from%20conversations%20in%20Google%20Chat%20-%206697%20-%201.png)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrXpCoQJ4lmMXefzb9MdXwbWEw-J_F8Dt87URcrUWjNLHOuLkssFvM4q0RzHMEQK22x0YYRSF1iHQPGlal0gQx5oZZC-eCBjWRTptFUllqmSVvi5A3TtB7OvK_8OFMd45i_td1oFWVFCQU8KyUUNW45ChR41sDVIe8bciSIqnwEdJ1GtXJlx8V9UfdQ8/w640-h540/Schedule%20meetings%20in%20a%20single%20click%20from%20conversations%20in%20Google%20Chat%20-%206697%20-%202.png)
+
+Hover over the underlined text in a message to see suggested times, attendees, and a meeting title, then schedule the meeting in one click.
+
+By helping you schedule meetings without breaking the flow of conversation, this feature enhances team collaboration and reduces context switching while streamlining one of the most common tasks in Google Chat. Some things to note:
+
+- At launch, this feature is available in Google Chat on the web (chat.google.com and Chat in Gmail) in English.
+- Suggestions appear in direct messages and in small group conversations with up to 5 participants.
+- To avoid being disruptive, Gemini only underlines messages with a clear request to set up a new meeting.
+
+## Getting started
+
+- Admins: This feature will be ON by default for eligible users. To use it, users need to have smart features and personalization turned on. There is no separate admin control for this feature. Visit the Help Center to learn how to manage access to Gemini features in Workspace services and how to turn Gmail, Chat, and Meet smart features and personalization on or off.
+- End users: Visit the Help Center to learn more about using Smart Actions in Google Chat.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX_ECXS6Y3giYEnso4QGsnrenLubLBqgL3RXyNro4rXkM01jIXfEzCnsOm88A37K8ZNZw6hpv-hWgrZjuLwIzlEihrKbIluFDsefZn9gKiJ5fWEXe_0JcCPSmWi2hKYHIzO2IGpToUCazQPKqh2fV13ySSynfoCdgq3VRpXgZnqq88GpBv20rO6nyCUJ0/s1600/Schedule%20meetings%20in%20a%20single%20click%20from%20conversations%20in%20Google%20Chat%20-%206697%20-%203.png)
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Extended rollout (potentially longer than 15 days for feature visibility) started on November 9, 2026
+
+## Availability
+
+- Business: Business Standard and Plus
+- Enterprise: Enterprise Standard and Plus
+- Other Editions: Frontline Plus
+- Other Add-ons: AI Ultra Access
+
+## Resources
+
+- Google Help: Learn how to use Smart Actions in Google Chat
+- Google Workspace Admin Help: Turn on or off Gmail, Chat, and Meet smart features and personalization
+- Google Workspace Admin Help: Manage access to Gemini features in Workspace services
+- Google Workspace Updates Blog: Use Help me schedule to easily set up a meeting time over email
+
+# Document 506: Easily customize and extend Google Workspace with Gemini in Apps Script
+Source URL: https://workspaceupdates.googleblog.com/2026/11/customize-and-extend-workspace-with-apps-script.html
+Product area: apps-script-ai
+
+Google Apps Script is a powerful way to customize, connect and automate in Workspace, built right into Google Sheets, Docs, Slides, and Forms under Extensions > Apps Script. Now, with the Gemini side panel in Apps Script generally available, anyone across your organization can easily create, customize, and troubleshoot scripts using plain language with no coding experience required.
+
+Instead of starting from a blank code editor, non-technical employees across any role, as well as experienced developers, can simply describe a repetitive task and let Gemini write the code. Whether you want to automatically create Calendar events from urgent Gmail messages, pull and clean real-time data into your models, or turn Sheets tables into formatted Docs reports, Gemini helps turn everyday ideas into working automations in minutes. Empowering more people to build doesn’t mean giving up oversight: scripts run natively in Workspace with a user’s existing permissions and standard OAuth consent, while IT admins retain full visibility and control in the Admin console.
+
+Following our public beta earlier this year, Gemini guides anyone from idea to working automation:
+
+- Go from plain language to a working script: Describe what you want to build in your own words. Gemini understands the files across your open Apps Script project, and you can create custom automations from scratch or keep chatting to add capabilities like automatic time-based triggers.
+
+- Review code changes block by block: Step through multi-block code suggestions directly in the editor and click Accept or Reject on individual blocks or click the global Accept All / Reject All suggestions before saving.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg62igLuzXKoib-jup7FuFTFCVj_MuqObbFgetBflT7rkPOmT3sJoffEVPiqwdCuyeisV8A1O8I7xdP9Fy5zBhwtiuUrdOHZJtpsy8_LKS_1T2aL3pc7w9OJUGUBGcXnABBzNT0PxXp9M0wi96lioljWA5zik-3MZIIHNKUGBS_Zikx831laUgZkQIFSZA/s1600/create%20custom%20function%20with%20Gemini%20in%20apps%20script.gif)
+
+Describe an automation or custom function in plain language or select a starter prompt, then review Gemini’s proposed script block by block directly in the editor.
+
+- Debug runtime errors in one click: If something doesn’t work as expected, click Fix errors directly inside the IDE Execution Log. Gemini diagnoses what went wrong, explains the issue in plain language, and suggests a ready-to-apply update.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3YM9Cud6Ma6B1ifiR-g9Z7XTHc4OFXWI1t0MGr-0_aFnGoZSmdcD0qcm3UAeCkQROyEb8B1i22U1SzuXpC18RZLJKCHiaQNjxyfdryMqJrOlknfrrcZaX0AX9Ahlb0SU2izetUh29GqwNfy2WONyrnwhan_qSLYOT5z_ac0tRaMzxqAD7h5ESJSoOMtc/s1600/fix%20errors%20with%20Gemini%20in%20apps%20script.gif)
+
+Click Fix errors in the Execution log to have Gemini explain what went wrong in plain language and insert a proposed fix.
+
+### Getting started
+
+- Admins: Gemini in the Apps Script IDE respects your existing Apps Script service settings (Apps > Google Workspace > Drive and Docs > Google Apps Script) and Workspace generative AI access controls in the Admin console. Admins can manage access by organizational unit or group, govern data access through OAuth app access controls and external URL allowlists, and monitor script activity in Drive and OAuth audit logs. Visit the Help Center to learn more about managing Apps Script for your organization.
+
+- End users: Open script.google.com, script.new, or click Extensions > Apps Script inside Google Sheets/Docs/Slides. The Gemini side panel opens automatically on new scripts, or can be opened anytime by clicking the Ask Gemini spark icon in the top right corner of the editor. Visit the Apps Script Developer Documentation to learn more.
+
+### Rollout pace
+
+- Rapid Release and Scheduled Release domains: Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) started 12th November 2026
+
+### Availability
+
+- Business: Business Standard and Plus
+
+- Enterprise: Enterprise Standard and Plus
+
+- Other Add-ons: AI Expanded Access
+
+- Education Add-ons: Google AI Pro for Education
+
+- Consumer: Google AI Pro and Ultra
+
+### Resources
+
+- Admin Help Center: Gemini in Workspace Help Center
+
+- Apps Script Developer Documentation
+
+- Gemini in Apps Script: Developer Documentation
+
+# Document 507: Share skills and add files from Google Drive, Gemini Notebook and Google Photos to your skills in the Gemini app
+Source URL: https://workspaceupdates.googleblog.com/2026/11/share-skills-add-files-from-Drive-Notebook-Photos-to-skills-Gemini-app.html
+Product area: gemini-apps
+
+We recently launched skills—reusable, custom instructions that guide Gemini—in the Gemini app, and we’re now introducing two additional capabilities:
+
+- Shareable skills: You can now share any skill from the “Skills” page in the Gemini app with others and choose to grant them View or Edit permissions. Recipients are notified by email and can review the skill before installing it. Once added, Gemini can use the skill automatically when it's relevant, or recipients can @mention it in a chat.
+- Add files from other Google apps: When you manually create or upload a skill, you can now include files from Google Drive, Gemini Notebook, and Google Photos alongside files from your device. Gemini can then reference these files every time the skill runs in chats and tasks. Drive files and Notebooks update in real time so your skill always works from the latest version.
+
+These capabilities unlock powerful new use cases. For example:
+
+- A marketing team can share a brand-voice skill that references their brand guidelines doc in Drive.
+- A team lead can share an onboarding skill grounded in the team handbook.
+- A teacher can share a lesson-planning skill built on a notebook containing their curriculum.
+
+A few things to know:
+
+- For now, you can only share skills and manage who has access to them in the Gemini app on the web; you can’t yet do so on the Gemini mobile app.
+- If a skill includes Drive files, you'll also need to share access to those files.
+- Uploaded files can’t exceed 100 MB per skill.
+
+## Getting started
+
+- Admins:
+
+- Skill sharing in the Gemini app is on by default for your organization but can be disabled in the Admin console. Visit the Help Center to learn more about turning skill sharing in the Gemini app on or off.
+- Skills in the Gemini app follow your organization's Google Drive sharing settings. If Drive files can be shared outside your organization, skills in the Gemini app can be shared externally as well. Visit the Help Center to learn more about managing external Drive sharing for your organization.
+- There are no admin controls for adding files to skills in the Gemini app.
+
+- End users: Visit the Help Center to learn more about creating, managing, and sharing skills in the Gemini app and recreating your Gems as skills in the Gemini app.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) started on November 12, 2026
+
+## Availability
+
+- Available to all Google Workspace customers and users with personal Google accounts
+
+## Resources
+
+- Gemini Apps Help: Create & manage skills for Gemini Apps
+- Google Workspace Admin Help: About the transition from Gems to skills
+- News from Google Blog: Let skills in Gemini tackle your most repetitive tasks
+- AI skills 101: Customizing AI from Google for your role
+- Education Guide: Gemini Gems and Skills Transition
+
+# Document 508: Gemini-powered data classification in Google Drive is now generally available
+Source URL: https://workspaceupdates.googleblog.com/2026/11/gemini-powered-data-classification-in-Google-Drive-is-now-generally-available.html
+Product area: drive
+
+Gemini-powered AI classification in Google Drive is now generally available. Following our open beta, administrators can now deploy natural-language classification instructions at scale with two new capabilities designed to provide admins a better understanding of automated data classification for their files:
+
+- Test your instructions: Before deploying the new instructions, admins can test and refine Gemini instructions directly in the Admin console to preview which label Gemini will apply to files.
+- Real-time reporting: Admins can monitor near real-time metrics on the files that AI classification has labeled. On the model details page, admins can view the number of labeled files, user acceptance for labels, and Drive inventory reporting.
+
+By automating file identification and labeling across Drive, AI classification helps organizations enforce granular data loss prevention (DLP) policies at scale, establish retention rules, and utilize label metadata during audit investigations. This also becomes a critical aspect in elevating an organization’s security posture in the agentic era, preventing agentic workflows from accessing and acting autonomously on sensitive data.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheSqVo0P1mJ3f1AUsWu_foTuxmg-H7PlV5GNPK9U-21ZLoY92Vso8cP9o3Qs-wCx45SNSSTyv7oQjV6HkhfNoRAWTs_69zwUrYS5NxI34SrvKdyuqAQ2Ks40wNgDWcIKNTrtCTiq8pV7Yb4c61ZOtE7PYdgusGSKLWz92WPLTi2HuCjkz277A-lSW-CrE/s1600/Gemini-powered%20data%20classification%20in%20Google%20Drive%20is%20now%20generally%20available%20%20-%206224%20-%201.gif)
+
+Test instructions before deployment
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZoy_IX5acWtsWzXslF9tbxMQP929V3nkNpU2slZB9JgZ9Ejf_Xw19-J22E841uzGVQ0s0RayR-2nWHnEU_KHxDKc8xKKf155bf1YGw5iKpviwmueXZWt3SdhPa1xRnWY0-q2eMDTxfUQa32POBeWeML8zPi8gJ5u-om06A7Rig94lSxJ5oMpHwaQ_E8/s1600/Gemini-powered%20data%20classification%20in%20Google%20Drive%20is%20now%20generally%20available%20%20-%206224%20-%202.jpeg)
+
+Real-time reporting on files AI classification has labeled
+
+Additional details
+
+This feature leverages Gemini models to apply data classification labels to files in Google Drive. Previously, AI classification required admins to identify and manually label training files for the AI model to learn the types of data associated with each data classification level. With this new capability, Gemini models offer admins an alternative method for data classification that is faster and more efficient, eliminating the need for manual model training and replacing it with administrator-defined instructions.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHM4cgvjM_XQU5v5bwgndUzNqc04mR9ZPaDa9OKx35iEIisOsgI_viFxYrcfT7T6_BATNteZ3WsEvklIfjaCohEdBlQ0dyON3Xnci3M8Td2PgzISh3sqGlVDDPb3MzEJ_i-K6204a3rw96MaewQttBp44wPkW5T1uRPpUAKVZxk4iguZ8QPbm7y5yYQYA/s1600/Gemini-powered%20data%20classification%20in%20Google%20Drive%20is%20now%20generally%20available%20%20-%206224%20-%203.gif)
+
+In the Admin console, Gemini models interpret instructions, evaluate files, and apply appropriate data classification labels.
+
+Administrators maintain full control of the Gemini-based data classification process. They select the label, provide Gemini with instructions, and scope the audience for the files being evaluated. For Gemini-labeled files, editors and owners of those files with the appropriate label permissions will have the opportunity to either review and accept, or modify the automatically-applied label. Audit logs capture when files are labeled, including any user acceptance or modification of a Gemini-applied label.
+
+Key capabilities and limits
+
+- Model limits: Organizations are limited to 1 active Gemini instruction model, however, they can create up to 5 AI classification models in total (combining custom-trained ML models and Gemini instruction models).
+- Eligible files and content: Files must be stored in Shared Drives or owned by users with supported licenses. Typically the Gemini model needs at least 50 words and 200 characters of readable or OCR-extracted text to yield a high quality verdict. Client-side encrypted files and non-text media without readable text are skipped.
+- Label eligibility and priority: Labels must use a published single-select options list or badge list field. Gemini classification will not overwrite labels manually applied, accepted, or modified by users, nor labels applied by data loss prevention (DLP) rules.
+- Automatic backfill: Enabling auto-apply initiates a one-time scan of existing and inactive files (typically starting within 1 to 2 weeks, though completion may take weeks or months depending on size and volume of files that need to be backfilled. When instructions are updated, they apply to future uploads and new content. On-demand rescanning of previously evaluated files is not included in this release.
+- Data regions & privacy: Gemini-based AI classification respects your Google Workspace Data Regions settings. Eligible Drive content is processed and stored within your designated region (US or Europe) based on the file owner or Shared Drive policy. Your Drive files and prompts remain isolated to your organization and are never used to train Google's global models.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Extended rollout (more than 15 days for feature visibility) starting on November 17, 2026. We expect the rollout to complete by December 15, 2026
+
+## Getting started
+
+- Admins: For customers on a supported product license, the option for configuring Gemini-based AI classification instructions will appear in the Workspace Admin Console under the Data Classification option in the Security section (Security > Access and data control > Data classification). Use our Help Center to learn more.
+- End users: There is no end user setting for this feature.
+
+## Availability
+
+- Enterprise: Enterprise Plus
+- Education: Google AI Pro for Education
+- Other Editions: Frontline Plus
+
+## Resources
+
+- Google Workspace Admin Help | Security & data protection: Label Google Drive files automatically using AI classification
+
+# Document 509: Transform your notes and research into dynamic tools with Gemini Notebook
+Source URL: https://workspaceupdates.googleblog.com/2026/11/transform-your-notes-and-research-into-dynamic-tools-with-Gemini-Notebook.html
+Product area: notebooklm
+
+Gemini Notebook can now turn sources into interactive sites to help you quickly make sense of complex information. To get started, users can simply type “make me a site” in the Gemini Notebook chat along with a description of what they want to build for work or study, then select “Open in a new tab” to interact with it, or share it with others. For example, students and professionals can build:
+
+- Visual explainers to help prepare for exams, like an interactive periodic table or a historical timeline
+- Interactive dashboards to explore data, such as quarterly sales performance
+- Project management trackers to outline tasks and deadlines
+
+This feature is available globally on the web for users who are 18 years and older, and coming soon to mobile users.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh12MjMGhri9mhX4PWQ30lWNetRUJE__Cgn5uT-pwiFwn7qSe2G2ndMrNG3MBARVQMYMKD0NnwnTvJXzD-4dWO8sJFuS0josjLrJhAeeM940cSPrf6u7olIv4wiekBcCNphOwhT4G6XFuxgWWRolDBkFN_6vEEeX5t_6nt47tTjpp6bnx-5eXSu0abXHfo/s1600/Transform%20your%20notes%20and%20research%20into%20dynamic%20tools%20with%20Gemini%20Notebook.png)
+
+## Getting started
+
+- Admins: There is no admin control for this feature. As an administrator of your organization's Google Accounts, you can control who can use Gemini Notebook. Visit the Help Center to learn more about turning Gemini Notebook on or off for users.
+- End users: There is no end user setting for this feature. Visit the Help Center to learn more.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on November 16, 2026
+
+## Availability
+
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts who are 18 years or older
+
+## Resources
+
+- Gemini Notebook Help: Generate sites in Gemini Notebook
+- News from Google: Transform notes, research, and sources into interactive sites with Gemini Notebook
+
+# Document 510: Make messages in Google Chat from apps and agents easier to read with tables and headings
+Source URL: https://workspaceupdates.googleblog.com/2026/11/make-messages-in-google-chat-from-apps-and-agents-easier-to-read-with-tables-and-headings.html
+Product area: chat-developers
+
+Agents and apps in Google Chat can now send messages formatted with tables and headings. Tables make it easy to compare options, share status trackers, and present data in rows and columns. Headings provide a way to separate long messages, like summaries, reports, and plans, into clear, scannable sections.
+
+Developers can add both through the Google Chat API using standard Markdown. Headings support three levels (#, ##, and ###). Text in tables and headings can use formatting like bold, italics, links, and emoji.
+
+Everyone in the conversation will see tables and headings when an app or agent sends them. On the web, tables appear in the message, and you can scroll to see wider tables. On Android and iOS, tap "Show table" to see the full table. Support for viewing tables directly in the message on Android and iOS will follow.
+
+Tables and headings can't be created in the Chat message compose box.
+
+## Getting started
+
+- Admins: There is no admin control for this feature.
+- End users: There is no end user setting for this feature.
+- Developers: Chat apps can send tables and headings using standard Markdown syntax through the Google Chat API. Visit the Google Chat API documentation to learn more.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Available now
+
+## Availability
+
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts
+
+## Resources
+
+- Google Chat API Developers: Format messages
+
+# Document 511: Google Meet on the web now supports sending 1080p video for all users, enabled by default
+Source URL: https://workspaceupdates.googleblog.com/2026/11/google-meet-on-web-now-supports-sending-1080p-video-for-all-users-enabled-by-default.html
+Product area: meet
+
+We’re expanding 1080p Full HD video sending in Google Meet on the web (previously limited to select paid editions) to all users. It is now enabled by default on computers with a 1080p camera and sufficient compute and bandwidth.
+
+Meet transmits 1080p only when a participant's video tile is large enough to display it, and automatically scales resolution down when CPU or bandwidth is constrained.
+
+## Getting started
+
+- Admins: The default video quality can be configured at the OU or group level in the Admin console, and existing bandwidth-limit settings remain applied. Visit the Help Center to learn more about configuring default video quality.
+- End users: 1080p will be ON by default under Auto on eligible computers (unless restricted by your admin) and can be changed anytime in Settings > Video. Visit the Help Center to learn more about improving your video and audio experience.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Extended rollout (potentially longer than 15 days for feature visibility) started on November 11, 2026
+
+## Availability
+
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts.
+
+## Resources
+
+- Google Workspace Admin Help: Configuring default video quality
+- Google Workspace Admin Help: Manage Meet settings (for admins)
+- Google Help: Improve your video & audio experience
+
+# Document 512: New study enhancements for Flashcards in Gemini Notebook
+Source URL: https://workspaceupdates.googleblog.com/2026/11/new-study-enhancements-for-flashcards-in-Gemini-Notebook.html
+Product area: notebooklm
+
+We introduced three updates to flashcards in Gemini Notebook to help users better retain information, measure recall speed, and maintain consistent review routines.
+
+- Images: Flashcards now automatically incorporate relevant images directly from uploaded source materials, providing visual context alongside text prompts to aid comprehension.
+- Built-in stopwatch: Users can enable a stopwatch while reviewing flashcards to track time during the session, making it easier to simulate timed exam conditions.
+- Mobile study reminders: Using the Gemini Notebook mobile app, users can schedule notifications reminding them to review previously generated flashcards, supporting structured study cadences.
+
+These capabilities help strengthen Gemini Notebook as an active learning and retention tool.
+
+For educational institutions and enterprise organizations, these enhancements offer students, educators, and training teams a more flexible environment to prepare for exams, internal certifications, and ongoing skill development.
+
+## Getting started
+
+- Admins: There is no admin control for this feature. Visit the Help Center to learn more about turning Gemini Notebook on or off for users.
+- End users: Visit the Help Center to learn more about generating Flashcards in Gemini Notebook.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Available now
+
+## Availability
+
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts
+
+## Resources
+
+- Google Workspace Admin Help: Turn Gemini Notebook on or off for users
+- Gemini Notebook Help: Generate Flashcards or Quizzes in Gemini Notebook
+
+# Document 513: Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies
+Source URL: https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html
+Product area: workspace-developers
+
+As AI agents transform how people work, we want to make it simple for developers to build agentic workflows while keeping organizations in control of their data in Google Workspace. We are making Workspace Model Context Protocol (MCP) servers and the official Workspace CLI generally available alongside standardized usage tiers to simplify how developers build and scale agents, paired with a new Workspace AI Tools Addendum and expanded enterprise controls over AI agents.
+
+## Simplifying and securing agent access with governed Workspace MCP servers and the Workspace CLI
+
+Developers now have two Google-managed ways to connect AI agents to Workspace without custom integration code:
+
+- Workspace MCP servers: Built on the open MCP standard, these Google-hosted servers let cloud and web-based AI agents securely connect to Workspace and call pre-built tools out of the box across Gmail, Google Drive, Docs, Sheets, Slides, Calendar, Chat, and Tasks (with Keep coming soon). Explore supported MCP capabilities.
+- Workspace CLI: A command-line interface that brings Workspace tools directly to local environments, including developer terminals, VMs, and containerized sandboxes, for terminal-based agents. It includes packaged agent skills, dynamic command discovery, and scoped sign-in to read and update Workspace data. Explore the Workspace CLI.
+
+Unlike traditional REST APIs, which are designed for deterministic app calls, both tools are purpose-built for dynamic agent workflows and provide:
+
+- Continuous improvements: Since Google fully manages these tools, agents that discover tools and schemas at runtime automatically benefit from ongoing improvements to context retrieval, credential setup, and tool accuracy.
+- Token efficiency: Rather than downloading raw data line by line via REST APIs, MCP tools return synthesized summaries within Workspace's boundary, and the CLI runs in the terminal, where agents can chain multiple tools. Both lower token costs and latency.
+- Streamlined security and compliance: Secure-by-default infrastructure with built-in user confirmations, audit logging, and admin controls helps streamline OAuth verification, Cloud Application Security Assessments, and enterprise security reviews without custom compliance work.
+
+## Standardizing the API usage tiers
+
+In May, we announced a standardized usage model for Workspace APIs and MCP servers to give large-scale and AI tool developers a simpler, more predictable way to access higher quota while keeping Workspace infrastructure reliable for our entire community of developers.
+
+Starting today, the Workspace APIs, including MCP servers and CLI, will have two usage tiers, starting with Gmail, Drive, and Calendar. Additional data access mechanisms will be updated similarly in the coming months.
+
+- Standard tier: No cost, with published usage quotas (rate limits).
+- Scaled tier: Designed for projects that need higher usage quota (rate limits).
+
+- Starting April 1, 2027, if you select the Scaled tier, you will be charged only for API or MCP usage above any daily free allowances. If no action is taken, your projects may be throttled to the published usage quotas.
+
+- MCP requirement: AI agents or similar access tools must use MCP to access Workspace data, rather than calling Workspace REST APIs directly. Technical enforcement begins on February 1, 2027. Follow these steps to use MCP, and select the Scaled tier if you need higher quotas for agentic use.
+
+Over 99% of active developers currently operate within the Standard tier and will continue to access these APIs at no additional cost. The same privacy, DLP, and data-protection standards apply across every tier.
+
+If you are a Google Cloud Support customer, Workspace APIs will be excluded from the support variable fee calculation until at least December 2027. Any changes will be communicated with at least 90 days' notice. To understand your options, see the Google Cloud Support packages.
+
+## Keeping organizations and users in control
+
+Making it easier for developers to connect agents to Workspace goes hand in hand with giving organizations clear oversight and control of their data. We are extending the same governance principles customers rely on across Workspace to AI agents, so admins and users can get practical control over agents that access their data:
+
+- Data-retention limits: Our new Workspace AI Tools Addendum prohibits using AI agents and other access tools for certain activities that could raise security risks, including storing certain data derived from use of Workspace APIs for extended periods of time, or using AI agents to scrape Workspace APIs.
+- Centralized access management: Requiring external AI agents to identify themselves in OAuth and connect through Workspace MCP servers allows admins to manage agent access in the admin console just like traditional apps.
+- Human-in-the-loop confirmations: Routine actions like creating a draft stay seamless, while admins can set rules that prompt users to confirm sensitive actions in third-party AI tools, such as reading external files or sharing data.
+- Automatic DLP and audit logging: Existing user-level Data Loss Prevention (DLP) rules apply automatically when someone uses an AI agent, and admin audit logs record agent actions and user confirmations for clear visibility.
+
+Over the coming months, we will roll out more granular agent policies and controls to give admins and users even finer oversight of their data.
+
+## Getting started
+
+- Admins
+
+- MCP servers, CLI, and API controls: Manage access for external AI tools, Workspace MCP servers, the Workspace CLI, and APIs; set human-in-the-loop (HITL) confirmation rules; and view agent audit logs in the Admin console under Security > API Controls. Visit the Help Center to learn more about managing access.
+- Internal-use projects: If a project is used only within your Workspace organization, administrators can mark the project as internal so higher limits remain included with your Workspace subscription. Learn more about internal-use projects.
+
+- Developers
+
+- Workspace MCP servers and CLI: Visit our configuration guides to start building with the Workspace MCP servers and Workspace CLI.
+- If you are building AI agents: Plan to switch from REST APIs to Workspace MCP servers for agentic access before February 1, 2027, when technical enforcement begins. Review our OAuth client documentation to select Use this client for an AI-powered agent (is_agentic) on OAuth 2.0 clients used by AI agents in the Google Cloud console (traditional non-agent features should use a separate OAuth client). Review the new Workspace AI Tools Addendum.
+- Check your API usage: Use the new Workspace API usage developer dashboard to view each project’s usage against the Standard rate limits along with estimated costs. If every project is under the limits, you do not need to take any action.
+- If a project exceeds the Standard tier limits, complete one of the following steps:
+
+- Projects used only within your Workspace organization: Ask your Workspace administrator to mark the project as internal.
+- All other projects: Ask your Cloud Billing Admin to link a billing account and switch the project to the Scaled tier.
+
+- Projects that already have higher usage limits need to take the same steps as above to maintain them.
+
+- If no action is taken before April 1, 2027, your project limits will automatically change to Standard tier rate limits, at no additional cost.
+- For AI agents, the MCP requirement above applies first, from February 1, 2027.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Rolling out to all in 2 weeks for the Workspace MCP servers (GA); the Google Workspace CLI (GA); Admin console agent access, human-in-the-loop (HITL), and audit log controls; the Workspace API usage developer dashboard; and Scaled tier selection.
+- MCP requirement for AI agents: Technical enforcement begins on February 1, 2027.
+- Usage limits and billing: Starting April 1, 2027, Scaled tier billing begins for the Gmail, Google Calendar, and Google Drive APIs and the Workspace MCP servers. Projects that still have higher usage limits and have not switched to the Scaled tier or been marked as internal move to Standard tier limits. Google Cloud Billing Admins and Project Owners with affected projects will receive an email with project-specific details and next steps.
+
+## Availability
+
+- Available to all Google Workspace customers and developers.
+
+## Resources
+
+- Google Workspace Admin Help: Control which third-party & internal apps access Google Workspace data
+- Google Workspace Updates Blog: Agent tools and security updates for Google Workspace developers
+- Workspace Blog: 10 more announcements from Google Workspace at Cloud Next ’26
+- Google Workspace Developer Guide for MCP: Configure the Google Workspace MCP servers
+- Google Workspace Developer Guide for CLI: Use the Google Workspace command-line tool
+- Google Workspace Developer Documentation: Google Workspace standardized model for agent tools and APIs
+- Google Workspace Developer Site

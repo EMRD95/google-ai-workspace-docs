@@ -13,8 +13,8 @@ This repository intentionally keeps the public structure minimal: no documentati
 
 `llms-full.txt` contains:
 
-- 501 official source documents
-- 501 preserved source URLs
+- 513 official source documents
+- 513 preserved source URLs
 - original document titles
 - product / coverage area metadata
 - extracted source content only
@@ -68,7 +68,7 @@ The corpus currently includes pages from these source bases:
 | `https://support.google.com/calendar` | 5 |
 | `https://support.google.com/photos` | 5 |
 | `https://blog.google` | 20 |
-| `https://workspaceupdates.googleblog.com` | 6 |
+| `https://workspaceupdates.googleblog.com` | 18 |
 | `https://support.google.com/android` | 3 |
 | `https://support.google.com/g` | 1 |
 | `https://support.google.com/keep` | 3 |
@@ -85,28 +85,28 @@ The corpus currently includes pages from these source bases:
 | Theme | Pages |
 |---|--:|
 | `workspace-site` | 167 |
-| `workspace-studio` | 29 |
-| `chat-developers` | 26 |
-| `chat` | 20 |
-| `gemini-apps` | 25 |
-| `google-vids` | 19 |
-| `notebooklm` | 21 |
+| `workspace-studio` | 30 |
+| `chat-developers` | 27 |
+| `chat` | 21 |
+| `gemini-apps` | 26 |
+| `google-vids` | 20 |
+| `notebooklm` | 23 |
 | `admin-console` | 20 |
 | `workspace-learning-center` | 14 |
 | `chrome-ai` | 15 |
-| `apps-script-ai` | 11 |
+| `apps-script-ai` | 12 |
 | `gmail` | 10 |
 | `youtube-ai` | 10 |
 | `appsheet` | 9 |
 | `sheets` | 10 |
-| `drive` | 8 |
+| `drive` | 9 |
 | `search-ai` | 8 |
 | `docs-editors` | 7 |
-| `meet` | 7 |
-| `workspace-developers` | 7 |
+| `meet` | 8 |
+| `workspace-developers` | 8 |
 | `slides` | 6 |
 | `calendar` | 5 |
-| `forms` | 5 |
+| `forms` | 6 |
 | `looker-studio` | 5 |
 | `photos-ai` | 5 |
 | `workspace-studio-admin` | 5 |
@@ -133,8 +133,8 @@ Regular maintenance should:
 - preserve the flat repository layout
 - update `llms-full.txt` and this README together
 
-Last corpus update: 2026-08-21.
-Last maintenance check: 2026-11-24.
+Last corpus update: 2026-11-25.
+Last maintenance check: 2026-11-25.
 
 ## Usage
 
