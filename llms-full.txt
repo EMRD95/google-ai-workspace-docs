@@ -82454,3 +82454,31 @@ Over the coming months, we will roll out more granular agent policies and contro
 - Google Workspace Developer Guide for CLI: Use the Google Workspace command-line tool
 - Google Workspace Developer Documentation: Google Workspace standardized model for agent tools and APIs
 - Google Workspace Developer Site
+
+# Document 514: Rooms "More actions" Panel Reordering
+Source URL: https://workspaceupdates.googleblog.com/2026/11/rooms-more-actions-panel-reordering.html
+Product area: meet
+
+Starting on December 02, 2026, we are updating the order of options within the "More actions" panel on Google Meet hardware touch controllers. This update introduces improvements based on usage patterns and user feedback, prioritizing high-frequency actions so room participants can access essential controls faster and with less scrolling.
+
+Key adjustments in the panel include:
+
+- Moving frequently used controls such as Present, Adjust view, and People higher in the menu for direct access from the side panel on most touch controllers.
+- Retaining primary in-room actions, including Chat at the top and Control camera near the front of the list, while demoting lower-frequency tools like Recording or Streaming to streamline the menu.
+- When relevant, elevating custom room controls in spaces configured for presentations or specialized events to make meeting room management more efficient.
+
+This change requires no additional configuration or action. End users will automatically see the refreshed menu order across supported Google Meet hardware touch devices, creating a more intuitive and consistent in-room meeting experience.
+
+## Getting started
+
+- Admins: This feature will be ON by default and cannot be disabled.
+- End users: No action is required. This update will automatically appear on supported devices.
+
+## Rollout pace
+
+- Early Preview devices: Gradual rollout (up to 7 days for feature visibility) starting on December 2, 2026
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on December 11, 2026
+
+## Availability
+
+- Available to all Google Workspace customers with Google Meet hardware devices
