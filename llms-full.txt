@@ -82482,3 +82482,106 @@ This change requires no additional configuration or action. End users will autom
 ## Availability
 
 - Available to all Google Workspace customers with Google Meet hardware devices
+
+# Document 515: Expanding Gemini in Gmail to more Google Workspace users
+Source URL: https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html
+Product area: gmail
+
+We’re expanding the availability of some Gemini in Gmail features to more Google Workspace users aged 18 and older. Previously available to consumer accounts and specific Workspace editions, these tools are now being brought to the core Workspace experience by expanding availability to all Workspace users 18 years and older to help users with a school or work account manage their communications more efficiently.
+
+Specifically, eligible users will now have access to:
+- AI Overview conversation summaries: AI Overview at the top of long email threads synthesize key points and replies in the conversation.
+- Help me write (non-personalized): Generate complete email drafts or refine existing text based on simple prompts, such as "Draft a professional follow-up and thank-you for the interview.
+
+Managing an overflowing inbox and composing refined replies can be a significant hurdle for educators, students, and professionals. These features act as an intelligent assistant, removing the friction of manual sorting and drafting.
+
+## Getting started
+
+- Admins: As an admin, you can choose to disable Gemini features in Gmail. Visit the Help Center to learn more about managing access to Gemini features in Workspace services.
+- End users: These features will be ON by default and can be disabled by the user. Visit the Help Center to learn more about drafting emails with Gemini in Gmail and catching up on email threads with AI Overview conversation summaries
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Gradual rollout (up to 15 days for feature visibility) starting on November 10, 2026
+
+## Availability
+
+- Available to all Google Workspace customers, Workspace Individual subscribers, and users with personal Google accounts who are 18 years or older and have smart features in Gmail enabled.
+
+## Resources
+
+- Google Workspace Admin Help: Manage access to Gemini features in Workspace services
+- Keyword: Gmail is entering the Gemini era
+- Google Help: Learn about smart features & controls for Google Workspace & other Google products
+- Google Help: Draft emails with Gemini in Gmail
+
+# Document 516: Starter prompts and descriptions for Google Chat apps and agents
+Source URL: https://workspaceupdates.googleblog.com/2026/11/starter-prompts-and-descriptions-for-Google-Chat-apps-and-agents.html
+Product area: chat-developers
+
+Developers can now add starter prompts and descriptions to their Google Chat apps, helping users understand what an app or AI agent can do from their very first conversation. When a user opens a direct message with a Chat app, they’ll see the app’s description and up to three suggested prompts to help them get started. Both features can be set up in the Google Cloud console without writing any code.
+
+Developers can choose between two types of starter prompts:
+- Text prompts: Clicking the prompt sends the message to the app or agent.
+- Command prompts: Clicking the prompt runs one of the app's existing slash commands or quick commands.
+
+Prompts can also be localized, so users see them in their preferred language.
+
+App descriptions give users context about what an app does, who it’s for, and how to use it. For example, an IT help desk agent could describe the types of requests it handles and offer starter prompts like “Reset my password” or “Check ticket status.”
+
+Starter prompts and app descriptions also work with agent sessions, which are now in developer preview. For agents with sessions turned on, users see the app’s description and starter prompts on the sessions home page when they start a new conversation. Visit the developer documentation to learn more about organizing conversations into sessions.
+
+## Getting started
+
+- Admins: There is no admin control for this feature.
+- End users: There is no end-user setting for this feature. Starter prompts and app descriptions appear in Chat apps whose developers have set them up.
+- Developers: Starter prompts and app descriptions can be configured on the Chat API configuration page in the Google Cloud console. Visit the Google Chat API documentation to learn more about configuring starter prompts.
+
+## Rollout pace
+
+- Rapid Release and Scheduled Release domains: Full rollout (1–3 days for feature visibility) starting on November 16, 2026
+
+## Availability
+
+- Available to all Google Workspace customers and Workspace Individual subscribers
+
+## Resources
+
+- Google Chat API Developers: Configure starter prompts
+- Google Chat API Developers: Organize conversations into sessions
+
+# Document 517: Google Vids now lets you reuse your media in video generation
+Source URL: https://workspaceupdates.googleblog.com/2026/11/google-vids-now-lets-you-reuse-your-media-in-video-generation.html
+Product area: google-vids
+
+When generating videos with Gemini Omni in Google Vids, your media is now stored in a new “Assets” section, letting you easily reuse media for future video generations within the same project.
+
+The Assets section supports a variety of multimedia formats across images, videos, and audio, and is integrated directly into the AI video generation experience for quick access.
+
+## Getting started
+
+- Admins: There is no admin control for this feature.
+- End users: This feature will be available by default. There is no end user setting for this feature. Visit the Help Center to learn more about how to store & reuse media files in Google Vids.
+
+## Rollout pace
+
+- Rapid Release domains: Gradual rollout (up to 15 days for feature visibility) starting on Tuesday, November 17, 2026
+- Scheduled Release domains: Full rollout (1–3 days for feature visibility) starting on Wednesday, December 2, 2026
+
+## Availability
+
+- Business: Business Starter, Standard, and Plus
+- Enterprise: Enterprise Starter, Standard, and Plus
+- Education: Education Standard, Fundamentals, Plus
+- Consumer: Users with personal Google accounts; Google AI Pro and Ultra
+- Other Editions: Essentials, Enterprise Essentials and Enterprise Essentials Plus; Frontline; Nonprofits; Individual
+- Education Add-ons: Google AI Pro for Education; Teaching and Learning
+- Other Add-ons: AI Expanded Access*
+
+*Users with AI Expanded Access add-on licenses have higher usage limits for Omni in Vids.
+
+## Resources
+
+- Google Vids AI Limits: Learn about availability of AI features
+- Google Vids Help: Store & reuse media files in Google Vids
+- Google Vids Help: Use AI to generate video clips
