@@ -1,8 +1,8 @@
 # Google AI Workspace Documentation Archive — llms-full.txt
 
 Generated at: 2026-07-31T00:00:00Z
-Total raw official source documents: 480
-Total coverage areas: 34
+Total raw official source documents: 519
+Total coverage areas: 36
 
 This file concatenates all raw official extracted documents from `docs/*.md` into one LLM-ingestion file.
 No synthetic documentation is added. Each section preserves source URL, product area, and original file path.
@@ -10,508 +10,564 @@ No synthetic documentation is added. Each section preserves source URL, product 
 
 ## Coverage index
 
-- workspace-site: 166 document(s)
-- workspace-studio: 29 document(s)
-- chat-developers: 26 document(s)
-- chat: 18 document(s)
-- gemini-apps: 23 document(s)
-- google-vids: 18 document(s)
-- notebooklm: 20 document(s)
-- admin-console: 17 document(s)
+- workspace-site: 167 document(s)
+- workspace-studio: 30 document(s)
+- chat-developers: 28 document(s)
+- gemini-apps: 26 document(s)
+- notebooklm: 23 document(s)
+- chat: 21 document(s)
+- google-vids: 21 document(s)
+- admin-console: 20 document(s)
+- chrome-ai: 15 document(s)
 - workspace-learning-center: 14 document(s)
-- chrome-ai: 13 document(s)
-- apps-script-ai: 11 document(s)
-- gmail: 10 document(s)
+- apps-script-ai: 12 document(s)
+- gmail: 11 document(s)
+- sheets: 10 document(s)
 - youtube-ai: 10 document(s)
 - appsheet: 9 document(s)
-- sheets: 9 document(s)
-- drive: 8 document(s)
+- drive: 9 document(s)
+- meet: 9 document(s)
 - search-ai: 8 document(s)
+- workspace-developers: 8 document(s)
 - docs-editors: 7 document(s)
-- meet: 7 document(s)
-- workspace-developers: 7 document(s)
+- forms: 6 document(s)
 - slides: 6 document(s)
 - calendar: 5 document(s)
-- forms: 5 document(s)
+- gemini-models: 5 document(s)
 - looker-studio: 5 document(s)
 - photos-ai: 5 document(s)
 - workspace-studio-admin: 5 document(s)
+- google-ai: 4 document(s)
+- maps-ai: 4 document(s)
 - android-ai: 3 document(s)
 - external_drawio: 3 document(s)
+- gemini-enterprise: 3 document(s)
 - keep: 3 document(s)
-- maps-ai: 3 document(s)
 - chrome-enterprise-ai: 2 document(s)
 - ai-studio: 1 document(s)
-- gemini-enterprise: 1 document(s)
-- google-ai: 1 document(s)
 - workspace-meet: 1 document(s)
 
 ## Source index
 
-1. [workspace-site] 3 ways Gen AI will impact the way we work this year — https://workspace.google.com/blog/ai-and-machine-learning/3-ways-gen-ai-will-impact-way-we-work?hl=en
-2. [workspace-site] 5 ways Gemini for Workspace keeps sellers and marketers customer-focused and in sync — https://workspace.google.com/blog/ai-and-machine-learning/5-ways-gemini-workspace-keeps-sellers-and-marketers-customer-focused-and-in-sync?hl=en
-3. [workspace-site] 5 ways to unlock a culture of experimentation with gen AI — https://workspace.google.com/blog/ai-and-machine-learning/5-ways-to-unlock-a-culture-of-experimentation-with-gen-ai?hl=en
-4. [workspace-site] A practical guide for using AI in your everyday work — https://workspace.google.com/learning/content/google-workspace-guide-for-using-ai-at-work?hl=en
-5. [workspace-studio] Access to Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16782648
-6. [workspace-studio] Access Workspace Studio from Gmail & Chat - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765741
-7. [looker-studio] Add Data Studio content to your Google Slides presentation using Gemini assistance  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/add-looker-studio-slides-gemini
-8. [workspace-developers] Add-ons overview Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/overview?hl=en
+1. [workspace-site] 10 more announcements for Workspace at Google Cloud Next 2026 — https://workspace.google.com/blog/product-announcements/10-more-announcements-workspace-at-next-2026
+2. [workspace-site] 3 ways Gen AI will impact the way we work this year — https://workspace.google.com/blog/ai-and-machine-learning/3-ways-gen-ai-will-impact-way-we-work?hl=en
+3. [workspace-site] 5 ways Gemini for Workspace keeps sellers and marketers customer-focused and in sync — https://workspace.google.com/blog/ai-and-machine-learning/5-ways-gemini-workspace-keeps-sellers-and-marketers-customer-focused-and-in-sync?hl=en
+4. [workspace-site] 5 ways to unlock a culture of experimentation with gen AI — https://workspace.google.com/blog/ai-and-machine-learning/5-ways-to-unlock-a-culture-of-experimentation-with-gen-ai?hl=en
+5. [workspace-site] A practical guide for using AI in your everyday work — https://workspace.google.com/learning/content/google-workspace-guide-for-using-ai-at-work?hl=en
+6. [workspace-studio] Access to Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16782648
+7. [workspace-studio] Access Workspace Studio from Gmail & Chat - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765741
+8. [looker-studio] Add Data Studio content to your Google Slides presentation using Gemini assistance  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/add-looker-studio-slides-gemini
 9. [notebooklm] Add or discover new sources for your notebook - Computer - NotebookLM Help — https://support.google.com/notebooklm/answer/16215270?hl=en
-10. [apps-script-ai] AddOns manifest resource  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/manifest/addons
-11. [apps-script-ai] Advanced Chat Service  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/advanced/chat
-12. [apps-script-ai] Advanced Google services  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/guides/services/advanced
-13. [workspace-site] AI and Machine Learning — https://workspace.google.com/blog/ai-and-machine-learning?hl=en
-14. [google-vids] AI Avatars for Business with Google Vids | Google Workspace — https://workspace.google.com/products/vids/ai-avatars/
-15. [workspace-site] AI consulting firm Devoteam rolls out 4,000 Gemini for Workspace licenses across all business units — https://workspace.google.com/blog/customer-stories/devoteam-rolls-out-4000-gemini-workspace-licenses?hl=en
-16. [workspace-site] AI for email marketing — https://workspace.google.com/resources/ai-email-marketing?hl=en
-17. [workspace-site] AI for email marketing — https://workspace.google.com/intl/en_uk/resources/ai-email-marketing?hl=en
+10. [workspace-developers] Add-ons overview Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/overview?hl=en
+11. [apps-script-ai] AddOns manifest resource  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/manifest/addons
+12. [apps-script-ai] Advanced Chat Service  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/advanced/chat
+13. [apps-script-ai] Advanced Google services  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/guides/services/advanced
+14. [workspace-site] AI and Machine Learning — https://workspace.google.com/blog/ai-and-machine-learning?hl=en
+15. [google-vids] AI Avatars for Business with Google Vids | Google Workspace — https://workspace.google.com/products/vids/ai-avatars/
+16. [workspace-site] AI Boost Bootcamp 201 for Marketing Teams — https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-by-role-introducing-ai-boost-bootcamp-201-for-marketing
+17. [workspace-site] AI consulting firm Devoteam rolls out 4,000 Gemini for Workspace licenses across all business units — https://workspace.google.com/blog/customer-stories/devoteam-rolls-out-4000-gemini-workspace-licenses?hl=en
 18. [workspace-site] AI for email marketing — https://workspace.google.com/intl/en_ca/resources/ai-email-marketing?hl=en
-19. [workspace-site] AI for project management — https://workspace.google.com/intl/en_ca/solutions/ai/project-management?hl=en
-20. [workspace-site] AI for project management — https://workspace.google.com/intl/en_uk/solutions/ai/project-management?hl=en
-21. [workspace-site] AI for project management — https://workspace.google.com/solutions/ai/project-management?hl=en
-22. [workspace-site] AI for small business — https://workspace.google.com/intl/en_uk/resources/ai-for-small-business?hl=en
-23. [workspace-site] AI for small business — https://workspace.google.com/resources/ai-for-small-business?hl=en
-24. [search-ai] “AI Mode” in Search Labs - Computer - Google Search Help — https://support.google.com/websearch/answer/16296315
-25. [workspace-site] AI note taking — https://workspace.google.com/intl/en_ca/solutions/ai/ai-note-taking?hl=en
-26. [workspace-site] AI note-taking — https://workspace.google.com/intl/en_uk/solutions/ai/ai-note-taking?hl=en
+19. [workspace-site] AI for email marketing — https://workspace.google.com/intl/en_uk/resources/ai-email-marketing?hl=en
+20. [workspace-site] AI for email marketing — https://workspace.google.com/resources/ai-email-marketing?hl=en
+21. [workspace-site] AI for project management — https://workspace.google.com/intl/en_ca/solutions/ai/project-management?hl=en
+22. [workspace-site] AI for project management — https://workspace.google.com/intl/en_uk/solutions/ai/project-management?hl=en
+23. [workspace-site] AI for project management — https://workspace.google.com/solutions/ai/project-management?hl=en
+24. [workspace-site] AI for small business — https://workspace.google.com/intl/en_uk/resources/ai-for-small-business?hl=en
+25. [workspace-site] AI for small business — https://workspace.google.com/resources/ai-for-small-business?hl=en
+26. [workspace-site] AI note taking — https://workspace.google.com/intl/en_ca/solutions/ai/ai-note-taking?hl=en
 27. [workspace-site] AI note taking — https://workspace.google.com/solutions/ai/ai-note-taking?hl=en
-28. [google-vids] AI-powered video creation for work — https://workspace.google.com/products/vids?hl=en
-29. [google-vids] AI-powered video creation for work — https://workspace.google.com/intl/en_ca/products/vids?hl=en
-30. [google-vids] AI-powered video creation for work — https://workspace.google.com/intl/en_uk/products/vids?hl=en
-31. [google-vids] AI Text to Video Generator: Create Videos with Google Vids & Veo 3 | Google Workspace — https://workspace.google.com/resources/text-to-video/
-32. [workspace-site] AI tools for a better way to work — https://workspace.google.com/intl/en_uk/solutions/ai?hl=en
-33. [workspace-site] AI tools for a better way to work — https://workspace.google.com/intl/en_ca/solutions/ai?hl=en
-34. [workspace-site] AI tools for a better way to work — https://workspace.google.com/solutions/ai?hl=en
-35. [workspace-site] AI tools for writing — https://workspace.google.com/intl/en_ca/resources/ai-writing?hl=en
-36. [workspace-site] AI tools for writing — https://workspace.google.com/resources/ai-writing?hl=en
-37. [workspace-site] AI tools for writing — https://workspace.google.com/intl/en_uk/resources/ai-writing?hl=en
-38. [admin-console] AI Ultra Access  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/ai-ultra-access
-39. [workspace-site] All of our Beyond the prompt series in one place — https://workspace.google.com/blog/ai-and-machine-learning/all-our-beyond-prompt-series-in-one-place?hl=en
-40. [workspace-studio-admin] Allow or block Gemini for Google Workspace steps  |  Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/allow-or-block-gemini-for-ws-steps
-41. [workspace-studio-admin] Allow or block Workspace service–specific steps  |  Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/allow-or-block-ws-service-specific-steps
-42. [chat-developers] Answer questions based on Chat conversations with a Gemini AI Chat app  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-ai-knowledge-assistant
-43. [workspace-site] APAC Landing Page GWS Prompt Guide 101 | Google Workspace — https://workspace.google.com/learning/resources/apac-gws-prompt-guide-101
-44. [chrome-ai] Ask Gemini in Chrome to complete tasks for you with auto browse - Google Chrome Help — https://support.google.com/chrome/answer/16821166
-45. [meet] Ask Gemini in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/16024610?hl=en
-46. [maps-ai] Ask questions in Google Maps - Computer - Google Maps Help — https://support.google.com/maps/answer/16842041
-47. [workspace-site] Attache: Transforming the menial into the magical with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/attache-transforming-menial-magical-gemini-google-workspace?hl=en
-48. [chat-developers] Authenticate and authorize Chat apps and Google Chat API requests  |  Google for Developers — https://developers.google.com/workspace/chat/authenticate-authorize
-49. [chat-developers] Authenticate as a Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/authenticate-authorize-chat-app
-50. [appsheet] Best practices for using AI in automations - AppSheet Help — https://support.google.com/appsheet/answer/16052759?hl=en
-51. [workspace-site] Better meetings, greater impact: How effective teams move work forward with Gemini — https://workspace.google.com/learning/resources/better-meeings-greater-impact-gemini-webinar?hl=en
-52. [workspace-site] Beyond AI Optimism — https://workspace.google.com/learning/report/content/beyond-ai-optimism?hl=en
-53. [workspace-site] Beyond the Prompt: ATB Financial’s 5 tips to drive Workspace with Gemini adoption — https://workspace.google.com/blog/customer-stories/atb-financial-5-tips-to-drive-workspace-gemini-adoption?hl=en
-54. [workspace-site] Beyond the prompt: How to create a Google Guides program to drive adoption of Workspace with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-google-guides-program-to-drive-adoption-workspace-gemini?hl=en
-55. [workspace-site] Beyond the prompt: How to measure the value Gemini brings to your company — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-measure-value-gemini-brings-your-company?hl=en
-56. [workspace-site] Beyond the prompt: How Understood.org uses Gemini to reduce stress and save 10 hours per project — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-understood-uses-gemini-reduce-stress-and-save-10-hours-project?hl=en
-57. [workspace-site] Beyond the prompt: Part 11 — How Gemini helps me go from a blank page to being a confident storyteller — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-gemini-helps-me-be-a-confident-storyteller?hl=en
-58. [workspace-site] Beyond the prompt: Part 12 — How five marketers at Google use Gemini to transform the way they work — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-12-how-five-marketers-use-gemini-transform-how-they-work?hl=en
-59. [workspace-site] Beyond the prompt: Part 13 — Google customer engineer, Pooja Jain, shares how she uses Gemini to unlock new capabilities — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-13-five-key-principles-to-enhance-prompts?hl=en
-60. [workspace-site] Beyond the prompt: Part 14 — How four Googlers in Sales use Gemini to drive results — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-14-how-four-googlers-in-sales-use-gemini?hl=en
-61. [workspace-site] Beyond the prompt: Part 2 - 4 tips to boost your collaboration with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-4-tips-boost-collaboration-gemini?hl=en
-62. [workspace-site] Beyond the prompt: Part 4 — Using Gemini for Workspace as your sales research assistant — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-4-using-gemini-workspace-your-sales-research-assistant?hl=en
-63. [workspace-site] Beyond the prompt: Part 5 — How marketers can conquer the blank page using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-5-marketers-conquer-blank-page?hl=en
-64. [workspace-site] Beyond the prompt: Part 6 — How to standardize and personalize customer service responses using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-6-personalize-customer-service-responses?hl=en
-65. [workspace-site] Beyond the prompt: Part 7 — Googler Serge Lachapelle shares his lightbulb generative AI moments — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-7-googler-serge-lachapelle-shares-his-lightbulb-generative-ai-moments?hl=en
-66. [workspace-site] Beyond the prompt: Part 8 — How entrepreneurs can run competitive analysis with Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-8-how-entrepreneurs-can-run-competitive-analysis-gemini-workspace?hl=en
-67. [workspace-site] Beyond the prompt: Part 9 — Googler Tony Majewski shares how he saves 8-10 hours a week and reduces burnout using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-9-googler-shares-how-he-saves-time-and-reduces-burnout-using-gemini-workspace?hl=en
-68. [workspace-site] Beyond the prompt: Question your way to better prompting — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-question-your-way-better-prompting?hl=en
-69. [workspace-site] Beyond the prompt: Resources to get started with Workspace with Gemini today — https://workspace.google.com/blog/ai-and-machine-learning/beyond-the-prompt-resources-gemini?hl=en
-70. [workspace-site] Beyond the prompt round-up: Our series on getting the best out of generative AI — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-round-our-series-getting-best-out-generative-ai?hl=en
-71. [workspace-site] Block ransomware proliferation and easily restore files with AI in Google Drive — https://workspace.google.com/blog/product-announcements/ai-ransomware-detection-in-google-drive?hl=en
-72. [chat-developers] Build a Dialogflow CX Google Chat app that understands and responds with natural language  |  Google for Developers — https://developers.google.com/workspace/chat/build-dialogflow-chat-app-natural-language
-73. [chat-developers] Build a Google Chat app as a webhook  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/webhooks
-74. [chat-developers] Build a Google Chat app behind a firewall with Pub/Sub  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/pub-sub
-75. [chat] Build a Google Chat app with a Gemini Enterprise AI agent Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/chat/quickstart-ge-agent?hl=en
-76. [apps-script-ai] Build a Google Chat app with Google Apps Script  |  Google for Developers — https://developers.google.com/apps-script/quickstart/chat-app
-77. [chat-developers] Build a Google Chat app with Google Apps Script  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/apps-script-app
-78. [chat-developers] Build an HTTP Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/gcf-app
-79. [chat-developers] Build an interactive Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/interact-users-overview
-80. [sheets] Build or edit entire spreadsheets with Gemini in Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/16959434?hl=en-GB
-81. [workspace-developers] Build with AI for Google Workspace Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/guides/ai-overview?hl=en
-82. [workspace-site] Building a foundation for the agentic AI era — https://workspace.google.com/blog/ai-and-machine-learning/building-a-foundation-for-the-agentic-ai-era?hl=en
-83. [meet] Calendar & Meet settings for \"take notes for me\" - Google Meet Help — https://support.google.com/meet/answer/16909639
-84. [chat] Chat apps built by Google - Google Chat Help — https://support.google.com/chat/answer/9649420
-85. [chat-developers] Choose a Google Chat app architecture  |  Google for Developers — https://developers.google.com/workspace/chat/structure
-86. [chrome-enterprise-ai] Chrome—Generative AI features and policies - Chrome Enterprise and Education Help — https://support.google.com/chrome/a/answer/14443058
-87. [apps-script-ai] Class ChatActionResponse  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-action-response
-88. [apps-script-ai] Class ChatResponse  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-response
-89. [apps-script-ai] Class ChatSpaceDataSource  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-space-data-source
-90. [gmail] Collaborate with Gemini in Gmail - Computer - Gmail Help — https://support.google.com/mail/answer/14355636?hl=en
-91. [gmail] Collaborate with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/14199860
-92. [chat] Collaborate with Gemini in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/15345722?hl=en
-93. [chat] Collaborate with Gemini in Google Chat (Workspace Experiments) - Computer - Google Chat Help — https://support.google.com/chat/answer/15395284
-94. [docs-editors] Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help — https://support.google.com/docs/answer/14206696?hl=en
-95. [drive] Collaborate with Gemini in Google Drive (Workspace Experiments) - Computer - Google Drive Help — https://support.google.com/drive/answer/14217860?hl=en
-96. [sheets] Collaborate with Gemini in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/14356410?hl=en
-97. [sheets] Collaborate with Gemini in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/14218565?hl=en
-98. [slides] Collaborate with Gemini in Google Slides - Computer - Google Docs Editors Help — https://support.google.com/docs/answer/14355071?hl=en
-99. [slides] Collaborate with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/14207419?hl=en
-100. [slides] Collaborate with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/14355406?hl=en
-101. [admin-console] Compare Google AI expansion add‑ons  |  Getting started  |  Google Workspace Help — https://support.google.com/a/answer/14700766?hl=en
-102. [chat-developers] Configure the Chat MCP server  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/guides/configure-mcp-server
-103. [workspace-studio] Connect flows to other services with webhooks - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16521900
-104. [gemini-apps] Connect the Google Workspace app to Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/15229592
-105. [admin-console] Control Gemini App access to Workspace services  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/turn-google-apps-in-gemini-on-or-off
-106. [looker-studio] Converse with Data Studio data  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-analytics-looker-studio
-107. [workspace-studio] Create a flow from scratch - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16447954?hl=en
-108. [workspace-studio] Create a flow with Gemini AI - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16448469?hl=en
-109. [forms] Create a form with Gemini in Google Forms - Google Docs Editors Help — https://support.google.com/docs/answer/16346789?hl=en
-110. [forms] Create a form with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15259015
-111. [keep] Create a list with AI in Google Keep - Google Keep Help — https://support.google.com/keep/answer/14626262?hl=en
-112. [keep] Create a list with Gemini in Google Keep - Google Keep Help — https://support.google.com/keep/answer/15222789?hl=en
-113. [notebooklm] Create a notebook in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16206563?hl=en
-114. [workspace-studio] Create and use custom steps in flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16433731?hl=en
-115. [appsheet] Create apps using Gemini for App Creation - AppSheet Help — https://support.google.com/appsheet/answer/14699210?hl=en
-116. [meet] Create background images with Gemini in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/13954947?hl=en
-117. [looker-studio] Create calculated fields with Gemini assistance  |  Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/create-calculated-fields-gemini
-118. [youtube-ai] Create content for Shorts using AI-generated features - YouTube Help — https://support.google.com/youtube/answer/15260303
-119. [drive] Create Content, Images & Audio Overviews with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16685527
-120. [gemini-apps] Create docs, apps & more with Canvas - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/16047321
-121. [gemini-apps] Create & manage AI mini-apps or custom workflows as Gems from Google Labs - Gemini Apps Help — https://support.google.com/gemini/answer/16802014?hl=en
-122. [docs-editors] Create personalized documents with Gemini in Google Docs - Google Docs Editors Help — https://support.google.com/docs/answer/15541387?hl=en
-123. [youtube-ai] Create, use & manage your avatar on YouTube - YouTube Help — https://support.google.com/youtube/answer/16985237
-124. [google-vids] Create voiceovers with AI in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15070345
-125. [youtube-ai] Create with AI in the YouTube Create app - YouTube Help — https://support.google.com/youtube/answer/16631240
-126. [external_drawio] Customise LLM backends for diagram generation in draw.io — https://www.drawio.com/doc/faq/configure-ai-options
-127. [chrome-ai] Customize Chrome themes with AI - Google Chrome Help — https://support.google.com/chrome/answer/14516713
-128. [chrome-ai] Customize your Gemini in Chrome experience - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16988996
-129. [looker-studio] Data agents in Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-data-agents?hl=en
-130. [chat-developers] Develop with Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/overview
-131. [youtube-ai] Disclosing use of GenAI content - Computer - YouTube Help — https://support.google.com/youtube/answer/14328491
-132. [workspace-site] Docusign rapidly scales its AI strategy by enabling its global workforce with Gemini — https://workspace.google.com/blog/customer-stories/docusign-rapidly-scales-its-ai-strategy-by-enabling-its-global-workforce-with-gemini?hl=en
-133. [gmail] Draft emails with Gemini in Gmail - Computer - Gmail Help — https://support.google.com/mail/answer/13955415?hl=en
-134. [gmail] Draft emails with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/13384326
-135. [workspace-site] Duet AI for Google Workspace Enterprise — now available for preorder — https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder?hl=en
-136. [google-vids] Edit videos stored in Google Drive with Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/16466593
-137. [photos-ai] Edit your photos - Computer - Google Photos Help — https://support.google.com/photos/answer/6128850
-138. [looker-studio] Enable and use the Code Interpreter  |  Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-analytics-code-interpreter?hl=en
-139. [search-ai] Enhance learning with Learn About - Google Search Help — https://support.google.com/websearch/answer/15662709
-140. [meet] Enhance your video & audio with Gemini in Google Meet - Google Meet Help — https://support.google.com/meet/answer/14441737?hl=en
-141. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/security/ai-privacy?hl=en
-142. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/intl/en_uk/security/ai-privacy?hl=en
-143. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/intl/en_ca/security/ai-privacy?hl=en
-144. [workspace-site] Enterprise security controls for Google Workspace with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/enterprise-security-controls-google-workspace-gemini?hl=en
-145. [apps-script-ai] Enum ResponseType  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/response-type
-146. [workspace-site] Equifax embraces secure generative AI with Gemini — https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units?hl=en
-147. [workspace-site] Expanding Google AI in Workspace with new zero trust and digital sovereignty controls — https://workspace.google.com/blog/identity-and-security/accelerating-zero-trust-and-digital-sovereignty-ai?hl=en
-148. [youtube-ai] Explore Inspiration tab on YouTube - YouTube Help — https://support.google.com/youtube/answer/15575509
-149. [workspace-studio] Extend Google Workspace Studio  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/add-ons/studio
-150. [workspace-developers] Extend the Editors with Google Workspace add-ons Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/editors/gsao?hl=en
-151. [apps-script-ai] Fact-check statements with an ADK AI agent and Gemini model  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/samples/custom-functions/fact-check
-152. [search-ai] Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/14901683
-153. [search-ai] Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/13572151
-154. [calendar] Find times to meet in Google Calendar - Computer - Google Calendar Help — https://support.google.com/calendar/answer/6294878
-155. [workspace-site] Forrester Total Economic Impact study of Google Workspace with Gemini — https://workspace.google.com/learning/content/teiworkspacewithgemini?hl=en
-156. [notebooklm] Frequently asked questions - NotebookLM Help — https://support.google.com/notebooklm/answer/16269187?hl=en&ref_topic=16179690
-157. [workspace-site] From brainstorming to building teams: FinQuery innovates with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace?hl=en
-158. [workspace-site] Fullstory writes collaboration into its culture with Google Workspace and Gemini — https://workspace.google.com/blog/customer-stories/fullstory-collaboration-culture-with-google-workspace-and-gemini?hl=en
-159. [admin-console] Gemini AI features now included in Google Workspace subscriptions  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/15756885?hl=en
-160. [admin-console] Gemini AI features now included in Google Workspace subscriptions  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-ai-features-now-included-in-google-workspace-subscriptions
-161. [workspace-site] Gemini app: Generative AI for Every Organization — https://workspace.google.com/learning/content/gemini-for-workspace-gemini-app-ebook?hl=en
-162. [photos-ai] Gemini features in Photos privacy hub - Google Photos Help — https://support.google.com/photos/answer/15344015
-163. [appsheet] Gemini for App Creation FAQ - AppSheet Help — https://support.google.com/appsheet/answer/14797537?hl=en
-164. [workspace-site] Gemini for Google Workspace: A new and powerful way of working — https://workspace.google.com/learning/content/gemini-for-workspace-handbook?hl=en
-165. [workspace-learning-center] Gemini for Google Workspace cheat sheet - Google Workspace Learning Center — https://support.google.com/a/users/answer/14143478?hl=en
-166. [workspace-site] Gemini for Google Workspace Customer Resource | Google Workspace — https://workspace.google.com/learning/resources/gemini-for-google-workspace-customer-resources-hub
-167. [workspace-site] Gemini for Google Workspace: Marketing magic with Gen AI — https://workspace.google.com/learning/content/gemini-for-marketing-handbook?hl=en
-168. [workspace-site] Gemini for Google Workspace privacy, security, and compliance white paper — https://workspace.google.com/learning/content/gemini-privacy-security-compliance-whitepaper?hl=en
-169. [workspace-site] Gemini for Google Workspace: Sales success with Gen AI — https://workspace.google.com/learning/content/sales-handbook-gemini-for-google-workspace?hl=en
-170. [workspace-site] Gemini for Google Workspace: Setting a new standard for customer service — https://workspace.google.com/learning/content/gemini-for-gws-cserv-handbook-24?hl=en
-171. [gmail] Gemini in Gmail — https://workspace.google.com/products/gmail/ai?hl=en
-172. [gmail] Gemini in Gmail — https://workspace.google.com/intl/en_ca/products/gmail/ai?hl=en
-173. [gmail] GeminiÂ inÂ Gmail — https://workspace.google.com/intl/en_uk/products/gmail/ai?hl=en
-174. [workspace-site] Gemini in Google Meet — https://workspace.google.com/intl/en_uk/resources/ai-for-meetings?hl=en
-175. [workspace-site] Gemini in Google Meet — https://workspace.google.com/intl/en_ca/resources/ai-for-meetings?hl=en
-176. [workspace-site] Gemini in Google Meet — https://workspace.google.com/resources/ai-for-meetings?hl=en
-177. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/intl/en_ca/resources/spreadsheet-ai?hl=en
-178. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/resources/spreadsheet-ai?hl=en
-179. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/intl/en_uk/resources/spreadsheet-ai?hl=en
-180. [workspace-developers] Gemini in Workspace Apps Activity Events Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/admin/reports/v1/appendix/activity/gemini-in-workspace-apps?hl=en
-181. [slides] Generate a slide with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/16961475?hl=en
-182. [external_drawio] Generate and validate draw.io diagrams with AI — https://www.drawio.com/docs/reference/diagram-generation/
-183. [notebooklm] Generate Audio Overview in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16212820?hl=en
-184. [slides] Generate & edit images with Gemini in Google Slides & Vids - Google Docs Editors Help — https://support.google.com/docs/answer/13951829?hl=en
-185. [slides] Generate presentations with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/17111393?hl=en
-186. [forms] Generate questions with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16362810?hl=en
-187. [notebooklm] Generate Video Overviews in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16454555?hl=en
-188. [workspace-site] GenerativeÂ AI for presentations — https://workspace.google.com/intl/en_uk/resources/presentation-ai?hl=en
-189. [workspace-site] Generative AI for presentations — https://workspace.google.com/intl/en_ca/resources/presentation-ai?hl=en
-190. [workspace-site] Generative AI for presentations — https://workspace.google.com/resources/presentation-ai?hl=en
-191. [workspace-learning-center] Generative AI training & help - Google Workspace Learning Center — https://support.google.com/a/users/answer/14506784?hl=en
-192. [search-ai] Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/16420827
-193. [search-ai] Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/16011537
-194. [gmail] Get an AI Overview in Gmail search - Computer - Gmail Help — https://support.google.com/mail/answer/16789526
-195. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/products/docs/ai?hl=en
-196. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/intl/en_ca/products/docs/ai?hl=en
-197. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/intl/en_uk/products/docs/ai?hl=en
-198. [chat] Get started with Ask Gemini in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/17036303?hl=en
-199. [drive] Get started with Gemini in Google Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16686008
-200. [gemini-apps] Get started with Gems in Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/15236321
-201. [google-vids] Get started with Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15082958
-202. [workspace-studio] Get started with Google Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16444479?hl=en
-203. [calendar] Get started with Google Workspace with Gemini - Business / Enterprise - Google Calendar Help — https://support.google.com/calendar/answer/13952129
-204. [chat] Get started with Google Workspace with Gemini - Business / Enterprise - Google Chat Help — https://support.google.com/chat/answer/13952129
-205. [docs-editors] Get started with Google Workspace with Gemini - Business / Enterprise - Google Docs Editors Help — https://support.google.com/docs/answer/13952129?hl=en
-206. [chrome-ai] Get started with Help me write in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/14582048
-207. [android-ai] Get started with the Gemini mobile app - Android - Android Help — https://support.google.com/android/answer/14554984
-208. [notebooklm] Get started with the NotebookLM mobile app - iPhone & iPad - NotebookLM Help — https://support.google.com/notebooklm/answer/16296687?hl=en&co=GENIE.Platform%3DiOS
-209. [admin-console] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://support.google.com/a/answer/16704187?hl=en
-210. [workspace-studio] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/manage-access-to-steps-and-starters-in-workspace-studio
-211. [workspace-studio-admin] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/get-started-workspace-studio-set-up-guide-for-admins
-212. [admin-console] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://support.google.com/a/answer/16796372?hl=en
-213. [drive] Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/15141241?hl=en
-214. [drive] Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16686465?hl=en
-215. [chrome-ai] Go Live with Gemini in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16363185
-216. [chat-developers] Google Apps Script quickstart  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/guides/quickstart/apps-script
-217. [chat-developers] Google Chat app samples  |  Google for Developers — https://developers.google.com/workspace/chat/samples
-218. [workspace-site] Google Chat & Meet: Team collaboration transformed by Gemini — https://workspace.google.com/learning/content/team-collaboration-transformed-by-gemini-chat-meet?hl=en
-219. [google-vids] Google Vids — https://workspace.google.com/blog/google-vids?hl=en
-220. [workspace-site] Google Workspace: AI-powered collaboration for organizations of all sizes — https://workspace.google.com/learning/content/google-workspace-ai-powered-collaboration-for-organizations-of-all-sizes?hl=en
-221. [workspace-site] Google Workspace: AI-powered collaboration for organizations of all sizes — https://workspace.google.com/learning/content/ai-powered-collaboration?hl=en
-222. [workspace-site] Google Workspace Blog — https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-are-using-ai-for-business?hl=en
-223. [workspace-developers] Google Workspace Developer Tools Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/guides/developer-tools?hl=en
-224. [workspace-site] Google Workspace enables the future of AI-powered work for every business — https://workspace.google.com/blog/product-announcements/empowering-businesses-with-ai?hl=en
-225. [workspace-site] Google Workspace extends Gemini benefits to millions of customers — https://workspace.google.com/blog/product-announcements/google-workspace-extends-gemini-benefits-to-more-customers?hl=en
-226. [workspace-studio] Google Workspace Studio: Automate Workflows with Agentic AI Powered by Gemini — https://workspace.google.com/studio/
-227. [workspace-studio] Google Workspace Studio cheat sheet - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430708
-228. [workspace-studio] Google Workspace Studio training and help - Google Workspace Learning Center — https://support.google.com/a/users/answer/16275487
-229. [workspace-site] Google Workspace with Gemini: 128 ways our customers are transforming how they work with AI — https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai?hl=en
-230. [workspace-site] Google Workspace with Gemini allows MERGE to build a more innovative, effective, and creative team — https://workspace.google.com/blog/customer-stories/google-workspace-gemini-allows-merge-build-innovative-effective-and-creative-team?hl=en
-231. [admin-console] Google Workspace with Gemini FAQ for Business  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/14130944?hl=en
-232. [admin-console] Google Workspace with Gemini FAQ for Business  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-for-google-workspace-faq-business
-233. [admin-console] Google Workspace with Gemini FAQ for Education  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-for-google-workspace-faq-education
-234. [admin-console] Google Workspace with Gemini  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/google-workspace-with-gemini
-235. [workspace-studio] Guide to Starters & Steps in Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765661?hl=en
-236. [workspace-site] Help, not hype: AI built for how you actually work — https://workspace.google.com/blog/product-announcements/gemini-for-help-not-hype?hl=en
-237. [workspace-site] How AI is giving small businesses a major advantage — https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-giving-small-businesses-a-major-advantage?hl=en
-238. [workspace-site] How AI is helping me have better meetings — https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-helping-me-have-better-meetings?hl=en
-239. [maps-ai] How AI-powered features use your data in Google Maps - Google Maps Help — https://support.google.com/maps/answer/16833938
-240. [notebooklm] How Augustana University is building its future with Google Workspace and NotebookLM — https://workspace.google.com/blog/customer-stories/augustana-university-building-future-with-google-workspace-and-notebooklm?hl=en
-241. [workspace-site] How Flashpoint is building a productive, happy workforce with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/how-flashpoint-builds-productive-happy-workforce-gemini-google-workspace?hl=en
-242. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/ai/customers?hl=en
-243. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/intl/en_ca/ai/customers?hl=en
-244. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/intl/en_uk/ai/customers?hl=en
-245. [admin-console] How Google Workspace with Gemini billing works  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/how-google-workspace-with-gemini-billing-works
-246. [workspace-studio] How Google Workspace with Gemini helps protect users from malicious content and prompt injection - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16204578
-247. [workspace-site] How MEDITECH is integrating Gemini into highly regulated healthcare workflows — https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows?hl=en
-248. [workspace-site] How Pepperdine University, Pennymac, and Adore Me use Gemini for Google Workspace to focus on what they do best — https://workspace.google.com/blog/customer-stories/how-customers-use-gemini-google-workspace-focus-what-they-do-best?hl=en
-249. [gemini-apps] How to use Gems - Gemini Apps Help — https://support.google.com/gemini/answer/15236405
-250. [workspace-site] How we're protecting your Google Workspace data in the era of generative AI — https://workspace.google.com/blog/identity-and-security/protecting-your-data-era-generative-ai?hl=en
-251. [workspace-site] Hydro Ottawa lights up the future of work with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/hydro-ottawa-lights-future-work-gemini-google-workspace?hl=en
-252. [workspace-learning-center] Improve & polish your writing - Google Workspace Learning Center — https://support.google.com/a/users/answer/14512929
-253. [chat] Improve your Chat messages with Refine - Google Chat Help — https://support.google.com/chat/answer/16512046
-254. [workspace-site] Incubeta drives AI performance with adoption of Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/incubeta-drives-ai-performance-with-gemini-google-workspace?hl=en
-255. [workspace-site] Introducing Duet AI for Google Workspace — https://workspace.google.com/blog/product-announcements/duet-ai?hl=en
-256. [workspace-site] Join our upcoming digital event, Gemini at Work : Unveiling the future of AI-powered productivity — https://workspace.google.com/blog/events/six-sessions-to-attend-gemini-at-work?hl=en
-257. [youtube-ai] Learn about Ask Studio in YouTube Studio - YouTube Help — https://support.google.com/youtube/answer/16291691
-258. [google-vids] Learn about availability of Gemini features in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15609411
-259. [gmail] Learn about Gemini features in Gmail - Gmail Help — https://support.google.com/mail/answer/16831098?hl=en
-260. [search-ai] Learn about generative AI - Google Search Help — https://support.google.com/websearch/answer/13954172
-261. [workspace-studio] Learn about Google Workspace Studio limits - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765942
-262. [photos-ai] Learn about information stored on your photos - Computer - Google Photos Help — https://support.google.com/photos/answer/15532903
-263. [notebooklm] Learn about NotebookLM - Computer - NotebookLM Help — https://support.google.com/notebooklm/answer/16164461?hl=en
-264. [sheets] Learn about prompts for Gemini in Docs, Sheets, Slides, Vids & Forms - Google Docs Editors Help — https://support.google.com/docs/answer/15013615
-265. [workspace-studio] Learn about smart features & controls for Google Workspace & other Google products - Computer - Workspace Studio Help — https://support.google.com/workspace-studio/answer/15604322
-266. [chat] Learn about spaces - Google Chat Help — https://support.google.com/chat/answer/7659784
-267. [calendar] Learn how to schedule events in Gmail - Google Calendar Help — https://support.google.com/calendar/answer/16865706
-268. [youtube-ai] Learn more about the conversational AI tool when watching videos - Computer - YouTube Help — https://support.google.com/youtube/answer/14110396
-269. [drive] Learn to use Gemini in your Google Drive files (Workspace Experiments) - Google Drive Help — https://support.google.com/drive/answer/15095275?hl=en
-270. [calendar] Let Gemini in Google Calendar find times to meet - Google Calendar Help — https://support.google.com/calendar/answer/16690875?hl=en
-271. [admin-console] Manage access to Gemini features in Workspace services  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/manage-access-to-gemini-features-in-workspace-services
-272. [admin-console] Manage access to Gemini features in Workspace services  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/15698295?hl=en
-273. [chrome-ai] Manage on-device Generative AI models in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16961953
-274. [chat-developers] Manage projects with Google Chat, Vertex AI, and Firestore  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-project-management
-275. [workspace-studio] Manage & share your flows in Google Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16766368?hl=en-GB
-276. [chat] Manage space settings - Computer - Google Chat Help — https://support.google.com/chat/answer/13340792
-277. [external_drawio] Manually edit the XML source of your draw.io diagram — https://www.drawio.com/docs/manual/advanced/diagram-source-edit/
-278. [workspace-site] MAS gets more out of its creative workflows using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/mas-gets-more-out-its-creative-workflows-using-gemini?hl=en
-279. [chat-developers] MCP Reference: chatmcp.googleapis.com  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/reference/mcp
-280. [chat] Meet app for Google Chat Turndown - Google Chat Help — https://support.google.com/chat/answer/7655908
-281. [workspace-site] Mercer International unlocks $3 million a year in productivity gains using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini?hl=en
-282. [chat-developers] Method: spaces.messages.create  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces.messages/create
-283. [workspace-studio] Navigate the Workspace Studio interface - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16447677
-284. [workspace-site] New global research: The AI disconnect and how leaders can translate optimism into measurable impact — https://workspace.google.com/blog/ai-and-machine-learning/research-ai-beyond-time-savings?hl=en
-285. [workspace-site] New in Gemini: Gems with deeper knowledge and business context — https://workspace.google.com/blog/product-announcements/new-gemini-gems-deeper-knowledge-and-business-context?hl=en
-286. [notebooklm] NotebookLM for business — https://workspace.google.com/products/notebooklm?hl=en
-287. [notebooklm] NotebookLM for business — https://workspace.google.com/intl/en_uk/products/notebooklm?hl=en
-288. [notebooklm] NotebookLM for business — https://workspace.google.com/intl/en_ca/products/notebooklm?hl=en
-289. [workspace-site] Now Available: Duet AI for Google Workspace — https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available?hl=en
-290. [appsheet] Overview of AI in automations - AppSheet Help — https://support.google.com/appsheet/answer/16045284?hl=en
-291. [google-vids] Plan your video story with AI in Google Vids (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15067812?hl=en
-292. [google-vids] Plan your video with AI in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15067819
-293. [workspace-site] Prompt like a pro in Google Workspace with Gemini — https://workspace.google.com/learning/content/gemini-prompt-guide?hl=en
-294. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-startups?hl=en
-295. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-hr?hl=en
-296. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-sales?hl=en
-297. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-executives?hl=en
-298. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-frontline-management?hl=en
-299. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-administrators?hl=en
-300. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-small-business?hl=en
-301. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/writing-effective-prompts?hl=en
-302. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-communications?hl=en
-303. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-marketing?hl=en
-304. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-customer-service?hl=en
-305. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-communications?hl=en
-306. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-marketing?hl=en
-307. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-frontline-management?hl=en
-308. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-executives?hl=en
-309. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-hr?hl=en
-310. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-project-management?hl=en
-311. [workspace-site] Questrade Financial Group transforms productivity using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/questrade-financial-group-transforms-productivity-gemini-google-workspace?hl=en
-312. [appsheet] Quick start: Extract information from an image using AI - AppSheet Help — https://support.google.com/appsheet/answer/15985259
-313. [apps-script-ai] Quickstart: Generate text using Agent Platform  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/quickstart/vertex-ai
-314. [chat-developers] Receive and respond to interaction events  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/interaction-events
-315. [chat-developers] Receive and respond to interaction events  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/receive-respond-interactions
-316. [chat-developers] Respond to Google Chat app commands  |  Google for Developers — https://developers.google.com/workspace/chat/commands
-317. [chat-developers] Respond to Google Chat app commands  |  Google for Developers — https://developers.google.com/workspace/chat/slash-commands
-318. [chat-developers] Respond to incidents with Google Chat, Vertex AI, and Google Apps Script  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-incident-response-app-auth
-319. [chat-developers] Respond to incidents with Google Chat, Vertex AI, Apps Script, and user authentication  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-incident-response
-320. [workspace-learning-center] Role-specific prompts & use cases - Google Workspace Learning Center — https://support.google.com/a/users/answer/14667148
-321. [workspace-site] Scale AI adoption with AI Boost Bootcamp — https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-with-ai-boost-bootcamp?hl=en
-322. [gemini-apps] Schedule actions in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/16316416
-323. [drive] Search & retrieve your files in Drive with Gemini - Computer - Google Drive Help — https://support.google.com/drive/answer/16685111
-324. [chrome-ai] Search with Google Lens in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/15086890
-325. [chrome-ai] Search your browsing history in Chrome with AI - Google Chrome Help — https://support.google.com/chrome/answer/15305774
-326. [chrome-ai] Search your Chrome history with Gemini in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16716225
-327. [chat-developers] Send a message using the Google Chat API  |  Google for Developers — https://developers.google.com/workspace/chat/create-messages
-328. [workspace-studio-admin] Set up activity alerts for Workspace Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/set-up-activity-alerts-for-workspace-studio
-329. [workspace-learning-center] Start with a great prompt - Google Workspace Learning Center — https://support.google.com/a/users/answer/14590328
-330. [workspace-studio-admin] Stop a Workspace Studio flow as an admin  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/stop-a-workspace-studio-flow-as-an-admin
-331. [calendar] Suggest times to meet with Gemini in Gmail - Google Calendar Help — https://support.google.com/calendar/answer/16865189?hl=en
-332. [forms] Summarize & analyze responses with Gemini in Google Forms - Google Docs Editors Help — https://support.google.com/docs/answer/16231981?hl=en
-333. [forms] Summarize & analyze responses with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16232990?hl=en
-334. [chat] Summarize chats in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/12918975
-335. [keep] Supported languages for Google Workspace with Gemini - Google Keep Help — https://support.google.com/keep/answer/14925782?hl=en
-336. [meet] Supported languages for Google Workspace with Gemini - Google Meet Help — https://support.google.com/meet/answer/14925782
-337. [workspace-site] Supporting our EU customers with their DPIAs: Google's commitment to privacy and security with Google Workspace with Gemini — https://workspace.google.com/blog/identity-and-security/dpia-support-for-google-workspace-with-gemini?hl=en
-338. [workspace-site] Supporting Your Data Protection Impact Assessment (DPIA) for Google Workspace with Gemini — https://workspace.google.com/learning/content/gemini-dpia-support-guide?hl=en
-339. [sheets] Tables in Google Sheets with Gemini (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16538433?hl=en
-340. [workspace-studio] Take actions in third-party services with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16658279?hl=en
-341. [meet] Take notes for me in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/14754931?hl=en
-342. [workspace-studio] Test run a flow before you turn it on - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16663517
-343. [workspace-site] The real impact of AI at work — https://workspace.google.com/intl/en_ca/ai/business-transformation?hl=en
-344. [workspace-site] The real impact of AI at work — https://workspace.google.com/intl/en_uk/ai/business-transformation?hl=en
-345. [workspace-site] The real impact of AI at work — https://workspace.google.com/ai/business-transformation?hl=en
-346. [workspace-site] Thoughtworks: Boosting productivity, professionalism, and collaboration with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/thoughtworks-gemini-google-workspace?hl=en
-347. [gemini-apps] Tips for creating custom Gems - Gemini Apps Help — https://support.google.com/gemini/answer/15235603
-348. [workspace-learning-center] Tips for research and development - Google Workspace Learning Center — https://support.google.com/a/users/answer/9283136
-349. [workspace-studio] Tips to create flows with AI - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430486
-350. [workspace-studio] Tips to create flows with conditional steps - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16431010?hl=en
-351. [workspace-studio] Tips to use AI steps in flows - Google Workspace Learning Center — https://support.google.com/a/users/answer/16431105
-352. [workspace-studio] Tips to use AI steps in flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16431105?hl=en
-353. [workspace-learning-center] Tips to write prompts for Gemini - Google Workspace Learning Center — https://support.google.com/a/users/answer/14200040
-354. [workspace-site] Transforming HR workflows with AI — https://workspace.google.com/blog/ai-and-machine-learning/turing-transforming-hr-workflows-ai?hl=en
-355. [workspace-studio] Troubleshoot issues with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16430806
-356. [google-vids] Try Google Vids for business — https://workspace.google.com/intl/en_uk/products/vids/for-work?hl=en
-357. [google-vids] Try Google Vids for business — https://workspace.google.com/intl/en_ca/products/vids/for-work?hl=en
-358. [google-vids] Try Google Vids for business — https://workspace.google.com/products/vids/for-work?hl=en
-359. [admin-console] Turn access to Google Workspace with Gemini alpha on or off  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/14170809?hl=en-IE
-360. [admin-console] Turn Gemini Enterprise on or off for users  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-enterprise/turn-gemini-enterprise-on-or-off-for-users
-361. [admin-console] Turn the Gemini App on or off  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/turn-the-gemini-app-on-or-off
-362. [youtube-ai] Understanding ‘How this content was made’ disclosures on YouTube - YouTube Help — https://support.google.com/youtube/answer/15447836
-363. [notebooklm] Unleashing the power of NotebookLM: Your AI research and learning companion — https://workspace.google.com/learning/content/google-workspace-notebooklm-ebook?hl=en
-364. [notebooklm] Upgrade NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16206866?hl=en
-365. [notebooklm] Upgrade NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16213268?hl=en
-366. [chat-developers] Usage limits  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/limits
-367. [chrome-ai] Use AI Mode in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16704170
-368. [search-ai] Use AI Mode to check local availability and pricing - Computer - Google Search Help — https://support.google.com/websearch/answer/17104441
-369. [photos-ai] Use AI to create with Google Photos - Android - Google Photos Help — https://support.google.com/photos/answer/16763021
-370. [google-vids] Use AI to generate video clips in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/16143507
-371. [chrome-ai] Use AI to search & ask about your tabs - Google Chrome Help — https://support.google.com/chrome/answer/17025061
-372. [chat] Use an AI Overview in Google Chat - Google Chat Help — https://support.google.com/chat/answer/16944767
-373. [gemini-apps] Use apps connected to Gemini with a work or school Google Account - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/14959807?hl=en
-374. [chat] Use apps in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/7655820
-375. [photos-ai] Use Ask Photos for photos, information & assistance - Computer - Google Photos Help — https://support.google.com/photos/answer/15318661
-376. [youtube-ai] Use automatic dubbing - Computer - YouTube Help — https://support.google.com/youtube/answer/15569972
-377. [gemini-apps] Use Deep Research in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/15719111?hl=en
-378. [sheets] Use enhanced Smart Fill with AI in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/14001183
-379. [sheets] Use enhanced Smart Fill with Gemini in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/14226603
-380. [android-ai] Use Gemini - Android Help — https://support.google.com/android/answer/15729107
-381. [android-ai] Use Gemini Apps - Computer - Android Help — https://support.google.com/android/answer/13275745
-382. [gemini-apps] Use Gemini Apps with a work or school Google Account - Business / Enterprise - Gemini Apps Help — https://support.google.com/gemini/answer/14620100?hl=en
-383. [workspace-learning-center] Use Gemini for human resources - Google Workspace Learning Center — https://support.google.com/a/users/answer/14171678
-384. [workspace-learning-center] Use Gemini for marketing - Google Workspace Learning Center — https://support.google.com/a/users/answer/14196644
-385. [workspace-learning-center] Use Gemini for nonprofits - Google Workspace Learning Center — https://support.google.com/a/users/answer/14571258
-386. [workspace-learning-center] Use Gemini for sales - Google Workspace Learning Center — https://support.google.com/a/users/answer/14190391
-387. [appsheet] Use Gemini in AppSheet - AppSheet Help — https://support.google.com/appsheet/answer/16106353?hl=en
-388. [chrome-ai] Use Gemini in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16283624
-389. [drive] Use Gemini in Drive for research & analysis - Computer - Google Drive Help — https://support.google.com/drive/answer/16963068?co=GENIE.Platform%3DDesktop&hl=en-en-4
-390. [maps-ai] Use Gemini while you navigate - Android - Google Maps Help — https://support.google.com/maps/answer/6041199
-391. [gemini-apps] Use Gems in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/15146780?hl=en
-392. [workspace-learning-center] Use generative AI at work - Google Workspace Learning Center — https://support.google.com/a/users/answer/14628736?hl=en
-393. [workspace-site] Use generative AI for customer service — https://workspace.google.com/solutions/ai/customer-service?hl=en
-394. [workspace-site] Use generative AI for customer service — https://workspace.google.com/intl/en_ca/solutions/ai/customer-service?hl=en
-395. [workspace-site] Use generative AI for customer service — https://workspace.google.com/intl/en_uk/solutions/ai/customer-service?hl=en
-396. [workspace-site] Use generative AI for HR — https://workspace.google.com/intl/en_ca/solutions/ai/hr?hl=en
-397. [workspace-site] Use generative AI for HR — https://workspace.google.com/solutions/ai/hr?hl=en
-398. [workspace-site] Use generative AI for HR — https://workspace.google.com/intl/en_uk/solutions/ai/hr?hl=en
-399. [workspace-site] Use generative AI for marketing — https://workspace.google.com/intl/en_uk/solutions/ai/marketing?hl=en
-400. [workspace-site] Use generative AI for marketing — https://workspace.google.com/intl/en_ca/solutions/ai/marketing?hl=en
-401. [workspace-site] Use generative AI for marketing — https://workspace.google.com/solutions/ai/marketing?hl=en
-402. [workspace-site] Use generative AI for sales — https://workspace.google.com/intl/en_uk/solutions/ai/sales?hl=en
-403. [workspace-site] Use generative AI for sales — https://workspace.google.com/intl/en_ca/solutions/ai/sales?hl=en
-404. [workspace-site] Use generative AI for sales — https://workspace.google.com/solutions/ai/sales?hl=en
-405. [workspace-studio] Use Google Workspace Studio with a screen reader - Workspace Studio Help — https://support.google.com/workspace-studio/answer/17119624
-406. [gemini-apps] Use & manage Connected Apps in Gemini - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/13695044
-407. [notebooklm] Use Mind Maps in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16212283?hl=en
-408. [notebooklm] Use NotebookLM with a work or school Google account - NotebookLM Help — https://support.google.com/notebooklm/answer/16337734?hl=en
-409. [gmail] Use Suggested Replies in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/15464222
-410. [sheets] Use the AI function in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/15877199
-411. [sheets] Use the AI function in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15820999?hl=en
-412. [chat] Use the Bulk Member Manager app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/14016224
-413. [appsheet] Use the Categorize AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/15983005?hl=en
-414. [appsheet] Use the Extract AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/15969430?hl=en
-415. [chrome-ai] Use the Gemini web app to get answers in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/14886647
-416. [chat] Use the Jenkins app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9632691
-417. [chat] Use the Jira app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9575067
-418. [chat] Use the PagerDuty app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/12156602
-419. [workspace-learning-center] Use the side panel to collaborate with Gemini - Google Workspace Learning Center — https://support.google.com/a/users/answer/15146419?hl=en
-420. [appsheet] Use the Summarize AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/16468184?hl=en
-421. [chat] Use the Zapier app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9470843
-422. [meet] Use translated captions in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/10964115
-423. [workspace-studio] Use variables to pass data in your flow - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16448468
-424. [chat-developers] Verify requests from Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/verify-requests-from-chat
-425. [apps-script-ai] Vertex AI Service  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/advanced/vertex-ai
-426. [workspace-studio] Watch and manage sheets with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16655443
-427. [workspace-site] WebFX: Powering collaboration, innovation, and idea generation with Duet AI in Google Workspace — https://workspace.google.com/blog/customer-stories/how-webfx-uses-duet-ai?hl=en
-428. [workspace-site] Welcome to Beyond the prompt : Our new series on getting the most out of Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/welcome-to-beyond-the-prompt?hl=en
-429. [chrome-enterprise-ai] Welcome to Gemini in Chrome - Chrome Enterprise and Education Help — https://support.google.com/chrome/a/answer/17031592
-430. [workspace-site] What chess can teach leaders about AI enablement — https://workspace.google.com/blog/ai-and-machine-learning/what-chess-can-teach-leaders-about-ai-enablement?hl=en
-431. [workspace-studio] What you can do with Google Workspace Studio - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430812
-432. [workspace-learning-center] What you'll learn - Google Workspace Learning Center — https://support.google.com/a/users/answer/14505994
-433. [workspace-site] Work is better with Gemini — https://workspace.google.com/intl/en_ca/resources/ai?hl=en
-434. [workspace-site] Work is better with Gemini — https://workspace.google.com/resources/ai?hl=en
-435. [workspace-site] Work is better with Gemini — https://workspace.google.com/intl/en_uk/resources/ai?hl=en
-436. [workspace-site] Working at the speed of fashion trends with Duet AI — https://workspace.google.com/blog/ai-and-machine-learning/working-speed-fashion-trends-duet-ai?hl=en
-437. [google-vids] Workspace Drop: New easy ways to create and share videos with AI in Google Vids — https://workspace.google.com/blog/product-announcements/workspace-drops-create-and-share-videos-with-ai-in-google-vids?hl=en
-438. [docs-editors] Write & edit with Gemini in Docs - Google Docs Editors Help — https://support.google.com/docs/answer/13951448?hl=en
-439. [youtube-ai] Your data and using AI features on YouTube - YouTube Help — https://support.google.com/youtube/answer/14772770
-440. [workspace-site] Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency — https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency?hl=en
-441. [workspace-site] Simplify your move to Google Workspace: New Migration & Interoperability Features — https://workspace.google.com/blog/productivity-collaboration/simplify-the-move-to-google-workspace-with-new-migration-and-interoperability-features
-442. [workspace-site] New ways to create and get stuff done in Google Workspace — https://blog.google/products-and-platforms/products/workspace/workspace-updates/
-443. [google-vids] How to create professional work videos with AI avatars in Google Vids — https://workspace.google.com/blog/ai-and-machine-learning/how-to-create-professional-work-videos-with-ai-avatars-in-google-vids
-444. [gemini-apps] Use Gemini Spark to manage your tasks & workflows in Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094507
-445. [gemini-apps] Get Started with Gemini Go - Gemini Apps Help — https://support.google.com/gemini/answer/17079170
-446. [gemini-apps] Create & manage skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094296
-447. [workspace-developers] Google Workspace standardized model for agent tools and APIs — https://developers.google.com/workspace/tools-safety
-448. [gemini-apps] Write effective skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17102773?hl=en
-449. [notebooklm] Generate a Slide Deck in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16757456?hl=en
-450. [notebooklm] Use public notebooks and featured notebooks in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16322204?hl=en
-451. [gemini-apps] Gemini Apps limits & upgrades for Google AI subscribers - Gemini Apps Help — https://support.google.com/gemini/answer/16275805?hl=en
-452. [workspace-site] June Workspace Drop: Create with Veo 3 in Google Vids and connect the Gemini app with Google Workspace — https://workspace.google.com/blog/product-announcements/june-workspace-drop-create-veo-3-google-vids-and-connect-gemini-app
-453. [workspace-site] Introducing Workspace Intelligence — https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
-454. [workspace-site] AI Boost Bootcamp 201 for Marketing Teams — https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-by-role-introducing-ai-boost-bootcamp-201-for-marketing
-455. [workspace-site] May 2026 Workspace Drops — https://workspace.google.com/blog/product-announcements/may-workspace-drops
-456. [workspace-site] June 2026 Workspace Drops: AI updates for Drive, Sheets, and Gmail — https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
-457. [workspace-developers] Use Large Language Models (LLMs) to develop on Google Workspace — https://developers.google.com/workspace/guides/build-with-llms
-458. [gemini-apps] Generate videos with Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/16126339
-459. [google-ai] Google AI announcements from June 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
-460. [workspace-meet] Gemini can handle note-taking during Google Meet calls — https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
-461. [ai-studio] Google AI Studio at I/O 2026 — https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
-462. [workspace-site] Google Voice AI Note-Taking and New Standalone Plans — https://workspace.google.com/blog/product-announcements/google-voice-offers-ai-note-taking-and-new-subscriptions-to-help-scale-your-business
-463. [workspace-site] Google Gemini Workspace Updates – March 2026 — https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/
-464. [gemini-apps] The Gemini app becomes more agentic, delivering proactive, 24/7 help — https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
+28. [workspace-site] AI note-taking — https://workspace.google.com/intl/en_uk/solutions/ai/ai-note-taking?hl=en
+29. [google-vids] AI Text to Video Generator: Create Videos with Google Vids & Veo 3 | Google Workspace — https://workspace.google.com/resources/text-to-video/
+30. [workspace-site] AI tools for a better way to work — https://workspace.google.com/intl/en_ca/solutions/ai?hl=en
+31. [workspace-site] AI tools for a better way to work — https://workspace.google.com/intl/en_uk/solutions/ai?hl=en
+32. [workspace-site] AI tools for a better way to work — https://workspace.google.com/solutions/ai?hl=en
+33. [workspace-site] AI tools for writing — https://workspace.google.com/intl/en_ca/resources/ai-writing?hl=en
+34. [workspace-site] AI tools for writing — https://workspace.google.com/intl/en_uk/resources/ai-writing?hl=en
+35. [workspace-site] AI tools for writing — https://workspace.google.com/resources/ai-writing?hl=en
+36. [admin-console] AI Ultra Access  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/ai-ultra-access
+37. [google-vids] AI-powered video creation for work — https://workspace.google.com/intl/en_ca/products/vids?hl=en
+38. [google-vids] AI-powered video creation for work — https://workspace.google.com/intl/en_uk/products/vids?hl=en
+39. [google-vids] AI-powered video creation for work — https://workspace.google.com/products/vids?hl=en
+40. [workspace-site] All of our Beyond the prompt series in one place — https://workspace.google.com/blog/ai-and-machine-learning/all-our-beyond-prompt-series-in-one-place?hl=en
+41. [workspace-studio-admin] Allow or block Gemini for Google Workspace steps  |  Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/allow-or-block-gemini-for-ws-steps
+42. [workspace-studio-admin] Allow or block Workspace service–specific steps  |  Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/allow-or-block-ws-service-specific-steps
+43. [admin-console] Allowlisted Domains API now generally available — https://workspaceupdates.googleblog.com/2026/08/allowlisted-domains-api-now-generally-available.html
+44. [google-ai] AMIE: Advancing medical AI for video consultations — https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/
+45. [chat-developers] Answer questions based on Chat conversations with a Gemini AI Chat app  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-ai-knowledge-assistant
+46. [workspace-site] APAC Landing Page GWS Prompt Guide 101 | Google Workspace — https://workspace.google.com/learning/resources/apac-gws-prompt-guide-101
+47. [chrome-ai] Ask Gemini in Chrome to complete tasks for you with auto browse — https://support.google.com/gemini/answer/16821166
+48. [chrome-ai] Ask Gemini in Chrome to complete tasks for you with auto browse - Google Chrome Help — https://support.google.com/chrome/answer/16821166
+49. [meet] Ask Gemini in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/16024610?hl=en
+50. [maps-ai] Ask questions in Google Maps - Computer - Google Maps Help — https://support.google.com/maps/answer/16842041
+51. [workspace-site] Attache: Transforming the menial into the magical with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/attache-transforming-menial-magical-gemini-google-workspace?hl=en
+52. [chat-developers] Authenticate and authorize Chat apps and Google Chat API requests  |  Google for Developers — https://developers.google.com/workspace/chat/authenticate-authorize
+53. [chat-developers] Authenticate as a Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/authenticate-authorize-chat-app
+54. [gemini-enterprise] Automate your agent development lifecycle using any coding agent — https://cloud.google.com/blog/topics/developers-practitioners/automate-agent-development-lifecycles-with-gemini-enterprise
+55. [appsheet] Best practices for using AI in automations - AppSheet Help — https://support.google.com/appsheet/answer/16052759?hl=en
+56. [workspace-site] Better meetings, greater impact: How effective teams move work forward with Gemini — https://workspace.google.com/learning/resources/better-meeings-greater-impact-gemini-webinar?hl=en
+57. [workspace-site] Beyond AI Optimism — https://workspace.google.com/learning/report/content/beyond-ai-optimism?hl=en
+58. [workspace-site] Beyond the prompt round-up: Our series on getting the best out of generative AI — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-round-our-series-getting-best-out-generative-ai?hl=en
+59. [workspace-site] Beyond the Prompt: ATB Financial’s 5 tips to drive Workspace with Gemini adoption — https://workspace.google.com/blog/customer-stories/atb-financial-5-tips-to-drive-workspace-gemini-adoption?hl=en
+60. [workspace-site] Beyond the prompt: How to create a Google Guides program to drive adoption of Workspace with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-google-guides-program-to-drive-adoption-workspace-gemini?hl=en
+61. [workspace-site] Beyond the prompt: How to measure the value Gemini brings to your company — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-measure-value-gemini-brings-your-company?hl=en
+62. [workspace-site] Beyond the prompt: How Understood.org uses Gemini to reduce stress and save 10 hours per project — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-understood-uses-gemini-reduce-stress-and-save-10-hours-project?hl=en
+63. [workspace-site] Beyond the prompt: Part 11 — How Gemini helps me go from a blank page to being a confident storyteller — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-how-gemini-helps-me-be-a-confident-storyteller?hl=en
+64. [workspace-site] Beyond the prompt: Part 12 — How five marketers at Google use Gemini to transform the way they work — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-12-how-five-marketers-use-gemini-transform-how-they-work?hl=en
+65. [workspace-site] Beyond the prompt: Part 13 — Google customer engineer, Pooja Jain, shares how she uses Gemini to unlock new capabilities — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-13-five-key-principles-to-enhance-prompts?hl=en
+66. [workspace-site] Beyond the prompt: Part 14 — How four Googlers in Sales use Gemini to drive results — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-14-how-four-googlers-in-sales-use-gemini?hl=en
+67. [workspace-site] Beyond the prompt: Part 2 - 4 tips to boost your collaboration with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-4-tips-boost-collaboration-gemini?hl=en
+68. [workspace-site] Beyond the prompt: Part 4 — Using Gemini for Workspace as your sales research assistant — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-4-using-gemini-workspace-your-sales-research-assistant?hl=en
+69. [workspace-site] Beyond the prompt: Part 5 — How marketers can conquer the blank page using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-5-marketers-conquer-blank-page?hl=en
+70. [workspace-site] Beyond the prompt: Part 6 — How to standardize and personalize customer service responses using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-6-personalize-customer-service-responses?hl=en
+71. [workspace-site] Beyond the prompt: Part 7 — Googler Serge Lachapelle shares his lightbulb generative AI moments — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-7-googler-serge-lachapelle-shares-his-lightbulb-generative-ai-moments?hl=en
+72. [workspace-site] Beyond the prompt: Part 8 — How entrepreneurs can run competitive analysis with Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-8-how-entrepreneurs-can-run-competitive-analysis-gemini-workspace?hl=en
+73. [workspace-site] Beyond the prompt: Part 9 — Googler Tony Majewski shares how he saves 8-10 hours a week and reduces burnout using Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-part-9-googler-shares-how-he-saves-time-and-reduces-burnout-using-gemini-workspace?hl=en
+74. [workspace-site] Beyond the prompt: Question your way to better prompting — https://workspace.google.com/blog/ai-and-machine-learning/beyond-prompt-question-your-way-better-prompting?hl=en
+75. [workspace-site] Beyond the prompt: Resources to get started with Workspace with Gemini today — https://workspace.google.com/blog/ai-and-machine-learning/beyond-the-prompt-resources-gemini?hl=en
+76. [workspace-site] Block ransomware proliferation and easily restore files with AI in Google Drive — https://workspace.google.com/blog/product-announcements/ai-ransomware-detection-in-google-drive?hl=en
+77. [chat-developers] Build a Dialogflow CX Google Chat app that understands and responds with natural language  |  Google for Developers — https://developers.google.com/workspace/chat/build-dialogflow-chat-app-natural-language
+78. [chat-developers] Build a Google Chat app as a webhook  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/webhooks
+79. [chat-developers] Build a Google Chat app behind a firewall with Pub/Sub  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/pub-sub
+80. [chat] Build a Google Chat app with a Gemini Enterprise AI agent Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/chat/quickstart-ge-agent?hl=en
+81. [apps-script-ai] Build a Google Chat app with Google Apps Script  |  Google for Developers — https://developers.google.com/apps-script/quickstart/chat-app
+82. [chat-developers] Build a Google Chat app with Google Apps Script  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/apps-script-app
+83. [chat-developers] Build an HTTP Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/quickstart/gcf-app
+84. [chat-developers] Build an interactive Google Chat app  |  Google for Developers — https://developers.google.com/workspace/chat/interact-users-overview
+85. [sheets] Build mini-apps with Gemini in Google Sheets — https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/
+86. [sheets] Build or edit entire spreadsheets with Gemini in Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/16959434?hl=en-GB
+87. [workspace-developers] Build with AI for Google Workspace Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/guides/ai-overview?hl=en
+88. [workspace-site] Building a foundation for the agentic AI era — https://workspace.google.com/blog/ai-and-machine-learning/building-a-foundation-for-the-agentic-ai-era?hl=en
+89. [meet] Calendar & Meet settings for \"take notes for me\" - Google Meet Help — https://support.google.com/meet/answer/16909639
+90. [chat] Chat apps built by Google - Google Chat Help — https://support.google.com/chat/answer/9649420
+91. [chat-developers] Choose a Google Chat app architecture  |  Google for Developers — https://developers.google.com/workspace/chat/structure
+92. [chrome-enterprise-ai] Chrome—Generative AI features and policies - Chrome Enterprise and Education Help — https://support.google.com/chrome/a/answer/14443058
+93. [apps-script-ai] Class ChatActionResponse  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-action-response
+94. [apps-script-ai] Class ChatResponse  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-response
+95. [apps-script-ai] Class ChatSpaceDataSource  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/chat-space-data-source
+96. [gmail] Collaborate with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/14199860
+97. [gmail] Collaborate with Gemini in Gmail - Computer - Gmail Help — https://support.google.com/mail/answer/14355636?hl=en
+98. [chat] Collaborate with Gemini in Google Chat (Workspace Experiments) - Computer - Google Chat Help — https://support.google.com/chat/answer/15395284
+99. [chat] Collaborate with Gemini in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/15345722?hl=en
+100. [docs-editors] Collaborate with Gemini in Google Docs - Computer - Google Docs Editors Help — https://support.google.com/docs/answer/14206696?hl=en
+101. [drive] Collaborate with Gemini in Google Drive (Workspace Experiments) - Computer - Google Drive Help — https://support.google.com/drive/answer/14217860?hl=en
+102. [sheets] Collaborate with Gemini in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/14218565?hl=en
+103. [sheets] Collaborate with Gemini in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/14356410?hl=en
+104. [slides] Collaborate with Gemini in Google Slides - Computer - Google Docs Editors Help — https://support.google.com/docs/answer/14355071?hl=en
+105. [slides] Collaborate with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/14207419?hl=en
+106. [slides] Collaborate with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/14355406?hl=en
+107. [admin-console] Compare Google AI expansion add‑ons  |  Getting started  |  Google Workspace Help — https://support.google.com/a/answer/14700766?hl=en
+108. [chat-developers] Configure the Chat MCP server  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/guides/configure-mcp-server
+109. [workspace-studio] Connect flows to other services with webhooks - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16521900
+110. [gemini-apps] Connect the Google Workspace app to Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/15229592
+111. [admin-console] Control Gemini App access to Workspace services  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/turn-google-apps-in-gemini-on-or-off
+112. [looker-studio] Converse with Data Studio data  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-analytics-looker-studio
+113. [gemini-apps] Create & manage AI mini-apps or custom workflows as Gems from Google Labs - Gemini Apps Help — https://support.google.com/gemini/answer/16802014?hl=en
+114. [gemini-apps] Create & manage skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094296
+115. [workspace-studio] Create a flow from scratch - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16447954?hl=en
+116. [workspace-studio] Create a flow with Gemini AI - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16448469?hl=en
+117. [forms] Create a form with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15259015
+118. [forms] Create a form with Gemini in Google Forms - Google Docs Editors Help — https://support.google.com/docs/answer/16346789?hl=en
+119. [keep] Create a list with AI in Google Keep - Google Keep Help — https://support.google.com/keep/answer/14626262?hl=en
+120. [keep] Create a list with Gemini in Google Keep - Google Keep Help — https://support.google.com/keep/answer/15222789?hl=en
+121. [notebooklm] Create a notebook in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16206563?hl=en
+122. [gemini-apps] Create and manage schedules for tasks in Gemini Spark - Gemini Apps Help — https://support.google.com/gemini/answer/17094710?hl=en
+123. [workspace-studio] Create and use custom steps in flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16433731?hl=en
+124. [appsheet] Create apps using Gemini for App Creation - AppSheet Help — https://support.google.com/appsheet/answer/14699210?hl=en
+125. [meet] Create background images with Gemini in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/13954947?hl=en
+126. [looker-studio] Create calculated fields with Gemini assistance  |  Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/create-calculated-fields-gemini
+127. [youtube-ai] Create content for Shorts using AI-generated features - YouTube Help — https://support.google.com/youtube/answer/15260303
+128. [drive] Create Content, Images & Audio Overviews with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16685527
+129. [gemini-apps] Create docs, apps & more with Canvas - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/16047321
+130. [workspace-site] Create on-brand presentations in minutes with Gemini in Google Slides — Google Workspace Blog — https://workspace.google.com/blog/product-announcements/create-on-brand-presentations-in-minutes-with-gemini-in-google-slides
+131. [docs-editors] Create personalized documents with Gemini in Google Docs - Google Docs Editors Help — https://support.google.com/docs/answer/15541387?hl=en
+132. [google-vids] Create voiceovers with AI in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15070345
+133. [youtube-ai] Create with AI in the YouTube Create app - YouTube Help — https://support.google.com/youtube/answer/16631240
+134. [youtube-ai] Create, use & manage your avatar on YouTube - YouTube Help — https://support.google.com/youtube/answer/16985237
+135. [external_drawio] Customise LLM backends for diagram generation in draw.io — https://www.drawio.com/doc/faq/configure-ai-options
+136. [chrome-ai] Customize Chrome themes with AI - Google Chrome Help — https://support.google.com/chrome/answer/14516713
+137. [chrome-ai] Customize your Gemini in Chrome experience - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16988996
+138. [looker-studio] Data agents in Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-data-agents?hl=en
+139. [chat-developers] Develop with Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/overview
+140. [youtube-ai] Disclosing use of GenAI content - Computer - YouTube Help — https://support.google.com/youtube/answer/14328491
+141. [notebooklm] Do better research with NotebookLM — https://blog.google/innovation-and-ai/products/notebooklm/better-research-notebooklm/
+142. [workspace-site] Docusign rapidly scales its AI strategy by enabling its global workforce with Gemini — https://workspace.google.com/blog/customer-stories/docusign-rapidly-scales-its-ai-strategy-by-enabling-its-global-workforce-with-gemini?hl=en
+143. [gmail] Draft emails with Gemini in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/13384326
+144. [gmail] Draft emails with Gemini in Gmail - Computer - Gmail Help — https://support.google.com/mail/answer/13955415?hl=en
+145. [workspace-site] Duet AI for Google Workspace Enterprise — now available for preorder — https://workspace.google.com/blog/product-announcements/duet-ai-now-available-preorder?hl=en
+146. [apps-script-ai] Easily customize and extend Google Workspace with Gemini in Apps Script — https://workspaceupdates.googleblog.com/2026/11/customize-and-extend-workspace-with-apps-script.html
+147. [google-vids] Edit videos stored in Google Drive with Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/16466593
+148. [photos-ai] Edit your photos - Computer - Google Photos Help — https://support.google.com/photos/answer/6128850
+149. [looker-studio] Enable and use the Code Interpreter  |  Data Studio  |  Google Cloud Documentation — https://cloud.google.com/looker/docs/studio/conversational-analytics-code-interpreter?hl=en
+150. [search-ai] Enhance learning with Learn About - Google Search Help — https://support.google.com/websearch/answer/15662709
+151. [meet] Enhance your video & audio with Gemini in Google Meet - Google Meet Help — https://support.google.com/meet/answer/14441737?hl=en
+152. [workspace-site] Enterprise security controls for Google Workspace with Gemini — https://workspace.google.com/blog/ai-and-machine-learning/enterprise-security-controls-google-workspace-gemini?hl=en
+153. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/intl/en_ca/security/ai-privacy?hl=en
+154. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/intl/en_uk/security/ai-privacy?hl=en
+155. [workspace-site] Enterprise-ready, secure AI — https://workspace.google.com/security/ai-privacy?hl=en
+156. [apps-script-ai] Enum ResponseType  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/reference/card-service/response-type
+157. [workspace-site] Equifax embraces secure generative AI with Gemini — https://workspace.google.com/blog/customer-stories/equifax-embraces-gemini-for-secure-innovation-across-business-units?hl=en
+158. [workspace-site] Everything new in our Google AI subscriptions, fresh from I/O 2026 — https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/
+159. [gmail] Expanding Gemini in Gmail to more Google Workspace users — https://workspaceupdates.googleblog.com/2026/11/expanding-gemini-in-gmail-to-more-Google-Workspace-users.html
+160. [workspace-site] Expanding Google AI in Workspace with new zero trust and digital sovereignty controls — https://workspace.google.com/blog/identity-and-security/accelerating-zero-trust-and-digital-sovereignty-ai?hl=en
+161. [youtube-ai] Explore Inspiration tab on YouTube - YouTube Help — https://support.google.com/youtube/answer/15575509
+162. [workspace-studio] Extend Google Workspace Studio  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/add-ons/studio
+163. [workspace-developers] Extend the Editors with Google Workspace add-ons Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/add-ons/editors/gsao?hl=en
+164. [apps-script-ai] Fact-check statements with an ADK AI agent and Gemini model  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/samples/custom-functions/fact-check
+165. [search-ai] Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/13572151
+166. [search-ai] Find information in faster & easier ways with AI Overviews in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/14901683
+167. [calendar] Find times to meet in Google Calendar - Computer - Google Calendar Help — https://support.google.com/calendar/answer/6294878
+168. [workspace-site] Forrester Total Economic Impact study of Google Workspace with Gemini — https://workspace.google.com/learning/content/teiworkspacewithgemini?hl=en
+169. [notebooklm] Frequently asked questions - NotebookLM Help — https://support.google.com/notebooklm/answer/16269187?hl=en&ref_topic=16179690
+170. [workspace-site] From brainstorming to building teams: FinQuery innovates with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/finquery-innovates-gemini-google-workspace?hl=en
+171. [workspace-site] Fullstory writes collaboration into its culture with Google Workspace and Gemini — https://workspace.google.com/blog/customer-stories/fullstory-collaboration-culture-with-google-workspace-and-gemini?hl=en
+172. [gemini-models] Gemini 3.7 Flash: our most intelligent workhorse model — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/
+173. [admin-console] Gemini AI features now included in Google Workspace subscriptions  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-ai-features-now-included-in-google-workspace-subscriptions
+174. [admin-console] Gemini AI features now included in Google Workspace subscriptions  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/15756885?hl=en
+175. [workspace-site] Gemini app: Generative AI for Every Organization — https://workspace.google.com/learning/content/gemini-for-workspace-gemini-app-ebook?hl=en
+176. [gemini-apps] Gemini Apps limits & upgrades for Google AI subscribers - Gemini Apps Help — https://support.google.com/gemini/answer/16275805?hl=en
+177. [workspace-meet] Gemini can handle note-taking during Google Meet calls — https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/
+178. [gemini-apps] Gemini Drops: New updates to the Gemini app, July 2026 — https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/
+179. [gemini-enterprise] Gemini Enterprise – Business edition release notes — https://support.google.com/g/answer/16719009?hl=en
+180. [photos-ai] Gemini features in Photos privacy hub - Google Photos Help — https://support.google.com/photos/answer/15344015
+181. [appsheet] Gemini for App Creation FAQ - AppSheet Help — https://support.google.com/appsheet/answer/14797537?hl=en
+182. [workspace-learning-center] Gemini for Google Workspace cheat sheet - Google Workspace Learning Center — https://support.google.com/a/users/answer/14143478?hl=en
+183. [workspace-site] Gemini for Google Workspace Customer Resource | Google Workspace — https://workspace.google.com/learning/resources/gemini-for-google-workspace-customer-resources-hub
+184. [workspace-site] Gemini for Google Workspace privacy, security, and compliance white paper — https://workspace.google.com/learning/content/gemini-privacy-security-compliance-whitepaper?hl=en
+185. [workspace-site] Gemini for Google Workspace: A new and powerful way of working — https://workspace.google.com/learning/content/gemini-for-workspace-handbook?hl=en
+186. [workspace-site] Gemini for Google Workspace: Marketing magic with Gen AI — https://workspace.google.com/learning/content/gemini-for-marketing-handbook?hl=en
+187. [workspace-site] Gemini for Google Workspace: Sales success with Gen AI — https://workspace.google.com/learning/content/sales-handbook-gemini-for-google-workspace?hl=en
+188. [workspace-site] Gemini for Google Workspace: Setting a new standard for customer service — https://workspace.google.com/learning/content/gemini-for-gws-cserv-handbook-24?hl=en
+189. [chrome-ai] Gemini in Chrome availability - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/17140089?hl=en
+190. [gmail] Gemini in Gmail — https://workspace.google.com/intl/en_ca/products/gmail/ai?hl=en
+191. [gmail] Gemini in Gmail — https://workspace.google.com/products/gmail/ai?hl=en
+192. [workspace-site] Gemini in Google Meet — https://workspace.google.com/intl/en_ca/resources/ai-for-meetings?hl=en
+193. [workspace-site] Gemini in Google Meet — https://workspace.google.com/intl/en_uk/resources/ai-for-meetings?hl=en
+194. [workspace-site] Gemini in Google Meet — https://workspace.google.com/resources/ai-for-meetings?hl=en
+195. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/intl/en_ca/resources/spreadsheet-ai?hl=en
+196. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/intl/en_uk/resources/spreadsheet-ai?hl=en
+197. [workspace-site] Gemini in Google Sheets — https://workspace.google.com/resources/spreadsheet-ai?hl=en
+198. [workspace-site] Gemini in Google Sheets just achieved state-of-the-art performance — https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/
+199. [workspace-developers] Gemini in Workspace Apps Activity Events Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/admin/reports/v1/appendix/activity/gemini-in-workspace-apps?hl=en
+200. [google-vids] Gemini Omni 1.2 Flash now in Vids with 15-second generations and improved quality — https://workspaceupdates.googleblog.com/2026/11/gemini-omni-12-flash-now-in-vids-with-15second-generations-and-improved-quality.html
+201. [gemini-apps] Gemini Spark updates: macOS launch, connected apps and more — https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/
+202. [drive] Gemini-powered data classification in Google Drive is now generally available — https://workspaceupdates.googleblog.com/2026/11/gemini-powered-data-classification-in-Google-Drive-is-now-generally-available.html
+203. [gmail] GeminiÂ inÂ Gmail — https://workspace.google.com/intl/en_uk/products/gmail/ai?hl=en
+204. [slides] Generate & edit images with Gemini in Google Slides & Vids - Google Docs Editors Help — https://support.google.com/docs/answer/13951829?hl=en
+205. [notebooklm] Generate a Slide Deck in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16757456?hl=en
+206. [slides] Generate a slide with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/16961475?hl=en
+207. [external_drawio] Generate and validate draw.io diagrams with AI — https://www.drawio.com/docs/reference/diagram-generation/
+208. [notebooklm] Generate Audio Overview in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16212820?hl=en
+209. [slides] Generate presentations with Gemini in Google Slides - Google Docs Editors Help — https://support.google.com/docs/answer/17111393?hl=en
+210. [forms] Generate questions with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16362810?hl=en
+211. [notebooklm] Generate Video Overviews in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16454555?hl=en
+212. [gemini-apps] Generate videos with Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/16126339
+213. [workspace-site] Generative AI for presentations — https://workspace.google.com/intl/en_ca/resources/presentation-ai?hl=en
+214. [workspace-site] Generative AI for presentations — https://workspace.google.com/resources/presentation-ai?hl=en
+215. [workspace-learning-center] Generative AI training & help - Google Workspace Learning Center — https://support.google.com/a/users/answer/14506784?hl=en
+216. [workspace-site] GenerativeÂ AI for presentations — https://workspace.google.com/intl/en_uk/resources/presentation-ai?hl=en
+217. [forms] Get actionable insights with Gemini in Google Forms — https://workspaceupdates.googleblog.com/2026/11/get-actionable-insights-with-gemini-in-Google-Forms.html
+218. [search-ai] Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/16011537
+219. [search-ai] Get AI-powered responses with AI Mode in Google Search - Computer - Google Search Help — https://support.google.com/websearch/answer/16420827
+220. [gmail] Get an AI Overview in Gmail search - Computer - Gmail Help — https://support.google.com/mail/answer/16789526
+221. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/intl/en_ca/products/docs/ai?hl=en
+222. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/intl/en_uk/products/docs/ai?hl=en
+223. [docs-editors] Get more done with Gemini in Docs — https://workspace.google.com/products/docs/ai?hl=en
+224. [chat] Get started with Ask Gemini in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/17036303?hl=en
+225. [gemini-apps] Get Started with Gemini Go - Gemini Apps Help — https://support.google.com/gemini/answer/17079170
+226. [drive] Get started with Gemini in Google Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16686008
+227. [gemini-apps] Get started with Gems in Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/15236321
+228. [google-vids] Get started with Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15082958
+229. [workspace-studio] Get started with Google Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16444479?hl=en
+230. [calendar] Get started with Google Workspace with Gemini - Business / Enterprise - Google Calendar Help — https://support.google.com/calendar/answer/13952129
+231. [chat] Get started with Google Workspace with Gemini - Business / Enterprise - Google Chat Help — https://support.google.com/chat/answer/13952129
+232. [docs-editors] Get started with Google Workspace with Gemini - Business / Enterprise - Google Docs Editors Help — https://support.google.com/docs/answer/13952129?hl=en
+233. [chrome-ai] Get started with Help me write in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/14582048
+234. [android-ai] Get started with the Gemini mobile app - Android - Android Help — https://support.google.com/android/answer/14554984
+235. [notebooklm] Get started with the NotebookLM mobile app - iPhone & iPad - NotebookLM Help — https://support.google.com/notebooklm/answer/16296687?hl=en&co=GENIE.Platform%3DiOS
+236. [workspace-studio-admin] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/get-started-workspace-studio-set-up-guide-for-admins
+237. [workspace-studio] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/manage-access-to-steps-and-starters-in-workspace-studio
+238. [admin-console] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://support.google.com/a/answer/16704187?hl=en
+239. [admin-console] Get started: Workspace Studio set up guide for admins  |  Google Workspace Help — https://support.google.com/a/answer/16796372?hl=en
+240. [drive] Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/15141241?hl=en
+241. [drive] Get updates & summaries on your files with Gemini in Drive - Computer - Google Drive Help — https://support.google.com/drive/answer/16686465?hl=en
+242. [chrome-ai] Go Live with Gemini in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16363185
+243. [google-ai] Google AI announcements from July 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/
+244. [google-ai] Google AI announcements from June 2026 — https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/
+245. [ai-studio] Google AI Studio at I/O 2026 — https://blog.google/innovation-and-ai/technology/developers-tools/google-ai-studio-io-2026/
+246. [chat-developers] Google Apps Script quickstart  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/guides/quickstart/apps-script
+247. [workspace-site] Google Chat & Meet: Team collaboration transformed by Gemini — https://workspace.google.com/learning/content/team-collaboration-transformed-by-gemini-chat-meet?hl=en
+248. [chat-developers] Google Chat app samples  |  Google for Developers — https://developers.google.com/workspace/chat/samples
+249. [workspace-site] Google Gemini Workspace Updates – March 2026 — https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/
+250. [maps-ai] Google Maps' Ask Maps gets more helpful with food ordering — https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/
+251. [meet] Google Meet on the web now supports sending 1080p video for all users, enabled by default — https://workspaceupdates.googleblog.com/2026/11/google-meet-on-web-now-supports-sending-1080p-video-for-all-users-enabled-by-default.html
+252. [workspace-site] Google Pics: AI Image Generator and Editor — Google Workspace — https://workspace.google.com/products/pics/
+253. [google-vids] Google Vids — https://workspace.google.com/blog/google-vids?hl=en
+254. [google-vids] Google Vids now lets you reuse your media in video generation — https://workspaceupdates.googleblog.com/2026/11/google-vids-now-lets-you-reuse-your-media-in-video-generation.html
+255. [workspace-site] Google Voice AI Note-Taking and New Standalone Plans — https://workspace.google.com/blog/product-announcements/google-voice-offers-ai-note-taking-and-new-subscriptions-to-help-scale-your-business
+256. [workspace-site] Google Workspace Blog — https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-are-using-ai-for-business?hl=en
+257. [workspace-developers] Google Workspace Developer Tools Stay organized with collections Save and categorize content based on your preferences. — https://developers.google.com/workspace/guides/developer-tools?hl=en
+258. [workspace-site] Google Workspace enables the future of AI-powered work for every business — https://workspace.google.com/blog/product-announcements/empowering-businesses-with-ai?hl=en
+259. [workspace-site] Google Workspace extends Gemini benefits to millions of customers — https://workspace.google.com/blog/product-announcements/google-workspace-extends-gemini-benefits-to-more-customers?hl=en
+260. [workspace-developers] Google Workspace standardized model for agent tools and APIs — https://developers.google.com/workspace/tools-safety
+261. [workspace-studio] Google Workspace Studio cheat sheet - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430708
+262. [workspace-studio] Google Workspace Studio training and help - Google Workspace Learning Center — https://support.google.com/a/users/answer/16275487
+263. [workspace-studio] Google Workspace Studio: Automate Workflows with Agentic AI Powered by Gemini — https://workspace.google.com/studio/
+264. [workspace-site] Google Workspace with Gemini allows MERGE to build a more innovative, effective, and creative team — https://workspace.google.com/blog/customer-stories/google-workspace-gemini-allows-merge-build-innovative-effective-and-creative-team?hl=en
+265. [admin-console] Google Workspace with Gemini FAQ for Business  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-for-google-workspace-faq-business
+266. [admin-console] Google Workspace with Gemini FAQ for Business  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/14130944?hl=en
+267. [admin-console] Google Workspace with Gemini FAQ for Education  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/gemini-for-google-workspace-faq-education
+268. [admin-console] Google Workspace with Gemini  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/google-workspace-with-gemini
+269. [workspace-site] Google Workspace with Gemini: 128 ways our customers are transforming how they work with AI — https://workspace.google.com/blog/ai-and-machine-learning/how-our-customers-transform-work-with-ai?hl=en
+270. [workspace-site] Google Workspace: AI-powered collaboration for organizations of all sizes — https://workspace.google.com/learning/content/ai-powered-collaboration?hl=en
+271. [workspace-site] Google Workspace: AI-powered collaboration for organizations of all sizes — https://workspace.google.com/learning/content/google-workspace-ai-powered-collaboration-for-organizations-of-all-sizes?hl=en
+272. [chat] Granular space creation restrictions now available in Google Chat — https://workspaceupdates.googleblog.com/2026/08/granular-space-creation-restrictions-now-available-in-Google-Chat.html
+273. [workspace-studio] Guide to Starters & Steps in Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765661?hl=en
+274. [workspace-site] Help, not hype: AI built for how you actually work — https://workspace.google.com/blog/product-announcements/gemini-for-help-not-hype?hl=en
+275. [gemini-models] How 5 builders are using Gemini Omni — https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/
+276. [workspace-site] How AI is giving small businesses a major advantage — https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-giving-small-businesses-a-major-advantage?hl=en
+277. [workspace-site] How AI is helping me have better meetings — https://workspace.google.com/blog/ai-and-machine-learning/how-ai-is-helping-me-have-better-meetings?hl=en
+278. [maps-ai] How AI-powered features use your data in Google Maps - Google Maps Help — https://support.google.com/maps/answer/16833938
+279. [notebooklm] How Augustana University is building its future with Google Workspace and NotebookLM — https://workspace.google.com/blog/customer-stories/augustana-university-building-future-with-google-workspace-and-notebooklm?hl=en
+280. [workspace-site] How Flashpoint is building a productive, happy workforce with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/how-flashpoint-builds-productive-happy-workforce-gemini-google-workspace?hl=en
+281. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/ai/customers?hl=en
+282. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/intl/en_ca/ai/customers?hl=en
+283. [workspace-site] How Google AI is Used for Business | Google Workspace — https://workspace.google.com/intl/en_uk/ai/customers?hl=en
+284. [admin-console] How Google Workspace with Gemini billing works  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/how-google-workspace-with-gemini-billing-works
+285. [workspace-studio] How Google Workspace with Gemini helps protect users from malicious content and prompt injection - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16204578
+286. [workspace-site] How MEDITECH is integrating Gemini into highly regulated healthcare workflows — https://workspace.google.com/blog/customer-stories/how-meditech-integrating-gemini-highly-regulated-healthcare-workflows?hl=en
+287. [workspace-site] How Pepperdine University, Pennymac, and Adore Me use Gemini for Google Workspace to focus on what they do best — https://workspace.google.com/blog/customer-stories/how-customers-use-gemini-google-workspace-focus-what-they-do-best?hl=en
+288. [google-vids] How to create professional work videos with AI avatars in Google Vids — https://workspace.google.com/blog/ai-and-machine-learning/how-to-create-professional-work-videos-with-ai-avatars-in-google-vids
+289. [gemini-apps] How to use Gems - Gemini Apps Help — https://support.google.com/gemini/answer/15236405
+290. [workspace-site] How we're protecting your Google Workspace data in the era of generative AI — https://workspace.google.com/blog/identity-and-security/protecting-your-data-era-generative-ai?hl=en
+291. [workspace-site] Hydro Ottawa lights up the future of work with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/hydro-ottawa-lights-future-work-gemini-google-workspace?hl=en
+292. [workspace-learning-center] Improve & polish your writing - Google Workspace Learning Center — https://support.google.com/a/users/answer/14512929
+293. [chat] Improve your Chat messages with Refine - Google Chat Help — https://support.google.com/chat/answer/16512046
+294. [workspace-site] Incubeta drives AI performance with adoption of Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/incubeta-drives-ai-performance-with-gemini-google-workspace?hl=en
+295. [chat] Introducing Ask Gemini in Chat: your new partner in productivity — https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html
+296. [workspace-site] Introducing Duet AI for Google Workspace — https://workspace.google.com/blog/product-announcements/duet-ai?hl=en
+297. [gemini-models] Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber — https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/
+298. [gemini-models] Introducing Gemini 4 Hydrogen — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+299. [gemini-models] Introducing Gemini 4 Neon — https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+300. [workspace-site] Introducing Gemini Omni Flash in Google Vids — Google Workspace Blog — https://workspace.google.com/blog/product-announcements/introducing-gemini-omni-flash-in-google-vids
+301. [workspace-site] Introducing Workspace Intelligence — https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence
+302. [workspace-site] Join our upcoming digital event, Gemini at Work : Unveiling the future of AI-powered productivity — https://workspace.google.com/blog/events/six-sessions-to-attend-gemini-at-work?hl=en
+303. [workspace-site] July Workspace Drop: New AI features, Veo 3, and more — https://workspace.google.com/blog/product-announcements/july-workspace-feature-drop-veo-3-drive-video-summaries
+304. [workspace-site] July Workspace Drops: Create engaging presentations, draft docs faster, and work on-the-go — Google Workspace Blog — https://workspace.google.com/blog/product-announcements/july-2026-workspace-feature-drop
+305. [workspace-site] June 2026 Workspace Drops: AI updates for Drive, Sheets, and Gmail — https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
+306. [workspace-site] June Workspace Drop: Create with Veo 3 in Google Vids and connect the Gemini app with Google Workspace — https://workspace.google.com/blog/product-announcements/june-workspace-drop-create-veo-3-google-vids-and-connect-gemini-app
+307. [workspace-site] June Workspace Drops: AI updates for Drive, Sheets, and Gmail — https://workspace.google.com/blog/product-announcements/june-2026-workspace-feature-drop
+308. [youtube-ai] Learn about Ask Studio in YouTube Studio - YouTube Help — https://support.google.com/youtube/answer/16291691
+309. [google-vids] Learn about availability of Gemini features in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15609411
+310. [gmail] Learn about Gemini features in Gmail - Gmail Help — https://support.google.com/mail/answer/16831098?hl=en
+311. [search-ai] Learn about generative AI - Google Search Help — https://support.google.com/websearch/answer/13954172
+312. [workspace-studio] Learn about Google Workspace Studio limits - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16765942
+313. [photos-ai] Learn about information stored on your photos - Computer - Google Photos Help — https://support.google.com/photos/answer/15532903
+314. [notebooklm] Learn about NotebookLM - Computer - NotebookLM Help — https://support.google.com/notebooklm/answer/16164461?hl=en
+315. [sheets] Learn about prompts for Gemini in Docs, Sheets, Slides, Vids & Forms - Google Docs Editors Help — https://support.google.com/docs/answer/15013615
+316. [workspace-studio] Learn about smart features & controls for Google Workspace & other Google products - Computer - Workspace Studio Help — https://support.google.com/workspace-studio/answer/15604322
+317. [chat] Learn about spaces - Google Chat Help — https://support.google.com/chat/answer/7659784
+318. [calendar] Learn how to schedule events in Gmail - Google Calendar Help — https://support.google.com/calendar/answer/16865706
+319. [youtube-ai] Learn more about the conversational AI tool when watching videos - Computer - YouTube Help — https://support.google.com/youtube/answer/14110396
+320. [drive] Learn to use Gemini in your Google Drive files (Workspace Experiments) - Google Drive Help — https://support.google.com/drive/answer/15095275?hl=en
+321. [google-ai] Learn Vibe Coding with the Google AI Certificate — https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/
+322. [calendar] Let Gemini in Google Calendar find times to meet - Google Calendar Help — https://support.google.com/calendar/answer/16690875?hl=en
+323. [chat-developers] Make messages in Google Chat from apps and agents easier to read with tables and headings — https://workspaceupdates.googleblog.com/2026/11/make-messages-in-google-chat-from-apps-and-agents-easier-to-read-with-tables-and-headings.html
+324. [workspace-studio] Manage & share your flows in Google Workspace Studio - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16766368?hl=en-GB
+325. [admin-console] Manage access to Gemini features in Workspace services  |  Generative AI  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/workspace-with-gemini/manage-access-to-gemini-features-in-workspace-services
+326. [admin-console] Manage access to Gemini features in Workspace services  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/15698295?hl=en
+327. [chrome-ai] Manage on-device Generative AI models in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16961953
+328. [chat-developers] Manage projects with Google Chat, Vertex AI, and Firestore  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-project-management
+329. [chat] Manage space settings - Computer - Google Chat Help — https://support.google.com/chat/answer/13340792
+330. [external_drawio] Manually edit the XML source of your draw.io diagram — https://www.drawio.com/docs/manual/advanced/diagram-source-edit/
+331. [workspace-site] MAS gets more out of its creative workflows using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/mas-gets-more-out-its-creative-workflows-using-gemini?hl=en
+332. [workspace-site] May 2026 Workspace Drops — https://workspace.google.com/blog/product-announcements/may-workspace-drops
+333. [chat-developers] MCP Reference: chatmcp.googleapis.com  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/reference/mcp
+334. [chat] Meet app for Google Chat Turndown - Google Chat Help — https://support.google.com/chat/answer/7655908
+335. [workspace-site] Mercer International unlocks $3 million a year in productivity gains using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/mercer-international-productivity-gains-google-workspace-gemini?hl=en
+336. [chat-developers] Method: spaces.messages.create  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/api/reference/rest/v1/spaces.messages/create
+337. [workspace-studio] Navigate the Workspace Studio interface - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16447677
+338. [gemini-apps] New connected apps are coming to Gemini — https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/
+339. [workspace-site] New global research: The AI disconnect and how leaders can translate optimism into measurable impact — https://workspace.google.com/blog/ai-and-machine-learning/research-ai-beyond-time-savings?hl=en
+340. [workspace-site] New in Gemini: Gems with deeper knowledge and business context — https://workspace.google.com/blog/product-announcements/new-gemini-gems-deeper-knowledge-and-business-context?hl=en
+341. [notebooklm] New study enhancements for Flashcards in Gemini Notebook — https://workspaceupdates.googleblog.com/2026/11/new-study-enhancements-for-flashcards-in-Gemini-Notebook.html
+342. [workspace-site] New ways to create and get stuff done in Google Workspace — https://blog.google/products-and-platforms/products/workspace/workspace-updates/
+343. [notebooklm] NotebookLM for business — https://workspace.google.com/intl/en_ca/products/notebooklm?hl=en
+344. [notebooklm] NotebookLM for business — https://workspace.google.com/intl/en_uk/products/notebooklm?hl=en
+345. [notebooklm] NotebookLM for business — https://workspace.google.com/products/notebooklm?hl=en
+346. [notebooklm] Notebooks in Gemini Apps — Gemini Notebook Help — https://support.google.com/notebooklm/answer/17003757
+347. [workspace-site] Now Available: Duet AI for Google Workspace — https://workspace.google.com/blog/product-announcements/duet-ai-in-workspace-now-available?hl=en
+348. [appsheet] Overview of AI in automations - AppSheet Help — https://support.google.com/appsheet/answer/16045284?hl=en
+349. [google-vids] Plan your video story with AI in Google Vids (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15067812?hl=en
+350. [google-vids] Plan your video with AI in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/15067819
+351. [workspace-site] Prompt like a pro in Google Workspace with Gemini — https://workspace.google.com/learning/content/gemini-prompt-guide?hl=en
+352. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-communications?hl=en
+353. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-executives?hl=en
+354. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-frontline-management?hl=en
+355. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-hr?hl=en
+356. [workspace-site] Prompting guide 101 — https://workspace.google.com/intl/en_uk/resources/ai/prompts-for-marketing?hl=en
+357. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-administrators?hl=en
+358. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-communications?hl=en
+359. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-customer-service?hl=en
+360. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-executives?hl=en
+361. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-frontline-management?hl=en
+362. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-hr?hl=en
+363. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-marketing?hl=en
+364. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-project-management?hl=en
+365. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-sales?hl=en
+366. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-small-business?hl=en
+367. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/prompts-for-startups?hl=en
+368. [workspace-site] Prompting guide 101 — https://workspace.google.com/resources/ai/writing-effective-prompts?hl=en
+369. [workspace-site] Questrade Financial Group transforms productivity using Google Workspace with Gemini — https://workspace.google.com/blog/customer-stories/questrade-financial-group-transforms-productivity-gemini-google-workspace?hl=en
+370. [appsheet] Quick start: Extract information from an image using AI - AppSheet Help — https://support.google.com/appsheet/answer/15985259
+371. [apps-script-ai] Quickstart: Generate text using Agent Platform  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/quickstart/vertex-ai
+372. [chat-developers] Receive and respond to interaction events  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/interaction-events
+373. [chat-developers] Receive and respond to interaction events  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/receive-respond-interactions
+374. [google-vids] Record presentations in Google Slides with Google Vids — https://workspaceupdates.googleblog.com/2026/08/record-presentations-in-google-slides-with-Google-Vids.html
+375. [chat-developers] Respond to Google Chat app commands  |  Google for Developers — https://developers.google.com/workspace/chat/commands
+376. [chat-developers] Respond to Google Chat app commands  |  Google for Developers — https://developers.google.com/workspace/chat/slash-commands
+377. [chat-developers] Respond to incidents with Google Chat, Vertex AI, and Google Apps Script  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-incident-response-app-auth
+378. [chat-developers] Respond to incidents with Google Chat, Vertex AI, Apps Script, and user authentication  |  Google Workspace add-ons  |  Google for Developers — https://developers.google.com/workspace/chat/tutorial-incident-response
+379. [workspace-learning-center] Role-specific prompts & use cases - Google Workspace Learning Center — https://support.google.com/a/users/answer/14667148
+380. [meet] Rooms "More actions" Panel Reordering — https://workspaceupdates.googleblog.com/2026/11/rooms-more-actions-panel-reordering.html
+381. [workspace-site] Scale AI adoption with AI Boost Bootcamp — https://workspace.google.com/blog/ai-and-machine-learning/scale-ai-adoption-with-ai-boost-bootcamp?hl=en
+382. [workspace-studio] Scale customized AI across your team with skills in Google Workspace and Workspace Studio — https://workspaceupdates.googleblog.com/2026/11/skills-in-workspace.html
+383. [gemini-apps] Schedule actions in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/16316416
+384. [chat] Schedule meetings in a single click from conversations in Google Chat — https://workspaceupdates.googleblog.com/2026/11/schedule-meetings-in-single-click-from-conversations-in-Google-Chat.html
+385. [drive] Search & retrieve your files in Drive with Gemini - Computer - Google Drive Help — https://support.google.com/drive/answer/16685111
+386. [chrome-ai] Search with Google Lens in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/15086890
+387. [chrome-ai] Search your browsing history in Chrome with AI - Google Chrome Help — https://support.google.com/chrome/answer/15305774
+388. [chrome-ai] Search your Chrome history with Gemini in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/16716225
+389. [chat-developers] Send a message using the Google Chat API  |  Google for Developers — https://developers.google.com/workspace/chat/create-messages
+390. [workspace-studio-admin] Set up activity alerts for Workspace Studio  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/set-up-activity-alerts-for-workspace-studio
+391. [gemini-apps] Share skills and add files from Google Drive, Gemini Notebook and Google Photos to your skills in the Gemini app — https://workspaceupdates.googleblog.com/2026/11/share-skills-add-files-from-Drive-Notebook-Photos-to-skills-Gemini-app.html
+392. [workspace-site] Simplify your move to Google Workspace: New Migration & Interoperability Features — https://workspace.google.com/blog/productivity-collaboration/simplify-the-move-to-google-workspace-with-new-migration-and-interoperability-features
+393. [workspace-developers] Simplifying agent access while keeping organizations in control: MCP servers, CLI, standardized usage tiers, and admin policies — https://workspaceupdates.googleblog.com/2026/11/mcp-servers-cli-standardized-usage-tiers-now-available.html
+394. [workspace-learning-center] Start with a great prompt - Google Workspace Learning Center — https://support.google.com/a/users/answer/14590328
+395. [chat-developers] Starter prompts and descriptions for Google Chat apps and agents — https://workspaceupdates.googleblog.com/2026/11/starter-prompts-and-descriptions-for-Google-Chat-apps-and-agents.html
+396. [workspace-studio-admin] Stop a Workspace Studio flow as an admin  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/studio/stop-a-workspace-studio-flow-as-an-admin
+397. [calendar] Suggest times to meet with Gemini in Gmail - Google Calendar Help — https://support.google.com/calendar/answer/16865189?hl=en
+398. [forms] Summarize & analyze responses with Gemini in Google Forms (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16232990?hl=en
+399. [forms] Summarize & analyze responses with Gemini in Google Forms - Google Docs Editors Help — https://support.google.com/docs/answer/16231981?hl=en
+400. [chat] Summarize chats in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/12918975
+401. [keep] Supported languages for Google Workspace with Gemini - Google Keep Help — https://support.google.com/keep/answer/14925782?hl=en
+402. [meet] Supported languages for Google Workspace with Gemini - Google Meet Help — https://support.google.com/meet/answer/14925782
+403. [workspace-site] Supporting our EU customers with their DPIAs: Google's commitment to privacy and security with Google Workspace with Gemini — https://workspace.google.com/blog/identity-and-security/dpia-support-for-google-workspace-with-gemini?hl=en
+404. [workspace-site] Supporting Your Data Protection Impact Assessment (DPIA) for Google Workspace with Gemini — https://workspace.google.com/learning/content/gemini-dpia-support-guide?hl=en
+405. [sheets] Tables in Google Sheets with Gemini (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/16538433?hl=en
+406. [workspace-studio] Take actions in third-party services with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16658279?hl=en
+407. [meet] Take notes for me in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/14754931?hl=en
+408. [workspace-studio] Test run a flow before you turn it on - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16663517
+409. [gemini-apps] The Gemini app becomes more agentic, delivering proactive, 24/7 help — https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/
+410. [workspace-site] The real impact of AI at work — https://workspace.google.com/ai/business-transformation?hl=en
+411. [workspace-site] The real impact of AI at work — https://workspace.google.com/intl/en_ca/ai/business-transformation?hl=en
+412. [workspace-site] The real impact of AI at work — https://workspace.google.com/intl/en_uk/ai/business-transformation?hl=en
+413. [workspace-site] Thoughtworks: Boosting productivity, professionalism, and collaboration with Gemini for Google Workspace — https://workspace.google.com/blog/customer-stories/thoughtworks-gemini-google-workspace?hl=en
+414. [gemini-apps] Tips for creating custom Gems - Gemini Apps Help — https://support.google.com/gemini/answer/15235603
+415. [workspace-learning-center] Tips for research and development - Google Workspace Learning Center — https://support.google.com/a/users/answer/9283136
+416. [workspace-studio] Tips to create flows with AI - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430486
+417. [workspace-studio] Tips to create flows with conditional steps - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16431010?hl=en
+418. [workspace-studio] Tips to use AI steps in flows - Google Workspace Learning Center — https://support.google.com/a/users/answer/16431105
+419. [workspace-studio] Tips to use AI steps in flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16431105?hl=en
+420. [workspace-learning-center] Tips to write prompts for Gemini - Google Workspace Learning Center — https://support.google.com/a/users/answer/14200040
+421. [notebooklm] Transform your notes and research into dynamic tools with Gemini Notebook — https://workspaceupdates.googleblog.com/2026/11/transform-your-notes-and-research-into-dynamic-tools-with-Gemini-Notebook.html
+422. [workspace-site] Transforming HR workflows with AI — https://workspace.google.com/blog/ai-and-machine-learning/turing-transforming-hr-workflows-ai?hl=en
+423. [workspace-studio] Troubleshoot issues with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16430806
+424. [google-vids] Try Google Vids for business — https://workspace.google.com/intl/en_ca/products/vids/for-work?hl=en
+425. [google-vids] Try Google Vids for business — https://workspace.google.com/intl/en_uk/products/vids/for-work?hl=en
+426. [google-vids] Try Google Vids for business — https://workspace.google.com/products/vids/for-work?hl=en
+427. [admin-console] Turn access to Google Workspace with Gemini alpha on or off  |  Generative AI  |  Google Workspace Help — https://support.google.com/a/answer/14170809?hl=en-IE
+428. [admin-console] Turn Gemini Enterprise on or off for users  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-enterprise/turn-gemini-enterprise-on-or-off-for-users
+429. [admin-console] Turn the Gemini App on or off  |  Google Workspace Help — https://knowledge.workspace.google.com/admin/generative-ai/gemini-app/turn-the-gemini-app-on-or-off
+430. [youtube-ai] Understanding ‘How this content was made’ disclosures on YouTube - YouTube Help — https://support.google.com/youtube/answer/15447836
+431. [notebooklm] Unleashing the power of NotebookLM: Your AI research and learning companion — https://workspace.google.com/learning/content/google-workspace-notebooklm-ebook?hl=en
+432. [notebooklm] Upgrade NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16206866?hl=en
+433. [notebooklm] Upgrade NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16213268?hl=en
+434. [chat-developers] Usage limits  |  Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/limits
+435. [gemini-apps] Use & manage Connected Apps in Gemini - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/13695044
+436. [chrome-ai] Use AI Mode in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16704170
+437. [search-ai] Use AI Mode to check local availability and pricing - Computer - Google Search Help — https://support.google.com/websearch/answer/17104441
+438. [photos-ai] Use AI to create with Google Photos - Android - Google Photos Help — https://support.google.com/photos/answer/16763021
+439. [google-vids] Use AI to generate video clips in Google Vids - Google Docs Editors Help — https://support.google.com/docs/answer/16143507
+440. [chrome-ai] Use AI to search & ask about your tabs - Google Chrome Help — https://support.google.com/chrome/answer/17025061
+441. [chat] Use an AI Overview in Google Chat - Google Chat Help — https://support.google.com/chat/answer/16944767
+442. [gemini-apps] Use apps connected to Gemini with a work or school Google Account - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/14959807?hl=en
+443. [chat] Use apps in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/7655820
+444. [photos-ai] Use Ask Photos for photos, information & assistance - Computer - Google Photos Help — https://support.google.com/photos/answer/15318661
+445. [youtube-ai] Use automatic dubbing - Computer - YouTube Help — https://support.google.com/youtube/answer/15569972
+446. [notebooklm] Use chat in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16179559?hl=en
+447. [gemini-apps] Use Deep Research in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/15719111?hl=en
+448. [sheets] Use enhanced Smart Fill with AI in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/14001183
+449. [sheets] Use enhanced Smart Fill with Gemini in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/14226603
+450. [android-ai] Use Gemini - Android Help — https://support.google.com/android/answer/15729107
+451. [android-ai] Use Gemini Apps - Computer - Android Help — https://support.google.com/android/answer/13275745
+452. [gemini-apps] Use Gemini Apps with a work or school Google Account - Business / Enterprise - Gemini Apps Help — https://support.google.com/gemini/answer/14620100?hl=en
+453. [workspace-learning-center] Use Gemini for human resources - Google Workspace Learning Center — https://support.google.com/a/users/answer/14171678
+454. [workspace-learning-center] Use Gemini for marketing - Google Workspace Learning Center — https://support.google.com/a/users/answer/14196644
+455. [workspace-learning-center] Use Gemini for nonprofits - Google Workspace Learning Center — https://support.google.com/a/users/answer/14571258
+456. [workspace-learning-center] Use Gemini for sales - Google Workspace Learning Center — https://support.google.com/a/users/answer/14190391
+457. [appsheet] Use Gemini in AppSheet - AppSheet Help — https://support.google.com/appsheet/answer/16106353?hl=en
+458. [chrome-ai] Use Gemini in Chrome - Computer - Google Chrome Help — https://support.google.com/chrome/answer/16283624
+459. [drive] Use Gemini in Drive for research & analysis - Computer - Google Drive Help — https://support.google.com/drive/answer/16963068?co=GENIE.Platform%3DDesktop&hl=en-en-4
+460. [gemini-apps] Use Gemini Spark to manage your tasks & workflows in Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17094507
+461. [gemini-apps] Use Gemini Spark to manage your tasks and workflows in Gemini Apps — https://support.google.com/gemini/answer/17094507
+462. [admin-console] Use Gemini to help manage Google Workspace for your organization — https://workspaceupdates.googleblog.com/2026/08/use-gemini-to-help-manage-google-Workspace-for-your-organization.html
+463. [maps-ai] Use Gemini while you navigate - Android - Google Maps Help — https://support.google.com/maps/answer/6041199
+464. [gemini-apps] Use Gems in Gemini Apps - Computer - Gemini Apps Help — https://support.google.com/gemini/answer/15146780?hl=en
+465. [workspace-learning-center] Use generative AI at work - Google Workspace Learning Center — https://support.google.com/a/users/answer/14628736?hl=en
+466. [workspace-site] Use generative AI for customer service — https://workspace.google.com/intl/en_ca/solutions/ai/customer-service?hl=en
+467. [workspace-site] Use generative AI for customer service — https://workspace.google.com/intl/en_uk/solutions/ai/customer-service?hl=en
+468. [workspace-site] Use generative AI for customer service — https://workspace.google.com/solutions/ai/customer-service?hl=en
+469. [workspace-site] Use generative AI for HR — https://workspace.google.com/intl/en_ca/solutions/ai/hr?hl=en
+470. [workspace-site] Use generative AI for HR — https://workspace.google.com/intl/en_uk/solutions/ai/hr?hl=en
+471. [workspace-site] Use generative AI for HR — https://workspace.google.com/solutions/ai/hr?hl=en
+472. [workspace-site] Use generative AI for marketing — https://workspace.google.com/intl/en_ca/solutions/ai/marketing?hl=en
+473. [workspace-site] Use generative AI for marketing — https://workspace.google.com/intl/en_uk/solutions/ai/marketing?hl=en
+474. [workspace-site] Use generative AI for marketing — https://workspace.google.com/solutions/ai/marketing?hl=en
+475. [workspace-site] Use generative AI for sales — https://workspace.google.com/intl/en_ca/solutions/ai/sales?hl=en
+476. [workspace-site] Use generative AI for sales — https://workspace.google.com/intl/en_uk/solutions/ai/sales?hl=en
+477. [workspace-site] Use generative AI for sales — https://workspace.google.com/solutions/ai/sales?hl=en
+478. [workspace-studio] Use Google Workspace Studio with a screen reader - Workspace Studio Help — https://support.google.com/workspace-studio/answer/17119624
+479. [workspace-developers] Use Large Language Models (LLMs) to develop on Google Workspace — https://developers.google.com/workspace/guides/build-with-llms
+480. [notebooklm] Use Mind Maps in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16212283?hl=en
+481. [notebooklm] Use NotebookLM with a work or school Google account - NotebookLM Help — https://support.google.com/notebooklm/answer/16337734?hl=en
+482. [notebooklm] Use public notebooks and featured notebooks in NotebookLM - NotebookLM Help — https://support.google.com/notebooklm/answer/16322204?hl=en
+483. [gmail] Use Suggested Replies in Gmail (Workspace Experiments) - Computer - Gmail Help — https://support.google.com/mail/answer/15464222
+484. [sheets] Use the AI function in Google Sheets (Workspace Experiments) - Google Docs Editors Help — https://support.google.com/docs/answer/15820999?hl=en
+485. [sheets] Use the AI function in Google Sheets - Google Docs Editors Help — https://support.google.com/docs/answer/15877199
+486. [chat] Use the Bulk Member Manager app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/14016224
+487. [appsheet] Use the Categorize AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/15983005?hl=en
+488. [appsheet] Use the Extract AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/15969430?hl=en
+489. [chrome-ai] Use the Gemini web app to get answers in Chrome - Google Chrome Help — https://support.google.com/chrome/answer/14886647
+490. [chat] Use the Jenkins app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9632691
+491. [chat] Use the Jira app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9575067
+492. [chat] Use the PagerDuty app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/12156602
+493. [workspace-learning-center] Use the side panel to collaborate with Gemini - Google Workspace Learning Center — https://support.google.com/a/users/answer/15146419?hl=en
+494. [appsheet] Use the Summarize AI task in an automation - AppSheet Help — https://support.google.com/appsheet/answer/16468184?hl=en
+495. [chat] Use the Zapier app in Google Chat - Computer - Google Chat Help — https://support.google.com/chat/answer/9470843
+496. [meet] Use translated captions in Google Meet - Computer - Google Meet Help — https://support.google.com/meet/answer/10964115
+497. [workspace-studio] Use variables to pass data in your flow - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16448468
+498. [chat-developers] Verify requests from Google Chat  |  Google for Developers — https://developers.google.com/workspace/chat/verify-requests-from-chat
+499. [apps-script-ai] Vertex AI Service  |  Apps Script  |  Google for Developers — https://developers.google.com/apps-script/advanced/vertex-ai
+500. [admin-console] View Google Chat usage metrics in Gemini reports dashboard — https://workspaceupdates.googleblog.com/2026/08/view-google-chat-usage-metrics-in-Gemini-reports-dashboard.html
+501. [workspace-studio] Watch and manage sheets with flows - Workspace Studio Help — https://support.google.com/workspace-studio/answer/16655443
+502. [workspace-site] WebFX: Powering collaboration, innovation, and idea generation with Duet AI in Google Workspace — https://workspace.google.com/blog/customer-stories/how-webfx-uses-duet-ai?hl=en
+503. [workspace-site] Welcome to Beyond the prompt : Our new series on getting the most out of Gemini for Workspace — https://workspace.google.com/blog/ai-and-machine-learning/welcome-to-beyond-the-prompt?hl=en
+504. [chrome-enterprise-ai] Welcome to Gemini in Chrome - Chrome Enterprise and Education Help — https://support.google.com/chrome/a/answer/17031592
+505. [workspace-site] What chess can teach leaders about AI enablement — https://workspace.google.com/blog/ai-and-machine-learning/what-chess-can-teach-leaders-about-ai-enablement?hl=en
+506. [workspace-studio] What you can do with Google Workspace Studio - Google Workspace Learning Center — https://support.google.com/a/users/answer/16430812
+507. [workspace-learning-center] What you'll learn - Google Workspace Learning Center — https://support.google.com/a/users/answer/14505994
+508. [gemini-apps] What's new for Gemini Spark - Gemini Apps Help — https://support.google.com/gemini/answer/17171264?hl=en
+509. [gemini-enterprise] What's new in Gemini Enterprise Agent Platform — https://cloud.google.com/blog/products/ai-machine-learning/whats-new-in-gemini-enterprise-agent-platform
+510. [workspace-site] Work is better with Gemini — https://workspace.google.com/intl/en_ca/resources/ai?hl=en
+511. [workspace-site] Work is better with Gemini — https://workspace.google.com/intl/en_uk/resources/ai?hl=en
+512. [workspace-site] Work is better with Gemini — https://workspace.google.com/resources/ai?hl=en
+513. [workspace-site] Working at the speed of fashion trends with Duet AI — https://workspace.google.com/blog/ai-and-machine-learning/working-speed-fashion-trends-duet-ai?hl=en
+514. [google-vids] Workspace Drop: New easy ways to create and share videos with AI in Google Vids — https://workspace.google.com/blog/product-announcements/workspace-drops-create-and-share-videos-with-ai-in-google-vids?hl=en
+515. [docs-editors] Write & edit with Gemini in Docs - Google Docs Editors Help — https://support.google.com/docs/answer/13951448?hl=en
+516. [gemini-apps] Write effective skills for Gemini Apps - Gemini Apps Help — https://support.google.com/gemini/answer/17102773?hl=en
+517. [youtube-ai] Your data and using AI features on YouTube - YouTube Help — https://support.google.com/youtube/answer/14772770
+518. [workspace-site] Zoppas Industries adopts Google Workspace with Gemini to boost global collaboration and efficiency — https://workspace.google.com/blog/customer-stories/zoppas-industries-workspace-with-gemini-global-collaboration-and-efficiency?hl=en
+519. [search-ai] “AI Mode” in Search Labs - Computer - Google Search Help — https://support.google.com/websearch/answer/16296315
 
 
 ---
@@ -82585,3 +82641,153 @@ The Assets section supports a variety of multimedia formats across images, video
 - Google Vids AI Limits: Learn about availability of AI features
 - Google Vids Help: Store & reuse media files in Google Vids
 - Google Vids Help: Use AI to generate video clips
+
+
+# Document 518: Introducing Gemini 4 Hydrogen
+
+Source URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/
+Product area: gemini-models
+
+Published November 12, 2026 (last updated November 16, 2026). Author: Koray Kavukcuoglu, SVP, Google DeepMind and Chief AI Architect, Google.
+
+Today, we're introducing Gemini 4 Hydrogen, bringing cutting-edge intelligence to everyone — with speed and efficiency for everyday coding and agentic workflows.
+
+While our frontier models, Gemini 4 Carbon and Gemini 4 Argon, excel at deep, long-horizon reasoning on your hardest problems, Hydrogen is built for rapid execution across diverse agentic workflows. With Hydrogen, we're also bringing Gemini 4 to everyone — for all tiers of Google AI Studio, the Gemini API, Gemini for business, the Gemini app, Google Search, and paid Google AI Pro and Ultra subscribers in Google Antigravity.
+
+Hydrogen surpasses Argon on the Artificial Analysis Intelligence Index at its default high thinking level (51 vs. 50, and reaching 54 at its highest xhigh thinking setting), while often completing tasks faster than models in its class. Gemini 4 Hydrogen is priced flat across its entire 1 million-token context window at $1.50 per million input tokens and $7.50 per million output tokens.
+
+## Unlocking efficiencies in multi-model workloads
+
+In real-world software development, while teams rely on frontier models like Carbon and Argon for deep architectural judgment when designing systems or untangling subtle bugs, they still need a fast, disciplined execution model for writing code, running tests, and verifying changes. Hydrogen is built to stand on its own as a model for everyday work — or to pair with Carbon and Argon as the high-efficiency execution engine in multi-model workflows.
+
+To help make this multi-model collaboration automatic, we're introducing Orchestrator in Google Antigravity. Rather than using a single model from start to finish, Orchestrator dynamically switches between models like Carbon and Hydrogen within the same session. On Terminal-Bench 4.0, Orchestrator reached near-Carbon task success rates while, on average, consuming 24% less quota and completing 19% faster. For workflows that require parallel agents, Carbon can act as the coordinator while Hydrogen can power worker and verifier agents to build and test changes simultaneously across isolated workspaces — helping teams ship complex projects faster without driving up token costs.
+
+## Scaling developer and enterprise workflows
+
+Beyond multi-model workflows, Hydrogen is a major standalone upgrade for teams migrating from Gemini 3.8 Flash. It delivers significant leaps in both speed and intelligence — finishing tasks 2.5 times faster at its high default setting while more than tripling Terminal-Bench 4.1 scores (57% vs. 18.2%), cutting fabricated claims by more than 5x, and adapting cleanly when a tool call fails or a search returns empty. It also matches or outperforms competing models in its class across core developer and enterprise workflows:
+
+- Iterative repository coding and debugging: Hydrogen handles issue resolution, debugging, rapid iteration, and codebase Q&A with focused, surgical edits — delivering cleaner, production-ready code without rewriting unrelated files. It outperforms similar-tier models on SWE-sweep where it has to discover and repair bugs without breaking existing code. To explore large repositories efficiently, the model excels at natively batching file-read and search calls in parallel rather than inspecting files one by one; in early testing across complex graphs, SQL, and data-heavy enterprise workflows, our partners have seen Hydrogen run 2x to 2.8x faster while reducing token usage by 12% to 23%, compared to 3.8 Flash.
+- Open-ended agentic execution: On multi-step tasks like deep research, data analysis, and broad codebase navigation, Hydrogen ranks #5 on Agent Arena, arena.ai's live benchmark. For deep domain reasoning and analysis, it leads its class on HLE-Diamond (58.8%), ranks #1 overall on Vals Tax Agent Bench (52.3%), ties for #1 on the Vals Legal Research Bench (55.8%), and leads its class on AutomationBench-AA.
+- Multimodal knowledge work: Hydrogen pairs native 1 million-token input with up to 1 million output tokens to synthesize dense PDFs, spreadsheets, charts, audio, and recorded video into polished, cited reports and structured deliverables. It outperforms other models on the new Multimodal Knowledge Agent (MKA) benchmark (53.4%) for end-to-end agentic knowledge work over complex visual files, and on Agents' Last Exam v1.1 (71.6%) for end-to-end professional workflows.
+- Web development: On tasks where speed matters to developers, like live UI prototyping, design-to-code iteration, and interactive app building, Hydrogen generates more functional, feature-complete layouts in fewer prompts.
+
+## Adaptable speed and intelligence across four thinking levels
+
+We built Gemini 4 Hydrogen for real-world usability. Hydrogen's four thinking levels — low, medium, high (default), and a new xhigh tier — offer a wide range of options across quality, latency, and cost, scaling in a smooth, predictable progression so you only wait and pay for the reasoning depth a task requires. Across thinking levels, Hydrogen matches or outperforms some of the competing models in its class while often finishing tasks faster and using fewer output tokens.
+
+## Fast, everyday help in the Gemini app and Search
+
+For consumers, Gemini 4 Hydrogen makes it easier to get things done, staying on track and following instructions more closely across multi-turn conversations.
+
+In the Gemini app, Hydrogen makes your everyday assistant even more helpful — it's better at following your guidance, calling the right tools, and getting you to a reliable output with less back-and-forth.
+
+- Ready-to-go writing, research, and everyday work: Hydrogen sticks closely to your tone, format, and specific rules, so email drafts, study guides, rewrites, and documents come back ready to use on the first try. When you are comparing products or synthesizing dense material, it pulls together clear tables and visual breakdowns without dropping key details.
+- Connects the dots and gets more tasks done: Hydrogen breaks down your goal step-by-step, pulling relevant context from your uploads, Google apps like Gmail and Google Drive, and Connected Apps like Airtable and Dropbox. When you start a task in Gemini, it also more frequently calls the right tools and skills for the job, helping save you time as you check things off your to-do list.
+- Everyday prototyping and iteration: For exploring and testing ideas, Hydrogen generates clean, working layouts in fewer prompts, making it easy to prototype and refine interactive projects quickly, like synthesizing real-time global lightning strike data into an interactive 3D globe.
+
+Hydrogen is significantly upgrading Search, delivering more helpful, intuitive responses for all users globally.
+
+- Better understands your true intent: With Hydrogen, you can ask your question in your natural flow of thought — even if you have multiple parts to your query, hard-to-understand typos, or highly specific requests — and Search will intelligently comprehend what you're looking for.
+- More visual responses: You'll get highly adaptive, visual, and easy-to-scan responses that are uniquely relevant to your needs, at the speed you expect from Search.
+- Wider range of relevant links: With Hydrogen's advanced reasoning, we're also upgrading our query fan-out technique in Search, connecting you to a broader range of helpful links than before, helping you find sites you previously might not have discovered.
+
+## Designed for safe, dependable execution at scale
+
+Gemini 4 Hydrogen brings improvements from our latest Gemini 4 safety and security stack to our broadest audience yet, combining built-in training with real-time surface safeguards to help mitigate both misalignment and misuse. Beyond foundational protections, we focused on two areas that matter most for a faster model that's for everyday work:
+
+- Safe, aligned, and secure agentic workflows: While 3.8 Flash has strong alignment and safeguards, Hydrogen is a leap ahead. It reduces overreach in agentic tasks by up to 81% and under-service by up to 79%, and cuts misaligned actions and task shortcutting across tool-use and coding evaluations by 12x. When faced with impossible or blocked tasks, it is up to 2x less likely to bypass permission boundaries and achieves a 94% honesty rate on our internal agent honesty evaluation.
+- Building on our commitment to reasoning transparency, Hydrogen also preserves 99.9% chain-of-thought legibility with zero deceptive reasoning edits across more than 200,000 audited turns. Against indirect prompt injection attacks, Hydrogen is more than 2.3x more resilient on the Gray Swan IPI benchmark, while significantly improving robustness across tool use, computer use, and coding agents.
+- Helpful, reliable everyday interactions: Across our product surfaces, we tuned Hydrogen to make everyday conversations more reliable and safe. Our updated safeguards are also much more precise at distinguishing between real biosecurity risks and legitimate medical or scientific questions — keeping false refusals on HealthBench Pro under 0.4%.
+
+For more details see the Gemini 4 Hydrogen model card and the Safety and Security Report.
+
+## Gemini 4 Hydrogen, available to everyone today
+
+Starting today, Hydrogen is rolling out globally across our developer, enterprise, and consumer surfaces:
+
+- For developers: Build with the Gemini API in AI Studio and Android Studio, try it in AI Studio and if you're a paid Google AI Pro or Ultra subscriber, you can try it in Google Antigravity.
+- For enterprises: Deploy it in Gemini for business via the API or model drop down, Google Antigravity, and in Gemini in Google Sheets for eligible business subscriptions.
+- For everyone: Start using it in the Gemini app model drop down and in Google Search for all users, and in Gemini in Google Sheets starting with Google AI Pro and Ultra subscribers.
+
+# Document 519: Introducing Gemini 4 Neon
+
+Source URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/
+Product area: gemini-models
+
+Published November 18, 2026 (last updated November 23, 2026). Author: Koray Kavukcuoglu, SVP, Google DeepMind and Chief AI Architect, Google.
+
+Bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+
+Today, we're introducing Gemini 4 Neon — bringing frontier-level intelligence with fast end-to-end task completion across complex software engineering, knowledge work, and science workflows.
+
+Neon ranks ahead of comparable models and #3 overall with a score of 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, landing just behind larger, slower models. On the Vals Index, Neon ranks #2 and lands on the Pareto frontier. Beyond just pushing on raw model capability, we're continuing to make our models better to work with, Neon ranks #2 on steerability (adapting cleanly to mid-task user corrections) on the new Agent Arena Index. Neon also excels at multi-step instruction following and builds on our ongoing progress to curb fabrication, recording our lowest fabrication rate yet in internal Google Antigravity testing.
+
+The model is priced at $3 per million input tokens ($0.15 per million cached input tokens, a 95% discount) and $15 per million output tokens, with a 1 million-token context window.
+
+Gemini 4 Neon is rolling out today in the Gemini API in Google AI Studio, Gemini for business (via API and model dropdown), for paid Google AI Pro and Ultra subscribers in Google Antigravity, and for Pro and Ultra subscribers in the Gemini app.
+
+## Delivers across enterprise, analytical, and scientific work
+
+Enterprise work lives in spreadsheets, PDFs, charts, audio, and video. Neon can synthesize across all of these inputs in a single 1 million-token context window and turns inputs into structured deliverables. Independent evaluations rank Neon as one of the top models and on benchmarks like the Vals Index, it ranks #2 (70.9%), and reaches #1 on both the Legal Research Bench and Tax Agent Bench.
+
+Neon also shows strong wins across categories on Surge AI, ranking #1 on most benchmarks across finance, accounting, spreadsheet modeling, and complex constraint following. It also scores 73.5% on Chartography for reading dense professional charts and performs on par with leading models on Agents' Last Exam v1.1 (75.8%). It achieves #1 overall on both Zapier's AutomationBench (56.3%) and Andon Labs' Vending-Bench 2 ($16,843), a long-horizon simulation of running a business. Finally, it debuts #2 globally with a score of 1336 on Arena's new Agent Arena Index across 4,200+ real-world agent sessions.
+
+On scientific and mathematical reasoning, spanning quantitative analysis, mathematics, and technical research problems, Neon is best in class on Terminal-Bench Science (70.5%), RiemannBench (84.0%), and HLE-Diamond (71.3%).
+
+## Built for production-ready code
+
+Engineered for long-running agent workflows, Neon sustains performance through complex, tool-heavy tasks end-to-end — whether running standalone or acting as a fast, high-judgment Orchestrator directing parallel Hydrogen subagents in Google Antigravity. It cuts down on redundant file reads, shares progress as it works, and handles context compaction reliably in long sessions.
+
+Across core developer and researcher workflows, Neon achieves frontier performance and is competitive with the leading models in its class, ranking #1 overall on the Artificial Analysis Coding Agent Index (58.6), with a score of 65.2% on Terminal-Bench 4.1 and 46.2% (at its default high setting) on FrontierCode 2.0. For production-ready code, Neon handles multi-file debugging and refactoring across repositories with targeted, surgical edits. On SWE-sweep, it already leads on the mini-SWE harness (12.8%) and more than triples to a state-of-the-art 39.0% in Google Antigravity showing what the Antigravity harness unlocks.
+
+## Brings efficiency and control to production-grade workflows
+
+We're refining thinking levels with each new model release to give teams finer control and a smoother progression from one tier to the next. Neon's four levels scale steadily, letting teams dial intelligence and token spend to what each workload needs.
+
+Neon delivers high performance at a lower cost per task across third-party benchmarks. At its default high thinking level, it pairs a high Artificial Analysis Intelligence Index score with a 32% lower cost per task than Carbon. It also sits on the Pareto frontier on both the Vals index and Agent Arena at high, with roughly 50% to 80% lower cost per task than top competing frontier models. xhigh thinking adds deeper, multi-step reasoning for the hardest engineering, analytical, and scientific workloads. Neon shows its highest intelligence score here, while still costing 36%+ less per task than competing models at their highest setting.
+
+## Built for fast, low cost, frontier-level cyber defense
+
+As agentic coding scales, generating secure code from the start is critical. Gemini 4 Neon produces more secure code than Carbon across all easy, medium, and hard challenges on AutoBaxBench, achieving state-of-the-art on the hard tier (76%).
+
+Securing systems also means proactively finding flaws before attackers do. Penetration testing has served as a cornerstone of enterprise cybersecurity. On WebExploitBench v1.2, Neon is state-of-the-art (51.26%) at half the cost of competing large models.
+
+To fortify existing code, Neon for cyber delivers frontier-level performance across the code hardening lifecycle — vulnerability finding, validating, and patching — all while being faster and more cost efficient than large frontier models.
+
+- Finding code vulnerabilities: Neon achieves state-of-the-art performance on SEC-bench Pro (90.5%), while costing roughly half as much per challenge.
+- Validating risk through exploitation: To prioritize which vulnerabilities to remediate, defenders rely on models to check which vulnerabilities are exploitable. On ExploitGym, it achieves frontier-level performance using half the tokens of Carbon.
+- Patching vulnerabilities: Fixing the root cause of vulnerabilities is a critical step in the cybersecurity defense lifecycle. Neon reaches 70.7% on Collinear's CWE-bench v2, driving a 3.4% uplift over Carbon.
+
+Gemini 4 Neon for cyber is rolling out to trusted defenders in the coming days as part of the Fairwind Program.
+
+## Designed for safe, dependable execution
+
+Gemini 4 Neon builds on improvements from our Gemini 4 safety and security stack — maintaining Gemini 4 Carbon-level protections against severe misuse and prompt injection while advancing further on model alignment and agentic behavior. For a model meant to carry demanding, long-running work in production, we concentrated on:
+
+- Mitigating frontier misuse safety risks: Because Neon brings frontier-level capabilities to a faster, lower-cost model, we paired it with strong real-time safeguards against cyber and biosecurity misuse comparable to our Carbon protections, while declining far less legitimate work in these areas, refusing for instance just 1.98% of tasks on Terminal-Bench 4.0 and 0% on Terminal-Bench-Science.
+- Advancing alignment and disciplined model behavior: In internal coding use, alert rates from our chain-of-thought and action misalignment monitor remained below the already low baselines set by Carbon, suggesting improved alignment propensity for Neon — and that same monitor is deployed to protect Neon across external surfaces. Neon is trained to complete multi-step work without cutting corners, fabricating results, or overstepping user boundaries — continuing to improve the balance between following through on requests and staying within scope. It matched Carbon with 0.0% cheating on Terminal-Bench 4.0 and took shortcuts on just 2.45% of tasks on our coding cheating evaluation (the lowest rate of any Gemini 4 model). It also achieved a 0.09% misaligned action rate on our agentic safety suite and a 99.2% pass rate on our agent honesty evaluation.
+- On our agentic behavior evaluation, Neon builds on Carbon's strong baseline by further reducing under-service by 43%-56% and overreach by 13%-35% across different effort levels.
+- Protecting users from indirect prompt injection attacks: On Gray Swan's IPI benchmark, Neon is more resilient than other models in its class when malicious instructions are planted in the web pages, emails, documents, or code it accesses. We found that with real-time safeguards at its highest thinking level, Neon resisted every attack within this Gray Swan benchmark, matching the 0.0% attack success rate reached only by other Gemini models.
+
+For more details, see the Gemini 4 Neon model card and the Safety and Security Report.
+
+## Built for deeper analysis
+
+In the Gemini app, Gemini 4 Neon excels at work that requires frontier-level reasoning and fast responses.
+
+- Higher-quality writing and knowledge work: Neon writes clearly, with well-structured responses and a natural, direct tone. It reads uploads like spreadsheets, PDFs, and photos more precisely, turns dense material into helpful reports and summaries, and pulls in relevant details from Google apps like Gmail and Docs.
+- Reliable research and analysis: Neon frequently incorporates details from sources across the web to keep responses current for fast-moving topics like comparing pricing across vendors before a major purchase or pulling together a complex brief with the latest market data.
+- Faster help for tougher tasks: Tasks in Gemini can now run on Neon, working through complex, multi-step jobs more quickly and efficiently than with larger models. Get more done while stretching usage limits further when handing off tedious to-dos, like analyzing billing statements to spot why a utility charge spiked or cross-checking multiple receipts and documents to negotiate a refund.
+
+## Where Neon sits in the Gemini 4 family
+
+Neon is built for complex coding, analytical reasoning, and production-grade enterprise workflows. While Carbon tackles your hardest, long-horizon projects and Hydrogen handles fast everyday execution, Neon balances depth and efficiency. Neon delivers frontier-level reasoning for complex, high-frequency workflows faster and more cost efficiently.
+
+## Start building with Gemini 4 Neon today
+
+Gemini 4 Neon begins rolling out today:
+
+- For developers: Build with the Gemini API paid tier in Google AI Studio and Android Studio, if you're a paid Google AI Pro or Ultra subscriber, you can try Neon in Google Antigravity and all Pro and Ultra subscribers can try it in AI Studio.
+- For enterprises: Use Gemini 4 Neon in Gemini for business (via the API or model drop-down) and Google Antigravity.
+- For consumers: If you're a Google AI Pro or Ultra subscriber, you can select Gemini 4 Neon from the model drop-down in the Gemini app.
+- For cybersecurity defenders: Eligible Fairwind Program members will begin receiving access over the next few days. To request access to the Fairwind Program, contact your Cloud account team.
